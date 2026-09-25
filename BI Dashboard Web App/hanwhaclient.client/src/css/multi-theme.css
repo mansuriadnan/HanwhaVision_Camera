@@ -1,0 +1,1394 @@
+.green-theme .login-main:before { background: linear-gradient(95.11deg, #348212 22.84%, #1E4D0B 66.56%, #649D10 100.25%, #8B44FF 162.86%, #ED0E28 204.82%, #44B0FF 226.15%, #EBFF70 226.17%); }
+body.green-theme  .common-btn-design { background: linear-gradient(90deg, #FFD500 0%, #327D11 22.79%, #2B6C0F 53.58%, #1F500B 88.79%, #1B4509 100%); color: #fff }
+body.green-theme .login-main:before { background: linear-gradient(95.11deg, #348212 22.84%, #1E4D0B 66.56%, #649D10 100.25%, #8B44FF 162.86%, #ED0E28 204.82%, #44B0FF 226.15%, #EBFF70 226.17%); }
+body.green-theme  .common-btn-design { background: linear-gradient(90deg, #348312 0%, #327D11 22.79%, #2B6C0F 53.58%, #1F500B 88.79%, #1B4509 100%); }
+body.green-theme button.menu-button.active { background: linear-gradient(90deg, #348312 0%, #327D11 22.79%, #2B6C0F 53.58%, #1F500B 88.79%, #1B4509 100%); }
+body.green-theme .sidebar-main .menu-item .submenu button.submenu-item:before { background: #2B6C0F; }
+body.green-theme  .sidebar-main .menu-item .submenu button.submenu-item.active { color: #2B6C0F; }
+body.green-theme .top-orange-head { background: url("../../public/images/lines.png")no-repeat right / contain, linear-gradient(90deg, #348312 0%, #327D11 22.79%, #2B6C0F 53.58%, #1F500B 88.79%, #1B4509 100%) !important; }
+body.green-theme .notification-count { background: linear-gradient(90deg, #348312 0%, #327D11 22.79%, #2B6C0F 53.58%, #1F500B 88.79%, #1B4509 100%); }
+body.green-theme .search-custom-button button { background: linear-gradient(90deg, #348312 0%, #327D11 22.79%, #2B6C0F 53.58%, #1F500B 88.79%, #1B4509 100%); }
+body.green-theme .search-by-device-search-bar .MuiInputBase-root > div { background: linear-gradient(90deg, #348312 0%, #327D11 22.79%, #2B6C0F 53.58%, #1F500B 88.79%, #1B4509 100%); }
+body.green-theme .map-area-bottom-row > button { background: linear-gradient(90deg, #348312 0%, #327D11 22.79%, #2B6C0F 53.58%, #1F500B 88.79%, #1B4509 100%); }
+body.green-theme  .add-widget-wrapper button { background: linear-gradient(90deg, #348312 0%, #327D11 22.79%, #2B6C0F 53.58%, #1F500B 88.79%, #1B4509 100%); }
+body.green-theme .add-zone-list.active, .add-zone-list:hover { color: #2B6C0F; border-color: #2B6C0F; }
+body.green-theme .breadcrumbs > span:first-child { color: #2B6C0F; }
+body.green-theme .list-and-grid button.Mui-selected { color: #2B6C0F !important; border-color: #2B6C0F; }
+body.green-theme .list-and-grid button.Mui-selected img { filter: invert(29%) sepia(82%) saturate(449%) hue-rotate(63deg) brightness(95%) contrast(92%); }
+body.green-theme .table-grid-details button { background: #f4ffef; }
+body.green-theme  .cmn-pop-form-inner .device-type-camera input { color: #2B6C0F !important; }
+body.green-theme  .cmn-pop-form-inner .device-type-camera fieldset { border-color: #2B6C0F !important; }
+body.green-theme  .css-1gduu4n-MuiButtonBase-root-MuiToggleButton-root.Mui-selected { border: 1px solid #2B6C0F !important; color: #2B6C0F !important; }
+body.green-theme  .PrivateSwitchBase-input:checked + svg path { fill: #2B6C0F; }
+body.green-theme .common-btn-design-rounded { background-color: #2B6C0F !important; }
+body.green-theme .cmn-confirm-delete-icon .MuiPaper-root.MuiPaper-elevation > button + div { background-color: #2B6C0F; }
+body.green-theme .roles-permissions-monitoring button { background: #2B6C0F; border-color: #2B6C0F; }
+body.green-theme  .collapse-inner.active { background: #2B6C0F; }
+body.green-theme  .floor-plans-zones form button { background: #2b6c0f; }
+body.green-theme  .time-zone-radio .Mui-checked + span { color: #2B6C0F !important; }
+body.green-theme   .time-zone-radio .Mui-checked span { color: #2B6C0F !important; }
+body.green-theme  .roles-premissons-tabs button.Mui-selected { color: #2B6C0F !important }
+body.green-theme  .roles-premissons-tabs .MuiTabs-indicator { background-color: #2B6C0F }
+body.green-theme .search-plans-and-jones > div > button { background: #2B6C0F; }
+body.green-theme  .ant-table-content tr:hover { background: linear-gradient(90.06deg, #fff 0.03%, #f3ffef 34.82%, #fff 73.74%, #f3ffef) !important; }
+body.green-theme .upload-pro-inner button { background: linear-gradient(90deg, #348312 0%, #327D11 22.79%, #2B6C0F 53.58%, #1F500B 88.79%, #1B4509 100%); }
+body.green-theme .css-102pfd4-MuiDataGrid-root .MuiDataGrid-columnHeader { background-color: #f3ffef !important; }
+body.green-theme .MuiDataGrid-row:hover, body.green-theme .ant-table-content tr:hover { background: linear-gradient(90.06deg, #fff 0.03%, #f3ffef 34.82%, #fff 73.74%, #f3ffef) !important; }
+body.green-theme .ant-table-content tr.sub-child-row { background: linear-gradient(90.06deg, #fff 0.03%, #f3ffef 34.82%, #fff 73.74%, #f3ffef) !important; }
+body.green-theme .dashbourd-retail-details-head { background: linear-gradient(90deg, #348312 0%, #327D11 22.79%, #2B6C0F 53.58%, #1F500B 88.79%, #1B4509 100%); }
+body.green-theme .search-plans-and-jones ul li.active { background: linear-gradient(91.75deg, #64a548 -8.36%, #327D11 32.16%, #327D11 77.32%, #84b36f 88.72%, #327D11 101.13%) !important; }
+body.green-theme .rdrDefinedRangesWrapper .rdrStaticRangeSelected { background: #2B6C0F; }
+body.green-theme  .rdrMonthAndYearWrapper { background: #2B6C0F; }
+
+body.green-theme .report-title-with-buttons p b { color: #000; }
+body.green-theme .report-title-with-buttons p { color: #2B6C0F; }
+body.green-theme .common-popup-head svg { fill: #2B6C0F !important; }
+body.green-theme .rdrSelected, body.green-theme .rdrInRange, body.green-theme .rdrStartEdge, body.green-theme .rdrEndEdge { background: #2B6C0F !important; }
+body.green-theme .rdrDayToday .rdrDayNumber span:after { background: #2B6C0F !important; }
+body.green-theme .rdrDayStartPreview, body.green-theme .rdrDayInPreview, .rdrDayEndPreview { border-color: #2B6C0F !important; }
+body.green-theme .add-widets-listing ul li.active span { color: #2B6C0F }
+body.green-theme .add-widets-listing ul li:before { background: #2B6C0F }
+body.green-theme .smtp-setup-wrapper p b { color: #2B6C0F !important; }
+body.green-theme .Mui-checked svg path { fill: #2B6C0F !important; }
+body.green-theme .Mui-checked { color: #2B6C0F !important; }
+body.green-theme svg#Line { fill: #2B6C0F; }
+body.green-theme svg#Line { fill: #FF9500; width: 20px; height: 20px; }
+body.green-theme .selected-theme { border: 2px solid #2B6C0F; }
+body.green-theme .selected-theme svg { background: #2B6C0F; border-radius: 100%; }
+body.green-theme  .theme-label div { border-color: #2B6C0F !important; }
+body.green-theme  .i-icon { background: linear-gradient(287.68deg, #1F500B -0.05%, #348312 57.77%); }
+body.green-theme  .add-widget-wrapper input + button { background: #2B6C0F; }
+body.green-theme  .custom-set-pop-left-inner .active.MuiBox-root { border-color: #2B6C0F; }
+body.green-theme .floor-plans-zones-left .search-plans-and-jones.monitoring-plan ul li.active { background: transparent !important ; }
+body.green-theme .plus-i-widgets { background: linear-gradient(80deg, #2B6C0F, #4fa82c); border-radius: 12px !important; width: 50px; height: 50px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); }
+body.green-theme .plus-i-widgets:hover { background: linear-gradient(180deg, #2B6C0F, #4fa82c); }
+body.green-theme .notifications svg path { fill: #2B6C0F; }
+body.green-theme .add-zone-head button { background: #2B6C0F; }
+body.green-theme  .upload-your-file button { background: #2B6C0F !important; }
+body.green-theme .roles-and-permissions-content-wrapper .user-master svg path { fill: #fff !important; }
+body.green-theme .select-option img.active { filter: brightness(0) saturate(100%) invert(41%) sepia(74%) saturate(358%) hue-rotate(72deg) brightness(92%) contrast(90%) !important; }
+body.green-theme .add-zone-head .add-zone-list button { background: transparent !important; }
+body.green-theme  .notification-card-read { border-color: #2B6C0F; }
+body.green-theme .notification-header h6 span { color: #2B6C0F; }
+body.green-theme .notification-actions button.read-all-btn { background: rgba(43, 108, 15, 0.1); }
+body.green-theme .rdrStaticRange:hover .rdrStaticRangeLabel, body.green-theme  .rdrStaticRange:focus .rdrStaticRangeLabel { background: #2B6C0F !important; }
+body.green-theme  .upload-plan-wrapper h4 span { color: #2B6C0F; }
+body.green-theme  .Upload-icons { background: linear-gradient(99.2deg, rgb(158 255 141 / 50%) -0.5%, rgba(255, 255, 255, 0.5) 49.54%, rgb(88 255 77 / 50%) 100%); }
+body.green-theme  .no-noti-wrpper img { filter: brightness(0) saturate(100%) invert(41%) sepia(74%) saturate(358%) hue-rotate(72deg) brightness(92%) contrast(90%) !important; }
+
+
+body.green-theme .place-floor-buttons-wraps img { filter: brightness(0) saturate(100%) invert(41%) sepia(74%) saturate(358%) hue-rotate(72deg) brightness(92%) contrast(90%) !important; }
+body.green-theme  .logout-icon{
+ filter: brightness(0) saturate(100%) invert(41%) sepia(74%) saturate(358%) hue-rotate(72deg) brightness(92%) contrast(90%) !important;
+}
+/* Base range */
+body.green-theme  input[type="range"]::-webkit-slider-thumb { background-color: #2B6C01; box-shadow: -407px 0 0 400px #2B6C01; }
+body.green-theme  .floor-zones-accordion .floor-zones-accordion-wrapper > img.active { border-color: #2B6C01; }
+body.green-theme  .role-chip { color: #2B6C01; border-color: #2B6C01; }
+body.green-theme  button.MuiButtonBase-root.MuiIconButton-edgeStart svg { fill: #2B6C01 !important; }
+.css-ux17pc-MuiButtonBase-root-MuiMenuItem-root-MuiMultiSectionDigitalClockSection-item.Mui-selected { background-color: #1976d2; color: #2B6C01 !important; }
+body.green-theme .deleted-colors-text span { color: #2B6C0F !important; }
+body.green-theme .Mui-selected {  color: #2B6C0F !important; border-color: #2B6C0F !important; }
+body.green-theme .after-maintenance > p, body.green-theme .before-maintenance > p{ background-color:  #2B6C0F   }
+
+body.green-theme .role-chip-more {
+    background: #2B6C0F 
+}
+
+
+body.green-theme .total-channels-items.active > div {
+    color: #2B6C0F !important
+}
+
+body.green-theme .total-channels-items.active{
+    border-color: #2B6C0F !important
+}
+
+
+
+
+
+body.green-theme .Mui-checked .MuiSwitch-thumb {
+    background: #2B6C0F !important;
+}
+body.green-theme .Mui-checked + .MuiSwitch-track  {
+   background: #2B6C0F !important;
+}
+
+body.green-theme .top-listbar-main-box{ background-color: #348312;}
+body.green-theme  .top-listbar-main-box {
+    background-color: rgba(52, 131, 18, 0.2);
+}
+body.green-theme .list-of-ccm-box p{ color: #2B6C0F}
+body.green-theme .list-main-accordion-box h5{ color: #2B6C0F}
+
+
+body.green-theme  .list-main-accordion-repeat-main{  background-color: rgba(52, 131, 18, 0.2) !important;}
+body.green-theme  .back-to {
+    color: #2B6C0F;
+}
+body.green-theme .back-to:before {
+    border-color:  #2B6C0F
+}
+body.green-theme .list-main-accordion-box h5{
+         color: #2B6C0F;
+}
+
+
+
+
+body.green-theme .server-tab-button.active { background-color: #2B6C0F; border-color: #2B6C0F; color: #fff }
+body.green-theme .idrac-system-btn { border: 1px solid #2B6C0F !important; }
+body.green-theme .idrac-system-btn:hover { background: rgba(43, 108, 15, 0.1); }
+body.green-theme  .server-tab-button:hover { border-color: #2B6C0F; color: #2B6C0F; }
+body.green-theme .server-tab-button.active:hover { border-color: #2B6C0F; background: #2B6C0F; color: #fff }
+body.green-theme  .memory-subtab-btn.active { color: #2B6C0F; }
+body.green-theme  .memory-subtab-btn.active::after { background: #2B6C0F; }
+body.green-theme .child-site-wrapper span:first-child{ color: #2B6C0F; }
+body.green-theme .idrac-action-btn.active-bulb{background: #2B6C0F !important; border-color: #2B6C0F !important }
+body.green-theme .alarm-count-chip{
+        border-color: #2B6C0F; color: #2B6C0F;  background: rgba(43, 108, 15, 0.1) !important;
+}
+body.green-theme .api-channel-no{ color: #2B6C0F;}
+
+body.green-theme button.auto-fetch-link {color: #2B6C0F; }
+
+/* yellow-theme*/
+
+
+
+.yellow-theme .login-main:before { background: linear-gradient(95.11deg, #348212 22.84%, #1E4D0B 66.56%, #649D10 100.25%, #8B44FF 162.86%, #ED0E28 204.82%, #44B0FF 226.15%, #EBFF70 226.17%); }
+body.yellow-theme  .common-btn-design { background: linear-gradient(90deg, #FFD500 0%, #FF9100 96%); color: #fff }
+body.yellow-theme .login-main:before { background: #FCB202; filter: blur(753.3px); }
+body.yellow-theme  .common-btn-design { background: linear-gradient(90deg, #FFD500 0%, #FF9100 96%); }
+body.yellow-theme button.menu-button.active { background: linear-gradient(90deg, #FFD500 0%, #FF9100 96%); }
+body.yellow-theme .sidebar-main .menu-item .submenu button.submenu-item:before { background: #FF9A01 }
+body.yellow-theme  .sidebar-main .menu-item .submenu button.submenu-item.active { color: #FF9A01 }
+body.yellow-theme .top-orange-head { background: url("../../public/images/lines.png") no-repeat right / contain,  linear-gradient(90deg, #FFD500 0%, #FF9100 96%) !important; }
+body.yellow-theme .notification-count { background: linear-gradient(90deg, #FFD500 0%, #FF9100 96%); }
+body.yellow-theme .search-custom-button button { background: linear-gradient(90deg, #FFD500 0%, #FF9100 96%); }
+body.yellow-theme .search-by-device-search-bar .MuiInputBase-root > div { background: linear-gradient(90deg, #FFD500 0%, #FF9100 96%); }
+body.yellow-theme .map-area-bottom-row > button { background: linear-gradient(90deg, #FFD500 0%, #FF9100 96%); }
+body.yellow-theme  .add-widget-wrapper button { background: linear-gradient(90deg, #FFD500 0%, #FF9100 96%); }
+body.yellow-theme .add-zone-list.active, .add-zone-list:hover { color: #FF9A01;  border-color: #FF9A01 }
+body.yellow-theme .breadcrumbs > span:first-child { color: #FF9A01 }
+body.yellow-theme .list-and-grid button.Mui-selected { color: #FF9A01 !important; border-color: #FF9A01 }
+body.yellow-theme .list-and-grid button.Mui-selected img {filter: brightness(0) saturate(100%)
+          invert(48%) sepia(63%) saturate(3145%)                                               
+          hue-rotate(343deg) brightness(96%) contrast(94%) !important;}
+body.yellow-theme .table-grid-details button { background: #fff7d0; }
+body.yellow-theme  .cmn-pop-form-inner .device-type-camera input { color: #FF9A01 !important; }
+body.yellow-theme  .cmn-pop-form-inner .device-type-camera fieldset { border-color: #FF9A01 !important; }
+body.yellow-theme  .css-1gduu4n-MuiButtonBase-root-MuiToggleButton-root.Mui-selected { border: 1px solid #FF9A01 !important; color: #FF9A01 !important; }
+body.yellow-theme  .PrivateSwitchBase-input:checked + svg path { fill: #FF9A01 }
+body.yellow-theme .common-btn-design-rounded { background-color: #FF9A01  !important; }
+body.yellow-theme .cmn-confirm-delete-icon .MuiPaper-root.MuiPaper-elevation > button + div { background-color: #FF9A01 }
+body.yellow-theme .roles-permissions-monitoring button { background: #FF9A01 ;border-color: #FF9A01 }
+body.yellow-theme  .collapse-inner.active { background: #FF9A01 }
+body.yellow-theme  .floor-plans-zones form button { background: #FF9A01 }
+body.yellow-theme  .time-zone-radio .Mui-checked + span { color: #FF9A01 !important; }
+body.yellow-theme   .time-zone-radio .Mui-checked span { color: #FF9A01 !important; }
+body.yellow-theme  .roles-premissons-tabs button.Mui-selected { color: #FF9A01  !important}
+body.yellow-theme  .roles-premissons-tabs .MuiTabs-indicator { background-color: #FF9A01 }
+body.yellow-theme .search-plans-and-jones > div > button { background: #FF9A01 }
+body.yellow-theme  .ant-table-content tr:hover {     background: linear-gradient(90.06deg, #fff 0.03%, #ffe9cc 34.82%, #fff 73.74%, #ffe9cc) !important; }
+body.yellow-theme .upload-pro-inner button { background: linear-gradient(90deg, #FFD500 0%, #FF9100 96%); }
+body.yellow-theme .css-102pfd4-MuiDataGrid-root .MuiDataGrid-columnHeader { background-color: #f3ffef !important; }
+body.yellow-theme .MuiDataGrid-row:hover, body.yellow-theme .ant-table-content tr:hover {     background: linear-gradient(90.06deg, #fff 0.03%, #ffe9cc 34.82%, #fff 73.74%, #ffe9cc) !important; }
+body.yellow-theme .ant-table-content tr.sub-child-row {     background: linear-gradient(90.06deg, #fff 0.03%, #ffe9cc 34.82%, #fff 73.74%, #ffe9cc) !important; }
+body.yellow-theme .dashbourd-retail-details-head { background: linear-gradient(90deg, #FFD500 0%, #FF9100 96%); }
+body.yellow-theme .search-plans-and-jones ul li.active {background: linear-gradient(91.75deg, #ff9100 -8.36%, #ffd400 32.16%, #ff9100 77.32%, #ffcf00 88.72%, #ff9100 101.13%) !important; }
+body.yellow-theme .rdrDefinedRangesWrapper .rdrStaticRangeSelected { background: #FF9A01 }
+body.yellow-theme  .rdrMonthAndYearWrapper { background: #FF9A01 }
+body.yellow-theme .after-maintenance > p, body.yellow-theme .before-maintenance > p{ background-color: #FF9A01}
+
+body.yellow-theme .report-title-with-buttons p b { color: #000; }
+body.yellow-theme .report-title-with-buttons p { color: #FF9A01 }
+body.yellow-theme .common-popup-head svg { fill: #FF9A01 !important; }
+body.yellow-theme .rdrSelected, body.yellow-theme .rdrInRange, body.yellow-theme .rdrStartEdge, body.yellow-theme .rdrEndEdge { background: #FF9A01 !important; }
+body.yellow-theme .rdrDayToday .rdrDayNumber span:after { background: #FF9A01 !important; }
+body.yellow-theme .rdrDayStartPreview, body.yellow-theme .rdrDayInPreview, .rdrDayEndPreview { border-color: #FF9A01 !important; }
+body.yellow-theme .add-widets-listing ul li.active span { color: #FF9A01 }
+body.yellow-theme .add-widets-listing ul li:before { background: #FF9A01 }
+body.yellow-theme .smtp-setup-wrapper p b { color: #FF9A01 !important; }
+body.yellow-theme .Mui-checked svg path { fill: #FF9A01 !important; }
+body.yellow-theme .Mui-checked { color: #FF9A01 !important; }
+body.yellow-theme svg#Line { fill: #FF9A01 }
+body.yellow-theme svg#Line { fill: #FF9500; width: 20px; height: 20px; }
+body.yellow-theme .selected-theme { border: 2px solid #FF9A01 }
+body.yellow-theme .selected-theme svg { background: #FF9A01 ;border-radius: 100%; }
+body.yellow-theme  .theme-label div { border-color: #FF9A01 !important; }
+body.yellow-theme  .i-icon { background: linear-gradient(287.68deg, #FF9100 -0.05%, #FF9A01 57.77%); }
+body.yellow-theme  .add-widget-wrapper input + button { background: #FF9A01 }
+body.yellow-theme  .custom-set-pop-left-inner .active.MuiBox-root { border-color: #FF9A01 }
+body.yellow-theme .floor-plans-zones-left .search-plans-and-jones.monitoring-plan ul li.active { background: transparent !important;  }
+body.yellow-theme .plus-i-widgets { background: linear-gradient(90deg, #FFD500 0%, #FF9100 96%); border-radius: 12px !important; width: 50px; height: 50px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); }
+body.yellow-theme .plus-i-widgets:hover {  background: linear-gradient(90deg,   #FFBB01 0%, #FF9100 100%); }
+body.yellow-theme .notifications svg path { fill: #FF9A01 }
+body.yellow-theme .add-zone-head button { background: #FF9A01 }
+body.yellow-theme  .upload-your-file button { background: #FF9A01 !important }
+body.yellow-theme .roles-and-permissions-content-wrapper .user-master svg path { fill: #fff !important; }
+
+body.yellow-theme .select-option img.active {
+ filter: brightness(0) saturate(100%)
+        invert(67%) sepia(86%) saturate(2600%)
+        hue-rotate(2deg) brightness(102%) contrast(101%) !important;
+}
+body.yellow-theme .add-zone-head .add-zone-list button { background: transparent !important; }
+body.yellow-theme  .notification-card-read { border-color: #FF9A01 }
+body.yellow-theme .notification-header h6 span { color: #FF9A01 }
+body.yellow-theme .notification-actions button.read-all-btn { background: rgb(255 228 218) }
+body.yellow-theme .rdrStaticRange:hover .rdrStaticRangeLabel, body.yellow-theme  .rdrStaticRange:focus .rdrStaticRangeLabel { background: #FF9A01 !important; }
+body.yellow-theme  .upload-plan-wrapper h4 span { color: #FF9A01 }
+body.yellow-theme  .Upload-icons { background: linear-gradient(99.2deg, rgb(158 255 141 / 50%) -0.5%, rgba(255, 255, 255, 0.5) 49.54%, rgb(88 255 77 / 50%) 100%); }
+body.yellow-theme  .no-noti-wrpper img { filter: brightness(0) saturate(100%) invert(41%) sepia(74%) saturate(358%) hue-rotate(72deg) brightness(92%) contrast(90%) !important; }
+body.yellow-theme .place-floor-buttons-wraps img {  filter: brightness(0) saturate(100%)
+        invert(67%) sepia(86%) saturate(2600%)
+        hue-rotate(2deg) brightness(102%) contrast(101%) !important; }
+
+/* Base range */
+body.yellow-theme  input[type="range"]::-webkit-slider-thumb { background-color: #FF9A01; box-shadow: -407px 0 0 400px #FF9A01; }
+body.yellow-theme  .floor-zones-accordion .floor-zones-accordion-wrapper > img.active { border-color: #FF9A01; }
+body.yellow-theme  .role-chip { color: #FF9A01; border-color: #FF9A01; }
+body.yellow-theme  button.MuiButtonBase-root.MuiIconButton-edgeStart svg { fill: #FF9A01 !important; }
+.css-ux17pc-MuiButtonBase-root-MuiMenuItem-root-MuiMultiSectionDigitalClockSection-item.Mui-selected { background-color: #1976d2; color: #FF9A01 !important; }
+body.yellow-theme .deleted-colors-text span { color: #FF9A01 !important; }
+
+body.yellow-theme  .logout-icon{  filter: brightness(0) saturate(100%)
+        invert(67%) sepia(86%) saturate(2600%)
+        hue-rotate(2deg) brightness(102%) contrast(101%) !important;
+}
+
+body.yellow-theme .Mui-selected {
+    color: #FF9A01  !important;
+}
+body.yellow-theme .Mui-selected {  color: #FF9A01  !important; }
+body.yellow-theme  .no-noti-wrpper img {  filter: brightness(0) saturate(100%)
+        invert(67%) sepia(86%) saturate(2600%)
+        hue-rotate(2deg) brightness(102%) contrast(101%) !important; }
+
+body.yellow-theme  .role-chip-more {
+    background:#FF9A01 
+}
+
+
+body.yellow-theme .total-channels-items.active > div {
+    color: #FF9A01  !important
+}
+
+body.yellow-theme .total-channels-items.active{
+    border-color: #FF9A01  !important
+}
+
+
+body.yellow-theme .Mui-checked .MuiSwitch-thumb {
+    background: #FF9A01 !important;
+}
+
+body.yellow-theme .Mui-checked + .MuiSwitch-track  {
+   background: #FF9A01 !important;
+}
+
+
+body.yellow-theme .top-listbar-main-box .top-listbar-main-box { background-color: #ff9100; }
+body.yellow-theme  .top-listbar-main-box { background-color: rgba(255, 213, 0, 0.2) !important }
+body.yellow-theme .top-listbar-main-box .list-of-ccm-box p { color: #ff9100 }
+body.yellow-theme .list-main-accordion-box h5 { color: #ff9100 }
+body.yellow-theme  .list-main-accordion-repeat-main { background: rgba(255, 213, 0, 0.2) !important; }
+body.yellow-theme .top-listbar-main-box  .back-to { color: #ff9100; }
+body.yellow-theme .top-listbar-main-box .back-to:before { border-color: #ff9100 }
+
+
+
+body.yellow-theme .server-tab-button.active { background-color: #FF9A01; border-color: #FF9A01; color: #fff }
+body.yellow-theme .idrac-system-btn { border: 1px solid #FF9A01 !important; }
+body.yellow-theme .idrac-system-btn:hover {     background: rgba(255, 154, 1, 0.1);}
+body.yellow-theme  .server-tab-button:hover { border-color: #FF9A01; color: #FF9A01; }
+body.yellow-theme .server-tab-button.active:hover { border-color: #FF9A01; background: #FF9A01; color: #fff }
+body.yellow-theme  .memory-subtab-btn.active { color: #FF9A01; }
+body.yellow-theme  .memory-subtab-btn.active::after { background: #FF9A01; }
+body.yellow-theme .idrac-action-btn.active-bulb{background: #FF9A01 !important; border-color: #FF9A01 !important }
+body.yellow-theme .alarm-count-chip{
+        border-color: #FF9A01; color: #FF9A01;  background: rgba(255, 154, 1, 0.1) !important;
+}
+
+body.yellow-theme .api-channel-no{ color: #FF9A01;}
+
+
+body.yellow-theme .child-site-wrapper span:first-child{ color: #FF9A01; }
+body.yellow-theme  button.auto-fetch-link {color: #FF9A01;}
+
+
+
+/* pink-theme*/
+
+.pink-theme .login-main:before { background: linear-gradient(95.11deg, #348212 22.84%, #1E4D0B 66.56%, #649D10 100.25%, #8B44FF 162.86%, #ED0E28 204.82%, #44B0FF 226.15%, #EBFF70 226.17%); }
+body.pink-theme  .common-btn-design { background: linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%); color: #fff }
+body.pink-theme .login-main:before { background: #F5869C; filter: blur(753.3px); }
+body.pink-theme  .common-btn-design { background: linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%); }
+body.pink-theme button.menu-button.active { background: linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%); }
+body.pink-theme .sidebar-main .menu-item .submenu button.submenu-item:before { background: #FF6785}
+body.pink-theme  .sidebar-main .menu-item .submenu button.submenu-item.active { color: #FF6785}
+body.pink-theme .top-orange-head { background: url("../../public/images/lines.png") no-repeat right / contain, linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%) !important; }
+body.pink-theme .notification-count { background: linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%); }
+body.pink-theme .search-custom-button button { background: linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%); }
+body.pink-theme .search-by-device-search-bar .MuiInputBase-root > div { background: linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%); }
+body.pink-theme .map-area-bottom-row > button { background: linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%); }
+body.pink-theme  .add-widget-wrapper button { background: linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%); }
+body.pink-theme .add-zone-list.active, .add-zone-list:hover { color: #C60C30;  border-color: #FF6785}
+body.pink-theme .breadcrumbs > span:first-child { color: #FF6785}
+body.pink-theme .list-and-grid button.Mui-selected { color: #FF6785!important; border-color: #FF6785}
+body.pink-theme .after-maintenance > p, body.pink-theme .before-maintenance > p{ background-color: #FF6785 }
+        
+
+body.pink-theme .table-grid-details button { background: #ffe6df ; }
+body.pink-theme  .cmn-pop-form-inner .device-type-camera input { color: #FF6785!important; }
+body.pink-theme  .cmn-pop-form-inner .device-type-camera fieldset { border-color: #FF6785!important; }
+body.pink-theme  .css-1gduu4n-MuiButtonBase-root-MuiToggleButton-root.Mui-selected { border: 1px solid #FF6785!important; color: #FF6785!important; }
+body.pink-theme  .PrivateSwitchBase-input:checked + svg path { fill: #FF6785}
+body.pink-theme .common-btn-design-rounded { background-color: #FF6785 !important; }
+body.pink-theme .cmn-confirm-delete-icon .MuiPaper-root.MuiPaper-elevation > button + div { background-color: #FF6785}
+body.pink-theme .roles-permissions-monitoring button { background: #FF6785;border-color: #FF6785}
+body.pink-theme  .collapse-inner.active { background: #FF6785}
+body.pink-theme  .floor-plans-zones form button { background: #FF6785}
+body.pink-theme  .time-zone-radio .Mui-checked + span { color: #FF6785!important; }
+body.pink-theme   .time-zone-radio .Mui-checked span { color: #FF6785!important; }
+body.pink-theme  .roles-premissons-tabs button.Mui-selected { color: #FF6785 !important}
+body.pink-theme  .roles-premissons-tabs .MuiTabs-indicator { background-color: #FF6785}
+body.pink-theme .search-plans-and-jones > div > button { background: #FF6785}
+
+body.pink-theme .upload-pro-inner button { background: linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%); }
+body.pink-theme .css-102pfd4-MuiDataGrid-root .MuiDataGrid-columnHeader { background-color: #f3ffef !important; }
+
+body.pink-theme .dashbourd-retail-details-head { background: linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%); }
+
+body.pink-theme .rdrDefinedRangesWrapper .rdrStaticRangeSelected { background: #FF6785}
+body.pink-theme  .rdrMonthAndYearWrapper { background: #FF6785}
+
+
+body.pink-theme .report-title-with-buttons p b { color: #000; }
+body.pink-theme .report-title-with-buttons p { color: #FF6785}
+body.pink-theme .common-popup-head svg { fill: #FF6785!important; }
+body.pink-theme .rdrSelected, body.pink-theme .rdrInRange, body.pink-theme .rdrStartEdge, body.pink-theme .rdrEndEdge { background: #FF6785!important; }
+body.pink-theme .rdrDayToday .rdrDayNumber span:after { background: #FF6785!important; }
+body.pink-theme .rdrDayStartPreview, body.pink-theme .rdrDayInPreview, .rdrDayEndPreview { border-color: #FF6785!important; }
+body.pink-theme .add-widets-listing ul li.active span { color: #FF6785}
+body.pink-theme .add-widets-listing ul li:before { background: #FF6785}
+body.pink-theme .smtp-setup-wrapper p b { color: #FF6785!important; }
+body.pink-theme .Mui-checked svg path { fill: #FF6785!important; }
+body.pink-theme .Mui-checked { color: #FF6785!important; }
+body.pink-theme svg#Line { fill: #FF6785}
+body.pink-theme svg#Line { fill: #FF9500; width: 20px; height: 20px; }
+body.pink-theme .selected-theme { border: 2px solid #FF6785}
+body.pink-theme .selected-theme svg { background: #FF6785;border-radius: 100%; }
+body.pink-theme  .theme-label div { border-color: #FF6785!important; }
+body.pink-theme  .i-icon { background: linear-gradient(287.68deg, #C50048 -0.05%, #FF6785.77%); }
+body.pink-theme  .add-widget-wrapper input + button { background: #FF6785}
+body.pink-theme  .custom-set-pop-left-inner .active.MuiBox-root { border-color: #FF6785}
+body.pink-theme .floor-plans-zones-left .search-plans-and-jones.monitoring-plan ul li.active { background: transparent !important; }
+body.pink-theme .plus-i-widgets { background: linear-gradient(270deg, #C50048 0%, #DF2A6A 48%, #FF5E93 100%); border-radius: 12px !important; width: 50px; height: 50px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); }
+body.pink-theme .plus-i-widgets:hover {  background: linear-gradient(90deg,   #C50048 0%, #FF6785 100%); }
+body.pink-theme .notifications svg path { fill: #FF6785}
+body.pink-theme .add-zone-head button { background: #FF6785}
+body.pink-theme  .upload-your-file button { background: #FF6785 !important}
+body.pink-theme .roles-and-permissions-content-wrapper .user-master svg path { fill: #fff !important; }
+
+
+body.pink-theme .add-zone-head .add-zone-list button { background: transparent !important; }
+body.pink-theme  .notification-card-read { border-color: #FF6785}
+body.pink-theme .notification-header h6 span { color: #FF6785}
+body.pink-theme .notification-actions button.read-all-btn { background: rgb(248 213 220) }
+body.pink-theme .rdrStaticRange:hover .rdrStaticRangeLabel, body.pink-theme  .rdrStaticRange:focus .rdrStaticRangeLabel { background: #FF6785!important; }
+body.pink-theme  .upload-plan-wrapper h4 span { color: #FF6785}
+body.pink-theme  .Upload-icons { background: linear-gradient(99.2deg, rgb(158 255 141 / 50%) -0.5%, rgba(255, 255, 255, 0.5) 49.54%, rgb(88 255 77 / 50%) 100%); }
+body.pink-theme  .no-noti-wrpper img { filter: brightness(0) saturate(100%) invert(41%) sepia(74%) saturate(358%) hue-rotate(72deg) brightness(92%) contrast(90%) !important; }
+
+
+
+
+
+body.pink-theme  input[type="range"]::-webkit-slider-thumb { background-color: #C60C30; box-shadow: -407px 0 0 400px #C60C30; }
+body.pink-theme  .floor-zones-accordion .floor-zones-accordion-wrapper > img.active { border-color: #C60C30; }
+body.pink-theme  .role-chip { color: #C60C30; border-color: #C60C30; }
+body.pink-theme  button.MuiButtonBase-root.MuiIconButton-edgeStart svg { fill: #FF6785!important; }
+.css-ux17pc-MuiButtonBase-root-MuiMenuItem-root-MuiMultiSectionDigitalClockSection-item.Mui-selected { background-color: #1976d2; color: #FF6785!important; }
+body.pink-theme .deleted-colors-text span { color: #FF6785!important; }
+body.pink-theme .Mui-selected { color: #FF6785!important; border-color: #FF6785!important; }
+
+
+
+body.pink-theme .place-floor-buttons-wraps img {filter: brightness(0) saturate(100%)
+        invert(30%) sepia(72%) saturate(3000%)
+        hue-rotate(325deg) brightness(98%) contrast(102%) !important; }
+body.pink-theme .select-option img.active {filter: brightness(0) saturate(100%)
+        invert(30%) sepia(72%) saturate(3000%)
+        hue-rotate(325deg) brightness(98%) contrast(102%) !important; }
+body.pink-theme .list-and-grid button.Mui-selected img {filter: brightness(0) saturate(100%)
+        invert(30%) sepia(72%) saturate(3000%)
+        hue-rotate(325deg) brightness(98%) contrast(102%) !important; }
+body.pink-theme  .logout-icon{filter: brightness(0) saturate(100%)
+        invert(30%) sepia(72%) saturate(3000%)
+        hue-rotate(325deg) brightness(98%) contrast(102%) !important; 
+}
+body.pink-theme  .no-noti-wrpper img{filter: brightness(0) saturate(100%)
+        invert(30%) sepia(72%) saturate(3000%)
+        hue-rotate(325deg) brightness(98%) contrast(102%) !important; 
+}
+
+body.pink-theme .search-plans-and-jones ul li.active { background: linear-gradient(91.75deg, #DF2A6A -8.36%, #FF5E93 32.16%, #DF2A6A 77.32%, #FF5E93 88.72%, #DF2A6A 101.13%) !important;  }
+
+body.pink-theme .MuiDataGrid-row:hover, body.pink-theme .ant-table-content tr:hover { background: linear-gradient(90.06deg, #fff 0.03%, #ffe4e9 34.82%, #fff 73.74%, #ffe4e9) !important; }
+body.pink-theme .ant-table-content tr.sub-child-row { background: linear-gradient(90.06deg, #fff 0.03%, #ffe4e9 34.82%, #fff 73.74%, #ffe4e9) !important; }
+body.pink-theme  .ant-table-content tr:hover { background: linear-gradient(90.06deg, #fff 0.03%, #ffe4e9 34.82%, #fff 73.74%, #ffe4e9) !important; }
+
+body.pink-theme .total-channels-items.active > div {
+    color: #DF2A6A !important
+}
+
+body.pink-theme .total-channels-items.active{
+    border-color: #DF2A6A !important
+}
+
+
+body.pink-theme .Mui-checked .MuiSwitch-thumb {
+    background: #DF2A6A !important;
+}
+
+body.pink-theme  .Mui-checked + .MuiSwitch-track  {
+   background: #DF2A6A !important;
+}
+
+
+body.pink-theme .top-listbar-main-box .top-listbar-main-box { background-color: #DF2A6A; }
+body.pink-theme .top-listbar-main-box { background-color: rgba(223, 42, 104, 0.2) !important }
+body.pink-theme .top-listbar-main-box .list-of-ccm-box p { color: #DF2A6A }
+body.pink-theme .list-main-accordion-box h5 { color: #DF2A6A }
+body.pink-theme .list-main-accordion-repeat-main { background-color: rgba(223, 42, 104, 0.2) !important; }
+body.pink-theme  .back-to { color: #DF2A6A; }
+body.pink-theme  .back-to:before { border-color: #DF2A6A }
+
+
+body.pink-theme .server-tab-button.active { background-color: #FF6785; border-color: #FF6785; color: #fff }
+body.pink-theme .idrac-system-btn { border: 1px solid #FF6785 !important; }
+body.pink-theme .idrac-system-btn:hover {   background-color: rgba(255, 103, 133, 0.1); }
+body.pink-theme  .server-tab-button:hover { border-color: #FF6785; color: #FF6785; }
+body.pink-theme .server-tab-button.active:hover { border-color: #FF6785; background: #FF6785; color: #fff }
+body.pink-theme  .memory-subtab-btn.active { color: #FF6785; }
+body.pink-theme  .memory-subtab-btn.active::after { background: #FF6785; }
+body.pink-theme  .child-site-wrapper span:first-child{ color: #FF6785; }
+body.pink-theme .idrac-action-btn.active-bulb{background: #FF6785 !important;; border-color: #FF6785 !important; }
+body.pink-theme .api-channel-no{ color: #FF6785;}
+
+body.pink-theme .alarm-count-chip{
+        border-color: #FF6785; color: #FF6785;  background-color: rgba(255, 103, 133, 0.1) !important;
+}
+body.pink-theme button.auto-fetch-link {color: #FF6785;}
+
+
+/* Base range */
+/* body.lime-theme  input[type="range"]::-webkit-slider-thumb { background-color: #3CB6F9; box-shadow: -407px 0 0 400px #3CB6F9; }
+body.lime-theme  .floor-zones-accordion .floor-zones-accordion-wrapper > img.active { border-color: #3CB6F9; }
+body.lime-theme  .role-chip { color: #3CB6F9; border-color: #3CB6F9; }
+body.lime-theme  button.MuiButtonBase-root.MuiIconButton-edgeStart svg { fill: #3CB6F9 !important; }
+.css-ux17pc-MuiButtonBase-root-MuiMenuItem-root-MuiMultiSectionDigitalClockSection-item.Mui-selected { background-color: #1976d2; color: #3CB6F9 !important; }
+body.lime-theme .deleted-colors-text span { color: #3CB6F9 !important; }
+body.lime-theme .Mui-selected { color: #3CB6F9 !important; }
+
+
+
+body.lime-theme .place-floor-buttons-wraps img { filter: brightness(0) saturate(100%)
+        invert(63%) sepia(77%) saturate(1900%)
+        hue-rotate(178deg) brightness(102%) contrast(98%)
+        !important; }
+body.lime-theme .select-option img.active { filter: brightness(0) saturate(100%)
+        invert(63%) sepia(77%) saturate(1900%)
+        hue-rotate(178deg) brightness(102%) contrast(98%)
+        !important; }
+body.lime-theme .list-and-grid button.Mui-selected img { filter: brightness(0) saturate(100%)
+        invert(63%) sepia(77%) saturate(1900%)
+        hue-rotate(178deg) brightness(102%) contrast(98%)
+        !important; }
+body.lime-theme  .logout-icon{ filter: brightness(0) saturate(100%)
+        invert(63%) sepia(77%) saturate(1900%)
+        hue-rotate(178deg) brightness(102%) contrast(98%)
+        !important;
+}
+
+body.lime-theme .search-plans-and-jones ul li.active { background: linear-gradient(91.75deg, #3CB6F9 -8.36%, #efd980 32.16%, #3CB6F9 77.32%, #ffe991 88.72%, #3CB6F9 101.13%) !important; }
+
+body.lime-theme .MuiDataGrid-row:hover, body.lime-theme .ant-table-content tr:hover { background: linear-gradient(90.06deg, #fff 0.03%, #dff4ff 34.82%, #fff 73.74%, #b9e3f9) !important; }
+body.lime-theme .ant-table-content tr.sub-child-row { background: linear-gradient(90.06deg, #fff 0.03%, #dff4ff 34.82%, #fff 73.74%, #b9e3f9) !important; }
+body.lime-theme  .ant-table-content tr:hover { background: linear-gradient(90.06deg, #fff 0.03%, #dff4ff 34.82%, #fff 73.74%, #b9e3f9) !important; }
+ */
+
+
+
+/* skyblue-theme*/
+
+.skyblue-theme .login-main:before { background: linear-gradient(95.11deg, #348212 22.84%, #1E4D0B 66.56%, #649D10 100.25%, #8B44FF 162.86%, #ED0E28 204.82%, #44B0FF 226.15%, #EBFF70 226.17%); }
+body.skyblue-theme  .common-btn-design { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%); color: #fff }
+body.skyblue-theme .login-main:before { background: #3FB6F7; filter: blur(753.3px); }
+body.skyblue-theme  .common-btn-design { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%); }
+body.skyblue-theme button.menu-button.active { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%); }
+body.skyblue-theme .sidebar-main .menu-item .submenu button.submenu-item:before { background: #3FB6F7 }
+body.skyblue-theme .sidebar-main .menu-item .submenu button.submenu-item.active { color: #3FB6F7 }
+body.skyblue-theme .top-orange-head { background: url("../../public/images/lines.png") no-repeat right / contain,  linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%) !important; }
+body.skyblue-theme .notification-count { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%); }
+body.skyblue-theme .search-custom-button button { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%); }
+body.skyblue-theme .search-by-device-search-bar .MuiInputBase-root > div { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%); }
+body.skyblue-theme .map-area-bottom-row > button { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%); }
+body.skyblue-theme  .add-widget-wrapper button { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%); }
+body.skyblue-theme .add-zone-list.active, .add-zone-list:hover { color: #3FB6F7;  border-color: #3FB6F7 }
+body.skyblue-theme .breadcrumbs > span:first-child { color: #3FB6F7 }
+body.skyblue-theme .list-and-grid button.Mui-selected { color: #3FB6F7 !important; border-color: #3FB6F7 }
+body.skyblue-theme .after-maintenance > p, body.skyblue-theme .before-maintenance > p{ background-color: #3FB6F7 }
+body.skyblue-theme .table-grid-details button { background: #d9f2ff; }
+body.skyblue-theme  .cmn-pop-form-inner .device-type-camera input { color: #3FB6F7 !important; }
+body.skyblue-theme  .cmn-pop-form-inner .device-type-camera fieldset { border-color: #3FB6F7 !important; }
+body.skyblue-theme  .css-1gduu4n-MuiButtonBase-root-MuiToggleButton-root.Mui-selected { border: 1px solid #3FB6F7 !important; color: #3FB6F7 !important; }
+body.skyblue-theme  .PrivateSwitchBase-input:checked + svg path { fill: #3FB6F7 }
+body.skyblue-theme .common-btn-design-rounded { background-color: #3FB6F7  !important; }
+body.skyblue-theme .cmn-confirm-delete-icon .MuiPaper-root.MuiPaper-elevation > button + div { background-color: #3FB6F7 }
+body.skyblue-theme .roles-permissions-monitoring button { background: #3FB6F7 ;border-color: #3FB6F7 }
+body.skyblue-theme  .collapse-inner.active { background: #3FB6F7 }
+body.skyblue-theme  .floor-plans-zones form button { background: #3FB6F7 }
+body.skyblue-theme  .time-zone-radio .Mui-checked + span { color: #3FB6F7 !important; }
+body.skyblue-theme   .time-zone-radio .Mui-checked span { color: #3FB6F7 !important; }
+body.skyblue-theme  .roles-premissons-tabs button.Mui-selected { color: #3FB6F7  !important}
+body.skyblue-theme  .roles-premissons-tabs .MuiTabs-indicator { background-color: #3FB6F7 }
+body.skyblue-theme .search-plans-and-jones > div > button { background: #3FB6F7 }
+
+body.skyblue-theme .upload-pro-inner button { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%); }
+body.skyblue-theme .css-102pfd4-MuiDataGrid-root .MuiDataGrid-columnHeader { background-color: #f3ffef !important; }
+
+body.skyblue-theme .dashbourd-retail-details-head { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%); }
+
+body.skyblue-theme .rdrDefinedRangesWrapper .rdrStaticRangeSelected { background: #3FB6F7 }
+body.skyblue-theme  .rdrMonthAndYearWrapper { background: #3FB6F7 }
+
+
+body.skyblue-theme .report-title-with-buttons p b { color: #000; }
+body.skyblue-theme .report-title-with-buttons p { color: #3FB6F7 }
+body.skyblue-theme .common-popup-head svg { fill: #3FB6F7 !important; }
+body.skyblue-theme .rdrSelected, body.skyblue-theme .rdrInRange, body.skyblue-theme .rdrStartEdge, body.skyblue-theme .rdrEndEdge { background: #3FB6F7 !important; }
+body.skyblue-theme .rdrDayToday .rdrDayNumber span:after { background: #3FB6F7 !important; }
+body.skyblue-theme .rdrDayStartPreview, body.skyblue-theme .rdrDayInPreview, .rdrDayEndPreview { border-color: #3FB6F7 !important; }
+body.skyblue-theme .add-widets-listing ul li.active span { color: #3FB6F7 }
+body.skyblue-theme .add-widets-listing ul li:before { background: #3FB6F7 }
+body.skyblue-theme .smtp-setup-wrapper p b { color: #3FB6F7 !important; }
+body.skyblue-theme .Mui-checked svg path { fill: #3FB6F7 !important; }
+body.skyblue-theme .Mui-checked { color: #3FB6F7 !important; }
+body.skyblue-theme svg#Line { fill: #3FB6F7 }
+body.skyblue-theme svg#Line { fill: #FF9500; width: 20px; height: 20px; }
+body.skyblue-theme .selected-theme { border: 2px solid #3FB6F7 }
+body.skyblue-theme .selected-theme svg { background: #3FB6F7 ;border-radius: 100%; }
+body.skyblue-theme  .theme-label div { border-color: #3FB6F7 !important; }
+body.skyblue-theme  .i-icon { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%);}
+body.skyblue-theme  .add-widget-wrapper input + button { background: #3FB6F7 }
+body.skyblue-theme  .custom-set-pop-left-inner .active.MuiBox-root { border-color: #3FB6F7 }
+body.skyblue-theme .floor-plans-zones-left .search-plans-and-jones.monitoring-plan ul li.active { background: transparent !important; }
+body.skyblue-theme .plus-i-widgets { background: linear-gradient(270deg, #07A9F0 0%, #73C9EE 100%); border-radius: 12px !important; width: 50px; height: 50px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); }
+body.skyblue-theme .plus-i-widgets:hover {  background: linear-gradient(270deg, #73C9EE 0%, #07A9F0 100%);}
+body.skyblue-theme .notifications svg path { fill: #3FB6F7 }
+body.skyblue-theme .add-zone-head button { background: #3FB6F7 }
+body.skyblue-theme  .upload-your-file button { background: #3FB6F7 !important }
+body.skyblue-theme .roles-and-permissions-content-wrapper .user-master svg path { fill: #fff !important; }
+
+
+body.skyblue-theme .add-zone-head .add-zone-list button { background: transparent !important; }
+body.skyblue-theme  .notification-card-read { border-color: #3FB6F7 }
+body.skyblue-theme .notification-header h6 span { color: #3FB6F7 }
+body.skyblue-theme .notification-actions button.read-all-btn { background: rgb(206 237 255) }
+body.skyblue-theme .rdrStaticRange:hover .rdrStaticRangeLabel, body.skyblue-theme  .rdrStaticRange:focus .rdrStaticRangeLabel { background: #3FB6F7 !important; }
+body.skyblue-theme  .upload-plan-wrapper h4 span { color: #3FB6F7 }
+body.skyblue-theme  .Upload-icons { background: linear-gradient(99.2deg, rgb(158 255 141 / 50%) -0.5%, rgba(255, 255, 255, 0.5) 49.54%, rgb(88 255 77 / 50%) 100%); }
+body.skyblue-theme  .no-noti-wrpper img { filter: brightness(0) saturate(100%) invert(41%) sepia(74%) saturate(358%) hue-rotate(72deg) brightness(92%) contrast(90%) !important; }
+
+/* Base range */
+body.skyblue-theme  input[type="range"]::-webkit-slider-thumb { background-color: #3FB6F7; box-shadow: -407px 0 0 400px #3FB6F7; }
+body.skyblue-theme  .floor-zones-accordion .floor-zones-accordion-wrapper > img.active { border-color: #3FB6F7; }
+body.skyblue-theme  .role-chip { color: #3FB6F7; border-color: #3FB6F7; }
+body.skyblue-theme  button.MuiButtonBase-root.MuiIconButton-edgeStart svg { fill: #3FB6F7 !important; }
+.css-ux17pc-MuiButtonBase-root-MuiMenuItem-root-MuiMultiSectionDigitalClockSection-item.Mui-selected { background-color: #1976d2; color: #3FB6F7 !important; }
+body.skyblue-theme .deleted-colors-text span { color: #3FB6F7 !important; }
+body.skyblue-theme .Mui-selected { color: #3FB6F7 !important; border-color:  #3FB6F7 !important }
+
+
+
+body.skyblue-theme .place-floor-buttons-wraps img { filter: brightness(0) saturate(100%)
+        invert(63%) sepia(77%) saturate(1846%)
+        hue-rotate(176deg) brightness(98%) contrast(96%)
+        !important; }
+body.skyblue-theme .select-option img.active { filter: brightness(0) saturate(100%)
+        invert(63%) sepia(77%) saturate(1846%)
+        hue-rotate(176deg) brightness(98%) contrast(96%)
+        !important; }
+body.skyblue-theme .list-and-grid button.Mui-selected img { filter: brightness(0) saturate(100%)
+        invert(63%) sepia(77%) saturate(1846%)
+        hue-rotate(176deg) brightness(98%) contrast(96%)
+        !important; }
+body.skyblue-theme  .logout-icon{ filter: brightness(0) saturate(100%)
+        invert(63%) sepia(77%) saturate(1846%)
+        hue-rotate(176deg) brightness(98%) contrast(96%)
+        !important;
+}
+body.skyblue-theme  .no-noti-wrpper img{filter: brightness(0) saturate(100%)
+        invert(63%) sepia(77%) saturate(1846%)
+        hue-rotate(176deg) brightness(98%) contrast(96%)
+        !important;
+}
+
+
+
+
+body.skyblue-theme .search-plans-and-jones ul li.active {    background: linear-gradient(91.75deg, #07A9F0 -8.36%, #73C9EE 32.16%, #07A9F0 77.32%, #73C9EE 88.72%, #07A9F0 101.13%) !important; }
+
+body.skyblue-theme .MuiDataGrid-row:hover, body.skyblue-theme .ant-table-content tr:hover {     background: linear-gradient(90.06deg, #fff 0.03%, #d5f2ff 34.82%, #fff 73.74%, #d5f2ff) !important; }
+body.skyblue-theme .ant-table-content tr.sub-child-row {     background: linear-gradient(90.06deg, #fff 0.03%, #d5f2ff 34.82%, #fff 73.74%, #d5f2ff) !important; }
+body.skyblue-theme  .ant-table-content tr:hover {     background: linear-gradient(90.06deg, #fff 0.03%, #d5f2ff 34.82%, #fff 73.74%, #d5f2ff) !important; }
+
+body.skyblue-theme   .role-chip-more {
+    background: #3FB6F7
+}
+
+body.skyblue-theme .active > div {
+    color: #3FB6F7 !important
+}
+
+body.skyblue-theme .active {
+    border-color: #3FB6F7 !important
+}
+
+
+body.skyblue-theme .total-channels-items.active > div {
+    color: #3FB6F7 !important
+}
+
+body.skyblue-theme .total-channels-items.active{
+    border-color: #3FB6F7 !important
+}
+
+
+
+body.skyblue-theme .Mui-checked .MuiSwitch-thumb {
+    background: #3FB6F7 !important
+}
+body.skyblue-theme  .Mui-checked + .MuiSwitch-track  {
+   background: #3FB6F7 !important
+}
+
+
+body.skyblue-theme .top-listbar-main-box .top-listbar-main-box { background-color: #3FB6F7; }
+body.skyblue-theme .top-listbar-main-box {    background-color: rgba(63, 182, 247, 0.2) !important }
+body.skyblue-theme .top-listbar-main-box .list-of-ccm-box p { color: #3FB6F7 }
+body.skyblue-theme .list-main-accordion-box h5 { color: #3FB6F7 }
+body.skyblue-theme .list-main-accordion-repeat-main {  background-color: rgba(63, 182, 247, 0.2) !important; }
+body.skyblue-theme  .back-to { color: #3FB6F7; }
+body.skyblue-theme  .back-to:before { border-color: #3FB6F7 }
+
+body.skyblue-theme  .server-tab-button.active { background-color: #3FB6F7; border-color: #3FB6F7; color: #fff }
+body.skyblue-theme  .idrac-system-btn { border: 1px solid #3FB6F7 !important; }
+body.skyblue-theme  .idrac-system-btn:hover { background: rgba(63, 182, 247, 0.1); }
+body.skyblue-theme   .server-tab-button:hover { border-color: #3FB6F7; color: #3FB6F7; }
+body.skyblue-theme  .server-tab-button.active:hover { border-color: #3FB6F7; background: #3FB6F7; color: #fff }
+body.skyblue-theme   .memory-subtab-btn.active { color: #3FB6F7; }
+body.skyblue-theme   .memory-subtab-btn.active::after { background: #3FB6F7; }
+body.skyblue-theme  .child-site-wrapper span:first-child{ color:#3FB6F7; }
+body.skyblue-theme  .idrac-action-btn.active-bulb{background: #3FB6F7 !important;; border-color: #3FB6F7 !important; }
+body.skyblue-theme .alarm-count-chip{
+        border-color:#3FB6F7; color: #3FB6F7;  background: rgba(63, 182, 247, 0.1) !important;
+}
+body.skyblue-theme .api-channel-no{ color: #3FB6F7}
+
+body.skyblue-theme .server-tab-button.active > div { color: #fff !important; }
+body.skyblue-theme button.auto-fetch-link {color: #3FB6F7;}
+
+
+/* blue-theme*/
+
+.blue-theme .login-main:before { background: linear-gradient(95.11deg, #348212 22.84%, #1E4D0B 66.56%, #649D10 100.25%, #8B44FF 162.86%, #ED0E28 204.82%, #44B0FF 226.15%, #EBFF70 226.17%); }
+body.blue-theme  .common-btn-design { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%); color: #fff }
+body.blue-theme .login-main:before { background: #339DFE; filter: blur(753.3px); }
+body.blue-theme  .common-btn-design { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%); }
+body.blue-theme button.menu-button.active { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%); }
+body.blue-theme .sidebar-main .menu-item .submenu button.submenu-item:before { background: #339DFE }
+body.blue-theme .sidebar-main .menu-item .submenu button.submenu-item.active { color: #339DFE }
+body.blue-theme .top-orange-head { background: url("../../public/images/lines.png") no-repeat right / contain,  linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%) !important; }
+body.blue-theme .notification-count { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%); }
+body.blue-theme .search-custom-button button { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%); }
+body.blue-theme .search-by-device-search-bar .MuiInputBase-root > div { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%); }
+body.blue-theme .map-area-bottom-row > button { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%); }
+body.blue-theme  .add-widget-wrapper button { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%); }
+body.blue-theme .add-zone-list.active, .add-zone-list:hover { color: #339DFE;  border-color: #339DFE }
+body.blue-theme .breadcrumbs > span:first-child { color: #339DFE }
+body.blue-theme .list-and-grid button.Mui-selected { color: #339DFE !important; border-color: #339DFE }
+body.blue-theme .after-maintenance > p, body.blue-theme .before-maintenance > p{ background-color: #339DFE }
+body.blue-theme .table-grid-details button { background: #d9f2ff; }
+body.blue-theme  .cmn-pop-form-inner .device-type-camera input { color: #339DFE !important; }
+body.blue-theme  .cmn-pop-form-inner .device-type-camera fieldset { border-color: #339DFE !important; }
+body.blue-theme  .css-1gduu4n-MuiButtonBase-root-MuiToggleButton-root.Mui-selected { border: 1px solid #339DFE !important; color: #339DFE !important; }
+body.blue-theme  .PrivateSwitchBase-input:checked + svg path { fill: #339DFE }
+body.blue-theme .common-btn-design-rounded { background-color: #339DFE  !important; }
+body.blue-theme .cmn-confirm-delete-icon .MuiPaper-root.MuiPaper-elevation > button + div { background-color: #339DFE }
+body.blue-theme .roles-permissions-monitoring button { background: #339DFE ;border-color: #339DFE }
+body.blue-theme  .collapse-inner.active { background: #339DFE }
+body.blue-theme  .floor-plans-zones form button { background: #339DFE }
+body.blue-theme  .time-zone-radio .Mui-checked + span { color: #339DFE !important; }
+body.blue-theme   .time-zone-radio .Mui-checked span { color: #339DFE !important; }
+body.blue-theme  .roles-premissons-tabs button.Mui-selected { color: #339DFE  !important}
+body.blue-theme  .roles-premissons-tabs .MuiTabs-indicator { background-color: #339DFE }
+body.blue-theme .search-plans-and-jones > div > button { background: #339DFE }
+
+body.blue-theme .upload-pro-inner button { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%); }
+body.blue-theme .css-102pfd4-MuiDataGrid-root .MuiDataGrid-columnHeader { background-color: #f3ffef !important; }
+
+body.blue-theme .dashbourd-retail-details-head { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%); }
+
+body.blue-theme .rdrDefinedRangesWrapper .rdrStaticRangeSelected { background: #339DFE }
+body.blue-theme  .rdrMonthAndYearWrapper { background: #339DFE }
+
+
+body.blue-theme .report-title-with-buttons p b { color: #000; }
+body.blue-theme .report-title-with-buttons p { color: #339DFE }
+body.blue-theme .common-popup-head svg { fill: #339DFE !important; }
+body.blue-theme .rdrSelected, body.blue-theme .rdrInRange, body.blue-theme .rdrStartEdge, body.blue-theme .rdrEndEdge { background: #339DFE !important; }
+body.blue-theme .rdrDayToday .rdrDayNumber span:after { background: #339DFE !important; }
+body.blue-theme .rdrDayStartPreview, body.blue-theme .rdrDayInPreview, .rdrDayEndPreview { border-color: #339DFE !important; }
+body.blue-theme .add-widets-listing ul li.active span { color: #339DFE }
+body.blue-theme .add-widets-listing ul li:before { background: #339DFE }
+body.blue-theme .smtp-setup-wrapper p b { color: #339DFE !important; }
+body.blue-theme .Mui-checked svg path { fill: #339DFE !important; }
+body.blue-theme .Mui-checked { color: #339DFE !important; }
+body.blue-theme svg#Line { fill: #339DFE }
+body.blue-theme svg#Line { fill: #FF9500; width: 20px; height: 20px; }
+body.blue-theme .selected-theme { border: 2px solid #339DFE }
+body.blue-theme .selected-theme svg { background: #339DFE ;border-radius: 100%; }
+body.blue-theme  .theme-label div { border-color: #339DFE !important; }
+body.blue-theme  .i-icon { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%);}
+body.blue-theme  .add-widget-wrapper input + button { background: #339DFE }
+body.blue-theme  .custom-set-pop-left-inner .active.MuiBox-root { border-color: #339DFE }
+body.blue-theme .floor-plans-zones-left .search-plans-and-jones.monitoring-plan ul li.active { background: transparent !important; }
+body.blue-theme .plus-i-widgets { background: linear-gradient(89.96deg, #339EFF 0.03%, #1A71FC 99.97%); border-radius: 12px !important; width: 50px; height: 50px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); }
+body.blue-theme .plus-i-widgets:hover {  background: linear-gradient(89.96deg, #1A71FC  0.03%, #339EFF 99.97%);}
+body.blue-theme .notifications svg path { fill: #339DFE }
+body.blue-theme .add-zone-head button { background: #339DFE }
+body.blue-theme  .upload-your-file button { background: #339DFE !important }
+body.blue-theme .roles-and-permissions-content-wrapper .user-master svg path { fill: #fff !important; }
+
+
+body.blue-theme .add-zone-head .add-zone-list button { background: transparent !important; }
+body.blue-theme  .notification-card-read { border-color: #339DFE }
+body.blue-theme .notification-header h6 span { color: #339DFE }
+body.blue-theme .notification-actions button.read-all-btn { background: rgb(220 238 255);  }
+body.blue-theme .rdrStaticRange:hover .rdrStaticRangeLabel, body.blue-theme  .rdrStaticRange:focus .rdrStaticRangeLabel { background: #339DFE !important; }
+body.blue-theme  .upload-plan-wrapper h4 span { color: #339DFE }
+body.blue-theme  .Upload-icons { background: linear-gradient(99.2deg, rgb(158 255 141 / 50%) -0.5%, rgba(255, 255, 255, 0.5) 49.54%, rgb(88 255 77 / 50%) 100%); }
+body.blue-theme  .no-noti-wrpper img { filter: brightness(0) saturate(100%) invert(41%) sepia(74%) saturate(358%) hue-rotate(72deg) brightness(92%) contrast(90%) !important; }
+
+body.blue-theme   .role-chip-more {
+    background: #339DFE 
+}
+
+
+
+body.blue-theme .Mui-checked .MuiSwitch-thumb {
+    background: #339DFE  !important;
+}
+body.blue-theme .Mui-checked + .MuiSwitch-track  {
+   background: #339DFE  !important;
+}
+
+
+body.blue-theme .top-listbar-main-box .top-listbar-main-box { background-color: #339DFE; }
+body.blue-theme .top-listbar-main-box {        background-color: rgba(51, 157, 254, 0.2) !important }
+body.blue-theme .top-listbar-main-box .list-of-ccm-box p { color: #339DFE }
+body.blue-theme .list-main-accordion-box h5 { color: #339DFE }
+body.blue-theme .list-main-accordion-repeat-main {      background-color: rgba(51, 157, 254, 0.2) !important; }
+body.blue-theme  .back-to { color: #339DFE; }
+body.blue-theme  .back-to:before { border-color: #339DFE }
+
+body.blue-theme  .server-tab-button.active { background-color: #339DFE; border-color:#339DFE; color: #fff }
+body.blue-theme  .idrac-system-btn { border: 1px solid #339DFE !important; }
+body.blue-theme  .idrac-system-btn:hover {  background: rgba(51, 157, 254, 0.1);}
+body.blue-theme  .server-tab-button:hover { border-color:#339DFE; color:#339DFE; }
+body.blue-theme  .server-tab-button.active:hover { border-color:#339DFE; background:#339DFE; color: #fff }
+body.blue-theme  .memory-subtab-btn.active { color:#339DFE; }
+body.blue-theme  .memory-subtab-btn.active::after { background:#339DFE; }
+body.blue-theme .api-channel-no{ color: #339DFE;}
+
+
+body.blue-theme .alarm-count-chip{
+        border-color:#339DFE; color: #339DFE;  background: rgba(51, 157, 254, 0.1)!important;
+}
+body.blue-theme button.auto-fetch-link {color: #339DFE;}
+
+
+
+
+
+/* Base range */
+body.blue-theme  input[type="range"]::-webkit-slider-thumb { background-color: #339DFE; box-shadow: -407px 0 0 400px #339DFE; }
+body.blue-theme  .floor-zones-accordion .floor-zones-accordion-wrapper > img.active { border-color: #339DFE; }
+body.blue-theme  .role-chip { color: #339DFE; border-color: #339DFE; }
+body.blue-theme  button.MuiButtonBase-root.MuiIconButton-edgeStart svg { fill: #339DFE !important; }
+.css-ux17pc-MuiButtonBase-root-MuiMenuItem-root-MuiMultiSectionDigitalClockSection-item.Mui-selected { background-color: #1976d2; color: #339DFE !important; }
+body.blue-theme .deleted-colors-text span { color: #339DFE !important; }
+body.blue-theme .Mui-selected { color: #339DFE !important;  border-color:#339DFE !important ;}
+
+
+
+body.blue-theme .place-floor-buttons-wraps img {filter: brightness(0) saturate(100%)
+        invert(55%) sepia(64%) saturate(2300%)
+        hue-rotate(190deg) brightness(100%) contrast(101%) !important; }
+body.blue-theme .select-option img.active {filter: brightness(0) saturate(100%)
+        invert(55%) sepia(64%) saturate(2300%)
+        hue-rotate(190deg) brightness(100%) contrast(101%) !important; }
+body.blue-theme .list-and-grid button.Mui-selected img {filter: brightness(0) saturate(100%)
+        invert(55%) sepia(64%) saturate(2300%)
+        hue-rotate(190deg) brightness(100%) contrast(101%) !important; }
+body.blue-theme  .logout-icon{filter: brightness(0) saturate(100%)
+        invert(55%) sepia(64%) saturate(2300%)
+        hue-rotate(190deg) brightness(100%) contrast(101%) !important;
+}
+body.blue-theme .no-noti-wrpper img{filter: brightness(0) saturate(100%)
+        invert(55%) sepia(64%) saturate(2300%)
+        hue-rotate(190deg) brightness(100%) contrast(101%) !important;
+}
+
+
+body.blue-theme .search-plans-and-jones ul li.active {    background: linear-gradient(91.75deg, #1A71FC -8.36%, #339EFF 32.16%, #1A71FC 77.32%, #339EFF 88.72%, #1A71FC 101.13%) !important }
+
+body.blue-theme .MuiDataGrid-row:hover, body.blue-theme .ant-table-content tr:hover {     background:linear-gradient(90.06deg, #fff 0.03%, #e6f3ff 34.82%, #fff 73.74%, #e6f3ff)  !important; }
+body.blue-theme .ant-table-content tr.sub-child-row {     background:linear-gradient(90.06deg, #fff 0.03%, #e6f3ff 34.82%, #fff 73.74%, #e6f3ff)  !important; }
+body.blue-theme  .ant-table-content tr:hover {     background:linear-gradient(90.06deg, #fff 0.03%, #e6f3ff 34.82%, #fff 73.74%, #e6f3ff)  !important; }
+
+body.blue-theme  .total-channels-items.active > div {
+    color: #339DFE !important
+}
+
+body.blue-theme  .total-channels-items.active{
+    border-color: #339DFE !important
+}
+body.blue-theme .child-site-wrapper span:first-child{ color:#339DFE ; }
+
+body.blue-theme .idrac-action-btn.active-bulb{background: #339DFE !important;; border-color: #339DFE !important; }
+
+
+
+/* purple-theme*/
+
+.purple-theme .login-main:before { background: linear-gradient(95.11deg, #348212 22.84%, #1E4D0B 66.56%, #649D10 100.25%, #8B44FF 162.86%, #ED0E28 204.82%, #44B0FF 226.15%, #EBFF70 226.17%); }
+body.purple-theme  .common-btn-design { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%); color: #fff }
+body.purple-theme .login-main:before { background: #9D9DFB; filter: blur(753.3px); }
+body.purple-theme  .common-btn-design { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%); }
+body.purple-theme button.menu-button.active { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%); }
+body.purple-theme .sidebar-main .menu-item .submenu button.submenu-item:before { background: #9D9DFB }
+body.purple-theme .sidebar-main .menu-item .submenu button.submenu-item.active { color: #9D9DFB }
+body.purple-theme .top-orange-head { background: url("../../public/images/lines.png") no-repeat right / contain, linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%) !important; }
+body.purple-theme .notification-count { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%); }
+body.purple-theme .search-custom-button button { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%); }
+body.purple-theme .search-by-device-search-bar .MuiInputBase-root > div { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%); }
+body.purple-theme .map-area-bottom-row > button { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%); }
+body.purple-theme  .add-widget-wrapper button { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%); }
+body.purple-theme .add-zone-list.active, .add-zone-list:hover { color: #9D9DFB;  border-color: #9D9DFB }
+body.purple-theme .breadcrumbs > span:first-child { color: #9D9DFB }
+body.purple-theme .list-and-grid button.Mui-selected { color: #9D9DFB !important; border-color: #9D9DFB }
+body.purple-theme .after-maintenance > p, body.purple-theme .before-maintenance > p{ background-color:  #9D9DFB }
+
+body.purple-theme .table-grid-details button { background: #edecff }
+body.purple-theme  .cmn-pop-form-inner .device-type-camera input { color: #9D9DFB !important; }
+body.purple-theme  .cmn-pop-form-inner .device-type-camera fieldset { border-color: #9D9DFB !important; }
+body.purple-theme  .css-1gduu4n-MuiButtonBase-root-MuiToggleButton-root.Mui-selected { border: 1px solid #9D9DFB !important; color: #9D9DFB !important; }
+body.purple-theme  .PrivateSwitchBase-input:checked + svg path { fill: #9D9DFB }
+body.purple-theme .common-btn-design-rounded { background-color: #9D9DFB  !important; }
+body.purple-theme .cmn-confirm-delete-icon .MuiPaper-root.MuiPaper-elevation > button + div { background-color: #9D9DFB }
+body.purple-theme .roles-permissions-monitoring button { background: #9D9DFB ;border-color: #9D9DFB }
+body.purple-theme  .collapse-inner.active { background: #9D9DFB }
+body.purple-theme  .floor-plans-zones form button { background: #9D9DFB }
+body.purple-theme  .time-zone-radio .Mui-checked + span { color: #9D9DFB !important; }
+body.purple-theme   .time-zone-radio .Mui-checked span { color: #9D9DFB !important; }
+body.purple-theme  .roles-premissons-tabs button.Mui-selected { color: #9D9DFB  !important}
+body.purple-theme  .roles-premissons-tabs .MuiTabs-indicator { background-color: #9D9DFB }
+body.purple-theme .search-plans-and-jones > div > button { background: #9D9DFB }
+
+body.purple-theme .upload-pro-inner button { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%); }
+body.purple-theme .css-102pfd4-MuiDataGrid-root .MuiDataGrid-columnHeader { background-color: #f3ffef !important; }
+
+body.purple-theme .dashbourd-retail-details-head { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%); }
+
+body.purple-theme .rdrDefinedRangesWrapper .rdrStaticRangeSelected { background: #9D9DFB }
+body.purple-theme  .rdrMonthAndYearWrapper { background: #9D9DFB }
+
+
+body.purple-theme .report-title-with-buttons p b { color: #000; }
+body.purple-theme .report-title-with-buttons p { color: #9D9DFB }
+body.purple-theme .common-popup-head svg { fill: #9D9DFB !important; }
+body.purple-theme .rdrSelected, body.purple-theme .rdrInRange, body.purple-theme .rdrStartEdge, body.purple-theme .rdrEndEdge { background: #9D9DFB !important; }
+body.purple-theme .rdrDayToday .rdrDayNumber span:after { background: #9D9DFB !important; }
+body.purple-theme .rdrDayStartPreview, body.purple-theme .rdrDayInPreview, .rdrDayEndPreview { border-color: #9D9DFB !important; }
+body.purple-theme .add-widets-listing ul li.active span { color: #9D9DFB }
+body.purple-theme .add-widets-listing ul li:before { background: #9D9DFB }
+body.purple-theme .smtp-setup-wrapper p b { color: #9D9DFB !important; }
+body.purple-theme .Mui-checked svg path { fill: #9D9DFB !important; }
+body.purple-theme .Mui-checked { color: #9D9DFB !important; }
+body.purple-theme svg#Line { fill: #9D9DFB }
+body.purple-theme svg#Line { fill: #FF9500; width: 20px; height: 20px; }
+body.purple-theme .selected-theme { border: 2px solid #9D9DFB }
+body.purple-theme .selected-theme svg { background: #9D9DFB ;border-radius: 100%; }
+body.purple-theme  .theme-label div { border-color: #9D9DFB !important; }
+body.purple-theme  .i-icon { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%);}
+body.purple-theme  .add-widget-wrapper input + button { background: #9D9DFB }
+body.purple-theme  .custom-set-pop-left-inner .active.MuiBox-root { border-color: #9D9DFB }
+body.purple-theme .floor-plans-zones-left .search-plans-and-jones.monitoring-plan ul li.active { background: transparent !important; }
+body.purple-theme .plus-i-widgets { background: linear-gradient(90deg, #A1A1FF 0%, #8378DE 100%); border-radius: 12px !important; width: 50px; height: 50px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); }
+body.purple-theme .plus-i-widgets:hover {  background: linear-gradient(90deg,  #8378DE 0%,  #A1A1FF 100%); }
+body.purple-theme .notifications svg path { fill: #9D9DFB }
+body.purple-theme .add-zone-head button { background: #9D9DFB }
+body.purple-theme  .upload-your-file button { background: #9D9DFB !important }
+body.purple-theme .roles-and-permissions-content-wrapper .user-master svg path { fill: #fff !important; }
+
+
+body.purple-theme .add-zone-head .add-zone-list button { background: transparent !important; }
+body.purple-theme  .notification-card-read { border-color: #9D9DFB }
+body.purple-theme .notification-header h6 span { color: #9D9DFB }
+body.purple-theme .notification-actions button.read-all-btn { background: rgb(229 229 255); }
+body.purple-theme .rdrStaticRange:hover .rdrStaticRangeLabel, body.purple-theme  .rdrStaticRange:focus .rdrStaticRangeLabel { background: #9D9DFB !important; }
+body.purple-theme  .upload-plan-wrapper h4 span { color: #9D9DFB }
+body.purple-theme  .Upload-icons { background: linear-gradient(99.2deg, rgb(158 255 141 / 50%) -0.5%, rgba(255, 255, 255, 0.5) 49.54%, rgb(88 255 77 / 50%) 100%); }
+body.purple-theme  .no-noti-wrpper img { filter: brightness(0) saturate(100%) invert(41%) sepia(74%) saturate(358%) hue-rotate(72deg) brightness(92%) contrast(90%) !important; }
+
+body.purple-theme .active > div {
+    color: #9D9DFB !important
+}
+
+body.purple-theme .active {
+    border-color: #9D9DFB !important
+}
+
+body.purple-theme .total-channels-items.active > div {
+    color: #9D9DFB !important
+}
+
+body.purple-theme .total-channels-items.active{
+    border-color:  #9D9DFB !important
+}
+
+
+
+
+body.purple-theme .Mui-checked .MuiSwitch-thumb {
+   background: #9D9DFB !important;
+}
+body.purple-theme .Mui-checked + .MuiSwitch-track  {
+   background: #9D9DFB !important;
+}
+
+body.purple-theme .top-listbar-main-box .top-listbar-main-box { background-color: #9D9DFB; }
+body.purple-theme .top-listbar-main-box { background-color: rgba(157, 157, 251, 0.2) !important }
+body.purple-theme .top-listbar-main-box .list-of-ccm-box p { color: #9D9DFB }
+body.purple-theme .list-main-accordion-box h5 { color: #9D9DFB }
+body.purple-theme .list-main-accordion-repeat-main {background-color: rgba(157, 157, 251, 0.2) !important}
+body.purple-theme  .back-to { color: #9D9DFB; }
+body.purple-theme  .back-to:before { border-color: #9D9DFB }
+
+
+
+
+/* Base range */
+body.purple-theme  input[type="range"]::-webkit-slider-thumb { background-color: #9D9DFB; box-shadow: -407px 0 0 400px #9D9DFB; }
+body.purple-theme  .floor-zones-accordion .floor-zones-accordion-wrapper > img.active { border-color: #9D9DFB; }
+body.purple-theme  .role-chip { color: #9D9DFB; border-color: #9D9DFB; }
+body.purple-theme  button.MuiButtonBase-root.MuiIconButton-edgeStart svg { fill: #9D9DFB !important; }
+.css-ux17pc-MuiButtonBase-root-MuiMenuItem-root-MuiMultiSectionDigitalClockSection-item.Mui-selected { background-color: #1976d2; color: #9D9DFB !important; }
+body.purple-theme .deleted-colors-text span { color: #9D9DFB !important; }
+body.purple-theme .Mui-selected { color: #9D9DFB !important; border-color: #9D9DFB !important;   }
+
+
+
+body.purple-theme .place-floor-buttons-wraps img {filter: brightness(0) saturate(100%)
+        invert(69%) sepia(18%) saturate(2000%)
+        hue-rotate(212deg) brightness(102%) contrast(101%) !important;
+}
+body.purple-theme .select-option img.active {filter: brightness(0) saturate(100%)
+        invert(69%) sepia(18%) saturate(2000%)
+        hue-rotate(212deg) brightness(102%) contrast(101%) !important;
+}
+body.purple-theme .list-and-grid button.Mui-selected img {filter: brightness(0) saturate(100%)
+        invert(69%) sepia(18%) saturate(2000%)
+        hue-rotate(212deg) brightness(102%) contrast(101%) !important;
+}
+body.purple-theme  .logout-icon{filter: brightness(0) saturate(100%)
+        invert(69%) sepia(18%) saturate(2000%)
+        hue-rotate(212deg) brightness(102%) contrast(101%) !important;
+}
+body.purple-theme .no-noti-wrpper img{filter: brightness(0) saturate(100%)
+        invert(69%) sepia(18%) saturate(2000%)
+        hue-rotate(212deg) brightness(102%) contrast(101%) !important;
+}
+
+
+body.purple-theme .search-plans-and-jones ul li.active {    background: linear-gradient(91.75deg, #8378DE -8.36%, #A1A1FF 32.16%, #8378DE 77.32%, #A1A1FF 88.72%, #8378DE 101.13%) !important }
+
+body.purple-theme .MuiDataGrid-row:hover, body.purple-theme .ant-table-content tr:hover {     background: linear-gradient(90.06deg, #fff 0.03%, #d3d2ff 34.82%, #fff 73.74%, #d3d2ff) !important; }
+body.purple-theme .ant-table-content tr.sub-child-row {     background: linear-gradient(90.06deg, #fff 0.03%, #d3d2ff 34.82%, #fff 73.74%, #d3d2ff) !important; }
+body.purple-theme  .ant-table-content tr:hover {     background: linear-gradient(90.06deg, #fff 0.03%, #d3d2ff 34.82%, #fff 73.74%, #d3d2ff) !important; }
+
+body.purple-theme  .role-chip-more {
+    background: #9D9DFB !important;
+}
+
+
+body.purple-theme  .server-tab-button.active { background-color: #9D9DFB ; border-color: #9D9DFB ; color: #fff }
+body.purple-theme  .idrac-system-btn { border: 1px solid #9D9DFB !important; }
+body.purple-theme  .idrac-system-btn:hover { background:rgba(157, 157, 251, 0.1) }
+body.purple-theme  .server-tab-button:hover { border-color: #9D9DFB ; color: #9D9DFB ; }
+body.purple-theme  .server-tab-button.active:hover { border-color: #9D9DFB ; background: #9D9DFB ; color: #fff }
+body.purple-theme  .memory-subtab-btn.active { color: #9D9DFB ; }
+body.purple-theme  .memory-subtab-btn.active::after { background: #9D9DFB ; }
+body.purple-theme .child-site-wrapper span:first-child{ color: #9D9DFB ; }
+body.purple-theme .idrac-action-btn.active-bulb{background: #9D9DFB !important; border-color: #9D9DFB !important; }
+body.purple-theme  .alarm-count-chip{
+        border-color: #9D9DFB; color: #9D9DFB; background:rgba(157, 157, 251, 0.1) !important;
+}
+
+body.purple-theme .api-channel-no{ color:#9D9DFB;}
+body.purple-theme  .server-tab-button.active > div { color: #fff !important; }
+body.purple-theme button.auto-fetch-link {color: #9D9DFB;}
+
+/* turquoise-theme*/
+
+.turquoise-theme .login-main:before { background: linear-gradient(95.11deg, #348212 22.84%, #1E4D0B 66.56%, #649D10 100.25%, #8B44FF 162.86%, #ED0E28 204.82%, #44B0FF 226.15%, #EBFF70 226.17%); }
+body.turquoise-theme  .common-btn-design { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%); color: #fff }
+body.turquoise-theme .login-main:before { background: #1CB5A3; filter: blur(753.3px); }
+body.turquoise-theme  .common-btn-design { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%); }
+body.turquoise-theme button.menu-button.active { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%); }
+body.turquoise-theme .sidebar-main .menu-item .submenu button.submenu-item:before { background: #1CB5A3 }
+body.turquoise-theme .sidebar-main .menu-item .submenu button.submenu-item.active { color: #1CB5A3 }
+body.turquoise-theme .top-orange-head { background: url("../../public/images/lines.png") no-repeat right / contain, linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%) !important; }
+body.turquoise-theme .notification-count { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%); }
+body.turquoise-theme .search-custom-button button { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%); }
+body.turquoise-theme .search-by-device-search-bar .MuiInputBase-root > div { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%); }
+body.turquoise-theme .map-area-bottom-row > button { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%); }
+body.turquoise-theme  .add-widget-wrapper button { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%); }
+body.turquoise-theme .add-zone-list.active, .add-zone-list:hover { color: #1CB5A3;  border-color: #1CB5A3 }
+body.turquoise-theme .breadcrumbs > span:first-child { color: #1CB5A3 }
+body.turquoise-theme .list-and-grid button.Mui-selected { color: #1CB5A3 !important; border-color: #1CB5A3 }
+body.turquoise-theme .after-maintenance > p, body.turquoise-theme .before-maintenance > p{ background-color:  #1CB5A3  }
+
+body.turquoise-theme .table-grid-details button { background: #d8fbed }
+body.turquoise-theme  .cmn-pop-form-inner .device-type-camera input { color: #1CB5A3 !important; }
+body.turquoise-theme  .cmn-pop-form-inner .device-type-camera fieldset { border-color: #1CB5A3 !important; }
+body.turquoise-theme  .css-1gduu4n-MuiButtonBase-root-MuiToggleButton-root.Mui-selected { border: 1px solid #1CB5A3 !important; color: #1CB5A3 !important; }
+body.turquoise-theme  .PrivateSwitchBase-input:checked + svg path { fill: #1CB5A3 }
+body.turquoise-theme .common-btn-design-rounded { background-color: #1CB5A3  !important; }
+body.turquoise-theme .cmn-confirm-delete-icon .MuiPaper-root.MuiPaper-elevation > button + div { background-color: #1CB5A3 }
+body.turquoise-theme .roles-permissions-monitoring button { background: #1CB5A3 ;border-color: #1CB5A3 }
+body.turquoise-theme  .collapse-inner.active { background: #1CB5A3 }
+body.turquoise-theme  .floor-plans-zones form button { background: #1CB5A3 }
+body.turquoise-theme  .time-zone-radio .Mui-checked + span { color: #1CB5A3 !important; }
+body.turquoise-theme   .time-zone-radio .Mui-checked span { color: #1CB5A3 !important; }
+body.turquoise-theme  .roles-premissons-tabs button.Mui-selected { color: #1CB5A3  !important}
+body.turquoise-theme  .roles-premissons-tabs .MuiTabs-indicator { background-color: #1CB5A3 }
+body.turquoise-theme .search-plans-and-jones > div > button { background: #1CB5A3 }
+
+body.turquoise-theme .upload-pro-inner button { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%); }
+body.turquoise-theme .css-102pfd4-MuiDataGrid-root .MuiDataGrid-columnHeader { background-color: #f3ffef !important; }
+
+body.turquoise-theme .dashbourd-retail-details-head { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%); }
+
+body.turquoise-theme .rdrDefinedRangesWrapper .rdrStaticRangeSelected { background: #1CB5A3 }
+body.turquoise-theme  .rdrMonthAndYearWrapper { background: #1CB5A3 }
+
+
+body.turquoise-theme .report-title-with-buttons p b { color: #000; }
+body.turquoise-theme .report-title-with-buttons p { color: #1CB5A3 }
+body.turquoise-theme .common-popup-head svg { fill: #1CB5A3 !important; }
+body.turquoise-theme .rdrSelected, body.turquoise-theme .rdrInRange, body.turquoise-theme .rdrStartEdge, body.turquoise-theme .rdrEndEdge { background: #1CB5A3 !important; }
+body.turquoise-theme .rdrDayToday .rdrDayNumber span:after { background: #1CB5A3 !important; }
+body.turquoise-theme .rdrDayStartPreview, body.turquoise-theme .rdrDayInPreview, .rdrDayEndPreview { border-color: #1CB5A3 !important; }
+body.turquoise-theme .add-widets-listing ul li.active span { color: #1CB5A3 }
+body.turquoise-theme .add-widets-listing ul li:before { background: #1CB5A3 }
+body.turquoise-theme .smtp-setup-wrapper p b { color: #1CB5A3 !important; }
+body.turquoise-theme .Mui-checked svg path { fill: #1CB5A3 !important; }
+body.turquoise-theme .Mui-checked { color: #1CB5A3 !important; }
+body.turquoise-theme svg#Line { fill: #1CB5A3 }
+body.turquoise-theme svg#Line { fill: #FF9500; width: 20px; height: 20px; }
+body.turquoise-theme .selected-theme { border: 2px solid #1CB5A3 }
+body.turquoise-theme .selected-theme svg { background: #1CB5A3 ;border-radius: 100%; }
+body.turquoise-theme  .theme-label div { border-color: #1CB5A3 !important; }
+body.turquoise-theme  .i-icon { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%);}
+body.turquoise-theme  .add-widget-wrapper input + button { background: #1CB5A3 }
+body.turquoise-theme  .custom-set-pop-left-inner .active.MuiBox-root { border-color: #1CB5A3 }
+body.turquoise-theme .floor-plans-zones-left .search-plans-and-jones.monitoring-plan ul li.active { background: transparent !important; }
+body.turquoise-theme .plus-i-widgets { background: linear-gradient(90deg, #7DE7A7 0%, #53DAA7 28%, #35C5A5 56%, #22B9A3 80%, #1CB5A3 96%); border-radius: 12px !important; width: 50px; height: 50px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); }
+body.turquoise-theme .plus-i-widgets:hover {  background: linear-gradient(90deg, #1CB5A3 96%, #22B9A3 80%, #35C5A5 56%, #53DAA7 28%, #7DE7A7 0%); }
+body.turquoise-theme .notifications svg path { fill: #1CB5A3 }
+body.turquoise-theme .add-zone-head button { background: #1CB5A3 }
+body.turquoise-theme  .upload-your-file button { background: #1CB5A3 !important }
+body.turquoise-theme .roles-and-permissions-content-wrapper .user-master svg path { fill: #fff !important; }
+
+
+body.turquoise-theme .add-zone-head .add-zone-list button { background: transparent !important; }
+body.turquoise-theme  .notification-card-read { border-color: #1CB5A3 }
+body.turquoise-theme .notification-header h6 span { color: #1CB5A3 }
+body.turquoise-theme .notification-actions button.read-all-btn { background: rgb(203 243 244);  }
+body.turquoise-theme .rdrStaticRange:hover .rdrStaticRangeLabel, body.turquoise-theme  .rdrStaticRange:focus .rdrStaticRangeLabel { background: #1CB5A3 !important; }
+body.turquoise-theme  .upload-plan-wrapper h4 span { color: #1CB5A3 }
+body.turquoise-theme  .Upload-icons { background: linear-gradient(99.2deg, rgb(158 255 141 / 50%) -0.5%, rgba(255, 255, 255, 0.5) 49.54%, rgb(88 255 77 / 50%) 100%); }
+body.turquoise-theme  .no-noti-wrpper img { filter: brightness(0) saturate(100%) invert(41%) sepia(74%) saturate(358%) hue-rotate(72deg) brightness(92%) contrast(90%) !important; }
+
+/* Base range */
+body.turquoise-theme  input[type="range"]::-webkit-slider-thumb { background-color: #1CB5A3; box-shadow: -407px 0 0 400px #1CB5A3; }
+body.turquoise-theme  .floor-zones-accordion .floor-zones-accordion-wrapper > img.active { border-color: #1CB5A3; }
+body.turquoise-theme  .role-chip { color: #1CB5A3; border-color: #1CB5A3; }
+body.turquoise-theme  button.MuiButtonBase-root.MuiIconButton-edgeStart svg { fill: #1CB5A3 !important; }
+.css-ux17pc-MuiButtonBase-root-MuiMenuItem-root-MuiMultiSectionDigitalClockSection-item.Mui-selected { background-color: #1976d2; color: #1CB5A3 !important; }
+body.turquoise-theme .deleted-colors-text span { color: #1CB5A3 !important; }
+body.turquoise-theme .Mui-selected { color: #1CB5A3 !important; border-color: #1CB5A3 !important;   }
+
+
+
+body.turquoise-theme .place-floor-buttons-wraps img {filter: brightness(0) saturate(100%)
+        invert(55%) sepia(74%) saturate(422%)
+        hue-rotate(122deg) brightness(95%) contrast(92%) !important;
+}
+body.turquoise-theme .select-option img.active {filter: brightness(0) saturate(100%)
+        invert(55%) sepia(74%) saturate(422%)
+        hue-rotate(122deg) brightness(95%) contrast(92%) !important;
+}
+body.turquoise-theme .list-and-grid button.Mui-selected img {filter: brightness(0) saturate(100%)
+        invert(55%) sepia(74%) saturate(422%)
+        hue-rotate(122deg) brightness(95%) contrast(92%) !important;
+}
+body.turquoise-theme  .logout-icon{filter: brightness(0) saturate(100%)
+        invert(55%) sepia(74%) saturate(422%)
+        hue-rotate(122deg) brightness(95%) contrast(92%) !important;
+}
+body.turquoise-theme .no-noti-wrpper img{filter: brightness(0) saturate(100%)
+        invert(55%) sepia(74%) saturate(422%)
+        hue-rotate(122deg) brightness(95%) contrast(92%) !important;
+}
+
+
+
+body.turquoise-theme .search-plans-and-jones ul li.active {    background:linear-gradient(91.75deg, #1eb6a3 -8.36%, #5ddda7 32.16%, #21b8a3 77.32%, #73e4a7 88.72%, #1cb5a3 101.13%)  !important }
+
+body.turquoise-theme .MuiDataGrid-row:hover, body.turquoise-theme .ant-table-content tr:hover {     background: linear-gradient(90.06deg, #fff 0.03%, #c9fff9 34.82%, #fff 73.74%, #c9fff9)  !important; }
+body.turquoise-theme .ant-table-content tr.sub-child-row {     background: linear-gradient(90.06deg, #fff 0.03%, #c9fff9 34.82%, #fff 73.74%, #c9fff9)  !important; }
+body.turquoise-theme  .ant-table-content tr:hover {     background: linear-gradient(90.06deg, #fff 0.03%, #c9fff9 34.82%, #fff 73.74%, #c9fff9)  !important; }
+
+body.turquoise-theme  .role-chip-more {
+    background: #1CB5A3 !important;
+}
+
+body.turquoise-theme .total-channels-items.active > div {
+    color:  #1CB5A3 !important
+}
+
+body.turquoise-theme .total-channels-items.active{
+    border-color: #1CB5A3 !important
+}
+
+
+body.turquoise-theme .Mui-checked .MuiSwitch-thumb {
+   background: #1CB5A3 !important;
+}
+body.turquoise-theme .Mui-checked + .MuiSwitch-track  {
+   background: #1CB5A3 !important;
+}
+
+
+body.turquoise-theme .top-listbar-main-box .top-listbar-main-box { background-color: #1CB5A3; }
+body.turquoise-theme .top-listbar-main-box { background-color: rgba(28, 181, 163, 0.2) !important;  }
+body.turquoise-theme .top-listbar-main-box .list-of-ccm-box p { color: #1CB5A3 }
+body.turquoise-theme .list-main-accordion-box h5 { color: #1CB5A3 }
+body.turquoise-theme .list-main-accordion-repeat-main {background-color: rgba(28, 181, 163, 0.2) !important;}
+body.turquoise-theme .back-to { color: #1CB5A3; }
+body.turquoise-theme .back-to:before { border-color: #1CB5A3 }
+
+body.turquoise-theme  .server-tab-button.active { background-color:#1CB5A3 ; border-color:#1CB5A3 ; color: #fff }
+body.turquoise-theme  .idrac-system-btn { border: 1px solid#1CB5A3 !important; }
+body.turquoise-theme  .idrac-system-btn:hover { background: rgba(28, 181, 163, 0.1) }
+body.turquoise-theme  .server-tab-button:hover { border-color:#1CB5A3 ; color:#1CB5A3 ; }
+body.turquoise-theme  .server-tab-button.active:hover { border-color:#1CB5A3 ; background:#1CB5A3 ; color: #fff }
+body.turquoise-theme  .memory-subtab-btn.active { color:#1CB5A3 ; }
+body.turquoise-theme  .memory-subtab-btn.active::after { background:#1CB5A3 ; }
+body.turquoise-theme .child-site-wrapper span:first-child{ color: #1CB5A3 ; }
+body.turquoise-theme .idrac-action-btn.active-bulb{background: #1CB5A3 !important;; border-color: #1CB5A3 !important; }
+body.turquoise-theme  .alarm-count-chip{
+        border-color: #1CB5A3; color: #1CB5A3; background: rgba(28, 181, 163, 0.1)  !important;
+}
+body.turquoise-theme .api-channel-no{ color: #1CB5A3 }
+
+body.turquoise-theme  .server-tab-button.active > div { color: #fff !important; }
+body.turquoise-theme button.auto-fetch-link {color:#1CB5A3;}
+
+/* lime-theme*/
+
+.lime-theme .login-main:before { background: linear-gradient(95.11deg, #348212 22.84%, #1E4D0B 66.56%, #649D10 100.25%, #8B44FF 162.86%, #ED0E28 204.82%, #44B0FF 226.15%, #EBFF70 226.17%); }
+body.lime-theme .common-btn-design { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%); color: #fff }
+body.lime-theme .login-main:before { background: #4ACD7B; filter: blur(753.3px); }
+body.lime-theme .common-btn-design { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%); }
+body.lime-theme button.menu-button.active { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%); }
+body.lime-theme .sidebar-main .menu-item .submenu button.submenu-item:before { background: #4ACD7B }
+body.lime-theme .sidebar-main .menu-item .submenu button.submenu-item.active { color: #4ACD7B }
+body.lime-theme .top-orange-head { background: url("../../public/images/lines.png") no-repeat right / contain, linear-gradient(90deg, #46CC7C 0%, #D1F252 100%) !important; }
+body.lime-theme .notification-count { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%); }
+body.lime-theme .search-custom-button button { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%); }
+body.lime-theme .search-by-device-search-bar .MuiInputBase-root > div { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%); }
+body.lime-theme .map-area-bottom-row > button { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%); }
+body.lime-theme .add-widget-wrapper button { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%); }
+body.lime-theme .add-zone-list.active, .add-zone-list:hover { color: #4ACD7B;  border-color: #4ACD7B }
+body.lime-theme .breadcrumbs > span:first-child { color: #4ACD7B }
+body.lime-theme .list-and-grid button.Mui-selected { color: #4ACD7B !important; border-color: #4ACD7B }
+body.lime-theme .after-maintenance > p, body.lime-theme .before-maintenance > p{ background-color: #4ACD7B  }
+
+body.lime-theme  .table-grid-details button { background: #ddffea }
+body.lime-theme  .cmn-pop-form-inner .device-type-camera input { color: #4ACD7B !important; }
+body.lime-theme  .cmn-pop-form-inner .device-type-camera fieldset { border-color: #4ACD7B !important; }
+body.lime-theme  .css-1gduu4n-MuiButtonBase-root-MuiToggleButton-root.Mui-selected { border: 1px solid #4ACD7B !important; color: #4ACD7B !important; }
+body.lime-theme  .PrivateSwitchBase-input:checked + svg path { fill: #4ACD7B }
+body.lime-theme  .common-btn-design-rounded { background-color: #4ACD7B  !important; }
+body.lime-theme  .cmn-confirm-delete-icon .MuiPaper-root.MuiPaper-elevation > button + div { background-color: #4ACD7B }
+body.lime-theme  .roles-permissions-monitoring button { background: #4ACD7B ;border-color: #4ACD7B }
+body.lime-theme  .collapse-inner.active { background: #4ACD7B }
+body.lime-theme  .floor-plans-zones form button { background: #4ACD7B }
+body.lime-theme  .time-zone-radio .Mui-checked + span { color: #4ACD7B !important; }
+body.lime-theme  .time-zone-radio .Mui-checked span { color: #4ACD7B !important; }
+body.lime-theme  .roles-premissons-tabs button.Mui-selected { color: #4ACD7B  !important}
+body.lime-theme  .roles-premissons-tabs .MuiTabs-indicator { background-color: #4ACD7B }
+body.lime-theme  .search-plans-and-jones > div > button { background: #4ACD7B }
+
+body.lime-theme  .upload-pro-inner button { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%); }
+body.lime-theme  .css-102pfd4-MuiDataGrid-root .MuiDataGrid-columnHeader { background-color: #f3ffef !important; }
+body.lime-theme  .dashbourd-retail-details-head { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%); }
+body.lime-theme  .rdrDefinedRangesWrapper .rdrStaticRangeSelected { background: #4ACD7B }
+body.lime-theme  .rdrMonthAndYearWrapper { background: #4ACD7B }
+
+
+body.lime-theme .report-title-with-buttons p b { color: #000; }
+body.lime-theme .report-title-with-buttons p { color: #4ACD7B }
+body.lime-theme .common-popup-head svg { fill: #4ACD7B !important; }
+body.lime-theme .rdrSelected, body.lime-theme .rdrInRange, body.lime-theme .rdrStartEdge, body.lime-theme .rdrEndEdge { background: #4ACD7B !important; }
+body.lime-theme .rdrDayToday .rdrDayNumber span:after { background: #4ACD7B !important; }
+body.lime-theme .rdrDayStartPreview, body.lime-theme .rdrDayInPreview, .rdrDayEndPreview { border-color: #4ACD7B !important; }
+body.lime-theme .add-widets-listing ul li.active span { color: #4ACD7B }
+body.lime-theme .add-widets-listing ul li:before { background: #4ACD7B }
+body.lime-theme .smtp-setup-wrapper p b { color: #4ACD7B !important; }
+body.lime-theme .Mui-checked svg path { fill: #4ACD7B !important; }
+body.lime-theme .Mui-checked { color: #4ACD7B !important; }
+body.lime-theme svg#Line { fill: #4ACD7B }
+body.lime-theme svg#Line { fill: #FF9500; width: 20px; height: 20px; }
+body.lime-theme .selected-theme { border: 2px solid #4ACD7B }
+body.lime-theme .selected-theme svg { background: #4ACD7B ;border-radius: 100%; }
+body.lime-theme  .theme-label div { border-color: #4ACD7B !important; }
+body.lime-theme  .i-icon { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%);}
+body.lime-theme  .add-widget-wrapper input + button { background: #4ACD7B }
+body.lime-theme  .custom-set-pop-left-inner .active.MuiBox-root { border-color: #4ACD7B }
+body.lime-theme .floor-plans-zones-left .search-plans-and-jones.monitoring-plan ul li.active { background: transparent !important; }
+body.lime-theme .plus-i-widgets { background: linear-gradient(90deg, #46CC7C 0%, #D1F252 100%); border-radius: 12px !important; width: 50px; height: 50px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); }
+body.lime-theme .plus-i-widgets:hover {  background: linear-gradient(90deg, #4ACD7B 96%, #22B9A3 80%, #35C5A5 56%, #53DAA7 28%, #7DE7A7 0%); }
+body.lime-theme .notifications svg path { fill: #4ACD7B }
+body.lime-theme .add-zone-head button { background: #4ACD7B }
+body.lime-theme  .upload-your-file button { background: #4ACD7B !important }
+body.lime-theme .roles-and-permissions-content-wrapper .user-master svg path { fill: #fff !important; }
+
+
+body.lime-theme .add-zone-head .add-zone-list button { background: transparent !important; }
+body.lime-theme  .notification-card-read { border-color: #4ACD7B }
+body.lime-theme .notification-header h6 span { color: #4ACD7B }
+body.lime-theme .notification-actions button.read-all-btn { background: rgb(190 255 223); }
+body.lime-theme .rdrStaticRange:hover .rdrStaticRangeLabel, body.lime-theme  .rdrStaticRange:focus .rdrStaticRangeLabel { background: #4ACD7B !important; }
+body.lime-theme  .upload-plan-wrapper h4 span { color: #4ACD7B }
+body.lime-theme  .Upload-icons { background: linear-gradient(99.2deg, rgb(158 255 141 / 50%) -0.5%, rgba(255, 255, 255, 0.5) 49.54%, rgb(88 255 77 / 50%) 100%); }
+body.lime-theme  .no-noti-wrpper img { filter: brightness(0) saturate(100%) invert(41%) sepia(74%) saturate(358%) hue-rotate(72deg) brightness(92%) contrast(90%) !important; }
+
+/* Base range */
+body.lime-theme  input[type="range"]::-webkit-slider-thumb { background-color: #4ACD7B; box-shadow: -407px 0 0 400px #4ACD7B; }
+body.lime-theme  .floor-zones-accordion .floor-zones-accordion-wrapper > img.active { border-color: #4ACD7B; }
+body.lime-theme  .role-chip { color: #4ACD7B; border-color: #4ACD7B; }
+body.lime-theme  button.MuiButtonBase-root.MuiIconButton-edgeStart svg { fill: #4ACD7B !important; }
+.css-ux17pc-MuiButtonBase-root-MuiMenuItem-root-MuiMultiSectionDigitalClockSection-item.Mui-selected { background-color: #1976d2; color: #4ACD7B !important; }
+body.lime-theme .deleted-colors-text span { color: #4ACD7B !important; }
+body.lime-theme .Mui-selected { color: #4ACD7B !important; border-color:  #4ACD7B !important;  }
+
+
+
+body.lime-theme .place-floor-buttons-wraps img {filter: brightness(0) saturate(100%)
+        invert(64%) sepia(35%) saturate(589%)
+        hue-rotate(98deg) brightness(96%) contrast(94%) !important;
+}
+body.lime-theme .select-option img.active {filter: brightness(0) saturate(100%)
+        invert(64%) sepia(35%) saturate(589%)
+        hue-rotate(98deg) brightness(96%) contrast(94%) !important;
+}
+body.lime-theme .list-and-grid button.Mui-selected img {filter: brightness(0) saturate(100%)
+        invert(64%) sepia(35%) saturate(589%)
+        hue-rotate(98deg) brightness(96%) contrast(94%) !important;
+}
+body.lime-theme  .logout-icon{filter: brightness(0) saturate(100%)
+        invert(64%) sepia(35%) saturate(589%)
+        hue-rotate(98deg) brightness(96%) contrast(94%) !important;
+}
+body.lime-theme .no-noti-wrpper img{filter: brightness(0) saturate(100%)
+        invert(64%) sepia(35%) saturate(589%)
+        hue-rotate(98deg) brightness(96%) contrast(94%) !important;
+}
+
+
+body.lime-theme .search-plans-and-jones ul li.active {    background: linear-gradient(91.75deg, #48cd7c -8.36%, #ccf153 32.16% 32.16%, #48cc7b 77.32%, #c1ed56 88.72%, #48cc7b 101.13%) !important ; }
+
+body.lime-theme .MuiDataGrid-row:hover, body.lime-theme .ant-table-content tr:hover {     background:linear-gradient(90.06deg, #fff 0.03%, #b9ffd1 34.82%, #fff 73.74%, #b9ffd1) !important; }
+body.lime-theme .ant-table-content tr.sub-child-row {     background:linear-gradient(90.06deg, #fff 0.03%, #b9ffd1 34.82%, #fff 73.74%, #b9ffd1) !important; }
+body.lime-theme  .ant-table-content tr:hover {     background:linear-gradient(90.06deg, #fff 0.03%, #b9ffd1 34.82%, #fff 73.74%, #b9ffd1) !important; }
+
+
+body.lime-theme .role-chip-more {
+    background: #4ACD7B !important;
+}
+
+
+body.lime-theme .total-channels-items.active > div {
+    color:  #4ACD7B !important
+}
+
+body.lime-theme .total-channels-items.active{
+    border-color: #4ACD7B !important
+}
+  
+
+
+
+
+body.lime-theme  .Mui-checked .MuiSwitch-thumb {
+   background: #4ACD7B  !important;
+}
+body.lime-theme  .Mui-checked + .MuiSwitch-track  {
+   background: #4ACD7B  !important;
+}
+
+body.lime-theme .top-listbar-main-box .top-listbar-main-box { background-color: #4ACD7B; }
+body.lime-theme .top-listbar-main-box {    background-color: rgba(74, 205, 123, 0.2) !important; }
+body.lime-theme .top-listbar-main-box .list-of-ccm-box p { color: #4ACD7B }
+body.lime-theme .list-main-accordion-box h5 { color: #4ACD7B }
+body.lime-theme .list-main-accordion-repeat-main {    background-color: rgba(74, 205, 123, 0.2) !important;}
+body.lime-theme .back-to { color: #4ACD7B; }
+body.lime-theme .back-to:before { border-color: #4ACD7B }
+
+
+body.lime-theme .server-tab-button.active { background-color:#4ACD7B ; border-color:#4ACD7B ; color: #fff }
+body.lime-theme .idrac-system-btn { border: 1px solid #4ACD7B !important; }
+body.lime-theme .idrac-system-btn:hover { background:  rgba(74, 205, 123, 0.1); }
+body.lime-theme .server-tab-button:hover { border-color:#4ACD7B ; color:#4ACD7B ; }
+body.lime-theme .server-tab-button.active:hover { border-color:#4ACD7B ; background:#4ACD7B ; color: #fff }
+body.lime-theme .memory-subtab-btn.active { color:#4ACD7B ; }
+body.lime-theme .memory-subtab-btn.active::after { background: #4ACD7B ; }
+body.lime-theme .child-site-wrapper span:first-child{ color: #4ACD7B  ; }
+body.lime-theme  .idrac-action-btn.active-bulb{background:   !important;; border-color: #4ACD7B !important; }
+body.lime-theme .api-channel-no{ color: #4ACD7B}
+
+body.lime-theme .alarm-count-chip{
+        border-color:  #4ACD7B; color:  #4ACD7B; background:  rgba(74, 205, 123, 0.1)  !important;
+}
+
+body.lime-theme button.auto-fetch-link {color:#4ACD7B;}

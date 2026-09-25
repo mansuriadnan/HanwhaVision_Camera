@@ -1,0 +1,1353 @@
+{
+  "_comment_header": "Beschriftungen für den Kopfbereich",
+  "Dashboards": "Dashboards",
+  "Welcome_content": "Willkommen im BI-Dashboard",
+  "Profile": "Profil",
+  "Preferences": "Einstellungen",
+  "Change_Password": "Passwort ändern",
+  "Logout": "Abmelden",
+  "Change_Password_Restriction": "Passwortänderungen sind eingeschränkt.",
+  "Change_Password_Restriction_Content": "Bitte wenden Sie sich an Ihren Administrator, um Ihr Passwort zu aktualisieren.",
+  "Okay": "OK",
+
+  "_comment_Notification_Drawer": "Beschriftungen für den Benachrichtigungsbereich",
+  "Notification": "Benachrichtigung",
+  "Read_All": "Alle als gelesen markieren",
+  "No_Notification": "Derzeit sind keine Benachrichtigungen verfügbar.",
+  "Load_more": "Weitere werden geladen...",
+
+  "_comment_Welcome_Page": "Beschriftungen für die Willkommensseite",
+  "welcome_to": "Willkommen bei",
+  "BI_DASHBOARD": "BI-DASHBOARD",
+
+  "Login": {
+    "Login_Header": "Anmelden",
+    "Login_Line1": "Maximieren Sie Sicherheit, Effizienz und Erkenntnisse",
+    "Login_Line2": "Echtzeit-Dashboard-Analysen für Erkenntnisse",
+    "Login_Line3": "zu Sicherheit und Business Intelligence",
+    "Login_Form": "Geben Sie Ihre Kontodaten ein",
+    "Form_UserName": "Benutzername/E-Mail",
+    "Login_Email_Placeholder": "Benutzernamen oder E-Mail-Adresse eingeben",
+    "Login_Email_Require": "Benutzername oder E-Mail ist erforderlich",
+    "Login_Email_validation": "Geben Sie einen gültigen Benutzernamen oder eine gültige E-Mail ein.",
+    "Login_Password": "Passwort",
+    "Login_Pass_Placeholder": "Passwort eingeben",
+    "Login_Pass_Require": "Passwort ist erforderlich.",
+    "Forgot_Password": "Passwort vergessen",
+    "Forgot_Password_lable1": "Passwort-Zurücksetzungen sind eingeschränkt",
+    "Forgot_Password_lable2": "Bitte wenden Sie sich an Ihren Administrator, um das Passwort zurückzusetzen.",
+    "Okay": "OK",
+    "Logout_Confirmation": "Abmeldebestätigung",
+    "Logout_Confirmation1": "Sind Sie sicher, dass Sie sich abmelden möchten?",
+    "Confirm": "Bestätigen"
+  },
+
+  "Reset_Password_Screen": {
+    "Reset_Password": "Passwort zurücksetzen",
+    "New_Password": "Neues Passwort",
+    "New_Password_Placeholder": "Neues Passwort eingeben",
+    "New_Password_Required": "Neues Passwort ist erforderlich."
+  },
+
+  "Preferences_Menu": {
+    "Theme_Colors": "Themenfarben",
+    "Theme": "Thema",
+    "Time_Zone": "Zeitzone",
+    "Sync_with_OS": "Mit dem Betriebssystem synchronisieren",
+    "Manual_setup": "Manuelle Einrichtung",
+    "Daylight_Savings": "Sommerzeit",
+    "Time_zone_placeholder": "Zeitzone auswählen",
+    "Time_zone_require": "Bitte wählen Sie eine Zeitzone aus",
+    "Time_Format": "Zeitformat",
+    "12_Hrs": "12 Std.",
+    "24_Hrs": "24 Std.",
+    "Language": "Sprache",
+    "Language_required": "Sprache ist erforderlich",
+    "Apply": "Übernehmen"
+  },
+
+  "sidebar": {
+    "UserManagement": "Benutzerverwaltung",
+    "User": "Benutzer",
+    "Roles": "Rollen",
+    "Permissions": "Berechtigungen",
+
+    "Configurations": "Konfigurationen",
+    "ManageDevice": "Geräte verwalten",
+    "CameraMaster": "Kamera-Verwaltung",
+    "ZoneMaster": "Zonen-Verwaltung",
+    "DeviceMaster": "Geräte-Verwaltung",
+    "FloorPlansAndZones": "Grundrisse & Zonen",
+
+    "Dashboards": "Dashboards",
+    "Add_Dashboard_btn": "Dashboard hinzufügen",
+    "Retail": "Einzelhandel",
+    "Traffic": "Verkehr",
+    "Events": "Ereignisse",
+    "Monitoring": "Überwachung",
+    "Add_Monitoring_btn": "Überwachung hinzufügen",
+    "Reports": "Berichte",
+    "Settings": "Einstellungen",
+    "ManageUsers": "Benutzer verwalten",
+    "MultisiteSetup": "Multi-Site-Setup",
+    "RolesAndPermissions": "Rollen & Berechtigungen",
+    "SettingsGeneral": "Allgemein",
+    "SettingsLicense": "Lizenz",
+    "EventLogs": "Ereignisprotokolle",
+    "MyReports": "Meine Berichte",
+    "WelcomePage": "Willkommen zurück!",
+    "WelcomePagesubtitle": "Willkommen im BI-Dashboard",
+    "Backup_Restore": "Sicherung & Wiederherstellung",
+
+    "ANPR": "ANPR",
+    "Audit": "Audit",
+    "VehicleOwners": "Fahrzeughalter",
+    "Version": "Version",
+    "LPR_Title": "LPR",
+
+    "Maintenance": "Wartung",
+    "Maintenance_Plan": "Wartungsplan",
+    "Maintenance_Schedule": "Wartungszeitplan",
+    "RMA": "RMA",
+    "Server_Management": "Serververwaltung",
+    "SSM_Monitoring": "SSM Überwachung",
+    "SSM_Dashboards": "Dashboard",
+    "Manage_Server": "Server verwalten"
+  },
+
+  "Dashboard": {
+    "New_Dashboard_header": "Neues Dashboard",
+    "New_Dashboard_Description": "Fügen Sie hier Ihre Dashboard-Informationen hinzu, aktualisieren oder löschen Sie sie..",
+    "Add_Widget": "Widget hinzufügen",
+    "Add_Widget_line1": "Es sind noch keine Widgets für Sie verfügbar,",
+    "Add_Widget_line2": "Wenn Sie ein neues Widget erstellen möchten, wählen Sie einfach die Schaltfläche aus.",
+    "Add_Widget_btn_text": "Widget hinzufügen",
+    "Dashboard_Placeholder": "Dashboard-Namen eingeben",
+    "Dashboard_Strong_Validation": "Der Dashboard-Name darf {{max}} Zeichen nicht überschreiten",
+    "Monitoring_Placeholder": "Überwachungsnamen eingeben",
+    "Monitoring_Strong_Validation": "Der Überwachungsname darf {{max}} Zeichen nicht überschreiten"
+  },
+
+  "Manage_Device": {
+    "Manage_Device_header": "Geräte verwalten",
+    "Manage_Device_Description": "Fügen Sie neue Geräte wie Smart-Kameras & KI-Boxen hinzu..",
+    "Upload_Bulk_Device_btn": "Massen-Upload",
+    "Add_Devices_btn": "Geräte hinzufügen",
+    "List_Of_Devices": "Geräteliste",
+    "Device_Search_Placeholder_text": "Suche nach Gerätename, Modell, Seriennummer, IP-Adresse, Zone oder MAC-Adresse...",
+    "Reload_btn": "Neu laden",
+    "Remove_btn": "Entfernen",
+    "List_view": "Liste",
+    "Grid_view": "Raster",
+    "Edit_camera": "Gerät bearbeiten",
+    "Add_Device": "Gerät hinzufügen",
+    "Export_btn": "Exportieren",
+    "Sample_File": "Beispieldatei",
+    "Open_Gate": "Tor öffnen",
+
+    "Manage_Device_Grid_column": {
+      "Device_name": "Gerätename",
+      "Model": "Modell",
+      "IP_Address": "IP-Adresse",
+      "Location": "Standort",
+      "Zones": "Zonen",
+      "Serial_number": "Seriennummer",
+      "macAddress": "MAC-Adresse",
+      "DeviceType": "Gerätetyp",
+      "Actions": "Aktionen",
+      "Maintenance_Mode": "Wartungsmodus"
+    },
+
+    "Add_Edit_Device_Drawer": {
+      "Select_Device_Type": "Gerätetyp auswählen",
+      "Device_Name": "Gerätename",
+      "Device_Name_placeholder": "Gerätenamen eingeben",
+      "IP_Address": "IP-Adresse",
+      "IP_Address_placeholder": "IP-Adresse eingeben",
+      "Username": "Benutzername",
+      "Username_placeholder": "Benutzernamen eingeben",
+      "Password": "Passwort",
+      "Password_placeholder": "Passwort eingeben",
+      "Port": "Port",
+      "Port_placeholder": "Port eingeben",
+      "Use_HTTPS": "HTTPS verwenden",
+      "Location": "Standort",
+      "Location_placeholder": "Standort eingeben",
+      "Total_Channels": "Gesamtanzahl Kanäle",
+      "AssetsTag": "Asset-Tag",
+      "AssetsTag_placeholder": "Asset-Tag eingeben",
+      "ManufacturingDate": "Herstellungsdatum",
+      "Camera_Direction": "Kamerarichtung",
+      "Entry": "Eingang",
+      "Exit": "Ausgang"
+    },
+
+    "Upload_Bulk_Device_Drawer": {
+      "Upload_Device": "Gerät hochladen",
+      "Upload_your_device_file": "Laden Sie Ihre Gerätedatei (.xlsx) oder (.xls) hoch",
+      "Selected_File": "Ausgewählte Datei: {{fileName}}",
+      "Browse_and_choose_files_line1": "Durchsuchen und wählen Sie die Dateien aus, die Sie",
+      "Browse_and_choose_files_line2": "von Ihrem Computer hochladen möchten",
+      "Upload": "Hochladen"
+    },
+
+    "validation": {
+      "Device_Type_required": "Gerätetyp ist erforderlich",
+      "Device_Name_required": "Gerätename ist erforderlich.",
+      "IP_Address_required": "IP-Adresse ist erforderlich.",
+      "IP_Address_strong_validation": "Geben Sie eine gültige IP-Adresse ein",
+      "Username_required": "Benutzername ist erforderlich.",
+      "Username_strong_validation": "Geben Sie einen gültigen Benutzernamen ein",
+      "Password_required": "Passwort ist erforderlich",
+      "Port_required": "Port ist erforderlich",
+      "Port_strong_validation": "Geben Sie einen gültigen Port ein",
+      "Location_required": "Standort ist erforderlich",
+      "Camera_direction_required": "Kamerarichtung ist erforderlich"
+    }
+  },
+
+  "Floor_Plan_zones": {
+    "Floor_Plan_zones_header": "Grundrisse & Zonen",
+    "Floor_Plan_zones_Description": "Konfigurieren Sie Ihre Grundrisse, definieren Sie die zugehörigen Zonen und verwalten Sie hier die Kamerakonfigurationen für die jeweilige Zone.",
+    "Search_floor_placeholder": "Grundriss suchen..",
+    "Floor_plan_name_placeholder": "Grundriss eingeben",
+    "Device_Search_placeholder": "Gerät nach Name / IP / Modell suchen",
+    "validation": {
+      "Floor_name_is_required": "Etagenname ist erforderlich",
+      "Floor_name_strong_validation": "Der Grundrissname darf nur Buchstaben und Zahlen enthalten. Sonderzeichen sind nicht erlaubt.",
+      "Floor_name_MAX_validation": "Der Etagenname darf 50 Zeichen nicht überschreiten",
+      "Floor_name_MIN_validation": "Der Etagenname muss mindestens 3 Zeichen enthalten.",
+      "Zone_name_required": "Zonenname ist erforderlich",
+      "Zone_name_strong_validation": "Der Zonenname darf nur Buchstaben und Zahlen enthalten. Sonderzeichen sind nicht erlaubt.",
+      "Zone_name_MAX_validation": "Der Zonenname darf höchstens 20 Zeichen lang sein",
+      "Zone_name_MIN_validation": "Der Zonenname muss mindestens 3 Zeichen enthalten.",
+      "People_occupancy_validation": "Die Standardbelegung für Personen muss kleiner als die Personenbelegung sein",
+      "Vehicle_occupancy_validation": "Die Standardbelegung für Fahrzeuge muss kleiner als die Fahrzeugbelegung sein"
+    },
+    "Re_Draw_Zone_btn": "Zone neu zeichnen",
+    "Draw_Zone_btn": "Zone zeichnen",
+    "Replace_Floor": "Grundriss ersetzen",
+    "Save_Changes": "Änderungen speichern",
+    "Upload_Your_Floor_Plan": "Grundriss hochladen",
+    "DropImageHere": "Bild hier ablegen, oder",
+    "Browse": "Durchsuchen",
+    "SupportedFormats": "Unterstützt: JPG, JPEG, PNG, SVG, PDF",
+    "Delete_Camera": "Kamera löschen",
+    "Focal": "Fokal",
+    "Sphere": "Kugel",
+    "Color_fill": "Farbfüllung",
+    "Add_Edit_Zone_Drawer": {
+      "Add_Zone": "Zone hinzufügen",
+      "Edit_Zone": "Zone bearbeiten",
+      "Name": "Name",
+      "Name_Placeholder": "Zonennamen eingeben",
+      "People_Occupancy": "Personenbelegung",
+      "MAX_Occupancy_Placeholder": "Maximale Belegung eingeben",
+      "Default_Occupancy_Placeholder": "Standardbelegung eingeben",
+      "Vehicle_Occupancy": "Fahrzeugbelegung",
+      "Is_Parking_Zone": "Ist Parkzone"
+    },
+    "No_Data": {
+      "No_data_available": "Keine Daten verfügbar",
+      "No_data_description1": "Keine Daten verfügbar, um Grundrisse, deren zugehörige Zonen oder",
+      "No_data_description2": "konfigurierte Kameras für die angegebenen Zonen zu laden."
+    }
+  },
+
+  "Event_log": {
+    "Event_log_header": "Ereignisprotokolle",
+    "Event_log_Description": "Verfolgen Sie hier alle Ereignisse..",
+    "List_Of_Events": "Liste der Ereignisse",
+    "Event_log_Grid_column": {
+      "Date_Time": "Datum & Uhrzeit",
+      "Event_Name": "Ereignisname",
+      "Description": "Beschreibung",
+      "Floor_name": "Etagenname",
+      "Zone_name": "Zonenname",
+      "Video_link": "Video-Link",
+      "Status": "Status",
+      "Actions": "Aktionen"
+    },
+    "Event_Log_Filter": {
+      "Filter": "Filter",
+      "Floor": "Etage(n)",
+      "Zone": "Zone(n)",
+      "Event": "Ereignis(se)",
+      "Status": "Status",
+      "Date_Range": "Datumsbereich",
+      "Reset_btn": "Zurücksetzen",
+      "Search_btn": "Suchen"
+    }
+  },
+
+  "Monitoring": {
+    "Monitoring_header": "Neue Gruppe hinzufügen",
+    "Monitoring_Description": "Konfigurieren Sie hier Ihre Überwachung..",
+    "Add_New_Group": "Neue Gruppe hinzufügen",
+    "Groupname_placeholder": "Gruppennamen eingeben",
+    "Add_New_Group_line1": "Es sind noch keine Gruppen für Sie konfiguriert.",
+    "Add_New_Group_line2": "Um eine neue Gruppe zu erstellen, klicken Sie bitte auf die Schaltfläche unten",
+    "Add_URL_Preview": "URL-Vorschau hinzufügen",
+    "Unable_Preview": "Diese URL kann nicht in der Vorschau angezeigt werden.",
+    "No_Preview_Line1": "Es sind noch keine URL-Vorschauen für Sie konfiguriert.",
+    "No_Preview_Line2": "Um eine neue URL-Vorschau zu erstellen, klicken Sie bitte auf die Schaltfläche unten",
+    "validation": {
+      "GroupName_required": "Gruppenname ist erforderlich",
+      "GroupName_Strong_validation": "Der Gruppenname darf 50 Zeichen nicht überschreiten",
+      "Add_Monitoring_Permission_validation": "Sie haben keine Berechtigung, eine Überwachungsgruppe hinzuzufügen",
+      "View_Monitoring_Permission_validation": "Sie haben keine Berechtigung, die Überwachungsgruppe anzuzeigen",
+      "Name_required": "Name ist erforderlich.",
+      "Name_strong_validation": "Der Name darf {{max}} Zeichen nicht überschreiten",
+      "URL_Required": "URL ist erforderlich.",
+      "Location_required": "Standort ist erforderlich.",
+      "Add_URL_Preview_Permission_validation": "Sie haben keine Berechtigung, eine URL-Vorschau hinzuzufügen."
+    },
+    "URL_Preiview_Drawer": {
+      "Edit_URL_Preview": "URL-Vorschau bearbeiten",
+      "Name": "Name",
+      "Name_Placeholder": "Namen eingeben",
+      "URL": "URL",
+      "URL_Placeholder": "URL eingeben",
+      "Location": "Standort",
+      "Location_placeholder": "Standort eingeben"
+    }
+  },
+
+  "Manage_User": {
+    "Manage_User_header": "Benutzer verwalten",
+    "Manage_User_Description": "Fügen Sie hier Benutzerinformationen hinzu, aktualisieren oder löschen Sie sie..",
+    "Add_User": "Benutzer hinzufügen",
+    "Edit_User": "Benutzer bearbeiten",
+    "Delete_User": "Benutzer löschen",
+    "List_Of_Users": "Benutzerliste",
+    "Search_User_Placeholder": "Suche nach vollständigem Namen, Benutzername, E-Mail",
+    "Manage_User_Grid_column": {
+      "Username": "Benutzername",
+      "Full_Name": "Vollständiger Name",
+      "Email": "E-Mail",
+      "Roles": "Rollen",
+      "Created_By": "Erstellt von",
+      "Created_On": "Erstellt am",
+      "Updated_By": "Zuletzt aktualisiert von",
+      "Updated_On": "Zuletzt aktualisiert am",
+      "Actions": "Aktionen"
+    },
+    "Validation": {
+      "FirstName_Required": "Vorname ist erforderlich.",
+      "FistName_Valid": "Geben Sie einen gültigen Vornamen ein",
+      "FirstName_Strong_Validation": "Der Vorname darf {{max}} Zeichen nicht überschreiten",
+      "LastName_Required": "Nachname ist erforderlich.",
+      "LastName_Valid": "Geben Sie einen gültigen Nachnamen ein",
+      "LastName_Strong_Validation": "Der Nachname darf {{max}} Zeichen nicht überschreiten",
+      "Username_Required": "Benutzername ist erforderlich.",
+      "Username_Valid": "Geben Sie einen gültigen Benutzernamen ein",
+      "Username_Strong_Validation": "Der Benutzername darf {{max}} Zeichen nicht überschreiten",
+      "Email_Required": "E-Mail-Adresse ist erforderlich",
+      "Email_Valid": "Geben Sie eine gültige E-Mail-Adresse ein",
+      "Email_Strong_Validation": "Die E-Mail-Adresse darf {{max}} Zeichen nicht überschreiten",
+      "Password_Required": "Passwort ist erforderlich",
+      "Password_Strong_Validation": "Das Passwort muss zwischen 8 und 16 Zeichen lang sein und mindestens einen Großbuchstaben, einen Kleinbuchstaben, eine Zahl und ein Sonderzeichen enthalten (außer *)",
+      "Password_Max_Validation": "Das Passwort darf {{max}} Zeichen nicht überschreiten",
+      "Confirm_Password_Required": "Passwortbestätigung ist erforderlich",
+      "Confirm_Password_Match": "Passwort und Bestätigungspasswort müssen übereinstimmen",
+      "Role_Required": "Mindestens eine Rolle muss ausgewählt werden"
+    },
+    "Add_Edit_User_Drawer": {
+      "First_Name": "Vorname",
+      "First_Name_Placeholder": "Vornamen eingeben",
+      "Last_Name": "Nachname",
+      "Last_Name_Placeholder": "Nachnamen eingeben",
+      "Username": "Benutzername",
+      "Username_Placeholder": "Benutzernamen eingeben",
+      "Email": "E-Mail-Adresse",
+      "Email_Placeholder": "E-Mail-Adresse eingeben",
+      "Password": "Passwort",
+      "Password_Placeholder": "Passwort eingeben",
+      "Confirm_Password": "Passwort bestätigen",
+      "Confirm_Password_Placeholder": "Passwortbestätigung eingeben",
+      "Roles": "Rollen",
+      "Roles_Placeholder": "Rolle(n) auswählen"
+    }
+  },
+
+  "Role_Permission": {
+    "Search_Role": "Nach Rollennamen suchen",
+    "No_Roles_Found": "Keine Rollen gefunden",
+    "Permission_No_Data_Message": "Keine Daten verfügbar, um Berechtigungen anzuzeigen. Bitte fügen Sie eine neue Rolle hinzu, indem Sie auf die Schaltfläche <strong>Hinzufügen</strong> klicken.",
+    "Save_changes": "Änderungen speichern",
+    "No_zones_available": "Keine Zonen verfügbar",
+    "No_Floor_Zone_Available": "Keine Daten verfügbar. Bitte erstellen Sie einen Grundriss und Zonen, um Berechtigungen zu konfigurieren",
+    "No_Widgets_available": "Keine Widgets verfügbar",
+    "Permissions": "Berechtigungen",
+    "Is_Allowed": "Zulässig",
+    "Screens": "Bildschirme",
+    "Floor_Zones": "Etage & Zonen",
+    "Widgets": "Widgets",
+    "Validation": {
+      "Role_Required": "Rollenname ist erforderlich"
+    }
+  },
+
+  "Multisite_Setup": {
+    "Multisite_Setup": "Multi-Site-Setup",
+    "Multisite_Setup_Description": "Konfigurieren Sie hier Ihre zugehörigen Child- und Sub-Child-Sites..",
+    "Add_Child_Site": "Child-Site hinzufügen",
+    "Edit_Child_Site": "Child-Site bearbeiten",
+    "List_Child_Sub_Child": "Liste der Child- & Sub-Child-Sites",
+    "Search": "Suche nach Site-Name, Hosting-Adresse, Benutzername",
+    "Add_Sub_Child_Site": "Sub-Child-Site hinzufügen",
+    "Edit_Sub_Child_Site": "Sub-Child-Site bearbeiten",
+    "Delete_Child_Site_Confirmation": "Sie sind dabei, eine Child-Site zu löschen, wodurch auch alle zugehörigen Sub-Child-Sites entfernt werden.<br />Sind Sie sicher, dass Sie fortfahren möchten?",
+    "Delete_Sub_Child_Site_Confirmation": "Sind Sie sicher, dass Sie diese Site löschen möchten?",
+    "No_data_found": "Keine Daten gefunden",
+
+    "Multisite_Setup_Grid_column": {
+      "Site_Name": "Site-Name",
+      "hosting_Address": "Hosting-Adresse",
+      "UserName": "Benutzername",
+      "Created_By": "Erstellt von",
+      "Created_On": "Erstellt am",
+      "Last_Updated_By": "Zuletzt aktualisiert von",
+      "Last_Updated_On": "Zuletzt aktualisiert am",
+      "Actions": "Aktionen"
+    },
+
+    "Validation": {
+      "Site_Required": "Site-Name ist erforderlich.",
+      "Hosting_Address_Required": "Hosting-Adresse ist erforderlich.",
+      "Hosting_Address_Strong_validation": "Geben Sie eine gültige Hosting-Adresse ein",
+      "Username_Required": "Benutzername ist erforderlich.",
+      "Username_Strong_Validation": "Geben Sie einen gültigen Benutzernamen ein",
+      "Password_Required": "Passwort ist erforderlich",
+      "Child_Site_Required": "Child-Site-Name ist erforderlich.",
+      "Sub_Site_Name_Required": "Sub-Site-Name ist erforderlich."
+    },
+
+    "Add_Child_Drawer": {
+      "Site_Name": "Site-Name",
+      "Site_Name_Placeholder": "Site-Namen eingeben",
+      "Hosting_Address": "Hosting-Adresse",
+      "Hosting_Address_Placeholder": "Hosting-Adresse eingeben",
+      "Username": "Benutzername",
+      "Username_Placeholder": "Benutzernamen eingeben",
+      "Password": "Passwort",
+      "Password_Placeholder": "Passwort eingeben",
+      "Child_Site_Name": "Child-Site-Name",
+      "Sub_Site_Name": "Sub-Site-Name",
+      "Sub_Site_Name_Placeholder": "Sub-Site-Namen eingeben"
+    }
+  },
+
+  "General_Settings": {
+    "General": "Allgemein",
+    "General_Settings_Description": "Konfigurieren Sie hier Ihre allgemeinen Einstellungen...",
+
+    "SMTP_Setup": {
+      "SMTP_Setup": "SMTP-Setup",
+      "Host": "Host",
+      "Host_Placeholder": "Host eingeben",
+      "Port": "Port",
+      "Post_Placeholder": "Port eingeben",
+      "From_Email": "Absender-E-Mail-Adresse",
+      "From_Email_Placeholder": "Absender-E-Mail-Adresse eingeben",
+      "Enable_SSL": "SSL aktivieren",
+
+      "Validation": {
+        "Host_Required": "Host ist erforderlich",
+        "Host_Max_Validation": "Der Host darf {{max}} Zeichen nicht überschreiten",
+        "Host_Strong_Validation": "Geben Sie einen gültigen Host ein (z. B. smtp.example.com)",
+        "Port_Required": "Port ist erforderlich",
+        "Port_Strong_Validation": "Der Port muss zwischen 1 und 65535 liegen",
+        "Email_Strong_Validation": "Die Absender-E-Mail-Adresse darf {{max}} Zeichen nicht überschreiten"
+      }
+    },
+
+    "Report_Scheduler": {
+      "Report_Scheduler_Title": "Berichtsplaner",
+      "Emails": "E-Mails",
+      "Emails_Placeholder": "Empfänger-E-Mail-Adressen eingeben (durch Kommas getrennt)",
+      "Floors": "Etagen",
+      "Floors_Placeholder": "Etagen auswählen",
+      "Zones": "Zonen",
+      "Zones_Placeholder": "Zonen auswählen",
+      "Select_Widget": "Widget(s) auswählen",
+      "Select_Date": "Datum auswählen",
+      "Select_Time": "Uhrzeit auswählen",
+      "Report_Format": "Wählen Sie das Format, in dem Sie den Bericht erhalten möchten",
+      "Send_On": "Senden am",
+      "Daily": "Täglich",
+      "Weekly": "Wöchentlich",
+      "Monthly": "Monatlich",
+      "Schedule_btn": "Planen",
+
+      "Validation": {
+        "Email_Required": "E-Mail ist erforderlich",
+        "Multiple_Email_Validation": "Mehrere E-Mails müssen durch Kommas getrennt sein, nicht durch Leerzeichen.",
+        "Invalid_Emails": "Ungültige E-Mail(s): {{invalidList}}",
+        "Floors_Required": "Bitte Etagen auswählen",
+        "Zones_Required": "Bitte Zonen auswählen",
+        "Widget_Required": "Bitte Widget(s) auswählen",
+        "Widget_Limit": "Sie können nicht mehr als 10 Widgets auswählen",
+        "Date_Requiered": "Bitte Startdatum auswählen",
+        "Date_Strong_Validation": "Das Startdatum muss heute oder später sein",
+        "Time_Required": "Startzeit ist erforderlich",
+        "Format_Required": "Bitte ein Format auswählen",
+        "Interval_Required": "Bitte ein Intervall auswählen",
+        "Floor_Limit": "Sie können nicht mehr als 10 Stockwerke auswählen"
+      }
+    },
+
+    "FTP_Setting": {
+      "FTP_Setup": "FTP-Setup",
+      "Validation": {
+        "Host_Strong_Validation": "Geben Sie einen gültigen Hostnamen (z. B. ftp.example.com) oder eine IPv4-Adresse (z. B. 192.168.1.1) ein"
+      }
+    },
+
+    "Retention_Period_Setting": {
+      "Retention_Period": "Aufbewahrungszeitraum",
+      "Enabled": "Aktiviert",
+      "Period": "Aufbewahrungszeitraum in Monaten",
+      "Period_Plceholder": "Zeitraum eingeben",
+      "Validation": {
+        "Period_Required": "Zeitraum ist erforderlich",
+        "Period_Strong_Validation": "Der Zeitraum muss zwischen 1 und 99 liegen"
+      }
+    },
+
+    "Operational_Time": {
+      "Operational_Time_Title": "Betriebszeit",
+      "Start_Time_Required": "Startzeit ist erforderlich",
+      "End_Time_Required": "Endzeit ist erforderlich"
+    },
+
+    "Google_Map_Key": {
+      "Title": "Google-Maps-Schlüssel",
+      "key_required": "Google-Maps-Schlüssel ist erforderlich",
+      "Key_Placeholder": "Google-Maps-Schlüssel eingeben"
+    },
+
+    "Upload_Logo": {
+      "Upload_logo_title": "Ihr Logo hochladen",
+      "Browse_Upload_Text": "Durchsuchen und wählen Sie die Dateien aus, die Sie <br />von Ihrem Computer hochladen möchten",
+      "Validation": {
+        "Upload_logo_first": "Bitte laden Sie zuerst eine Datei hoch!",
+        "Valid_File_size": "Die Dateigröße darf 1 MB nicht überschreiten.",
+        "Allowed_File_Validation": "Nur jpg-, jpeg-, png-Dateien sind erlaubt."
+      },
+      "Upload_Note": {
+        "Line1_Part1": "Bitte laden Sie das",
+        "Line1_Highlight1": "Logo Ihres Unternehmens im PNG- oder JPG-Format",
+        "Line1_Part2": "hoch, mit einer empfohlenen Auflösung von",
+        "Line1_Highlight2": "174 x 46 Pixel",
+        "Line2_Part1": "Maximal erlaubte Dateigröße:",
+        "Line2_Highlight": "1 MB",
+        "Line3": "Für beste Ergebnisse verwenden Sie ein hochwertiges Bild mit weißem Hintergrund."
+      }
+    },
+
+    "Upload_SSL": {
+      "Upload_SSL_Title": "SSL-Zertifikat hochladen",
+      "Password": "Passwort",
+      "Upload_File_first": "Bitte laden Sie zuerst eine Datei hoch!",
+      "Allowed_File_Validation": "Nur .crt-, .pem-, .pfx-, .cer-Dateien sind erlaubt."
+    },
+    "Backup_Database_Setting": {
+      "Scheduled_Database_Backup": "Geplantes Datenbank-Backup",
+      "BackupPath_Placeholder": "Pfad für Datenbanksicherung eingeben",
+      "BackupPath_Required": "Geplantes Datenbank-Backup ist erforderlich"
+    },
+    "ANPR_Setting": {
+      "ANPR_Configuration": "ANPR Konfiguration",
+      "Image_Path": "Bildpfad",
+      "Image_Path_Placeholder": "ANPR-Bildpfad eingeben"
+    },
+    "Reset_Vehicle": {
+      "Reset_Vehicle_Parking_Count": "Fahrzeug-Parkanzahl zurücksetzen",
+      "Reset": "Zurücksetzen",
+      "count": "Anzahl eingeben",
+      "RequiredCount": "Anzahl ist erforderlich."
+    }
+  },
+
+  "License_Setting": {
+    "License_Title": "Lizenz",
+    "License_Description": "Konfigurieren Sie hier Ihre Lizenz-Einstellungen...",
+    "Add_License": "Lizenz hinzufügen",
+    "No_License_Content": "Es sind noch keine Lizenzen für Sie konfiguriert.<br />Um Ihre Lizenz hochzuladen, klicken Sie bitte auf die Schaltfläche unten",
+    "Current_License_Detail": {
+      "Product_Name": "Produktname",
+      "License_Version": "Lizenzversion",
+      "Type": "Typ",
+      "Camera_Utilized": "Genutzte Kameras",
+      "User_Utilized": "Genutzte Benutzer",
+      "Start_Date": "Startdatum",
+      "End_Date": "Enddatum",
+      "Title": "Aktuelle Lizenzdetails"
+    },
+    "License_History": {
+      "Title": "Lizenzverlauf",
+      "Search_Placeholder": "Suche nach MAC-Adresse, Typ, Startdatum...",
+      "macAddress": "MAC-Adresse",
+      "licenseType": "Typ",
+      "numberOfUsers": "Anzahl Benutzer",
+      "noOfChannel": "Anzahl Kanäle",
+      "startDate": "Startdatum",
+      "expiryDate": "Enddatum",
+      "status": "Status",
+      "createdBy": "Erstellt von",
+      "createdOn": "Erstellt am"
+    },
+    "Upload_License_Drawer": {
+      "PEM_Title": "Laden Sie Ihre publickey.pem-Datei hoch",
+      "LIC_Title": "Laden Sie Ihre license.lic-Datei hoch",
+      "Upload_btn": "Hochladen",
+      "Logout_Content": "Beide Lizenzdateien wurden erfolgreich hochgeladen. Bitte melden Sie sich ab und wieder an, um die Änderungen zu übernehmen.",
+      "Confirm_btn": "Abmelden",
+      "File_Selection_validation": "Bitte laden Sie sowohl PEM- als auch LICENSE-Datei hoch.",
+      "PEM_Validation": "Bitte laden Sie eine gültige PEM-Datei (.pem) hoch.",
+      "LIC_Validation": "Bitte laden Sie eine gültige LICENSE-Datei (.lic) hoch.",
+      "Upload_Fail": "Dateien konnten nicht hochgeladen werden. Bitte versuchen Sie es erneut."
+    }
+  },
+
+  "BackUp_Restore": {
+    "Backup_Restore_Header": "Sicherung & Wiederherstellung",
+    "Backup_Restore_Description": "Laden Sie Ihre Daten herunter und stellen Sie sie wieder her..",
+    "Backup": "Sicherung",
+    "Backup_description_1": "Die Schaltfläche unten erstellt eine vollständige Systemsicherung auf Ihrem lokalen Rechner. Sie können diese Sicherung später bei einem Systemausfall oder bei Bedarf verwenden.",
+    "Backup_description_2": "Bitte klicken Sie auf die Schaltfläche unten, um jetzt eine vollständige Sicherung zu erstellen.",
+    "Take_Full_Backup": "Vollständige Sicherung erstellen",
+    "Restore": "Wiederherstellen",
+    "File_Name": "Dateiname",
+    "Uploading": "Wird hochgeladen..."
+  },
+
+  "My_Report": {
+    "No_Report": "Kein Bericht ausgewählt. Bitte wählen Sie einen Bericht aus der Liste, um detaillierte Informationen anzuzeigen.",
+    "Add_Report": "Bericht hinzufügen",
+    "Delete_Dialog_Content": "Sind Sie sicher, dass Sie diesen Bericht löschen möchten?",
+    "No_Report_found": "Kein Bericht gefunden",
+    "Untitled_Report": "Unbenannter Bericht",
+    "Last_Edited": "Zuletzt bearbeitet",
+    "Delete": "Löschen",
+    "Edit": "Bearbeiten",
+    "Export_pdf_btn": "Als PDF exportieren",
+    "Filter_Applied": "Filter angewendet",
+    "Created_By": "Erstellt von",
+    "Created_On": "Erstellt am",
+    "No_Filter_Data": "Keine Daten für die ausgewählten Filter gefunden. Bitte passen Sie Ihre Filter an und versuchen Sie es erneut.",
+    "Contact_Admin_Error": "Beim Verarbeiten Ihrer Anfrage ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie Ihren Administrator, falls das Problem weiterhin besteht.",
+    "Report_Type": "Berichtstyp",
+    "Site_Report_Header": "Bericht zum Leistungsvergleich der Standorte",
+    "Zone_Report_Header": "Bericht zum Leistungsvergleich der Zonen",
+    "Report_Name": "Berichtsname",
+    "Sites": "Standorte",
+    "Site": "Standort",
+    "Zone": "Zone",
+    "Floors": "Etagen",
+    "Zones": "Zonen",
+    "Date_Time": "Datum & Uhrzeit",
+    "Performance_Comparison_Table": "Leistungsvergleichstabelle",
+    "People_Count": "Personenzahl",
+    "People_Occupancy": "Personenbelegung",
+    "Vehicle_Count": "Fahrzeuganzahl",
+    "Vehicle_Occupancy": "Fahrzeugbelegung",
+    "No_Insights_Data": "Keine Daten verfügbar, um Erkenntnisse zu generieren.",
+    "No_Valid_Insights": "Keine gültigen Daten verfügbar, um Erkenntnisse zu generieren.",
+    "HighestVehicleOccupancy": "{{zone}} hat die höchste Fahrzeugbelegungsrate ({{occupancy}}%).",
+    "HighestVehicleCount": "{{zone}} hat die höchste Anzahl gezählter Fahrzeuge ({{count, number}}).",
+    "VehicleOccupancyComparison": "Die Fahrzeugbelegungswerte deuten darauf hin, dass {{busier}} stärker frequentiert sind als {{lessBusy}}.",
+    "HighestPeopleOccupancy": "{{zone}} hat die höchste Personenbelegungsrate ({{rate}}%).",
+    "HighestPeopleCount": "{{zone}} hat die höchste Anzahl gezählter Personen ({{count, number}}).",
+    "PeopleOccupancyComparison": "Die Personenbelegungswerte deuten darauf hin, dass {{busier}} stärker frequentiert sind als {{lessBusy}}.",
+    "HighestPeopleAndVehicleOccupancy": "{{zone}} hat die höchsten Belegungsraten für Personen und Fahrzeuge ({{rate}}%).",
+    "HighestPeopleAndVehicleOccupancyRate": "{{zone}} hat die höchste Personenbelegungsrate ({{peopleRate}}%) und die höchste Fahrzeugbelegungsrate ({{vehicleRate}}%).",
+    "No_Insights_Available": "Keine gültigen Erkenntnisse basierend auf der Auswahl verfügbar.",
+    "Summary_Insights": "Zusammenfassung der Erkenntnisse",
+    "Visualizations": "Visualisierungen",
+    "People_Vehicle_Count": "Personen- & Fahrzeuganzahl {{base}}",
+    "People_Count_Type": "Personenzahl {{base}}",
+    "Vehicle_Count_Type": "Personenzahl {{base}}",
+    "By_Site": "Nach Standort",
+    "By_Zone": "Nach Zone",
+    "Occupancy_Rate_Comparison": "Vergleich der Belegungsraten",
+    "Traffic_Composition_Title": {
+      "People": "Verkehrszusammensetzung (Personen)",
+      "vehicle": "Verkehrszusammensetzung (Fahrzeuge)",
+      "Both": "Verkehrszusammensetzung (Personen vs Fahrzeuge)",
+      "fallback": "Verkehrszusammensetzung"
+    },
+    "Key_Performance_Metric": "Wichtige Leistungskennzahl",
+    "Total_People_Count": "Gesamtanzahl Personen",
+    "Average_People_Occupancy_Rate": "Durchschnittliche Personenbelegungsrate",
+    "Total_Vehicle_Count": "Gesamtanzahl Fahrzeuge",
+    "Average_Vehicle_Occupancy_Rate": "Durchschnittliche Fahrzeugbelegungsrate"
+  },
+
+   "Audit_Log": {
+    "Audit_Log_Header": "Audit-Protokolle",
+    "Audit_Log_Descripltion": "Detailliertes Protokoll der Benutzeraktivitäten zur Prüfung...",
+    "Search_Placeholder": "Dokumentschlüssel suchen",
+    "Audit_Log_Grid_Column": {
+      "Document_Id": "Dokument-ID",
+      "User": "Benutzer",
+      "Type": "Typ",
+      "Date": "Datum",
+      "Details": "Details"
+    }
+  },
+
+   "Maintanace_Plan": {
+    "Maintenance_Plan_Header": "Wartungsplan",
+    "Maintenance_Plan_Description": "Wartungsplan erstellen und Geräte zuordnen..",
+    "Add_Plan": "Plan hinzufügen",
+    "Edit_Plan": "Plan bearbeiten",
+    "List_Of_Plans": "Planliste",
+    "Search_Placeholder": "Nach Planname und Gerät suchen...",
+    "Search_Devices": "Gerät suchen...",
+    "Device_Dialog_header": "Geräte",
+    "Serial_No": "Seriennummer",
+    "More_Count": "+{{count}} mehr",
+    "Maintanace_Plan_Grid": {
+      "Plan_Name": "Planname",
+      "Duration": "Dauer",
+      "Device": "Gerät",
+      "Start_Date": "Startdatum",
+      "End_Date": "Enddatum",
+      "Actions": "Aktionen",
+      "Edit_Plan_Tooltip": "Plan bearbeiten",
+      "Delete_Plan_Tooltip": "Plan löschen",
+      "Floor": "Etage",
+      "Select_Floor": "Etage auswählen",
+      "Zone": "Zone",
+      "Select_Zone": "Zone auswählen"
+    },
+    "Maintanance_Plan_Drawer": {
+      "Plan_Name_Required": "Planname ist erforderlich.",
+      "Plan_Name_Max_Length_validation": "Der Planname darf {{max}} Zeichen nicht überschreiten",
+      "Plan_Name_Placeholder": "Planname eingeben",
+      "Duration_In_Month": "Dauer (in Monaten)",
+      "Duration_Max_Length_validation": "Die Dauer darf {{max}} Ziffern nicht überschreiten",
+      "Duration_Required": "Dauer ist erforderlich.",
+      "Duration_Strong_Validation": "Nur Ziffern sind erlaubt",
+      "Duration_Placeholder": "Dauer eingeben",
+      "Device_Required": "Gerät ist erforderlich.",
+      "Device_Placeholder": "Gerät auswählen",
+      "EndDate_Requiered": "Bitte Enddatum auswählen",
+      "EndDate_Strong_Validation": "Enddatum muss heute oder später sein",
+      "EndDate_Less_Than_StartDate": "Enddatum darf nicht vor dem Startdatum liegen"
+    }
+  },
+  
+  "Maintenance_Schedule": {
+    "Maintenance_Schedule_Header": "Wartungsplan",
+    "Maintenance_Schedule_Description": "Erstellen Sie einen Wartungsplan und ordnen Sie Geräte zu.",
+    "Schedule_Maintenance": "Wartung planen",
+    "Select_Floor": "Etage(n) auswählen",
+    "Select_Zone": "Zone(n) auswählen",
+    "Select_PH_Floor": "Etage(n) auswählen",
+    "Select_PH_Zone": "Zone(n) auswählen",
+    "Select_due": "Fälligkeitsdatum auswählen",
+    "Select_PH_status": "Status auswählen",
+    "Select_status": "Status auswählen",
+    "Column_Grid": {
+      "Device_Name": "Gerätename",
+      "Model": "Modell",
+      "Location": "Standort",
+      "Serial_Number": "Seriennummer",
+      "Device_Type": "Gerätetyp",
+      "Ip_Address": "IP-Adresse",
+      "Maintenance_Due_Date": "Wartungsfälligkeitsdatum",
+      "Plan_Name": "Planname",
+      "status": "Status",
+      "Actions": "Aktionen",
+      "Setting_Tooltip": "Einstellungen"
+    },
+    "Add_Schedule_Drawer": {
+      "Add_Schedule": "Plan hinzufügen",
+      "Device": "Gerät",
+      "Device_Required": "Gerät ist erforderlich.",
+      "Device_Placeholder": "Gerät auswählen",
+      "Due_Date": "Fälligkeitsdatum",
+      "Due_date_Required": "Bitte wählen Sie ein Fälligkeitsdatum",
+      "Due_date_Strong_Validation": "Das Fälligkeitsdatum muss heute oder später sein",
+      "Notes": "Notizen",
+      "Notes_Required": "Notizen sind erforderlich.",
+      "Notes_Placeholder": "Notizen eingeben"
+    },
+    "Setting_Dialog": {
+      "scheduledMaintenance": "Geplante Wartung ({{id}})",
+      "Maintenance_Status": "Wartungsstatus",
+      "Maintenance_status_required": "Der Wartungsstatus ist erforderlich.",
+      "Start_Date": "Startdatum",
+      "Before": "Vor",
+      "Matched": "Übereinstimmung",
+      "Compare": "Vergleichen",
+      "brightness": "Helligkeit",
+      "contrast": "Kontrast",
+      "edgeOverlap": "Kantenüberlappung",
+      "featureDisplacement": "Merkmalsverschiebung",
+      "homographyShift": "Homographie-Verschiebung",
+      "horizonTilt": "Horizontneigung",
+      "structuralSimilarity": "Strukturelle Ähnlichkeit",
+      "After": "Nachher",
+      "Start_Date_Required": "Startdatum ist erforderlich.",
+      "Start_Date_Strong_Validation": "Das Startdatum darf nicht in der Zukunft liegen.",
+      "Grid_Column": {
+        "Status": "Status",
+        "notes": "Notizen",
+        "Status_Datetime": "Statusdatum und -zeit"
+      }
+    },
+    "Tooltip": {
+      "brightness_tooltip": "Misst die gesamte Lichtintensität des Bildes",
+      "contrast_tooltip": "Gibt den Unterschied zwischen den dunkelsten und hellsten Bildbereichen an",
+      "edgeOverlap_tooltip": "Bewertet, wie gut Kanten zwischen verglichenen Bildern ausgerichtet sind",
+      "featureDisplacement_tooltip": "Misst die Verschiebung wichtiger Merkmale zwischen Bildern",
+      "homographyShift_tooltip": "Zeigt geometrische Transformationsunterschiede durch Änderungen der Kameraperspektive an",
+      "horizonTilt_tooltip": "Misst den Grad der Bildrotation von einem waagerechten Horizont",
+      "structuralSimilarity_tooltip": "Bewertet die visuelle Ähnlichkeit basierend auf Struktur, Luminanz und Kontrast"
+    }
+  },
+  "RMA": {
+    "RMA_Header": "RMA",
+    "RMA_Edit_Header": "RMA bearbeiten",
+    "RMA_Header_Desc": "Erstellen Sie einen Wartungsplan und ordnen Sie Geräte zu.",
+    "RMA_Add_Button": "RMA hinzufügen",
+    "RMA_Filter_StartDate": "RMA-Datum",
+    "RMA_Filter_EndDate": "Enddatum",
+    "RMA_Filter_Status": "Status auswählen",
+    "RMA_Filter_PH_Status": "Status auswählen",
+    "RMA_Grid_DeviceName": "Gerätename",
+    "RMA_Grid_IPAddress": "IP-Adresse",
+    "RMA_Grid_Model": "Modell",
+    "RMA_Grid_Location": "Standort",
+    "RMA_Grid_SerialNumber": "Seriennummer",
+    "RMA_Grid_DeviceType": "Gerätetyp",
+    "RMA_Grid_InProgressNotes": "Notizen in Bearbeitung",
+    "RMA_Grid_RMAStatus": "RMA-Status",
+    "RMA_Grid_StartDate": "Startdatum",
+    "RMA_Grid_EndDate": "Enddatum",
+    "RMA_Grid_Actions": "Aktionen",
+    "RMA_Grid_CompletedNotes": "Abgeschlossene Notizen",
+    "RMA_Grid_Tooltip_EditPlan": "Plan bearbeiten",
+    "RMA_Grid_Tooltip_DeletePlan": "Plan löschen",
+    "RMA_Form_Device": "Gerät",
+    "RMA_Form_Maintenancestatus": "Wartungsstatus",
+    "RMA_Form_InProgressNotes": "Notizen in Bearbeitung",
+    "RMA_Form_CompletedNotes": "Abgeschlossene Notizen",
+    "RMA_Form_PH_SelectDevice": "Gerät auswählen",
+    "RMA_Form_PH_Device": "Wartungsstatus auswählen",
+    "RMA_Form_PH_EnterInProgressnotes": "Notizen in Bearbeitung eingeben",
+    "RMA_Form_PH_CompletedNotes": "Abgeschlossene Notizen eingeben",
+    "RMA_Form_Validation_Deviceisrequired": "Gerät ist erforderlich",
+    "RMA_Form_Validation_StartDateTsRequired": "Startdatum ist erforderlich",
+    "RMA_Form_Validation_EndDateMustBeGreaterThanStartDate": "Enddatum muss nach dem Startdatum liegen",
+    "RMA_Form_Validation_InProgressNotesIsRequired": "Notizen in Bearbeitung sind erforderlich",
+    "RMA_Form_Validation_CompletedNotesIsRequired": "Abgeschlossene Notizen sind erforderlich",
+    "RMA_Select_Floor": "Etage(n) auswählen",
+    "RMA_Select_Zone": "Zone(n) auswählen"
+  },
+
+  "MUI_Grid_Filter_Paginition": {
+    "columnMenuSortAsc": "Aufsteigend sortieren",
+    "columnMenuSortDesc": "Absteigend sortieren",
+    "columnMenuHideColumn": "Spalte ausblenden",
+    "columnMenuManageColumns": "Spalten verwalten",
+    "footerPaginationRowsPerPage": "Zeilen pro Seite:",
+    "footerRowSelected": "{{count}} Zeile ausgewählt",
+    "footerRowSelectedPlural": "{{count}} Zeilen ausgewählt",
+    "footerTotalVisibleRows": "von {{total}}"
+  },
+
+  "Common_Edit_Dlte_Menu": {
+    "Edit": "Bearbeiten",
+    "Delete": "Löschen"
+  },
+
+  "Common_DELETE_Confirmation_Dialog": {
+    "Title": "Löschbestätigung!",
+    "Content": "Sind Sie sicher, dass Sie fortfahren möchten?",
+    "Cancel": "Abbrechen",
+    "Delete": "Löschen",
+    "Delete_Device_Content": {
+      "Line1_Part1": "Sobald Sie bestätigen, werden alle Zuordnungen zwischen den ausgewählten Geräten und ihren zugehörigen",
+      "Line1_Highlight": "Etagen, Zonen und andere werden automatisch entfernt",
+      "Line1_Part2": ". Sie können möglicherweise keine Daten mehr von diesen",
+      "Line1_Highlight2": "gelöschten Geräten",
+      "Line1_Part3": "in Zukunft anzeigen."
+    }
+  },
+
+  "Add_btn": "Hinzufügen",
+  "Save_btn": "Speichern",
+  "Update": "Aktualisieren",
+  "No_data_found": "Keine Daten gefunden",
+
+  "Advance_Export_Dialog": {
+    "Advance_Report": "Erweiterter Bericht",
+    "Widgets": "Widgets",
+    "Select_widgets": "Widgets auswählen...",
+    "Export_CSV": "CSV exportieren",
+    "Export_PDF": "PDF exportieren",
+    "selectAtLeastOneWidget": "Bitte wählen Sie mindestens ein Widget zum Exportieren aus.",
+    "categories": {
+      "staff": "Personal",
+      "security": "Sicherheit",
+      "exhibitors": "Aussteller",
+      "repeatedCustomers": "Wiederkehrende Kunden"
+    },
+    "Category_Placeholder": "Kategorie auswählen",
+    "Category_Required": "Kategorie ist erforderlich",
+    "Value_required": "Wert ist erforderlich",
+    "Value_Placeholder": "Wert eingeben",
+    "Minimum_Value": "Der Mindestwert ist 1",
+    "Maximum_Value": "Der Höchstwert ist 9999",
+    "units": {
+      "percentage": "% (Prozent)",
+      "number": "# (Zahl)"
+    },
+    "operations": {
+      "add": "+ (Addieren)",
+      "subtract": "− (Subtrahieren)"
+    },
+    "table": {
+      "Category": "Kategorie",
+      "Value": "Wert",
+      "Unit": "Einheit",
+      "Operation": "Operation",
+      "Action": "Aktion"
+    }
+  },
+
+  "ANPR_Screen": {
+    "Owner": {
+      "Vehicle_Owners_title": "Fahrzeughalter",
+      "Vehicle_Owners_description": "Fahrzeughalterdetails hinzufügen...",
+      "Owner_Bulk_Upload": "Massen-Upload für Halter",
+      "Owner_Sample_file": "Beispieldatei für Halter",
+      "Vehicle_Bulk_Upload": "Massen-Upload für Fahrzeuge",
+      "Vehicle_Sample_File": "Beispieldatei für Fahrzeuge",
+      "Add_Owner": "Halter hinzufügen",
+      "List_Of_Owners": "Liste der Halter",
+      "Search_Placeholder": "Suche nach Haltername, Registrierungstyp, Gebäude, Gebäudeeinheit, Kontaktnummer, E-Mail, erlaubten Toren...",
+      "Owner_Name": "Name des Halters",
+      "Registration_Type": "Registrierungstyp",
+      "Allowed_Vehicle": "Erlaubte Fahrzeuge",
+      "Building": "Gebäude",
+      "Building_Unit": "Gebäudeeinheit",
+      "Contact_Number": "Kontaktnummer",
+      "Email": "E-Mail",
+      "Allowed_Gates": "Erlaubte Tore",
+      "Alarm_For_24H_Stay": "Alarm bei 24-Stunden-Aufenthalt",
+      "Alarm_For_Over_Stay": "Alarm bei Überaufenthalt",
+      "Allowed_Time": "Erlaubte Zeit",
+      "Actions": "Aktionen",
+      "Edit_Owner": "Halter bearbeiten",
+      "Delete_Owner": "Halter löschen",
+      "Add_Vehicle": "Fahrzeug hinzufügen",
+      "View_Audit_logs": "Audit-Protokolle anzeigen",
+      "Update_Owner": "Halter aktualisieren",
+      "Vehicle_for": "Fahrzeug für {{name}}",
+      "Upload_Owner": "Halter hochladen",
+      "Upload_Vehicle": "Fahrzeug hochladen",
+      "Registration_type_placeholder": "Registrierungstyp auswählen",
+      "Registration_type_required": "Registrierungstyp ist erforderlich.",
+      "Owner_name_placeholder": "Haltername eingeben",
+      "Owner_name_required": "Haltername ist erforderlich.",
+      "Building_placeholder": "Gebäude eingeben",
+      "Building_required": "Gebäude ist erforderlich.",
+      "Building_name_validation": "Gültigen Gebäudenamen eingeben",
+      "Building_unit_placeholder": "Gebäudeeinheit eingeben",
+      "Building_unit_required": "Gebäudeeinheit ist erforderlich.",
+      "Building_unit_validation": "Gültige Gebäudeeinheit eingeben",
+      "Email_placeholder": "E-Mail eingeben",
+      "Email_required": "E-Mail ist erforderlich.",
+      "Email_validation": "Gültige E-Mail-Adresse eingeben",
+      "Contact_number_placeholder": "Kontaktnummer eingeben",
+      "Contact_number_required": "Kontaktnummer ist erforderlich.",
+      "Contact_number_validation": "Gültige Kontaktnummer eingeben",
+      "Vehicle_count_placeholder": "Erlaubte Fahrzeuganzahl eingeben",
+      "Vehicle_count_required": "Erlaubte Fahrzeuganzahl ist erforderlich.",
+      "Vehicle_count_validation": "Geben Sie eine Zahl zwischen 1 und 9999 ein.",
+      "Allowed_From_Time": "Erlaubt von",
+      "Allowed_To_Time": "Erlaubt bis",
+      "Gates": "Tore",
+      "Select_Gates": "Tore auswählen",
+      "Enable_Alarm_For_Overstay": "Alarm bei Überaufenthalt aktivieren",
+      "Enable_Alarm_For_24H_Stay": "Alarm für 24-Stunden-Aufenthalt aktivieren",
+      "Upload_your_owner_file": "Laden Sie Ihre Besitzerdatei (.xlsx) oder (.xls) hoch",
+      "Upload_your_vehicle_file": "Laden Sie Ihre Fahrzeugdatei (.xlsx) oder (.xls) hoch",
+      "Owner_Validation": "Der Eigentümername darf nur Buchstaben und Leerzeichen enthalten und muss zwischen 3 und 50 Zeichen lang sein.",
+      "Search_Gates": "Tore suchen",
+      "ValidTo": "Gültig bis",
+      "ValidTo_Requiered": "Bitte wählen Sie ein Gültig-bis-Datum aus",
+      "ValidToDate_Strong_Validation": "Das Gültig-bis-Datum muss heute oder später sein",
+      "ManufacturingDate_Strong_Validation": "Das Herstellungsdatum darf nicht in der Zukunft liegen."
+    },
+    "Vehicle": {
+      "Country": "Land",
+      "Country_placeholder": "Land auswählen",
+      "Country_required": "Land ist erforderlich.",
+      "State": "Bundesland",
+      "State_placeholder": "Bundesland eingeben",
+      "State_required": "Bundesland ist erforderlich.",
+      "Plate_Code": "Kennzeichencode",
+      "Plate_code_placeholder": "Kennzeichencode eingeben",
+      "Plate_code_required": "Kennzeichencode ist erforderlich.",
+      "Plate_Category": "Kennzeichenkategorie",
+      "Plate_category_placeholder": "Kennzeichenkategorie auswählen",
+      "Plate_category_required": "Kennzeichenkategorie ist erforderlich.",
+      "Make": "Marke",
+      "Make_placeholder": "Marke eingeben",
+      "Make_required": "Marke ist erforderlich.",
+      "Model": "Modell",
+      "Model_placeholder": "Modell eingeben",
+      "Model_required": "Modell ist erforderlich.",
+      "Color": "Farbe",
+      "Color_placeholder": "Farbe eingeben",
+      "Color_required": "Farbe ist erforderlich.",
+      "Visitor_Valid_From": "Besucher gültig ab",
+      "Visitor_Valid_To": "Besucher gültig bis",
+      "Visitor_Valid_To_Validation": "„Gültig bis“ muss größer sein als „Gültig von“",
+      "Clear": "Zurücksetzen",
+      "Actions": "Aktionen",
+      "Edit_Vehicle": "Fahrzeug bearbeiten",
+      "Delete_Vehicle": "Fahrzeug löschen",
+      "View_Audit_logs": "Audit-Protokolle anzeigen",
+      "State_Validation": "Der Staatsname darf nur Buchstaben, Leerzeichen, Bindestriche und Apostrophe enthalten und muss zwischen 3 und 50 Zeichen lang sein.",
+      "plateCode_Validation": "Der Kennzeichencode muss 3–10 Zeichen lang sein und darf nur Buchstaben und Zahlen enthalten.",
+      "color_Validation": "Die Farbe muss 1–20 Zeichen lang sein und darf nur Buchstaben und Leerzeichen enthalten.",
+      "Make_Validation": "Die Marke darf nur Buchstaben und Leerzeichen enthalten und muss zwischen 3 und 50 Zeichen lang sein.",
+      "Model_Validation": "Das Modell muss 1–20 Zeichen lang sein und darf nur Buchstaben und Zahlen enthalten."
+    }
+  },
+  "LPR_Screen": {
+    "LPR_Main": "LPR",
+    "LPR_header": "Kennzeichenerkennung",
+    "Description": "Details zur Kennzeichenerkennung...",
+    "List_LPR_Label": "Liste der Kennzeichenerkennung",
+    "Search_LPR_Placeholder": "Suche nach Besitzername, Registrierungstyp, E-Mail, Bundesland, Kennzeichen...",
+    "Grid_column": {
+      "OwnerName": "Besitzername",
+      "RegistrationType": "Registrierungstyp",
+      "Building": "Gebäude",
+      "BuildingUnit": "Gebäudeeinheit",
+      "ContactNumber": "Kontaktnummer",
+      "Email": "E-Mail",
+      "EntryGate": "Eingangstor",
+      "EntryTime": "Eintrittszeit",
+      "ExitGate": "Ausgangstor",
+      "ExitTime": "Austrittszeit",
+      "Country": "Land",
+      "State": "Bundesland",
+      "Plate": "Kennzeichen",
+      "Make": "Marke",
+      "Model": "Modell",
+      "Color": "Farbe",
+      "Message": "Nachricht",
+      "CreatedOn": "Erstellt am",
+      "Plate_Image": "Kennzeichenbild"
+    },
+    "Filters": {
+      "Device": "Gerät(e) auswählen",
+      "Country_Label": "Land",
+      "Country_PH": "Land auswählen",
+      "EntryTime_Label": "Eintrittszeit",
+      "ExitTime_Label": "Austrittszeit",
+      "ExitTime_Validation":"Die Ausfahrtszeit muss größer oder gleich der Einfahrtszeit sein",
+      "EntryTime_Required": "Bitte wählen Sie vor dem Exportieren der PDF eine Eintrittszeit aus.",
+      "ExitTime_Required": "Bitte wählen Sie vor dem Exportieren der PDF eine Austrittszeit aus.",
+      "DateRange_Max30Days": "Der ausgewählte Datumsbereich überschreitet 30 Tage. Bitte wählen Sie einen Bereich innerhalb von 30 Tagen, um die PDF zu exportieren."
+    }
+  },
+
+  "ServerManagement": {
+    "ServerManagement_Title": "Vision Insight Serververwaltung",
+    "ServerManagement_SubTitle": "Vision Insight Serverdetails hinzufügen...",
+    "Add_Server": "Server hinzufügen",
+    "Edit_Server": "Server bearbeiten",
+    "Delete_Server": "Server löschen",
+    "List_Of_Servers": "Serverliste",
+    "IsActive": "Aktiv",
+    "Actions": "Aktionen",
+    "View_Audit_logs": "Audit-Protokolle anzeigen",
+    "Search_Server_Placeholder": "Suche nach Servername, DB-Verbindungszeichenfolge, Hosting-Adresse...",
+    "Server_Name": "Servername",
+    "Server_Name_required": "Servername ist erforderlich.",
+    "Server_Name_length_validation": "Servername darf {{max}} Zeichen nicht überschreiten.",
+    "Server_Name_placeholder": "Servername eingeben",
+    "Database_Connection_String": "Datenbank-Verbindungszeichenfolge",
+    "Database_Connection_String_required": "Verbindungszeichenfolge ist erforderlich.",
+    "Database_Connection_String_placeholder": "Verbindungszeichenfolge eingeben",
+    "Hosting_Address": "Hosting-Adresse",
+    "Hosting_Address_required": "Hosting-Adresse ist erforderlich.",
+    "Hosting_Address_placeholder": "Hosting-Adresse eingeben",
+    "Hosting_Address_validation": "Gültige Hosting-Adresse eingeben.",
+    "Username": "Benutzername",
+    "Username_required": "Benutzername ist erforderlich.",
+    "Username_length_validation": "Benutzername darf {{max}} Zeichen nicht überschreiten.",
+    "Username_placeholder": "Benutzername eingeben",
+    "Password": "Passwort",
+    "Password_required": "Passwort ist erforderlich.",
+    "Password_placeholder": "Passwort eingeben",
+    "IsAvailable": "Verfügbar",
+    "Yes": "Ja",
+    "No": "Nein",
+    "Status_Confirmation_Title": "Bestätigung",
+    "Activate_Confirmation": "Möchten Sie diesen Server wirklich <1>aktivieren</1>? Nach der Aktivierung beginnt Vision Insight mit dem Abrufen von Daten von diesem Server.",
+    "Deactivate_Confirmation": "Möchten Sie diesen Server wirklich <1>deaktivieren</1>? Nach der Deaktivierung wird Vision Insight keine Daten mehr von diesem Server abrufen."
+
+  },
+
+  "ExposeAPIUser": {
+    "Expose_API_Users": "Freigegebene API-Benutzer",
+    "Username": "Benutzername",
+    "Username_Placeholder": "Benutzernamen eingeben",
+    "Username_Required": "Benutzername ist erforderlich",
+    "Username_Valid": "Gültigen Benutzernamen eingeben",
+    "Username_Strong_Validation": "Benutzername darf {{max}} Zeichen nicht überschreiten",
+    "Password": "Passwort",
+    "Password_Placeholder": "Passwort eingeben",
+    "Password_Required": "Passwort ist erforderlich",
+    "Password_Strong_Validation": "Passwort muss 8–16 Zeichen enthalten mit Groß-, Kleinbuchstaben, Zahl und Sonderzeichen (außer *)",
+    "Password_Max_Validation": "Passwort darf {{max}} Zeichen nicht überschreiten",
+    "Role": "Rolle",
+    "Roles_Placeholder": "Rolle auswählen",
+    "Role_Required": "Mindestens eine Rolle auswählen",
+    "IsActive": "Aktiv",
+    "Actions": "Aktionen",
+    "Yes": "Ja",
+    "No": "Nein",
+    "API_Authentication": "API-Authentifizierung",
+    "Authorization": "Autorisierung"
+  },
+
+ "Manage_SSM": {
+      "Manage_Server": "Server verwalten",
+      "description": "Fügen Sie Ihre Serverinformationen hier hinzu, aktualisieren und löschen Sie sie..",
+      "Add_Server": "SSM-Server hinzufügen",
+      "List_Of_Server": "Serverliste",
+      "Search_Placeholder": "Suche nach IP-Adresse, Port, übergeordneter Website, untergeordneter Website und Benutzername...",
+      "Edit_Server": "Server bearbeiten",
+      "Select_Site": "Website auswählen",
+      "Site_required": "Website ist erforderlich",
+      "Grid_Column": {
+        "IP_Address": "IP-Adresse",
+        "Port": "Port",
+        "Parent_Site": "Übergeordnete Website",
+        "Child_Site": "Untergeordnete Website"
+      }
+    },
+    "SSM_Dashboard": {
+      "List_Of_SSM": "SSM-Liste",
+      "Total_Camera": "Kameras gesamt",
+      "Total_SSM": "SSM gesamt",
+      "Failure_Camera_Count": "Anzahl der Offline-Kameras",
+      "Failure_SSM_Count": "Anzahl der Offline-SSM",
+      "List_Of_Site": "Website-Liste",
+      "Failure_Camera": "Offline-Kamera",
+      "Failure_SSM": "SSM offline",
+      "Cameras": "Kameras",
+      "Online_Offline": "Online/Offline",
+      "CPU": "CPU",
+      "RAM": "RAM",
+      "Total_Storage": "Gesamtspeicher",
+      "Used": "Verwendet",
+      "health_report": "Gesundheitsbericht"
+    },
+    "SSM_Device_screen": {
+      "Back_to_Dashboard": "Zurück zum Dashboard",
+      "Devices": "{{serverName}} — Geräte",
+      "Seach_placeholder": "Suche nach IP-Adresse, Name, Standort, Kamerastatus, Aufnahmestatus...",
+      "Recording_Status": "Aufnahmestatus",
+      "Camera_Status": "Kamerastatus"
+    },
+    "SSM_Chart_Dialog": {
+      "Availability_Chart": "Verfügbarkeitsdiagramm",
+      "Server_On": "Server eingeschaltet",
+      "Server_Off": "Server ausgeschaltet",
+      "Camera_Online_offline": "Kamera online / offline",
+      "Camera_Working": "Kamera funktioniert",
+      "Online": "Online",
+      "Offline": "Offline",
+      "Camera_On": "Kamera eingeschaltet",
+      "Camera_Off": "Kamera ausgeschaltet",
+      "System_Manager": "Systemmanager",
+      "Media_Server": "Medienserver",
+      "Camera_Availability_Chart": "Diagramm zur Kameraverfügbarkeit"
+    },
+    "iDRAC_CPU": {
+      "Processor_CPU": "PROZESSOR (CPU)",
+      "Count": "Anzahl",
+      "Total_Cores": "Kerne gesamt",
+      "Total_Threads": "Threads gesamt",
+      "Avg_Speed": "Durchschnittliche Geschwindigkeit",
+      "Health": "Gesundheitsstatus",
+      "Chart": "Diagramm",
+      "Details_List": "Detailliste",
+      "System_Utilization": "Systemauslastung",
+      "No_Data_Found": "Keine Daten gefunden",
+      "Grid": {
+        "CPU": "CPU",
+        "Model": "Modell",
+        "Cores": "Kerne",
+        "Threads": "Threads",
+        "Max_Speed": "Maximale Geschwindigkeit",
+        "Current_Speed": "Aktuelle Geschwindigkeit",
+        "Health": "Gesundheitsstatus"
+      }
+    },
+  "iDRAC_Cooling": {
+    "Cooling": "KÜHLUNG",
+    "Total_Fans": "Lüfter gesamt",
+    "Health": "Gesundheitsstatus",
+    "Chart": "Diagramm",
+    "Details_List": "Detailliste",
+    "Temp": "Temperatur",
+    "No_Data_Found": "Keine Daten gefunden",
+    "Grid": {
+      "Fan_Name": "Lüftername",
+      "Fan_Speed": "Lüftergeschwindigkeit",
+      "Health": "Gesundheitsstatus"
+    }
+  },
+  "iDRAC_PowerSupply": {
+    "Power_Supply": "NETZTEIL",
+    "PSU_Count": "Netzteil-Anzahl",
+    "Total_Capacity": "Gesamtkapazität",
+    "Current_Usage": "Aktuelle Nutzung",
+    "Redundancy": "Redundanz",
+    "Health": "Gesundheitsstatus",
+    "Details_List": "Detailliste",
+    "No_Data_Found": "Keine Daten gefunden",
+    "Grid": {
+      "PSU": "Netzteil",
+      "Capacity": "Kapazität",
+      "Output": "Ausgang",
+      "Input_Voltage": "Eingangsspannung",
+      "Current": "Strom",
+      "Health": "Gesundheitsstatus"
+    }
+  },
+  "iDRAC_Network": {
+    "Embedded_Card": "Eingebettete Karte",
+    "Integrated_Card": "Integrierte Karte",
+    "Manufacturer": "Hersteller",
+    "Model": "Modell",
+    "Firmware_Package_Version": "Firmware-Paketversion",
+    "Health": "Gesundheitsstatus",
+    "Chart": "Diagramm",
+    "Details_List": "Detailliste",
+    "Speed": "Geschwindigkeit",
+    "Link": "Verbindung",
+    "Product_Name": "Produktname",
+    "Protocol": "Protokoll",
+    "Vendor_Name": "Anbietername",
+    "Active_Link_Technology": "Aktive Verbindungstechnologie",
+    "Associated_Network_Address_MAC": "Zugehörige Netzwerkadresse (MAC)",
+    "Link_Status": "Verbindungsstatus",
+    "Current_Link_Speed": "Aktuelle Verbindungsgeschwindigkeit",
+    "Physical_Port_Number": "Physische Portnummer",
+    "Status_Health": "Statusgesundheit"
+  },
+  "IDRAC_Memory": {
+    "MEMORY_Details": "Speicher (RAM) Details",
+    "Total": "Gesamt",
+    "Used_Slots": "Belegte Steckplätze",
+    "Free_Slots": "Freie Steckplätze",
+    "Speed": "Geschwindigkeit",
+    "Health": "Gesundheitsstatus",
+    "Chart": "Diagramm",
+    "Details_List": "Detailliste",
+    "Memory_Used": "Verwendeter Speicher",
+    "Grid": {
+      "RAM": "RAM",
+      "Size": "Größe",
+      "Type": "Typ",
+      "Speed": "Geschwindigkeit",
+      "Manufacturer": "Hersteller",
+      "Health": "Gesundheitsstatus"
+    }
+  },
+  "IDRAC_Server_Details": {
+    "System_Information": "Systeminformationen",
+    "Launch_Remote_Console": "Fernkonsole starten",
+    "Event_Logs": "Ereignisprotokolle",
+    "System_Logs": "Systemprotokolle",
+    "Tabs": {
+      "Memory": "SPEICHER (RAM)",
+      "Processor": "PROZESSOR (CPU)",
+      "Storage": "SPEICHER",
+      "Cooling": "KÜHLUNG",
+      "Power_Supply": "NETZTEIL",
+      "Network_Devices": "NETZWERKGERÄTE"
+    },
+    "Power_Action": {
+      "Force_Restart": "Neustart erzwingen",
+      "Force_Shutdown": "Herunterfahren erzwingen",
+      "Force_Start": "Start erzwingen"
+    }
+  },
+  "iDRAC_SystemInformation": {
+    "System_Information": "Systeminformationen",
+    "Power_State": "Energiezustand",
+    "Model": "Modell",
+    "Host_Name": "Hostname",
+    "Operating_System": "Betriebssystem",
+    "Operating_System_Version": "Betriebssystemversion",
+    "Service_Tag": "Service-Tag",
+    "BIOS_Version": "BIOS-Version",
+    "iDRAC_Firmware_Version": "iDRAC-Firmware-Version",
+    "IP_Address": "IP-Adresse",
+    "iDRAC_MAC_Address": "iDRAC MAC-Adresse",
+    "License": "Lizenz"
+  },
+   "IDRAC_Storage": {
+      "Title": "SPEICHER",
+      "Used_Slots": "Verwendete Steckplätze",
+      "Total_Capacity": "Gesamtkapazität",
+      "Health": "Zustand",
+      "Details_List": "Detailübersicht",
+      "Grid": {
+        "Disk_Name": "Datenträgername",
+        "Size": "Größe",
+        "Type": "Typ",
+        "Protocol": "Protokoll",
+        "RPM": "U/min",
+        "Health": "Zustand"
+      }
+    },
+  "IDRAC_Server": {
+    "Grid": {
+      "IP_Address": "IP-Adresse",
+      "Port": "Port",
+      "Server_Name": "Servername",
+      "Parent_Site": "Übergeordneter Standort",
+      "Child_Site": "Untergeordneter Standort",
+      "CPU_Load": "CPU-Auslastung",
+      "Temperature": "Temperatur",
+      "Memory_Usage": "Speicherauslastung",
+      "List_Of_Alarm": "Alarmliste",
+      "Add_Alarm": "Alarm hinzufügen"
+    },
+    "Alarm_Grid": {
+      "Alarm_Name": "Alarmname",
+      "IDRAC_Event": "iDRAC-Ereignis",
+      "Time_Limit": "Zeitlimit",
+      "Delete_Alarm": "Alarm löschen"
+    },
+    "Add_Alarm_Form": {
+      "Name": "Name",
+      "Enter_Name": "Name eingeben",
+      "Name_Required": "Name ist erforderlich.",
+      "IDRAC_Event": "iDRAC-Ereignis",
+      "Select_IDRAC_Event": "iDRAC-Ereignis auswählen",
+      "IDRAC_Event_Required": "iDRAC-Ereignis ist erforderlich.",
+      "Time_Limit": "Zeitlimit",
+      "Select_Time_Limit": "Zeitlimit auswählen",
+      "Time_Limit_Required": "Zeitlimit ist erforderlich."
+    }
+  }
+}

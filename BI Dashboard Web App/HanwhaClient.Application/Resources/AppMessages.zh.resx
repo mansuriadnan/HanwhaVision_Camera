@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LicenseAuthenticated" xml:space="preserve">
+    <value>许可证已成功验证。</value>
+  </data>
+  <data name="RoleExists" xml:space="preserve">
+    <value>该角色已分配给其他用户。</value>
+  </data>
+  <data name="OtpSuccessfullyValidated" xml:space="preserve">
+    <value>一次性验证码已成功验证。</value>
+  </data>
+  <data name="OtpExpiredOrInvalid" xml:space="preserve">
+    <value>一次性验证码已过期或无效。请重新获取后继续。</value>
+  </data>
+  <data name="OtpSuccessfullySentToEmail" xml:space="preserve">
+    <value>一次性验证码已发送到您注册的邮箱。</value>
+  </data>
+  <data name="EmailNotRegistered" xml:space="preserve">
+    <value>提供的邮箱地址尚未注册。</value>
+  </data>
+  <data name="PasswordSuccessfullyReset" xml:space="preserve">
+    <value>您的密码已成功重置。</value>
+  </data>
+  <data name="OldPasswordDoesNotMatch" xml:space="preserve">
+    <value>您输入的旧密码与系统记录不匹配。</value>
+  </data>
+  <data name="InvalidDataModel" xml:space="preserve">
+    <value>提供的数据模型无效。</value>
+  </data>
+  <data name="UnauthorizedAccessResource" xml:space="preserve">
+    <value>您无权访问此资源。</value>
+  </data>
+  <data name="InsufficientPermissions" xml:space="preserve">
+    <value>您没有执行此操作所需的权限。</value>
+  </data>
+  <data name="PermissionServiceNotAvailable" xml:space="preserve">
+    <value>权限服务当前不可用。请稍后重试。</value>
+  </data>
+  <data name="UnauthorizedAccessAttempt" xml:space="preserve">
+    <value>检测到一次未授权的访问尝试。</value>
+  </data>
+  <data name="UserLimitExceededLicense" xml:space="preserve">
+    <value>已达到用户上限。请联系管理员升级许可证。</value>
+  </data>
+  <data name="DeviceLimitExceededLicense" xml:space="preserve">
+    <value>已达到设备上限。请联系管理员升级许可证。</value>
+  </data>
+  <data name="DashboardNameAlreadyExist" xml:space="preserve">
+    <value>已存在同名的仪表板。</value>
+  </data>
+  <data name="DashboardNameMandatory" xml:space="preserve">
+    <value>仪表板名称为必填项。</value>
+  </data>
+  <data name="GoogleApisave" xml:space="preserve">
+    <value>Google API 密钥已成功保存。</value>
+  </data>
+  <data name="FtpConfugurationSave" xml:space="preserve">
+    <value>FTP 配置已成功保存。</value>
+  </data>
+  <data name="PdfGenerated" xml:space="preserve">
+    <value>PDF 文件已成功生成。</value>
+  </data>
+  <data name="CsvGenerated" xml:space="preserve">
+    <value>CSV 文件已成功生成。</value>
+  </data>
+  <data name="ExcelGenerated" xml:space="preserve">
+    <value>Excel 文件已成功生成。</value>
+  </data>
+  <data name="FileUploadFailure" xml:space="preserve">
+    <value>未上传任何文件。</value>
+  </data>
+  <data name="RecordNotInserted" xml:space="preserve">
+    <value>记录插入失败。</value>
+  </data>
+  <data name="UserLoggedIn" xml:space="preserve">
+    <value>用户登录成功。</value>
+  </data>
+  <data name="NewTokenGenerated" xml:space="preserve">
+    <value>新令牌已成功生成。</value>
+  </data>
+  <data name="DeviceAlreadyExists" xml:space="preserve">
+    <value>已存在具有相同 IP 地址的设备。</value>
+  </data>
+  <data name="RestoreDatabase" xml:space="preserve">
+    <value>数据库已成功恢复。</value>
+  </data>
+  <data name="InvalidLicense" xml:space="preserve">
+    <value>许可证无效。请上传有效的许可证文件。</value>
+  </data>
+  <data name="LicenseExpired" xml:space="preserve">
+    <value>许可证已过期。</value>
+  </data>
+  <data name="CredetialWrongAddDevice" xml:space="preserve">
+    <value>凭据无效。请检查用户名和密码。</value>
+  </data>
+  <data name="InvalidGoogleKey" xml:space="preserve">
+    <value>提供的 Google API 密钥无效。请核对密钥后重试。</value>
+  </data>
+  <data name="DuplicateZoneName" xml:space="preserve">
+    <value>该楼层已存在同名区域。请使用其他名称。</value>
+  </data>
+  <data name="DuplicateFloor" xml:space="preserve">
+    <value>楼层名称已存在。请使用其他名称。</value>
+  </data>
+  <data name="RecordAdded" xml:space="preserve">
+    <value>记录已成功添加。</value>
+  </data>
+  <data name="RecordUpdated" xml:space="preserve">
+    <value>记录已成功更新。</value>
+  </data>
+  <data name="RecordDeleted" xml:space="preserve">
+    <value>记录已成功删除。</value>
+  </data>
+  <data name="RecordRetrieved" xml:space="preserve">
+    <value>记录已成功获取。</value>
+  </data>
+  <data name="FileUploaded" xml:space="preserve">
+    <value>文件已成功上传。</value>
+  </data>
+  <data name="RecordNotFound" xml:space="preserve">
+    <value>未找到任何记录。</value>
+  </data>
+  <data name="SomethingWentWrong" xml:space="preserve">
+    <value>发生错误。请稍后重试。</value>
+  </data>
+  <data name="DeviceUnavailable" xml:space="preserve">
+    <value>该设备当前不可用或离线。请检查连接后重试。</value>
+  </data>
+  <data name="SiteUnavailable" xml:space="preserve">
+    <value>该站点当前不可用或离线。请检查站点地址后重试。</value>
+  </data>
+  <data name="ChildSiteUnAvailable" xml:space="preserve">
+    <value>所选父站点下不存在对应的子站点。</value>
+  </data>
+  <data name="ApplicationCacheClear" xml:space="preserve">
+    <value>应用程序缓存已清除。</value>
+  </data>
+  <data name="UserNotFound" xml:space="preserve">
+    <value>未找到用户。</value>
+  </data>
+  <data name="PasswordAlreadyReset" xml:space="preserve">
+    <value>您的密码已重置。请使用当前密码登录。</value>
+  </data>
+  <data name="FailedToDeleteOwnerOrVehicle" xml:space="preserve">
+    <value>删除车主或关联车辆失败。</value>
+  </data>
+  <data name="TestDefine" xml:space="preserve">
+    <value>这是测试定义。</value>
+  </data>
+  <data name="AESFileFormat" xml:space="preserve">
+    <value>文件格式无效。仅支持 .aes 文件。</value>
+  </data>
+  <data name="AllDeviceUploaded" xml:space="preserve">
+    <value>所有设备均已成功上传。</value>
+  </data>
+  <data name="CertificateExpiresSoon" xml:space="preserve">
+    <value>证书即将过期：{0}</value>
+  </data>
+  <data name="CertificateHasExpired" xml:space="preserve">
+    <value>证书已于 {0} 过期。</value>
+  </data>
+  <data name="CertificateNotTrusted" xml:space="preserve">
+    <value>证书链验证失败——证书可能不受信任。</value>
+  </data>
+  <data name="CertificateNotValid" xml:space="preserve">
+    <value>证书在 {0} 之前无效。</value>
+  </data>
+  <data name="ChildSiteNotFound" xml:space="preserve">
+    <value>未找到子站点。</value>
+  </data>
+  <data name="DatabaseRestoreFailed" xml:space="preserve">
+    <value>数据库恢复失败。</value>
+  </data>
+  <data name="ErrorValidatingPFXFile" xml:space="preserve">
+    <value>验证 PFX 文件时出错：{0}</value>
+  </data>
+  <data name="ExcelFileNotSheet" xml:space="preserve">
+    <value>Excel 文件不包含任何工作表。</value>
+  </data>
+  <data name="ExcelMissingColumn" xml:space="preserve">
+    <value>Excel 文件缺少以下必需列：{0}</value>
+  </data>
+  <data name="FileFormatInvalid" xml:space="preserve">
+    <value>文件格式无效。请上传有效的 Excel 文件（.xlsx 或 .xls）。</value>
+  </data>
+  <data name="HeaderRowNotExits" xml:space="preserve">
+    <value>在 Excel 文件中未找到表头行。</value>
+  </data>
+  <data name="IISSiteNotFound" xml:space="preserve">
+    <value>未找到 IIS 站点 {0}。</value>
+  </data>
+  <data name="InsufficientPermissionsForIIS" xml:space="preserve">
+    <value>配置 IIS 的权限不足。请以管理员权限运行或配置应用程序池标识。</value>
+  </data>
+  <data name="InvalidPFXFileIncorrectPassword" xml:space="preserve">
+    <value>PFX 文件无效或密码不正确。</value>
+  </data>
+  <data name="LicenseFileNotFound" xml:space="preserve">
+    <value>未找到许可证文件。</value>
+  </data>
+  <data name="LicenseInvalidFileTypes" xml:space="preserve">
+    <value>文件类型无效。许可证文件必须为 .lic，公钥文件必须为 .pem。</value>
+  </data>
+  <data name="LicenseKeyRequired" xml:space="preserve">
+    <value>许可证文件和密钥文件均为必填。</value>
+  </data>
+  <data name="LicenseKeyUploaded" xml:space="preserve">
+    <value>许可证和密钥已成功上传。</value>
+  </data>
+  <data name="NoValidDeviceRows" xml:space="preserve">
+    <value>在 Excel 文件中未找到任何有效的设备行。</value>
+  </data>
+  <data name="ParentSiteNotFound" xml:space="preserve">
+    <value>未找到父站点。</value>
+  </data>
+  <data name="PFXCertificateContainPrivatekey" xml:space="preserve">
+    <value>PFX 证书必须包含私钥。</value>
+  </data>
+  <data name="PFXCertificateError" xml:space="preserve">
+    <value>处理 PFX 证书时发生内部服务器错误。</value>
+  </data>
+  <data name="PFXFileExtension" xml:space="preserve">
+    <value>文件必须为 .pfx 扩展名。</value>
+  </data>
+  <data name="PFXFileRequired" xml:space="preserve">
+    <value>必须提供 PFX 文件。</value>
+  </data>
+  <data name="PFXFileSize" xml:space="preserve">
+    <value>PFX 文件大小不能超过 10MB。</value>
+  </data>
+  <data name="RestoreFailedInvalidFile" xml:space="preserve">
+    <value>恢复失败：文件无效或用户未授权。</value>
+  </data>
+  <data name="RoleNameExits" xml:space="preserve">
+    <value>角色名称 {0} 已存在。</value>
+  </data>
+  <data name="SampleFileNotFound" xml:space="preserve">
+    <value>未找到示例文件。</value>
+  </data>
+  <data name="UploadSessionForDB" xml:space="preserve">
+    <value>未找到上传会话。</value>
+  </data>
+  <data name="FilterApplied" xml:space="preserve">
+    <value>已应用筛选器。</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>创建人</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>创建时间</value>
+  </data>
+  <data name="ReportType" xml:space="preserve">
+    <value>报表类型</value>
+  </data>
+  <data name="ReportName" xml:space="preserve">
+    <value>报表名称</value>
+  </data>
+  <data name="Sites" xml:space="preserve">
+    <value>站点</value>
+  </data>
+  <data name="DateTimeLabel" xml:space="preserve">
+    <value>日期时间</value>
+  </data>
+  <data name="KeyPerformanceMetric" xml:space="preserve">
+    <value>关键绩效指标</value>
+  </data>
+  <data name="PerformanceComparisonTable" xml:space="preserve">
+    <value>性能对比表</value>
+  </data>
+  <data name="SummaryInsights" xml:space="preserve">
+    <value>概要分析</value>
+  </data>
+  <data name="OccupancyRateComparison" xml:space="preserve">
+    <value>占用率对比</value>
+  </data>
+  <data name="TrafficCompositionPeopleVsVehicles" xml:space="preserve">
+    <value>流量构成（行人 vs 车辆）</value>
+  </data>
+  <data name="Floors" xml:space="preserve">
+    <value>楼层</value>
+  </data>
+  <data name="Zones" xml:space="preserve">
+    <value>区域</value>
+  </data>
+  <data name="TotalPeopleCount" xml:space="preserve">
+    <value>总人数</value>
+  </data>
+  <data name="AveragePeopleOccupancyRate" xml:space="preserve">
+    <value>平均人员占用率</value>
+  </data>
+  <data name="TotalVehicleCount" xml:space="preserve">
+    <value>车辆总数</value>
+  </data>
+  <data name="AverageVehicleOccupancyRate" xml:space="preserve">
+    <value>平均车辆占用率</value>
+  </data>
+  <data name="PeopleCount" xml:space="preserve">
+    <value>人数</value>
+  </data>
+  <data name="PeopleOccupancy" xml:space="preserve">
+    <value>人员占用</value>
+  </data>
+  <data name="VehicleCount" xml:space="preserve">
+    <value>车辆数</value>
+  </data>
+  <data name="VehicleOccupancy" xml:space="preserve">
+    <value>车辆占用</value>
+  </data>
+  <data name="NoDataAvailableForInsights" xml:space="preserve">
+    <value>没有可用于生成分析的数据。</value>
+  </data>
+  <data name="NoValidDataAvailableForInsights" xml:space="preserve">
+    <value>没有可用于生成分析的有效数据。</value>
+  </data>
+  <data name="NoValidInsightsBasedOnSelection" xml:space="preserve">
+    <value>基于当前选择没有可用的有效数据分析。</value>
+  </data>
+  <data name="HasHighestVehicleOccupancyRate" xml:space="preserve">
+    <value>具有最高的车辆占用率</value>
+  </data>
+  <data name="HasHighestVehicleCount" xml:space="preserve">
+    <value>具有最高的车辆计数</value>
+  </data>
+  <data name="VehicleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>车辆占用水平表明</value>
+  </data>
+  <data name="AreBusierThan" xml:space="preserve">
+    <value>比……更繁忙</value>
+  </data>
+  <data name="HasHighestPeopleOccupancyRate" xml:space="preserve">
+    <value>具有最高的人员占用率</value>
+  </data>
+  <data name="HasHighestPeopleCount" xml:space="preserve">
+    <value>具有最高的人员计数</value>
+  </data>
+  <data name="PeopleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>人员占用水平表明</value>
+  </data>
+  <data name="HasHighestPeopleAndVehicleOccupancyRates" xml:space="preserve">
+    <value>具有最高的人员和车辆占用率</value>
+  </data>
+  <data name="AndVehicleOccupancyRate" xml:space="preserve">
+    <value>以及车辆占用率</value>
+  </data>
+  <data name="PeopleAndVehicleCount" xml:space="preserve">
+    <value>人员和车辆数量</value>
+  </data>
+  <data name="BySite" xml:space="preserve">
+    <value>按站点</value>
+  </data>
+  <data name="ByZone" xml:space="preserve">
+    <value>按区域</value>
+  </data>
+  <data name="PeopleCountLabel" xml:space="preserve">
+    <value>人数</value>
+  </data>
+  <data name="MaintenanceDeviceExits" xml:space="preserve">
+    <value>维护装置已经存在。</value>
+  </data>
+  <data name="MaintenancePlanExists" xml:space="preserve">
+    <value>该维护计划已存在.</value>
+  </data>
+  <data name="ViAdminUserPermisssion" xml:space="preserve">
+    <value>您没有权限更改此用户的详细信息。</value>
+  </data>
+  <data name="DeviceNotRegistered" xml:space="preserve">
+    <value>设备未注册</value>
+  </data>
+  <data name="DeviceNotRegisteredForIP" xml:space="preserve">
+    <value>设备未为 IP {0} 注册</value>
+  </data>
+  <data name="ANPRVehicleNotFound" xml:space="preserve">
+    <value>{0} {1} {2} 在门口 {3}</value>
+  </data>
+  <data name="UnauthorizedVehicle" xml:space="preserve">
+    <value>未授权车辆</value>
+  </data>
+  <data name="VehicleOwnerNotFound" xml:space="preserve">
+    <value>未找到车辆所有者：{0} {1} {2}</value>
+  </data>
+  <data name="VehicleOwnerNotFoundNotification" xml:space="preserve">
+    <value>未找到车辆所有者</value>
+  </data>
+  <data name="DeviceNotAllowed" xml:space="preserve">
+    <value>{0} {1} {2} 不允许在门口 {3}</value>
+  </data>
+  <data name="GateAccessDenied" xml:space="preserve">
+    <value>门禁访问被拒绝</value>
+  </data>
+  <data name="TimeRestriction" xml:space="preserve">
+    <value>时间限制</value>
+  </data>
+  <data name="VehicleCounLimit" xml:space="preserve">
+    <value>{0} {1} {2} 无法进入。允许的最大车辆数 ({3}) 已达到。</value>
+  </data>
+  <data name="VehicleLimitReached" xml:space="preserve">
+    <value>已达到车辆限制</value>
+  </data>
+  <data name="VehicleNotAllowedTime" xml:space="preserve">
+    <value>{0} {1} {2} 在此时间不允许进入。允许时间：{3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestriction" xml:space="preserve">
+    <value>访客时间限制</value>
+  </data>
+  <data name="SystemAutoExited" xml:space="preserve">
+    <value>系统自动退出：同一车辆再次进入，但没有记录的退出。</value>
+  </data>
+  <data name="VehicleEnteredSuccessfully" xml:space="preserve">
+    <value>车辆成功进入</value>
+  </data>
+  <data name="FailToOpenGateBarrierDesc" xml:space="preserve">
+    <value>无法为 {0} 打开闸门。</value>
+  </data>
+  <data name="FailToOpenGateBarrierTitle" xml:space="preserve">
+    <value>无法打开闸门</value>
+  </data>
+  <data name="PermanentTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} 在此时间不允许离开。允许时间：{3} - {4}</value>
+  </data>
+  <data name="PermanentTimeRestrictionTitle" xml:space="preserve">
+    <value>时间限制</value>
+  </data>
+  <data name="VisitorTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} 不允许离开。访客有效期：{3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestrictionTitle" xml:space="preserve">
+    <value>访客时间限制</value>
+  </data>
+  <data name="VehicleExitedSuccssfully" xml:space="preserve">
+    <value>车辆成功离开</value>
+  </data>
+  <data name="VisitorValidPeriod" xml:space="preserve">
+    <value>{0} {1} {2} 不允许进入。访客有效期：{3} - {4}</value>
+  </data>
+  <data name="GateOpenSuccessManually" xml:space="preserve">
+   <value>闸门已成功打开。</value>
+  </data>
+  <data name="FailToCloseGate" xml:space="preserve">
+   <value>关闭闸门失败。</value>
+  </data>
+  <data name="EmailSentSuccessfully" xml:space="preserve">
+   <value>电子邮件发送成功。</value>
+  </data>
+  <data name="EventAlreadyExist" xml:space="preserve">
+   <value>警报事件已存在。</value>
+  </data>
+	<data name="UrlDomainValidation" xml:space="preserve">
+  <value>要接收来自 iDRAC 的通知，Vision Insight 应用程序 URL 必须使用 HTTPS，并包含有效的 IP 地址或域名。</value>
+</data>
+	<data name="OwnerValidityExpired" xml:space="preserve">
+  <value>访问被拒绝。所有者 {0} 已不再获得授权。有效期已于 {1} 到期。</value>
+</data>
+	<data name="OwnerValidityExpiredTitle" xml:space="preserve">
+  <value>所有者有效期已过期</value>
+</data>
+</root>

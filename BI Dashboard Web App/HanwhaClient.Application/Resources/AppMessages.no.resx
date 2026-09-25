@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LicenseAuthenticated" xml:space="preserve">
+    <value>Lisensen er autentisert vellykket.</value>
+  </data>
+  <data name="RoleExists" xml:space="preserve">
+    <value>Denne rollen er allerede tildelt en annen bruker.</value>
+  </data>
+  <data name="OtpSuccessfullyValidated" xml:space="preserve">
+    <value>OTP-koden er validert vellykket.</value>
+  </data>
+  <data name="OtpExpiredOrInvalid" xml:space="preserve">
+    <value>OTP-koden er utløpt eller ugyldig. Be om en ny for å fortsette.</value>
+  </data>
+  <data name="OtpSuccessfullySentToEmail" xml:space="preserve">
+    <value>En OTP-kode er sendt til din registrerte e-postadresse.</value>
+  </data>
+  <data name="EmailNotRegistered" xml:space="preserve">
+    <value>Den oppgitte e-postadressen er ikke registrert.</value>
+  </data>
+  <data name="PasswordSuccessfullyReset" xml:space="preserve">
+    <value>Ditt passord er tilbakestilt vellykket.</value>
+  </data>
+  <data name="OldPasswordDoesNotMatch" xml:space="preserve">
+    <value>Det gamle passordet du oppga samsvarer ikke med våre registre.</value>
+  </data>
+  <data name="InvalidDataModel" xml:space="preserve">
+    <value>Den oppgitte datamodellen er ugyldig.</value>
+  </data>
+  <data name="UnauthorizedAccessResource" xml:space="preserve">
+    <value>Du er ikke autorisert til å få tilgang til denne ressursen.</value>
+  </data>
+  <data name="InsufficientPermissions" xml:space="preserve">
+    <value>Du har ikke nødvendige tillatelser for å utføre denne handlingen.</value>
+  </data>
+  <data name="PermissionServiceNotAvailable" xml:space="preserve">
+    <value>Tillatelsestjenesten er for øyeblikket utilgjengelig. Prøv igjen senere.</value>
+  </data>
+  <data name="UnauthorizedAccessAttempt" xml:space="preserve">
+    <value>Et uautorisert tilgangsforsøk er oppdaget.</value>
+  </data>
+  <data name="UserLimitExceededLicense" xml:space="preserve">
+    <value>Brukergrensen er nådd. Kontakt administratoren for å oppgradere lisensen.</value>
+  </data>
+  <data name="DeviceLimitExceededLicense" xml:space="preserve">
+    <value>Enhetsgrensen er nådd. Kontakt administratoren for å oppgradere lisensen.</value>
+  </data>
+  <data name="DashboardNameAlreadyExist" xml:space="preserve">
+    <value>Et dashbord med dette navnet finnes allerede.</value>
+  </data>
+  <data name="DashboardNameMandatory" xml:space="preserve">
+    <value>Dashbordnavn er påkrevd.</value>
+  </data>
+  <data name="GoogleApisave" xml:space="preserve">
+    <value>Google API-nøkkel lagret vellykket.</value>
+  </data>
+  <data name="FtpConfugurationSave" xml:space="preserve">
+    <value>FTP-konfigurasjon lagret vellykket.</value>
+  </data>
+  <data name="PdfGenerated" xml:space="preserve">
+    <value>PDF-fil generert vellykket.</value>
+  </data>
+  <data name="CsvGenerated" xml:space="preserve">
+    <value>CSV-fil generert vellykket.</value>
+  </data>
+  <data name="ExcelGenerated" xml:space="preserve">
+    <value>Excel-fil generert vellykket.</value>
+  </data>
+  <data name="FileUploadFailure" xml:space="preserve">
+    <value>Ingen fil ble lastet opp.</value>
+  </data>
+  <data name="RecordNotInserted" xml:space="preserve">
+    <value>Kunne ikke sette inn posten.</value>
+  </data>
+  <data name="UserLoggedIn" xml:space="preserve">
+    <value>Bruker logget inn vellykket.</value>
+  </data>
+  <data name="NewTokenGenerated" xml:space="preserve">
+    <value>Nytt token generert vellykket.</value>
+  </data>
+  <data name="DeviceAlreadyExists" xml:space="preserve">
+    <value>En enhet med samme IP-adresse finnes allerede.</value>
+  </data>
+  <data name="RestoreDatabase" xml:space="preserve">
+    <value>Databasen er gjenopprettet vellykket.</value>
+  </data>
+  <data name="InvalidLicense" xml:space="preserve">
+    <value>Lisensen er ugyldig. Last opp en gyldig lisensfil.</value>
+  </data>
+  <data name="LicenseExpired" xml:space="preserve">
+    <value>Lisensen er utløpt.</value>
+  </data>
+  <data name="CredetialWrongAddDevice" xml:space="preserve">
+    <value>Ugyldige legitimasjon. Sjekk brukernavn og passord.</value>
+  </data>
+  <data name="InvalidGoogleKey" xml:space="preserve">
+    <value>Den oppgitte Google API-nøkkelen er ugyldig. Sjekk nøkkelen og prøv igjen.</value>
+  </data>
+  <data name="DuplicateZoneName" xml:space="preserve">
+    <value>Zonenavnet finnes allerede på denne etasjen. Velg et annet navn.</value>
+  </data>
+  <data name="DuplicateFloor" xml:space="preserve">
+    <value>Etasjenavnet finnes allerede. Velg et annet navn.</value>
+  </data>
+  <data name="RecordAdded" xml:space="preserve">
+    <value>Posten er lagt til vellykket.</value>
+  </data>
+  <data name="RecordUpdated" xml:space="preserve">
+    <value>Posten er oppdatert vellykket.</value>
+  </data>
+  <data name="RecordDeleted" xml:space="preserve">
+    <value>Posten er slettet vellykket.</value>
+  </data>
+  <data name="RecordRetrieved" xml:space="preserve">
+    <value>Posten er hentet vellykket.</value>
+  </data>
+  <data name="FileUploaded" xml:space="preserve">
+    <value>Filen er lastet opp vellykket.</value>
+  </data>
+  <data name="RecordNotFound" xml:space="preserve">
+    <value>Ingen post funnet.</value>
+  </data>
+  <data name="SomethingWentWrong" xml:space="preserve">
+    <value>Noe gikk galt. Prøv igjen.</value>
+  </data>
+  <data name="DeviceUnavailable" xml:space="preserve">
+    <value>Denne enheten er for øyeblikket utilgjengelig eller frakoblet. Sjekk tilkoblingen og prøv igjen.</value>
+  </data>
+  <data name="SiteUnavailable" xml:space="preserve">
+    <value>Denne siden er for øyeblikket utilgjengelig eller frakoblet. Sjekk sideadressen og prøv igjen.</value>
+  </data>
+  <data name="ChildSiteUnAvailable" xml:space="preserve">
+    <value>Underordnet side finnes ikke under den valgte overordnede siden.</value>
+  </data>
+  <data name="ApplicationCacheClear" xml:space="preserve">
+    <value>Applikasjonsbuffer ryddet.</value>
+  </data>
+  <data name="UserNotFound" xml:space="preserve">
+    <value>Bruker ikke funnet.</value>
+  </data>
+  <data name="PasswordAlreadyReset" xml:space="preserve">
+    <value>Ditt passord er allerede tilbakestilt. Logg inn med ditt nåværende passord.</value>
+  </data>
+  <data name="FailedToDeleteOwnerOrVehicle" xml:space="preserve">
+    <value>Kunne ikke slette eier eller tilknyttede kjøretøy.</value>
+  </data>
+  <data name="TestDefine" xml:space="preserve">
+    <value>Dette er en testdefinisjon.</value>
+  </data>
+  <data name="AESFileFormat" xml:space="preserve">
+    <value>Ugyldig filformat. Kun .aes-filer støttes.</value>
+  </data>
+  <data name="AllDeviceUploaded" xml:space="preserve">
+    <value>Alle enheter lastet opp vellykket.</value>
+  </data>
+  <data name="CertificateExpiresSoon" xml:space="preserve">
+    <value>Sertifikatet utløper snart: {0}</value>
+  </data>
+  <data name="CertificateHasExpired" xml:space="preserve">
+    <value>Sertifikatet utløp {0}</value>
+  </data>
+  <data name="CertificateNotTrusted" xml:space="preserve">
+    <value>Sertifikatkjedevalidering mislyktes - sertifikatet er kanskje ikke pålitelig.</value>
+  </data>
+  <data name="CertificateNotValid" xml:space="preserve">
+    <value>Sertifikatet er ikke gyldig før {0}</value>
+  </data>
+  <data name="ChildSiteNotFound" xml:space="preserve">
+    <value>Underordnet side ikke funnet.</value>
+  </data>
+  <data name="DatabaseRestoreFailed" xml:space="preserve">
+    <value>Databasegjenoppretting mislyktes.</value>
+  </data>
+  <data name="ErrorValidatingPFXFile" xml:space="preserve">
+    <value>Feil ved validering av PFX-fil: {0}</value>
+  </data>
+  <data name="ExcelFileNotSheet" xml:space="preserve">
+    <value>Excel-filen inneholder ikke noe regneark.</value>
+  </data>
+  <data name="ExcelMissingColumn" xml:space="preserve">
+    <value>Excel-filen mangler påkrevde kolonner: {0}</value>
+  </data>
+  <data name="FileFormatInvalid" xml:space="preserve">
+    <value>Ugyldig filformat. Last opp en gyldig Excel-fil (.xlsx eller .xls).</value>
+  </data>
+  <data name="HeaderRowNotExits" xml:space="preserve">
+    <value>Hode-rad ikke funnet i Excel-filen.</value>
+  </data>
+  <data name="IISSiteNotFound" xml:space="preserve">
+    <value>IIS-side {0} ikke funnet.</value>
+  </data>
+  <data name="InsufficientPermissionsForIIS" xml:space="preserve">
+    <value>Utilstrekkelige tillatelser for å konfigurere IIS. Kjør med administratorrettigheter eller konfigurer applikasjonspoolidentitet.</value>
+  </data>
+  <data name="InvalidPFXFileIncorrectPassword" xml:space="preserve">
+    <value>Ugyldig PFX-fil eller feil passord.</value>
+  </data>
+  <data name="LicenseFileNotFound" xml:space="preserve">
+    <value>Lisensfil ikke funnet.</value>
+  </data>
+  <data name="LicenseInvalidFileTypes" xml:space="preserve">
+    <value>Ugyldige filtyper. Lisensfil må være .lic og offentlig nøkkelfil må være .pem.</value>
+  </data>
+  <data name="LicenseKeyRequired" xml:space="preserve">
+    <value>Både lisensfil og nøkkelfil kreves.</value>
+  </data>
+  <data name="LicenseKeyUploaded" xml:space="preserve">
+    <value>Lisens og nøkkel lastet opp vellykket.</value>
+  </data>
+  <data name="NoValidDeviceRows" xml:space="preserve">
+    <value>Ingen gyldige enhetsrader funnet i Excel-filen.</value>
+  </data>
+  <data name="ParentSiteNotFound" xml:space="preserve">
+    <value>Overordnet side ikke funnet.</value>
+  </data>
+  <data name="PFXCertificateContainPrivatekey" xml:space="preserve">
+    <value>PFX-sertifikatet må inneholde en privat nøkkel.</value>
+  </data>
+  <data name="PFXCertificateError" xml:space="preserve">
+    <value>Intern serverfeil oppstod ved behandling av PFX-sertifikat.</value>
+  </data>
+  <data name="PFXFileExtension" xml:space="preserve">
+    <value>Filen må ha .pfx-utvidelse.</value>
+  </data>
+  <data name="PFXFileRequired" xml:space="preserve">
+    <value>PFX-fil kreves.</value>
+  </data>
+  <data name="PFXFileSize" xml:space="preserve">
+    <value>PFX-filens størrelse kan ikke overstige 10 MB.</value>
+  </data>
+  <data name="RestoreFailedInvalidFile" xml:space="preserve">
+    <value>Gjenoppretting mislyktes: Ugyldig fil eller uautorisert bruker.</value>
+  </data>
+  <data name="RoleNameExits" xml:space="preserve">
+    <value>Rollenavn {0} finnes allerede.</value>
+  </data>
+  <data name="SampleFileNotFound" xml:space="preserve">
+    <value>Eksempel-fil ikke funnet.</value>
+  </data>
+  <data name="UploadSessionForDB" xml:space="preserve">
+    <value>Opplastingsøkt ikke funnet.</value>
+  </data>
+  <data name="FilterApplied" xml:space="preserve">
+    <value>Filter anvendt.</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>Opprettet av</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>Opprettet</value>
+  </data>
+  <data name="ReportType" xml:space="preserve">
+    <value>Rapporttype</value>
+  </data>
+  <data name="ReportName" xml:space="preserve">
+    <value>Rapportnavn</value>
+  </data>
+  <data name="Sites" xml:space="preserve">
+    <value>Nettsteder</value>
+  </data>
+  <data name="DateTimeLabel" xml:space="preserve">
+    <value>Dato/Tid</value>
+  </data>
+  <data name="KeyPerformanceMetric" xml:space="preserve">
+    <value>Viktig ytelsesmetrikk</value>
+  </data>
+  <data name="PerformanceComparisonTable" xml:space="preserve">
+    <value>Ytelsessammenligningstabell</value>
+  </data>
+  <data name="SummaryInsights" xml:space="preserve">
+    <value>Sammendrag av innsikter</value>
+  </data>
+  <data name="OccupancyRateComparison" xml:space="preserve">
+    <value>Belastningsgradssammenligning</value>
+  </data>
+  <data name="TrafficCompositionPeopleVsVehicles" xml:space="preserve">
+    <value>Trafikksammensetning (Personer vs Kjøretøy)</value>
+  </data>
+  <data name="Floors" xml:space="preserve">
+    <value>Etasjer</value>
+  </data>
+  <data name="Zones" xml:space="preserve">
+    <value>Soner</value>
+  </data>
+  <data name="TotalPeopleCount" xml:space="preserve">
+    <value>Totalt antall personer</value>
+  </data>
+  <data name="AveragePeopleOccupancyRate" xml:space="preserve">
+    <value>Gjennomsnittlig personbelastningsgrad</value>
+  </data>
+  <data name="TotalVehicleCount" xml:space="preserve">
+    <value>Totalt antall kjøretøy</value>
+  </data>
+  <data name="AverageVehicleOccupancyRate" xml:space="preserve">
+    <value>Gjennomsnittlig kjøretøybelastningsgrad</value>
+  </data>
+  <data name="PeopleCount" xml:space="preserve">
+    <value>Antall personer</value>
+  </data>
+  <data name="PeopleOccupancy" xml:space="preserve">
+    <value>Personbelastning</value>
+  </data>
+  <data name="VehicleCount" xml:space="preserve">
+    <value>Antall kjøretøy</value>
+  </data>
+  <data name="VehicleOccupancy" xml:space="preserve">
+    <value>Kjøretøybelastning</value>
+  </data>
+  <data name="NoDataAvailableForInsights" xml:space="preserve">
+    <value>Ingen data tilgjengelig for å generere innsikter.</value>
+  </data>
+  <data name="NoValidDataAvailableForInsights" xml:space="preserve">
+    <value>Ingen gyldige data tilgjengelig for å generere innsikter.</value>
+  </data>
+  <data name="NoValidInsightsBasedOnSelection" xml:space="preserve">
+    <value>Ingen gyldige innsikter tilgjengelig basert på valget.</value>
+  </data>
+  <data name="HasHighestVehicleOccupancyRate" xml:space="preserve">
+    <value>har høyest kjøretøybelastningsgrad</value>
+  </data>
+  <data name="HasHighestVehicleCount" xml:space="preserve">
+    <value>har høyest antall kjøretøy</value>
+  </data>
+  <data name="VehicleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>Kjøretøybelastningsnivåer tyder på</value>
+  </data>
+  <data name="AreBusierThan" xml:space="preserve">
+    <value>er busier enn</value>
+  </data>
+  <data name="HasHighestPeopleOccupancyRate" xml:space="preserve">
+    <value>har høyest personbelastningsgrad</value>
+  </data>
+  <data name="HasHighestPeopleCount" xml:space="preserve">
+    <value>har høyest antall personer</value>
+  </data>
+  <data name="PeopleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>Personbelastningsnivåer tyder på</value>
+  </data>
+  <data name="HasHighestPeopleAndVehicleOccupancyRates" xml:space="preserve">
+    <value>har høyest person- og kjøretøybelastningsgrader</value>
+  </data>
+  <data name="AndVehicleOccupancyRate" xml:space="preserve">
+    <value>og kjøretøybelastningsgrad</value>
+  </data>
+  <data name="PeopleAndVehicleCount" xml:space="preserve">
+    <value>Antall personer &amp; kjøretøy</value>
+  </data>
+  <data name="BySite" xml:space="preserve">
+    <value>etter nettsted</value>
+  </data>
+  <data name="ByZone" xml:space="preserve">
+    <value>etter sone</value>
+  </data>
+  <data name="PeopleCountLabel" xml:space="preserve">
+    <value>Antall personer</value>
+  </data>
+  <data name="MaintenanceDeviceExits" xml:space="preserve">
+    <value>Det finnes allerede en vedlikeholdsenhet.</value>
+  </data>
+  <data name="MaintenancePlanExists" xml:space="preserve">
+    <value>Denne vedlikeholdsplanen finnes allerede.</value>
+  </data>
+  <data name="ViAdminUserPermisssion" xml:space="preserve">
+    <value>Du har ikke tillatelse til å endre denne brukerens detaljer.</value>
+  </data>
+  <data name="DeviceNotRegistered" xml:space="preserve">
+    <value>Enheten er ikke registrert</value>
+  </data>
+  <data name="DeviceNotRegisteredForIP" xml:space="preserve">
+    <value>Enheten er ikke registrert for IP {0}</value>
+  </data>
+  <data name="ANPRVehicleNotFound" xml:space="preserve">
+    <value>{0} {1} {2} er ved port {3}</value>
+  </data>
+  <data name="UnauthorizedVehicle" xml:space="preserve">
+    <value>Uautorisert kjøretøy</value>
+  </data>
+  <data name="VehicleOwnerNotFound" xml:space="preserve">
+    <value>Kjøretøyeier ble ikke funnet for {0} {1} {2}</value>
+  </data>
+  <data name="VehicleOwnerNotFoundNotification" xml:space="preserve">
+    <value>Kjøretøyeier ble ikke funnet</value>
+  </data>
+  <data name="DeviceNotAllowed" xml:space="preserve">
+    <value>{0} {1} {2} er ikke tillatt ved port {3}</value>
+  </data>
+  <data name="GateAccessDenied" xml:space="preserve">
+    <value>Tilgang til port nektet</value>
+  </data>
+  <data name="TimeRestriction" xml:space="preserve">
+    <value>Tidsbegrensning</value>
+  </data>
+  <data name="VehicleCounLimit" xml:space="preserve">
+    <value>{0} {1} {2} kan ikke gå inn. Maksimalt tillatt antall kjøretøy ({3}) er allerede nådd.</value>
+  </data>
+  <data name="VehicleLimitReached" xml:space="preserve">
+    <value>Kjøretøygrense nådd</value>
+  </data>
+  <data name="VehicleNotAllowedTime" xml:space="preserve">
+    <value>{0} {1} {2} er ikke tillatt på dette tidspunktet. Tillatt tid: {3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestriction" xml:space="preserve">
+    <value>Tidsbegrensning for besøkende</value>
+  </data>
+  <data name="SystemAutoExited" xml:space="preserve">
+    <value>Systemet registrerte automatisk utgang: samme kjøretøy kjørte inn igjen uten registrert utgang.</value>
+  </data>
+  <data name="VehicleEnteredSuccessfully" xml:space="preserve">
+    <value>Kjøretøyet kom inn med hell</value>
+  </data>
+  <data name="FailToOpenGateBarrierDesc" xml:space="preserve">
+    <value>Kunne ikke åpne portbarrieren for {0}.</value>
+  </data>
+  <data name="FailToOpenGateBarrierTitle" xml:space="preserve">
+    <value>Kunne ikke åpne portbarrieren</value>
+  </data>
+  <data name="PermanentTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} har ikke lov til å forlate på dette tidspunktet. Tillatt tid: {3} - {4}</value>
+  </data>
+  <data name="PermanentTimeRestrictionTitle" xml:space="preserve">
+    <value>Tidsbegrensning</value>
+  </data>
+  <data name="VisitorTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} har ikke lov til å forlate. Besøksgyldighetsperiode: {3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestrictionTitle" xml:space="preserve">
+    <value>Tidsbegrensning for besøkende</value>
+  </data>
+  <data name="VehicleExitedSuccssfully" xml:space="preserve">
+    <value>Kjøretøyet forlot med hell</value>
+  </data>
+  <data name="VisitorValidPeriod" xml:space="preserve">
+    <value>{0} {1} {2} har ikke lov til å gå inn. Besøksgyldighetsperiode: {3} - {4}</value>
+  </data>
+  <data name="GateOpenSuccessManually" xml:space="preserve">
+    <value>Porten ble åpnet vellykket.</value>
+  </data>
+  <data name="FailToCloseGate" xml:space="preserve">
+    <value>Kunne ikke lukke porten.</value>
+  </data>
+  <data name="EmailSentSuccessfully" xml:space="preserve">
+    <value>E-post ble sendt.</value>
+  </data>
+  <data name="EventAlreadyExist" xml:space="preserve">
+   <value>Alarmhendelsen eksisterer allerede.</value>
+  </data>
+	<data name="UrlDomainValidation" xml:space="preserve">
+  <value>For å motta varsler fra iDRAC må URL-en til Vision Insight-applikasjonen bruke HTTPS og inneholde en gyldig IP-adresse eller et domenenavn.</value>
+</data>
+	<data name="OwnerValidityExpired" xml:space="preserve">
+  <value>Tilgang nektet. Eier {0} er ikke lenger autorisert. Gyldigheten utløp den {1}.</value>
+</data>
+	<data name="OwnerValidityExpiredTitle" xml:space="preserve">
+  <value>Eiers gyldighet utløpt</value>
+</data>
+</root>

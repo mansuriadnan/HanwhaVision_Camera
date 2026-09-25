@@ -1,0 +1,730 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\examplejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\examplejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\peoplecountjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\peoplecountjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\controllers\\widgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\controllers\\widgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\reportschedulerjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\reportschedulerjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\vehiclecountjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\vehiclecountjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\shoppingcartcountjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\shoppingcartcountjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\schedulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\schedulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\multilanevehiclecountjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\multilanevehiclecountjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\manageoperationaltimingjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\manageoperationaltimingjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\heatmapjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\heatmapjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\forkliftcountjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\forkliftcountjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\deviceeventsmonitorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\deviceeventsmonitorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\checkzoneoccupancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\checkzoneoccupancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\backgroundtask\\checkdevicestatusjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\backgroundtask\\checkdevicestatusjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE143947-A2B6-46E4-BDC3-1CD2B4E376E0}|HanwhaClient.Infrastructure\\HanwhaClient.Infrastructure.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.infrastructure\\repository\\devicemasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE143947-A2B6-46E4-BDC3-1CD2B4E376E0}|HanwhaClient.Infrastructure\\HanwhaClient.Infrastructure.csproj|solutionrelative:hanwhaclient.infrastructure\\repository\\devicemasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.application\\services\\devicemasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|solutionrelative:hanwhaclient.application\\services\\devicemasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.application\\services\\widgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|solutionrelative:hanwhaclient.application\\services\\widgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.application\\services\\peoplewidgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|solutionrelative:hanwhaclient.application\\services\\peoplewidgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE143947-A2B6-46E4-BDC3-1CD2B4E376E0}|HanwhaClient.Infrastructure\\HanwhaClient.Infrastructure.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.infrastructure\\repository\\peoplecountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE143947-A2B6-46E4-BDC3-1CD2B4E376E0}|HanwhaClient.Infrastructure\\HanwhaClient.Infrastructure.csproj|solutionrelative:hanwhaclient.infrastructure\\repository\\peoplecountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.application\\services\\deviceapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|solutionrelative:hanwhaclient.application\\services\\deviceapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.application\\services\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|solutionrelative:hanwhaclient.application\\services\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\controllers\\mongobackuprestorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\controllers\\mongobackuprestorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2311937E-C34C-477D-81AB-4CC4DA87D62B}|HanwhaClient.Core\\HanwhaClient.Core.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.core\\services\\mongoindexinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2311937E-C34C-477D-81AB-4CC4DA87D62B}|HanwhaClient.Core\\HanwhaClient.Core.csproj|solutionrelative:hanwhaclient.core\\services\\mongoindexinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2311937E-C34C-477D-81AB-4CC4DA87D62B}|HanwhaClient.Core\\HanwhaClient.Core.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.core\\services\\license\\licensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2311937E-C34C-477D-81AB-4CC4DA87D62B}|HanwhaClient.Core\\HanwhaClient.Core.csproj|solutionrelative:hanwhaclient.core\\services\\license\\licensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.application\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|solutionrelative:hanwhaclient.application\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.application\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|solutionrelative:hanwhaclient.application\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.application\\services\\migrations\\migratation\\trafficwidgetpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|solutionrelative:hanwhaclient.application\\services\\migrations\\migratation\\trafficwidgetpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.application\\services\\rolescreenmappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|solutionrelative:hanwhaclient.application\\services\\rolescreenmappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49548019-6488-41C2-9C95-D1F045E442A4}|HanwhaClient.Model\\HanwhaClient.Model.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.model\\common\\screennames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49548019-6488-41C2-9C95-D1F045E442A4}|HanwhaClient.Model\\HanwhaClient.Model.csproj|solutionrelative:hanwhaclient.model\\common\\screennames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\controllers\\camerastreamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\controllers\\camerastreamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.application\\services\\migrations\\migratation\\firstscript2201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|solutionrelative:hanwhaclient.application\\services\\migrations\\migratation\\firstscript2201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.server\\controllers\\rolescreenmappingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D46520-A847-4547-8422-0D3ADA3D5278}|HanwhaClient.Server\\HanwhaClient.Server.csproj|solutionrelative:hanwhaclient.server\\controllers\\rolescreenmappingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49548019-6488-41C2-9C95-D1F045E442A4}|HanwhaClient.Model\\HanwhaClient.Model.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.model\\common\\widgetmasterlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49548019-6488-41C2-9C95-D1F045E442A4}|HanwhaClient.Model\\HanwhaClient.Model.csproj|solutionrelative:hanwhaclient.model\\common\\widgetmasterlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\bi dashboard web app\\hanwhaclient.application\\services\\migrations\\migratation\\changemodelnametextscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2DD3D2-0A3E-4536-9FE4-5A03392D7029}|HanwhaClient.Application\\HanwhaClient.Application.csproj|solutionrelative:hanwhaclient.application\\services\\migrations\\migratation\\changemodelnametextscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Program.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\Program.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Program.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\Program.cs",
+              "ViewState": "AQIAAGQBAAAAAAAAAAAqwH8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:16:04.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportSchedulerJob.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ReportSchedulerJob.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\ReportSchedulerJob.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ReportSchedulerJob.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\ReportSchedulerJob.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:24:15.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MultiLaneVehicleCountJob.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\MultiLaneVehicleCountJob.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\MultiLaneVehicleCountJob.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\MultiLaneVehicleCountJob.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\MultiLaneVehicleCountJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:24:11.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageOperationalTimingJob.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ManageOperationalTimingJob.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\ManageOperationalTimingJob.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ManageOperationalTimingJob.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\ManageOperationalTimingJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:24:09.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForkliftCountJob.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ForkliftCountJob.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\ForkliftCountJob.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ForkliftCountJob.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\ForkliftCountJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:24:04.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExampleJob.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ExampleJob.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\ExampleJob.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ExampleJob.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\ExampleJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:39:16.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CheckZoneOccupancy.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\CheckZoneOccupancy.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\CheckZoneOccupancy.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\CheckZoneOccupancy.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\CheckZoneOccupancy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:39:13.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckDeviceStatusJob.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\CheckDeviceStatusJob.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\CheckDeviceStatusJob.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\CheckDeviceStatusJob.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\CheckDeviceStatusJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:38:55.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScheduleModel.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ScheduleModel.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\ScheduleModel.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ScheduleModel.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\ScheduleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:37:46.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartCountJob.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ShoppingCartCountJob.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\ShoppingCartCountJob.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\ShoppingCartCountJob.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\ShoppingCartCountJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:37:45.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleCountJob.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\VehicleCountJob.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\VehicleCountJob.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\VehicleCountJob.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\VehicleCountJob.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:37:43.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeviceMasterRepository.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\Repository\\DeviceMasterRepository.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Infrastructure\\Repository\\DeviceMasterRepository.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\Repository\\DeviceMasterRepository.cs",
+              "RelativeToolTip": "HanwhaClient.Infrastructure\\Repository\\DeviceMasterRepository.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAIAwwF4BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:23:11.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WidgetService.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\WidgetService.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Application\\Services\\WidgetService.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\WidgetService.cs",
+              "RelativeToolTip": "HanwhaClient.Application\\Services\\WidgetService.cs",
+              "ViewState": "AQIAAKAMAAAAAAAAAAApwLgMAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T05:10:20.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PeopleWidgetService.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\PeopleWidgetService.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Application\\Services\\PeopleWidgetService.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\PeopleWidgetService.cs",
+              "RelativeToolTip": "HanwhaClient.Application\\Services\\PeopleWidgetService.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAIAwwGoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:30:07.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:23:48.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeviceEventsMonitorJob.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\DeviceEventsMonitorJob.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\DeviceEventsMonitorJob.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\DeviceEventsMonitorJob.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\DeviceEventsMonitorJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:22:16.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HeatMapJob.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\HeatMapJob.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\HeatMapJob.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\HeatMapJob.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\HeatMapJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:20:10.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeopleCountJob.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\PeopleCountJob.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\BackgroundTask\\PeopleCountJob.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\BackgroundTask\\PeopleCountJob.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\BackgroundTask\\PeopleCountJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwDAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:58:35.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeviceMasterService.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\DeviceMasterService.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Application\\Services\\DeviceMasterService.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\DeviceMasterService.cs",
+              "RelativeToolTip": "HanwhaClient.Application\\Services\\DeviceMasterService.cs",
+              "ViewState": "AQIAAHACAAAAAAAAAAAawI4DAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:56:54.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeviceApiService.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\DeviceApiService.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Application\\Services\\DeviceApiService.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\DeviceApiService.cs",
+              "RelativeToolTip": "HanwhaClient.Application\\Services\\DeviceApiService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:56:55.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MongoIndexInitializer.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Core\\Services\\MongoIndexInitializer.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Core\\Services\\MongoIndexInitializer.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Core\\Services\\MongoIndexInitializer.cs",
+              "RelativeToolTip": "HanwhaClient.Core\\Services\\MongoIndexInitializer.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowHMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:51:06.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LicenseValidator.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Core\\Services\\License\\LicenseValidator.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Core\\Services\\License\\LicenseValidator.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Core\\Services\\License\\LicenseValidator.cs",
+              "RelativeToolTip": "HanwhaClient.Core\\Services\\License\\LicenseValidator.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAQwG4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T05:04:23.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "licenseController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\licenseController.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\Controllers\\licenseController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\licenseController.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\Controllers\\licenseController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T05:02:53.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\appsettings.json",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\appsettings.json",
+              "RelativeToolTip": "HanwhaClient.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T06:00:31.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TrafficWidgetPermission.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\Migrations\\Migratation\\TrafficWidgetPermission.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Application\\Services\\Migrations\\Migratation\\TrafficWidgetPermission.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\Migrations\\Migratation\\TrafficWidgetPermission.cs",
+              "RelativeToolTip": "HanwhaClient.Application\\Services\\Migrations\\Migratation\\TrafficWidgetPermission.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:54:03.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoleScreenMappingService.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\RoleScreenMappingService.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Application\\Services\\RoleScreenMappingService.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\RoleScreenMappingService.cs",
+              "RelativeToolTip": "HanwhaClient.Application\\Services\\RoleScreenMappingService.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAmwLwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:48:50.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ChangeModelNameTextScript.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\Migrations\\Migratation\\ChangeModelNameTextScript.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Application\\Services\\Migrations\\Migratation\\ChangeModelNameTextScript.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\Migrations\\Migratation\\ChangeModelNameTextScript.cs",
+              "RelativeToolTip": "HanwhaClient.Application\\Services\\Migrations\\Migratation\\ChangeModelNameTextScript.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:44:13.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ScreenNames.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\Common\\ScreenNames.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Model\\Common\\ScreenNames.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\Common\\ScreenNames.cs",
+              "RelativeToolTip": "HanwhaClient.Model\\Common\\ScreenNames.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowHQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:41:14.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PeopleCountRepository.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\Repository\\PeopleCountRepository.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Infrastructure\\Repository\\PeopleCountRepository.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\Repository\\PeopleCountRepository.cs",
+              "RelativeToolTip": "HanwhaClient.Infrastructure\\Repository\\PeopleCountRepository.cs",
+              "ViewState": "AQIAAHUDAAAAAAAAAAApwI8DAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:09:37.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CameraStreamController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\CameraStreamController.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\Controllers\\CameraStreamController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\CameraStreamController.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\Controllers\\CameraStreamController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAD4v0IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T05:53:31.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\Controllers\\ReportsController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwFoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:17:44.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Application\\Services\\ReportService.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\ReportService.cs",
+              "RelativeToolTip": "HanwhaClient.Application\\Services\\ReportService.cs",
+              "ViewState": "AQIAAHoBAAAAAAAAAAAqwIwBAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:17:44.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\Controllers\\DeviceController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\Controllers\\DeviceController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:19:30.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PermissionService.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\PermissionService.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Application\\Services\\PermissionService.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\PermissionService.cs",
+              "RelativeToolTip": "HanwhaClient.Application\\Services\\PermissionService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwFIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:47:09.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RoleScreenMappingController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\RoleScreenMappingController.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\Controllers\\RoleScreenMappingController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\RoleScreenMappingController.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\Controllers\\RoleScreenMappingController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwGoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:52:09.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MongoService.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\MongoService.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Application\\Services\\MongoService.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\MongoService.cs",
+              "RelativeToolTip": "HanwhaClient.Application\\Services\\MongoService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwFUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:52:09.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MongoBackupRestoreController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\MongoBackupRestoreController.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\Controllers\\MongoBackupRestoreController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\MongoBackupRestoreController.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\Controllers\\MongoBackupRestoreController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:52:10.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WidgetMasterList.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\Common\\WidgetMasterList.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Model\\Common\\WidgetMasterList.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\Common\\WidgetMasterList.cs",
+              "RelativeToolTip": "HanwhaClient.Model\\Common\\WidgetMasterList.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAlwKUAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:58:00.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FirstScript2201.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\Migrations\\Migratation\\FirstScript2201.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Application\\Services\\Migrations\\Migratation\\FirstScript2201.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\Services\\Migrations\\Migratation\\FirstScript2201.cs",
+              "RelativeToolTip": "HanwhaClient.Application\\Services\\Migrations\\Migratation\\FirstScript2201.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAYwK4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:45:59.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WidgetController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\WidgetController.cs",
+              "RelativeDocumentMoniker": "HanwhaClient.Server\\Controllers\\WidgetController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Server\\Controllers\\WidgetController.cs",
+              "RelativeToolTip": "HanwhaClient.Server\\Controllers\\WidgetController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:08:16.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

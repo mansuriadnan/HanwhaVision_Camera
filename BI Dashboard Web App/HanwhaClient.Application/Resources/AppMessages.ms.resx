@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LicenseAuthenticated" xml:space="preserve">
+    <value>Lesen telah disahkan berjaya.</value>
+  </data>
+  <data name="RoleExists" xml:space="preserve">
+    <value>Peranan ini telah ditetapkan kepada pengguna lain.</value>
+  </data>
+  <data name="OtpSuccessfullyValidated" xml:space="preserve">
+    <value>Kod OTP telah disahkan berjaya.</value>
+  </data>
+  <data name="OtpExpiredOrInvalid" xml:space="preserve">
+    <value>Kod OTP telah tamat tempoh atau tidak sah. Sila mohon kod baru untuk meneruskan.</value>
+  </data>
+  <data name="OtpSuccessfullySentToEmail" xml:space="preserve">
+    <value>Kod OTP telah dihantar ke alamat e-mel yang didaftarkan.</value>
+  </data>
+  <data name="EmailNotRegistered" xml:space="preserve">
+    <value>Alamat e-mel yang diberikan tidak didaftarkan.</value>
+  </data>
+  <data name="PasswordSuccessfullyReset" xml:space="preserve">
+    <value>Kata laluan anda telah diset semula berjaya.</value>
+  </data>
+  <data name="OldPasswordDoesNotMatch" xml:space="preserve">
+    <value>Kata laluan lama yang dimasukkan tidak sepadan dengan rekod kami.</value>
+  </data>
+  <data name="InvalidDataModel" xml:space="preserve">
+    <value>Model data yang diberikan tidak sah.</value>
+  </data>
+  <data name="UnauthorizedAccessResource" xml:space="preserve">
+    <value>Anda tidak dibenarkan mengakses sumber ini.</value>
+  </data>
+  <data name="InsufficientPermissions" xml:space="preserve">
+    <value>Anda tidak mempunyai kebenaran yang diperlukan untuk melakukan tindakan ini.</value>
+  </data>
+  <data name="PermissionServiceNotAvailable" xml:space="preserve">
+    <value>Perkhidmatan kebenaran tidak tersedia buat masa ini. Sila cuba lagi kemudian.</value>
+  </data>
+  <data name="UnauthorizedAccessAttempt" xml:space="preserve">
+    <value>Percubaan akses tidak dibenarkan telah dikesan.</value>
+  </data>
+  <data name="UserLimitExceededLicense" xml:space="preserve">
+    <value>Had pengguna telah dicapai. Sila hubungi pentadbir untuk menaik taraf lesen.</value>
+  </data>
+  <data name="DeviceLimitExceededLicense" xml:space="preserve">
+    <value>Had peranti telah dicapai. Sila hubungi pentadbir untuk menaik taraf lesen.</value>
+  </data>
+  <data name="DashboardNameAlreadyExist" xml:space="preserve">
+    <value>Papan pemuka dengan nama ini sudah wujud.</value>
+  </data>
+  <data name="DashboardNameMandatory" xml:space="preserve">
+    <value>Nama papan pemuka adalah wajib.</value>
+  </data>
+  <data name="GoogleApisave" xml:space="preserve">
+    <value>Kunci API Google disimpan berjaya.</value>
+  </data>
+  <data name="FtpConfugurationSave" xml:space="preserve">
+    <value>Konfigurasi FTP disimpan berjaya.</value>
+  </data>
+  <data name="PdfGenerated" xml:space="preserve">
+    <value>Fail PDF dijana berjaya.</value>
+  </data>
+  <data name="CsvGenerated" xml:space="preserve">
+    <value>Fail CSV dijana berjaya.</value>
+  </data>
+  <data name="ExcelGenerated" xml:space="preserve">
+    <value>Fail Excel dijana berjaya.</value>
+  </data>
+  <data name="FileUploadFailure" xml:space="preserve">
+    <value>Tiada fail dimuat naik.</value>
+  </data>
+  <data name="RecordNotInserted" xml:space="preserve">
+    <value>Gagal memasukkan rekod.</value>
+  </data>
+  <data name="UserLoggedIn" xml:space="preserve">
+    <value>Pengguna log masuk berjaya.</value>
+  </data>
+  <data name="NewTokenGenerated" xml:space="preserve">
+    <value>Token baru dijana berjaya.</value>
+  </data>
+  <data name="DeviceAlreadyExists" xml:space="preserve">
+    <value>Peranti dengan alamat IP yang sama sudah wujud.</value>
+  </data>
+  <data name="RestoreDatabase" xml:space="preserve">
+    <value>Pangkalan data dipulihkan berjaya.</value>
+  </data>
+  <data name="InvalidLicense" xml:space="preserve">
+    <value>Lesen tidak sah. Sila muat naik fail lesen yang sah.</value>
+  </data>
+  <data name="LicenseExpired" xml:space="preserve">
+    <value>Lesen telah tamat tempoh.</value>
+  </data>
+  <data name="CredetialWrongAddDevice" xml:space="preserve">
+    <value>Segoali salah. Sila semak nama pengguna dan kata laluan.</value>
+  </data>
+  <data name="InvalidGoogleKey" xml:space="preserve">
+    <value>Kunci API Google yang diberikan tidak sah. Sila semak kunci dan cuba lagi.</value>
+  </data>
+  <data name="DuplicateZoneName" xml:space="preserve">
+    <value>Nama zon sudah wujud di tingkat ini. Sila pilih nama lain.</value>
+  </data>
+  <data name="DuplicateFloor" xml:space="preserve">
+    <value>Nama tingkat sudah wujud. Sila pilih nama lain.</value>
+  </data>
+  <data name="RecordAdded" xml:space="preserve">
+    <value>Rekod ditambah berjaya.</value>
+  </data>
+  <data name="RecordUpdated" xml:space="preserve">
+    <value>Rekod dikemaskini berjaya.</value>
+  </data>
+  <data name="RecordDeleted" xml:space="preserve">
+    <value>Rekod dipadam berjaya.</value>
+  </data>
+  <data name="RecordRetrieved" xml:space="preserve">
+    <value>Rekod diambil berjaya.</value>
+  </data>
+  <data name="FileUploaded" xml:space="preserve">
+    <value>Fail dimuat naik berjaya.</value>
+  </data>
+  <data name="RecordNotFound" xml:space="preserve">
+    <value>Tiada rekod ditemui.</value>
+  </data>
+  <data name="SomethingWentWrong" xml:space="preserve">
+    <value>Sesuatu telah berlaku salah. Sila cuba lagi.</value>
+  </data>
+  <data name="DeviceUnavailable" xml:space="preserve">
+    <value>Peranti ini tidak tersedia buat masa ini atau luar talian. Sila semak sambungan dan cuba lagi.</value>
+  </data>
+  <data name="SiteUnavailable" xml:space="preserve">
+    <value>Laman ini tidak tersedia buat masa ini atau luar talian. Sila semak alamat laman dan cuba lagi.</value>
+  </data>
+  <data name="ChildSiteUnAvailable" xml:space="preserve">
+    <value>Laman anak tidak wujud di bawah laman induk yang dipilih.</value>
+  </data>
+  <data name="ApplicationCacheClear" xml:space="preserve">
+    <value>Cache aplikasi dibersihkan.</value>
+  </data>
+  <data name="UserNotFound" xml:space="preserve">
+    <value>Pengguna tidak ditemui.</value>
+  </data>
+  <data name="PasswordAlreadyReset" xml:space="preserve">
+    <value>Kata laluan anda sudah diset semula. Sila log masuk dengan kata laluan semasa.</value>
+  </data>
+  <data name="FailedToDeleteOwnerOrVehicle" xml:space="preserve">
+    <value>Gagal memadam pemilik atau kenderaan berkaitan.</value>
+  </data>
+  <data name="TestDefine" xml:space="preserve">
+    <value>Ini adalah definisi ujian.</value>
+  </data>
+  <data name="AESFileFormat" xml:space="preserve">
+    <value>Format fail tidak sah. Hanya fail .aes disokong.</value>
+  </data>
+  <data name="AllDeviceUploaded" xml:space="preserve">
+    <value>Semua peranti dimuat naik berjaya.</value>
+  </data>
+  <data name="CertificateExpiresSoon" xml:space="preserve">
+    <value>Sijil akan tamat tempoh tidak lama lagi: {0}</value>
+  </data>
+  <data name="CertificateHasExpired" xml:space="preserve">
+    <value>Sijil telah tamat tempoh pada {0}</value>
+  </data>
+  <data name="CertificateNotTrusted" xml:space="preserve">
+    <value>Pengesahan rantaian sijil gagal - sijil mungkin tidak dipercayai.</value>
+  </data>
+  <data name="CertificateNotValid" xml:space="preserve">
+    <value>Sijil tidak sah sehingga {0}</value>
+  </data>
+  <data name="ChildSiteNotFound" xml:space="preserve">
+    <value>Laman anak tidak ditemui.</value>
+  </data>
+  <data name="DatabaseRestoreFailed" xml:space="preserve">
+    <value>Pemulihan pangkalan data gagal.</value>
+  </data>
+  <data name="ErrorValidatingPFXFile" xml:space="preserve">
+    <value>Ralat mengesahkan fail PFX: {0}</value>
+  </data>
+  <data name="ExcelFileNotSheet" xml:space="preserve">
+    <value>Fail Excel tidak mengandungi sebarang hela.</value>
+  </data>
+  <data name="ExcelMissingColumn" xml:space="preserve">
+    <value>Fail Excel kehilangan lajur yang diperlukan: {0}</value>
+  </data>
+  <data name="FileFormatInvalid" xml:space="preserve">
+    <value>Format fail tidak sah. Sila muat naik fail Excel yang sah (.xlsx atau .xls).</value>
+  </data>
+  <data name="HeaderRowNotExits" xml:space="preserve">
+    <value>Baris header tidak ditemui dalam fail Excel.</value>
+  </data>
+  <data name="IISSiteNotFound" xml:space="preserve">
+    <value>Laman IIS {0} tidak ditemui.</value>
+  </data>
+  <data name="InsufficientPermissionsForIIS" xml:space="preserve">
+    <value>Kebenaran tidak mencukupi untuk menyediakan IIS. Jalankan dengan hak pentadbir atau sediakan identiti kumpulan aplikasi.</value>
+  </data>
+  <data name="InvalidPFXFileIncorrectPassword" xml:space="preserve">
+    <value>Fail PFX tidak sah atau kata laluan salah.</value>
+  </data>
+  <data name="LicenseFileNotFound" xml:space="preserve">
+    <value>Fail lesen tidak ditemui.</value>
+  </data>
+  <data name="LicenseInvalidFileTypes" xml:space="preserve">
+    <value>Jenis fail tidak sah. Fail lesen mesti .lic dan fail kunci awam mesti .pem.</value>
+  </data>
+  <data name="LicenseKeyRequired" xml:space="preserve">
+    <value>Fail lesen dan kunci kedua-duanya diperlukan.</value>
+  </data>
+  <data name="LicenseKeyUploaded" xml:space="preserve">
+    <value>Lesen dan kunci dimuat naik berjaya.</value>
+  </data>
+  <data name="NoValidDeviceRows" xml:space="preserve">
+    <value>Tiada baris peranti sah ditemui dalam fail Excel.</value>
+  </data>
+  <data name="ParentSiteNotFound" xml:space="preserve">
+    <value>Laman induk tidak ditemui.</value>
+  </data>
+  <data name="PFXCertificateContainPrivatekey" xml:space="preserve">
+    <value>Sijil PFX mesti mengandungi kunci persendirian.</value>
+  </data>
+  <data name="PFXCertificateError" xml:space="preserve">
+    <value>Ralat pelayan dalaman berlaku semasa memproses sijil PFX.</value>
+  </data>
+  <data name="PFXFileExtension" xml:space="preserve">
+    <value>Fail mesti mempunyai sambungan .pfx.</value>
+  </data>
+  <data name="PFXFileRequired" xml:space="preserve">
+    <value>Fail PFX diperlukan.</value>
+  </data>
+  <data name="PFXFileSize" xml:space="preserve">
+    <value>Saiz fail PFX tidak boleh melebihi 10MB.</value>
+  </data>
+  <data name="RestoreFailedInvalidFile" xml:space="preserve">
+    <value>Pemulihan gagal: Fail tidak sah atau pengguna tidak dibenarkan.</value>
+  </data>
+  <data name="RoleNameExits" xml:space="preserve">
+    <value>Nama peranan {0} sudah wujud.</value>
+  </data>
+  <data name="SampleFileNotFound" xml:space="preserve">
+    <value>Fail sampel tidak ditemui.</value>
+  </data>
+  <data name="UploadSessionForDB" xml:space="preserve">
+    <value>Sesi muat naik tidak ditemui.</value>
+  </data>
+  <data name="FilterApplied" xml:space="preserve">
+    <value>Penapis digunakan.</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>Dicipta oleh</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>Dicipta pada</value>
+  </data>
+  <data name="ReportType" xml:space="preserve">
+    <value>Jenis laporan</value>
+  </data>
+  <data name="ReportName" xml:space="preserve">
+    <value>Nama laporan</value>
+  </data>
+  <data name="Sites" xml:space="preserve">
+    <value>Laman</value>
+  </data>
+  <data name="DateTimeLabel" xml:space="preserve">
+    <value>Tarikh/Masa</value>
+  </data>
+  <data name="KeyPerformanceMetric" xml:space="preserve">
+    <value>Metrik Prestasi Utama</value>
+  </data>
+  <data name="PerformanceComparisonTable" xml:space="preserve">
+    <value>Jadual Perbandingan Prestasi</value>
+  </data>
+  <data name="SummaryInsights" xml:space="preserve">
+    <value>Ringkasan Wawasan</value>
+  </data>
+  <data name="OccupancyRateComparison" xml:space="preserve">
+    <value>Perbandingan Kadar Penghunian</value>
+  </data>
+  <data name="TrafficCompositionPeopleVsVehicles" xml:space="preserve">
+    <value>Komposisi Trafik (Orang vs Kenderaan)</value>
+  </data>
+  <data name="Floors" xml:space="preserve">
+    <value>Tingkat</value>
+  </data>
+  <data name="Zones" xml:space="preserve">
+    <value>Zon</value>
+  </data>
+  <data name="TotalPeopleCount" xml:space="preserve">
+    <value>Jumlah Bilangan Orang</value>
+  </data>
+  <data name="AveragePeopleOccupancyRate" xml:space="preserve">
+    <value>Kadar Penghunian Orang Purata</value>
+  </data>
+  <data name="TotalVehicleCount" xml:space="preserve">
+    <value>Jumlah Bilangan Kenderaan</value>
+  </data>
+  <data name="AverageVehicleOccupancyRate" xml:space="preserve">
+    <value>Kadar Penghunian Kenderaan Purata</value>
+  </data>
+  <data name="PeopleCount" xml:space="preserve">
+    <value>Bilangan Orang</value>
+  </data>
+  <data name="PeopleOccupancy" xml:space="preserve">
+    <value>Penghunian Orang</value>
+  </data>
+  <data name="VehicleCount" xml:space="preserve">
+    <value>Bilangan Kenderaan</value>
+  </data>
+  <data name="VehicleOccupancy" xml:space="preserve">
+    <value>Penghunian Kenderaan</value>
+  </data>
+  <data name="NoDataAvailableForInsights" xml:space="preserve">
+    <value>Tiada data tersedia untuk menjana wawasan.</value>
+  </data>
+  <data name="NoValidDataAvailableForInsights" xml:space="preserve">
+    <value>Tiada data sah tersedia untuk menjana wawasan.</value>
+  </data>
+  <data name="NoValidInsightsBasedOnSelection" xml:space="preserve">
+    <value>Tiada wawasan sah tersedia berdasarkan pilihan.</value>
+  </data>
+  <data name="HasHighestVehicleOccupancyRate" xml:space="preserve">
+    <value>memiliki kadar penghunian kenderaan tertinggi</value>
+  </data>
+  <data name="HasHighestVehicleCount" xml:space="preserve">
+    <value>memiliki bilangan kenderaan tertinggi</value>
+  </data>
+  <data name="VehicleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>Tahap penghunian kenderaan mencadangkan</value>
+  </data>
+  <data name="AreBusierThan" xml:space="preserve">
+    <value>lebih sibuk daripada</value>
+  </data>
+  <data name="HasHighestPeopleOccupancyRate" xml:space="preserve">
+    <value>memiliki kadar penghunian orang tertinggi</value>
+  </data>
+  <data name="HasHighestPeopleCount" xml:space="preserve">
+    <value>memiliki bilangan orang tertinggi</value>
+  </data>
+  <data name="PeopleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>Tahap penghunian orang mencadangkan</value>
+  </data>
+  <data name="HasHighestPeopleAndVehicleOccupancyRates" xml:space="preserve">
+    <value>memiliki kadar penghunian orang dan kenderaan tertinggi</value>
+  </data>
+  <data name="AndVehicleOccupancyRate" xml:space="preserve">
+    <value>dan kadar penghunian kenderaan</value>
+  </data>
+  <data name="PeopleAndVehicleCount" xml:space="preserve">
+    <value>Bilangan Orang &amp; Kenderaan</value>
+  </data>
+  <data name="BySite" xml:space="preserve">
+    <value>mengikut laman</value>
+  </data>
+  <data name="ByZone" xml:space="preserve">
+    <value>mengikut zon</value>
+  </data>
+  <data name="PeopleCountLabel" xml:space="preserve">
+    <value>Bilangan Orang</value>
+  </data>
+  <data name="MaintenanceDeviceExits" xml:space="preserve">
+    <value>Peranti penyelenggaraan sudah wujud.</value>
+  </data>
+  <data name="MaintenancePlanExists" xml:space="preserve">
+    <value>Pelan penyelenggaraan ini sudah wujud.</value>
+  </data>
+  <data name="ViAdminUserPermisssion" xml:space="preserve">
+    <value>Anda tidak mempunyai kebenaran untuk mengubah butiran pengguna ini.</value>
+  </data>
+  <data name="DeviceNotRegistered" xml:space="preserve">
+    <value>Peranti tidak didaftarkan</value>
+  </data>
+  <data name="DeviceNotRegisteredForIP" xml:space="preserve">
+    <value>Peranti tidak didaftarkan untuk IP {0}</value>
+  </data>
+  <data name="ANPRVehicleNotFound" xml:space="preserve">
+    <value>{0} {1} {2} berada di pintu pagar {3}</value>
+  </data>
+  <data name="UnauthorizedVehicle" xml:space="preserve">
+    <value>Kenderaan tidak dibenarkan</value>
+  </data>
+  <data name="VehicleOwnerNotFound" xml:space="preserve">
+    <value>Pemilik kenderaan tidak dijumpai untuk {0} {1} {2}</value>
+  </data>
+  <data name="VehicleOwnerNotFoundNotification" xml:space="preserve">
+    <value>Pemilik kenderaan tidak dijumpai</value>
+  </data>
+  <data name="DeviceNotAllowed" xml:space="preserve">
+    <value>{0} {1} {2} tidak dibenarkan di pintu pagar {3}</value>
+  </data>
+  <data name="GateAccessDenied" xml:space="preserve">
+    <value>Akses ke pintu pagar ditolak</value>
+  </data>
+  <data name="TimeRestriction" xml:space="preserve">
+    <value>Sekatan masa</value>
+  </data>
+  <data name="VehicleCounLimit" xml:space="preserve">
+    <value>{0} {1} {2} tidak boleh masuk. Bilangan maksimum kenderaan yang dibenarkan ({3}) telah dicapai.</value>
+  </data>
+  <data name="VehicleLimitReached" xml:space="preserve">
+    <value>Had kenderaan telah dicapai</value>
+  </data>
+  <data name="VehicleNotAllowedTime" xml:space="preserve">
+    <value>{0} {1} {2} tidak dibenarkan pada masa ini. Masa dibenarkan: {3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestriction" xml:space="preserve">
+    <value>Sekatan masa pelawat</value>
+  </data>
+  <data name="SystemAutoExited" xml:space="preserve">
+    <value>Sistem keluar secara automatik: kenderaan yang sama masuk semula tanpa rekod keluar.</value>
+  </data>
+  <data name="VehicleEnteredSuccessfully" xml:space="preserve">
+    <value>Kenderaan berjaya masuk</value>
+  </data>
+  <data name="FailToOpenGateBarrierDesc" xml:space="preserve">
+    <value>Gagal membuka palang pintu pagar untuk {0}.</value>
+  </data>
+  <data name="FailToOpenGateBarrierTitle" xml:space="preserve">
+    <value>Gagal membuka palang pintu pagar</value>
+  </data>
+  <data name="PermanentTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} tidak dibenarkan keluar pada masa ini. Masa dibenarkan: {3} - {4}</value>
+  </data>
+  <data name="PermanentTimeRestrictionTitle" xml:space="preserve">
+    <value>Sekatan masa</value>
+  </data>
+  <data name="VisitorTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} tidak dibenarkan keluar. Tempoh sah pelawat: {3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestrictionTitle" xml:space="preserve">
+    <value>Sekatan masa pelawat</value>
+  </data>
+  <data name="VehicleExitedSuccssfully" xml:space="preserve">
+    <value>Kenderaan berjaya keluar</value>
+  </data>
+  <data name="VisitorValidPeriod" xml:space="preserve">
+    <value>{0} {1} {2} tidak dibenarkan masuk. Tempoh sah pelawat: {3} - {4}</value>
+  </data>
+  <data name="GateOpenSuccessManually" xml:space="preserve">
+    <value>Pintu pagar berjaya dibuka.</value>
+  </data>
+  <data name="FailToCloseGate" xml:space="preserve">
+    <value>Gagal menutup pintu pagar.</value>
+  </data>
+  <data name="EmailSentSuccessfully" xml:space="preserve">
+    <value>E-mel berjaya dihantar.</value>
+  </data>
+  <data name="EventAlreadyExist" xml:space="preserve">
+   <value>Peristiwa amaran sudah wujud.</value>
+  </data>
+	<data name="UrlDomainValidation" xml:space="preserve">
+  <value>Untuk menerima pemberitahuan daripada iDRAC, URL aplikasi Vision Insight mesti menggunakan HTTPS dan mengandungi alamat IP atau nama domain yang sah.</value>
+</data>
+	<data name="OwnerValidityExpired" xml:space="preserve">
+  <value>Akses ditolak. Pemilik {0} tidak lagi dibenarkan. Tempoh sah telah tamat pada {1}.</value>
+</data>
+	<data name="OwnerValidityExpiredTitle" xml:space="preserve">
+  <value>Tempoh Sah Pemilik Tamat</value>
+</data>
+</root>

@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LicenseAuthenticated" xml:space="preserve">
+    <value>Licence byla úspěšně ověřena.</value>
+  </data>
+  <data name="RoleExists" xml:space="preserve">
+    <value>Tato role je již přiřazena jinému uživateli.</value>
+  </data>
+  <data name="OtpSuccessfullyValidated" xml:space="preserve">
+    <value>OTP kód byl úspěšně ověřen.</value>
+  </data>
+  <data name="OtpExpiredOrInvalid" xml:space="preserve">
+    <value>OTP kód vypršel nebo je neplatný. Pro pokračování si prosím vyžádejte nový.</value>
+  </data>
+  <data name="OtpSuccessfullySentToEmail" xml:space="preserve">
+    <value>OTP kód byl odeslán na vaši registrovanou e‑mailovou adresu.</value>
+  </data>
+  <data name="EmailNotRegistered" xml:space="preserve">
+    <value>Zadaná e‑mailová adresa není zaregistrována.</value>
+  </data>
+  <data name="PasswordSuccessfullyReset" xml:space="preserve">
+    <value>Vaše heslo bylo úspěšně resetováno.</value>
+  </data>
+  <data name="OldPasswordDoesNotMatch" xml:space="preserve">
+    <value>Zadané staré heslo neodpovídá našim záznamům.</value>
+  </data>
+  <data name="InvalidDataModel" xml:space="preserve">
+    <value>Poskytnutý datový model je neplatný.</value>
+  </data>
+  <data name="UnauthorizedAccessResource" xml:space="preserve">
+    <value>Nemáte oprávnění k přístupu k tomuto prostředku.</value>
+  </data>
+  <data name="InsufficientPermissions" xml:space="preserve">
+    <value>Nemáte potřebná oprávnění k provedení této akce.</value>
+  </data>
+  <data name="PermissionServiceNotAvailable" xml:space="preserve">
+    <value>Služba oprávnění je momentálně nedostupná. Zkuste to prosím znovu později.</value>
+  </data>
+  <data name="UnauthorizedAccessAttempt" xml:space="preserve">
+    <value>Byl zjištěn pokus o neoprávněný přístup.</value>
+  </data>
+  <data name="UserLimitExceededLicense" xml:space="preserve">
+    <value>Byl dosažen limit počtu uživatelů. Pro navýšení licence kontaktujte prosím svého administrátora.</value>
+  </data>
+  <data name="DeviceLimitExceededLicense" xml:space="preserve">
+    <value>Byl dosažen limit počtu zařízení. Pro navýšení licence kontaktujte prosím svého administrátora.</value>
+  </data>
+  <data name="DashboardNameAlreadyExist" xml:space="preserve">
+    <value>Řídicí panel s tímto názvem již existuje.</value>
+  </data>
+  <data name="DashboardNameMandatory" xml:space="preserve">
+    <value>Název řídicího panelu je povinný.</value>
+  </data>
+  <data name="GoogleApisave" xml:space="preserve">
+    <value>Klíč Google API byl úspěšně uložen.</value>
+  </data>
+  <data name="FtpConfugurationSave" xml:space="preserve">
+    <value>Konfigurace FTP byla úspěšně uložena.</value>
+  </data>
+  <data name="PdfGenerated" xml:space="preserve">
+    <value>Soubor PDF byl úspěšně vygenerován.</value>
+  </data>
+  <data name="CsvGenerated" xml:space="preserve">
+    <value>Soubor CSV byl úspěšně vygenerován.</value>
+  </data>
+  <data name="ExcelGenerated" xml:space="preserve">
+    <value>Soubor Excel byl úspěšně vygenerován.</value>
+  </data>
+  <data name="FileUploadFailure" xml:space="preserve">
+    <value>Nebyl nahrán žádný soubor.</value>
+  </data>
+  <data name="RecordNotInserted" xml:space="preserve">
+    <value>Záznam se nepodařilo vložit.</value>
+  </data>
+  <data name="UserLoggedIn" xml:space="preserve">
+    <value>Uživatel byl úspěšně přihlášen.</value>
+  </data>
+  <data name="NewTokenGenerated" xml:space="preserve">
+    <value>Nový token byl úspěšně vygenerován.</value>
+  </data>
+  <data name="DeviceAlreadyExists" xml:space="preserve">
+    <value>Zařízení se stejnou IP adresou již existuje.</value>
+  </data>
+  <data name="RestoreDatabase" xml:space="preserve">
+    <value>Databáze byla úspěšně obnovena.</value>
+  </data>
+  <data name="InvalidLicense" xml:space="preserve">
+    <value>Licence je neplatná. Nahrajte prosím platný licenční soubor.</value>
+  </data>
+  <data name="LicenseExpired" xml:space="preserve">
+    <value>Platnost licence vypršela.</value>
+  </data>
+  <data name="CredetialWrongAddDevice" xml:space="preserve">
+    <value>Neplatné přihlašovací údaje. Zkontrolujte prosím své uživatelské jméno a heslo.</value>
+  </data>
+  <data name="InvalidGoogleKey" xml:space="preserve">
+    <value>Zadaný klíč Google API je neplatný. Zkontrolujte prosím klíč a zkuste to znovu.</value>
+  </data>
+  <data name="DuplicateZoneName" xml:space="preserve">
+    <value>Název zóny již na tomto podlaží existuje. Zvolte prosím jiný název.</value>
+  </data>
+  <data name="DuplicateFloor" xml:space="preserve">
+    <value>Název podlaží již existuje. Zvolte prosím jiný název.</value>
+  </data>
+  <data name="RecordAdded" xml:space="preserve">
+    <value>Záznam byl úspěšně přidán.</value>
+  </data>
+  <data name="RecordUpdated" xml:space="preserve">
+    <value>Záznam byl úspěšně aktualizován.</value>
+  </data>
+  <data name="RecordDeleted" xml:space="preserve">
+    <value>Záznam byl úspěšně odstraněn.</value>
+  </data>
+  <data name="RecordRetrieved" xml:space="preserve">
+    <value>Záznam byl úspěšně načten.</value>
+  </data>
+  <data name="FileUploaded" xml:space="preserve">
+    <value>Soubor byl úspěšně nahrán.</value>
+  </data>
+  <data name="RecordNotFound" xml:space="preserve">
+    <value>Nebyly nalezeny žádné záznamy.</value>
+  </data>
+  <data name="SomethingWentWrong" xml:space="preserve">
+    <value>Došlo k chybě. Zkuste to prosím znovu.</value>
+  </data>
+  <data name="DeviceUnavailable" xml:space="preserve">
+    <value>Toto zařízení je momentálně nedostupné nebo offline. Zkontrolujte prosím připojení a zkuste to znovu.</value>
+  </data>
+  <data name="SiteUnavailable" xml:space="preserve">
+    <value>Tento server/stránka je momentálně nedostupný nebo offline. Zkontrolujte prosím adresu a zkuste to znovu.</value>
+  </data>
+  <data name="ChildSiteUnAvailable" xml:space="preserve">
+    <value>Dceřiný server/stránka pod vybraným nadřazeným serverem neexistuje.</value>
+  </data>
+  <data name="ApplicationCacheClear" xml:space="preserve">
+    <value>Mezipaměť aplikace byla vymazána.</value>
+  </data>
+  <data name="UserNotFound" xml:space="preserve">
+    <value>Uživatel nebyl nalezen.</value>
+  </data>
+  <data name="PasswordAlreadyReset" xml:space="preserve">
+    <value>Vaše heslo již bylo resetováno. Přihlaste se prosím pomocí aktuálního hesla.</value>
+  </data>
+  <data name="FailedToDeleteOwnerOrVehicle" xml:space="preserve">
+    <value>Nepodařilo se odstranit vlastníka nebo související vozidla.</value>
+  </data>
+  <data name="TestDefine" xml:space="preserve">
+    <value>Toto je testovací definice.</value>
+  </data>
+  <data name="AESFileFormat" xml:space="preserve">
+    <value>Neplatný formát souboru. Podporovány jsou pouze soubory .aes.</value>
+  </data>
+  <data name="AllDeviceUploaded" xml:space="preserve">
+    <value>Všechna zařízení byla úspěšně nahrána.</value>
+  </data>
+  <data name="CertificateExpiresSoon" xml:space="preserve">
+    <value>Certifikátu brzy vyprší platnost: {0}</value>
+  </data>
+  <data name="CertificateHasExpired" xml:space="preserve">
+    <value>Certifikátu vypršela platnost dne {0}.</value>
+  </data>
+  <data name="CertificateNotTrusted" xml:space="preserve">
+    <value>Ověření řetězce certifikátu selhalo – certifikát nemusí být důvěryhodný.</value>
+  </data>
+  <data name="CertificateNotValid" xml:space="preserve">
+    <value>Certifikát není platný před datem {0}.</value>
+  </data>
+  <data name="ChildSiteNotFound" xml:space="preserve">
+    <value>Dceřiný server/stránka nebyl nalezen.</value>
+  </data>
+  <data name="DatabaseRestoreFailed" xml:space="preserve">
+    <value>Obnovení databáze se nezdařilo.</value>
+  </data>
+  <data name="ErrorValidatingPFXFile" xml:space="preserve">
+    <value>Při ověřování souboru PFX došlo k chybě: {0}</value>
+  </data>
+  <data name="ExcelFileNotSheet" xml:space="preserve">
+    <value>Soubor Excel neobsahuje žádný list.</value>
+  </data>
+  <data name="ExcelMissingColumn" xml:space="preserve">
+    <value>V souboru Excel chybí požadované sloupce: {0}</value>
+  </data>
+  <data name="FileFormatInvalid" xml:space="preserve">
+    <value>Neplatný formát souboru. Nahrajte prosím platný soubor Excel (.xlsx nebo .xls).</value>
+  </data>
+  <data name="HeaderRowNotExits" xml:space="preserve">
+    <value>V souboru Excel nebyl nalezen řádek záhlaví.</value>
+  </data>
+  <data name="IISSiteNotFound" xml:space="preserve">
+    <value>Web IIS {0} nebyl nalezen.</value>
+  </data>
+  <data name="InsufficientPermissionsForIIS" xml:space="preserve">
+    <value>Nedostatečná oprávnění ke konfiguraci IIS. Spusťte prosím aplikaci s oprávněními správce nebo nakonfigurujte identitu aplikačního fondu.</value>
+  </data>
+  <data name="InvalidPFXFileIncorrectPassword" xml:space="preserve">
+    <value>Neplatný soubor PFX nebo nesprávné heslo.</value>
+  </data>
+  <data name="LicenseFileNotFound" xml:space="preserve">
+    <value>Licenční soubor nebyl nalezen.</value>
+  </data>
+  <data name="LicenseInvalidFileTypes" xml:space="preserve">
+    <value>Neplatné typy souborů. Licenční soubor musí být .lic a soubor veřejného klíče musí být .pem.</value>
+  </data>
+  <data name="LicenseKeyRequired" xml:space="preserve">
+    <value>Je nutné poskytnout jak licenční soubor, tak soubor s klíčem.</value>
+  </data>
+  <data name="LicenseKeyUploaded" xml:space="preserve">
+    <value>Licence a klíč byly úspěšně nahrány.</value>
+  </data>
+  <data name="NoValidDeviceRows" xml:space="preserve">
+    <value>V souboru Excel nebyly nalezeny žádné platné řádky zařízení.</value>
+  </data>
+  <data name="ParentSiteNotFound" xml:space="preserve">
+    <value>Nadřazený server/stránka nebyl nalezen.</value>
+  </data>
+  <data name="PFXCertificateContainPrivatekey" xml:space="preserve">
+    <value>Certifikát PFX musí obsahovat soukromý klíč.</value>
+  </data>
+  <data name="PFXCertificateError" xml:space="preserve">
+    <value>Při zpracování certifikátu PFX došlo k vnitřní chybě serveru.</value>
+  </data>
+  <data name="PFXFileExtension" xml:space="preserve">
+    <value>Soubor musí mít příponu .pfx.</value>
+  </data>
+  <data name="PFXFileRequired" xml:space="preserve">
+    <value>Soubor PFX je povinný.</value>
+  </data>
+  <data name="PFXFileSize" xml:space="preserve">
+    <value>Velikost souboru PFX nesmí překročit 10 MB.</value>
+  </data>
+  <data name="RestoreFailedInvalidFile" xml:space="preserve">
+    <value>Obnovení se nezdařilo: neplatný soubor nebo neoprávněný uživatel.</value>
+  </data>
+  <data name="RoleNameExits" xml:space="preserve">
+    <value>Název role {0} již existuje.</value>
+  </data>
+  <data name="SampleFileNotFound" xml:space="preserve">
+    <value>Ukázkový soubor nebyl nalezen.</value>
+  </data>
+  <data name="UploadSessionForDB" xml:space="preserve">
+    <value>Relace nahrávání nebyla nalezena.</value>
+  </data>
+  <data name="FilterApplied" xml:space="preserve">
+    <value>Filtr byl použit.</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>Vytvořil</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>Vytvořeno dne</value>
+  </data>
+  <data name="ReportType" xml:space="preserve">
+    <value>Typ sestavy</value>
+  </data>
+  <data name="ReportName" xml:space="preserve">
+    <value>Název sestavy</value>
+  </data>
+  <data name="Sites" xml:space="preserve">
+    <value>Servery/Stránky</value>
+  </data>
+  <data name="DateTimeLabel" xml:space="preserve">
+    <value>Datum a čas</value>
+  </data>
+  <data name="KeyPerformanceMetric" xml:space="preserve">
+    <value>Klíčový ukazatel výkonnosti</value>
+  </data>
+  <data name="PerformanceComparisonTable" xml:space="preserve">
+    <value>Tabulka porovnání výkonu</value>
+  </data>
+  <data name="SummaryInsights" xml:space="preserve">
+    <value>Shrnující přehled</value>
+  </data>
+  <data name="OccupancyRateComparison" xml:space="preserve">
+    <value>Porovnání míry obsazenosti</value>
+  </data>
+  <data name="TrafficCompositionPeopleVsVehicles" xml:space="preserve">
+    <value>Složení provozu (lidé vs. vozidla)</value>
+  </data>
+  <data name="Floors" xml:space="preserve">
+    <value>Podlaží</value>
+  </data>
+  <data name="Zones" xml:space="preserve">
+    <value>Zóny</value>
+  </data>
+  <data name="TotalPeopleCount" xml:space="preserve">
+    <value>Celkový počet osob</value>
+  </data>
+  <data name="AveragePeopleOccupancyRate" xml:space="preserve">
+    <value>Průměrná míra obsazenosti osob</value>
+  </data>
+  <data name="TotalVehicleCount" xml:space="preserve">
+    <value>Celkový počet vozidel</value>
+  </data>
+  <data name="AverageVehicleOccupancyRate" xml:space="preserve">
+    <value>Průměrná míra obsazenosti vozidel</value>
+  </data>
+  <data name="PeopleCount" xml:space="preserve">
+    <value>Počet osob</value>
+  </data>
+  <data name="PeopleOccupancy" xml:space="preserve">
+    <value>Obsazenost osob</value>
+  </data>
+  <data name="VehicleCount" xml:space="preserve">
+    <value>Počet vozidel</value>
+  </data>
+  <data name="VehicleOccupancy" xml:space="preserve">
+    <value>Obsazenost vozidel</value>
+  </data>
+  <data name="NoDataAvailableForInsights" xml:space="preserve">
+    <value>Nejsou k dispozici žádná data pro generování analýz.</value>
+  </data>
+  <data name="NoValidDataAvailableForInsights" xml:space="preserve">
+    <value>Nejsou k dispozici žádná platná data pro generování analýz.</value>
+  </data>
+  <data name="NoValidInsightsBasedOnSelection" xml:space="preserve">
+    <value>Na základě aktuálního výběru nejsou k dispozici žádné platné datové analýzy.</value>
+  </data>
+  <data name="HasHighestVehicleOccupancyRate" xml:space="preserve">
+    <value>má nejvyšší míru obsazenosti vozidel</value>
+  </data>
+  <data name="HasHighestVehicleCount" xml:space="preserve">
+    <value>má nejvyšší počet vozidel</value>
+  </data>
+  <data name="VehicleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>Úroveň obsazenosti vozidel naznačuje</value>
+  </data>
+  <data name="AreBusierThan" xml:space="preserve">
+    <value>jsou vytíženější než</value>
+  </data>
+  <data name="HasHighestPeopleOccupancyRate" xml:space="preserve">
+    <value>má nejvyšší míru obsazenosti osob</value>
+  </data>
+  <data name="HasHighestPeopleCount" xml:space="preserve">
+    <value>má nejvyšší počet osob</value>
+  </data>
+  <data name="PeopleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>Úroveň obsazenosti osob naznačuje</value>
+  </data>
+  <data name="HasHighestPeopleAndVehicleOccupancyRates" xml:space="preserve">
+    <value>má nejvyšší míru obsazenosti osob i vozidel</value>
+  </data>
+  <data name="AndVehicleOccupancyRate" xml:space="preserve">
+    <value>a míru obsazenosti vozidel</value>
+  </data>
+  <data name="PeopleAndVehicleCount" xml:space="preserve">
+    <value>Počet osob a vozidel</value>
+  </data>
+  <data name="BySite" xml:space="preserve">
+    <value>podle serveru/stránky</value>
+  </data>
+  <data name="ByZone" xml:space="preserve">
+    <value>podle zóny</value>
+  </data>
+  <data name="PeopleCountLabel" xml:space="preserve">
+    <value>Počet osob</value>
+  </data>
+  <data name="MaintenanceDeviceExits" xml:space="preserve">
+    <value>„Zařízení údržby již existuje.</value>
+  </data>
+  <data name="MaintenancePlanExists" xml:space="preserve">
+    <value>Tento plán údržby již existuje.</value>
+  </data>
+  <data name="ViAdminUserPermisssion" xml:space="preserve">
+    <value>Nemáte oprávnění měnit údaje tohoto uživatele.</value>
+  </data>
+  <data name="DeviceNotRegistered" xml:space="preserve">
+    <value>Zařízení není zaregistrováno</value>
+  </data>
+  <data name="DeviceNotRegisteredForIP" xml:space="preserve">
+    <value>Zařízení není zaregistrováno pro IP {0}</value>
+  </data>
+  <data name="ANPRVehicleNotFound" xml:space="preserve">
+    <value>{0} {1} {2} je na bráně {3}</value>
+  </data>
+  <data name="UnauthorizedVehicle" xml:space="preserve">
+    <value>Neoprávněné vozidlo</value>
+  </data>
+  <data name="VehicleOwnerNotFound" xml:space="preserve">
+    <value>Majitel vozidla nebyl nalezen pro {0} {1} {2}</value>
+  </data>
+  <data name="VehicleOwnerNotFoundNotification" xml:space="preserve">
+    <value>Majitel vozidla nebyl nalezen</value>
+  </data>
+  <data name="DeviceNotAllowed" xml:space="preserve">
+    <value>{0} {1} {2} není povoleno na bráně {3}</value>
+  </data>
+  <data name="GateAccessDenied" xml:space="preserve">
+    <value>Přístup k bráně odepřen</value>
+  </data>
+  <data name="TimeRestriction" xml:space="preserve">
+    <value>Časové omezení</value>
+  </data>
+  <data name="VehicleCounLimit" xml:space="preserve">
+    <value>{0} {1} {2} nemůže vstoupit. Maximální povolený počet vozidel ({3}) již byl dosažen.</value>
+  </data>
+  <data name="VehicleLimitReached" xml:space="preserve">
+    <value>Limit vozidel dosažen</value>
+  </data>
+  <data name="VehicleNotAllowedTime" xml:space="preserve">
+    <value>{0} {1} {2} není v tuto dobu povoleno. Povolený čas: {3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestriction" xml:space="preserve">
+    <value>Časové omezení návštěvníka</value>
+  </data>
+  <data name="SystemAutoExited" xml:space="preserve">
+    <value>Systém automaticky zaznamenal odjezd: stejné vozidlo znovu vjelo bez zaznamenaného výjezdu.</value>
+  </data>
+  <data name="VehicleEnteredSuccessfully" xml:space="preserve">
+    <value>Vozidlo úspěšně vjelo</value>
+  </data>
+  <data name="FailToOpenGateBarrierDesc" xml:space="preserve">
+    <value>Nepodařilo se otevřít závoru pro {0}.</value>
+  </data>
+  <data name="FailToOpenGateBarrierTitle" xml:space="preserve">
+    <value>Nepodařilo se otevřít závoru</value>
+  </data>
+  <data name="PermanentTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} není dovoleno opustit v tuto dobu. Povolený čas: {3} - {4}</value>
+  </data>
+  <data name="PermanentTimeRestrictionTitle" xml:space="preserve">
+    <value>Časové omezení</value>
+  </data>
+  <data name="VisitorTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} není dovoleno opustit. Platnost návštěvy: {3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestrictionTitle" xml:space="preserve">
+    <value>Časové omezení návštěvníka</value>
+  </data>
+  <data name="VehicleExitedSuccssfully" xml:space="preserve">
+    <value>Vozidlo úspěšně vyjelo</value>
+  </data>
+  <data name="VisitorValidPeriod" xml:space="preserve">
+    <value>{0} {1} {2} nemá povolen vstup. Platnost návštěvy: {3} - {4}</value>
+  </data>
+  <data name="GateOpenSuccessManually" xml:space="preserve">
+   <value>Brána byla úspěšně otevřena.</value>
+  </data>
+  <data name="FailToCloseGate" xml:space="preserve">
+    <value>Nepodařilo se zavřít bránu.</value>
+  </data>
+  <data name="EmailSentSuccessfully" xml:space="preserve">
+    <value>E-mail byl úspěšně odeslán.</value>
+  </data>
+  <data name="EventAlreadyExist" xml:space="preserve">
+   <value>Událost alarmu již existuje.</value>
+  </data>
+  <data name="UrlDomainValidation" xml:space="preserve">
+    <value>Pro přijímání oznámení z iDRAC musí adresa URL aplikace Vision Insight používat HTTPS a obsahovat platnou IP adresu nebo název domény.</value>
+  </data>
+	<data name="OwnerValidityExpired" xml:space="preserve">
+  <value>Přístup odepřen. Vlastník {0} již není oprávněn. Platnost vypršela dne {1}.</value>
+</data>
+	<data name="OwnerValidityExpiredTitle" xml:space="preserve">
+  <value>Platnost vlastníka vypršela</value>
+</data>
+</root>

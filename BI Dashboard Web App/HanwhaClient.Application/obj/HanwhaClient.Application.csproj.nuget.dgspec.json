@@ -1,0 +1,365 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\HanwhaClient.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\HanwhaClient.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\HanwhaClient.Application.csproj",
+        "projectName": "HanwhaClient.Application",
+        "projectPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\HanwhaClient.Application.csproj",
+        "packagesPath": "C:\\Users\\adnan.mansuri\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adnan.mansuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Core\\HanwhaClient.Core.csproj": {
+                "projectPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Core\\HanwhaClient.Core.csproj"
+              },
+              "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\HanwhaClient.Infrastructure.csproj": {
+                "projectPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\HanwhaClient.Infrastructure.csproj"
+              },
+              "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\HanwhaClient.Model.csproj": {
+                "projectPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\HanwhaClient.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Core": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Microsoft.Web.Administration": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "PuppeteerSharp": {
+              "target": "Package",
+              "version": "[20.2.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Core\\HanwhaClient.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Core\\HanwhaClient.Core.csproj",
+        "projectName": "HanwhaClient.Core",
+        "projectPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Core\\HanwhaClient.Core.csproj",
+        "packagesPath": "C:\\Users\\adnan.mansuri\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adnan.mansuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\HanwhaClient.Infrastructure.csproj": {
+                "projectPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\HanwhaClient.Infrastructure.csproj"
+              },
+              "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\HanwhaClient.Model.csproj": {
+                "projectPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\HanwhaClient.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.104.2, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
+            "DinkToPdf": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "HtmlToPdfConverter.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Isopoh.Cryptography.Argon2": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\HanwhaClient.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\HanwhaClient.Infrastructure.csproj",
+        "projectName": "HanwhaClient.Infrastructure",
+        "projectPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\HanwhaClient.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\adnan.mansuri\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adnan.mansuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\HanwhaClient.Model.csproj": {
+                "projectPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\HanwhaClient.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\HanwhaClient.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\HanwhaClient.Model.csproj",
+        "projectName": "HanwhaClient.Model",
+        "projectPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\HanwhaClient.Model.csproj",
+        "packagesPath": "C:\\Users\\adnan.mansuri\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\BI Dashboard Web App\\HanwhaClient.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adnan.mansuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1376 @@
+{
+  "_comment_header": "header related labels",
+  "Dashboards": "Dashboards",
+  "Welcome_content": "Welcome to BI Dashboard",
+  "Profile": "Profile",
+  "Preferences": "Preferences",
+  "Change_Password": "Change Password",
+  "Logout": "Logout",
+  "Change_Password_Restriction": "Password changes are restricted.",
+  "Change_Password_Restriction_Content": "Please contact your administrator to update your password.",
+  "Okay": "Okay",
+
+  "_comment_Notification_Drawer": "Notification Drawer related labels",
+  "Notification": "Notification",
+  "Read_All": "Read All",
+  "No_Notification": "No notifications available at the moment.",
+  "Load_more": "Loading more...",
+
+  "_comment_Welcome_Page": "Welcome page related labels",
+  "welcome_to": "Welcome to",
+  "BI_DASHBOARD": "BI DASHBOARD",
+
+  "Login": {
+    "Login_Header": "Login",
+    "Login_Line1": "Maximize safety,efficiency and insights",
+    "Login_Line2": "Real-time dashboard analytics for insights",
+    "Login_Line3": "on safety and business intelligence",
+    "Login_Form": "Enter your account details",
+    "Form_UserName": "Username/Email",
+    "Login_Email_Placeholder": "Enter username or email address",
+    "Login_Email_Require": "Username or Email is required",
+    "Login_Email_validation": "Enter a valid username or email.",
+    "Login_Password": "Password",
+    "Login_Pass_Placeholder": "Enter password",
+    "Login_Pass_Require": "Password is required.",
+    "Forgot_Password": "Forgot Password",
+    "Forgot_Password_lable1": "Forget password are restricted",
+    "Forgot_Password_lable2": " Kindly coordinate with your administrator to reset the password.",
+    "Okay": "Okay",
+    "Logout_Confirmation": "Logout Confirmation",
+    "Logout_Confirmation1": "Are you sure you want to do logout?",
+    "Confirm": "Confirm"
+  },
+
+  "Reset_Password_Screen": {
+    "Reset_Password": "Reset Password",
+    "New_Password": "New Password",
+    "New_Password_Placeholder": "Enter new password",
+    "New_Password_Required": "New Password is required."
+  },
+
+  "Preferences_Menu": {
+    "Theme_Colors": "Theme Colors",
+    "Theme": "Theme",
+    "Time_Zone": "Time Zone",
+    "Sync_with_OS": "Sync with OS",
+    "Manual_setup": "Manual setup",
+    "Daylight_Savings": "Daylight Savings",
+    "Time_zone_placeholder": "Select time zone",
+    "Time_zone_require": "Please select a time zone",
+    "Time_Format": "Time Format",
+    "12_Hrs": "12 Hrs",
+    "24_Hrs": "24 Hrs",
+    "Language": "Language",
+    "Language_required": "Language is required",
+    "Apply": "Apply"
+  },
+
+  "sidebar": {
+    "UserManagement": "User Management",
+    "User": "User",
+    "Roles": "Roles",
+    "Permissions": "Permissions",
+
+    "Configurations": "Configurations",
+    "ManageDevice": "Manage Devices",
+    "CameraMaster": "Camera Master",
+    "ZoneMaster": "Zone Master",
+    "DeviceMaster": "Device Master",
+    "FloorPlansAndZones": "Floor Plans & Zones",
+
+    "Dashboards": "Dashboards",
+    "Add_Dashboard_btn": "Add Dashboard",
+    "Retail": "Retail",
+    "Traffic": "Traffic",
+    "Events": "Events",
+    "Monitoring": "Monitoring",
+    "Add_Monitoring_btn": "Add Monitoring",
+    "Reports": "Reports",
+    "Settings": "Settings",
+    "ManageUsers": "Manage Users",
+    "MultisiteSetup": "Multisite Setup",
+    "RolesAndPermissions": "Roles & Permissions",
+    "SettingsGeneral": "General",
+    "SettingsLicense": "License",
+    "EventLogs": "Event Logs",
+    "MyReports": "My Reports",
+    "WelcomePage": "Welcome back!",
+    "WelcomePagesubtitle": "Welcome to BI Dashboard",
+    "Backup_Restore": "Backup & Restore",
+
+    "ANPR": "ANPR",
+    "Audit": "Audit",
+    "VehicleOwners": "Vehicle Owners",
+    "Version": "Version",
+    "LPR_Title": "LPR",
+
+    "Maintenance": "Maintenance",
+    "Maintenance_Plan": "Maintenance Plan",
+    "Maintenance_Schedule": "Maintenance Schedule",
+    "RMA": "RMA",
+    "Server_Management":"Server Management",
+    "SSM_Monitoring":"SSM Monitoring",
+    "SSM_Dashboards":"Dashboard",
+    "Manage_Server":"Manage Server",
+
+    "iDRAC": "iDRAC",
+    "iDRAC_Dashboard": "Dashboard",
+    "Manage_iDRAC": "Manage iDRAC"
+  },
+
+  "Dashboard": {
+    "New_Dashboard_header": "New Dashboard",
+    "New_Dashboard_Description": "Add, update & delete your dashboard information here..",
+    "Add_Widget": "Add Widget",
+    "Add_Widget_line1": "There's no widgets for you to see yet,",
+    "Add_Widget_line2": "If you want to create new widget, just select button.",
+    "Add_Widget_btn_text": "Add Widget",
+    "Dashboard_Placeholder": "Enter dashboard name",
+    "Dashboard_Strong_Validation": "Dashboard name cannot exceed {{max}} characters",
+    "Monitoring_Placeholder": "Enter monitoring name",
+    "Monitoring_Strong_Validation": "Monitoring name cannot exceed {{max}} characters"
+  },
+
+  "Manage_Device": {
+    "Manage_Device_header": "Manage Devices",
+    "Manage_Device_Description": "Add new devices like Smart Cameras & AI Boxes..",
+    "Upload_Bulk_Device_btn": "Bulk Upload",
+    "Add_Devices_btn": "Add Devices",
+    "List_Of_Devices": "List Of Devices",
+    "Device_Search_Placeholder_text": "Search by device name, model, serial number, ip address, zone or mac address...",
+    "Reload_btn": "Reload",
+    "Remove_btn": "Remove",
+    "List_view": "List",
+    "Grid_view": "Grid",
+    "Edit_camera": "Edit Device",
+    "Add_Device": "Add Device",
+    "Export_btn": "Export",
+    "Sample_File": "Sample File",
+    "Open_Gate": "Open Gate",
+
+    "Manage_Device_Grid_column": {
+      "Device_name": "Device Name",
+      "Model": "Model",
+      "IP_Address": "IP Address",
+      "Location": "Location",
+      "Zones": "Zones",
+      "Serial_number": "Serial number",
+      "macAddress": "macAddress",
+      "DeviceType": "DeviceType",
+      "Actions": "Actions",
+      "Maintenance_Mode": "Maintenance Mode"
+    },
+    "Add_Edit_Device_Drawer": {
+      "Select_Device_Type": "Select Device Type",
+      "Device_Name": "Device Name",
+      "Device_Name_placeholder": "Enter device name",
+      "IP_Address": "IP Address",
+      "IP_Address_placeholder": "Enter ip address",
+      "Username": "Username",
+      "Username_placeholder": "Enter username",
+      "Password": "Password",
+      "Password_placeholder": "Enter password",
+      "Port": "Port",
+      "Port_placeholder": "Enter port",
+      "Use_HTTPS": "Use HTTPS",
+      "Location": "Location",
+      "Location_placeholder": "Enter location",
+      "Total_Channels": "Total Channels",
+      "AssetsTag": "Assets Tag",
+      "AssetsTag_placeholder": "Enter Assets Tag",
+      "ManufacturingDate": "Manufacturing Date",
+      "Camera_Direction": "Camera Direction",
+      "Entry": "Entry",
+      "Exit": "Exit"
+    },
+    "Upload_Bulk_Device_Drawer": {
+      "Upload_Device": "Upload Device",
+      "Upload_your_device_file": "Upload your device file (.xlsx) or (.xls)",
+      "Selected_File": "Selected File: {{fileName}}",
+      "Browse_and_choose_files_line1": "Browse and choose the files you want to",
+      "Browse_and_choose_files_line2": "Upload from your computer",
+      "Upload": "Upload"
+    },
+    "validation": {
+      "Device_Type_required": "Device Type is required",
+      "Device_Name_required": "Device Name is required.",
+      "IP_Address_required": "IP Address is required.",
+      "IP_Address_strong_validation": "Enter a valid Ip Address",
+      "Username_required": "Username is required.",
+      "Username_strong_validation": "Enter a valid username",
+      "Password_required": "Password is required",
+      "Port_required": "Port is required",
+      "Port_strong_validation": "Enter a valid Port",
+      "Location_required": "Location is required",
+      "Camera_direction_required": "Camera direction is required",
+      "ManufacturingDate_Strong_Validation":"Manufacturing date cannot be in the future."
+    }
+  },
+
+  "Floor_Plan_zones": {
+    "Floor_Plan_zones_header": "Floor Plans & Zones",
+    "Floor_Plan_zones_Description": "Configure your floor plans, define their associated zones, and manage camera configurations on the specific zone here.",
+    "Search_floor_placeholder": "Search floor plan..",
+    "Floor_plan_name_placeholder": "Enter floor plan",
+    "Device_Search_placeholder": "Search device by name/ IP / model",
+    "validation": {
+      "Floor_name_is_required": "Floor name is required",
+      "Floor_name_strong_validation": "Floor Plan name must only contain letters and numbers. Special characters are not allowed.",
+      "Floor_name_MAX_validation": "Floor name cannot exceed 50 characters",
+      "Floor_name_MIN_validation": "Floor name must have atleast 3 characters.",
+      "Zone_name_required": "Zone Name is required",
+      "Zone_name_strong_validation": "Zone name must only contain letters and numbers. Special characters are not allowed.",
+      "Zone_name_MAX_validation": "Zone name must be at most 20 characters",
+      "Zone_name_MIN_validation": "Zone name must have atleast 3 characters.",
+      "People_occupancy_validation": "People default occupancy must be less than to People Occupancy",
+      "Vehicle_occupancy_validation": "Vehicle default occupancy must be less than Vehicle Occupancy"
+    },
+    "Re_Draw_Zone_btn": "Re Draw Zone",
+    "Draw_Zone_btn": "Draw Zone",
+    "Replace_Floor": "Replace Floor",
+    "Save_Changes": "Save Changes",
+    "Upload_Your_Floor_Plan": "Upload Your Floor Plan",
+    "DropImageHere": "Drop your image here, or",
+    "Browse": "Browse",
+    "SupportedFormats": "Supports: JPG, JPEG, PNG, SVG, PDF",
+    "Delete_Camera": "Delete Camera",
+    "Focal": "Focal",
+    "Sphere": "Sphere",
+    "Color_fill": "Color fill",
+
+    "Add_Edit_Zone_Drawer": {
+      "Add_Zone": "Add Zone",
+      "Edit_Zone": "Edit Zone",
+      "Name": "Name",
+      "Name_Placeholder": "Enter zone name",
+      "People_Occupancy": "People Occupancy",
+      "MAX_Occupancy_Placeholder": "Enter max occupancy",
+      "Default_Occupancy_Placeholder": "Enter default occupancy",
+      "Vehicle_Occupancy": "Vehicle Occupancy",
+      "Is_Parking_Zone": "Is Parking Zone"
+    },
+    "No_Data": {
+      "No_data_available": "No data available",
+      "No_data_description1": "No data available to load floor plans, their associated zones, or",
+      "No_data_description2": "configured cameras for the specified zones."
+    }
+  },
+
+  "Event_log": {
+    "Event_log_header": "Event Logs",
+    "Event_log_Description": "Track your all the events here..",
+    "List_Of_Events": "List of Events",
+    "Event_log_Grid_column": {
+      "Date_Time": "Date & Time",
+      "Event_Name": "Event Name",
+      "Description": "Description",
+      "Floor_name": "Floor name",
+      "Zone_name": "Zone name",
+      "Video_link": "Video link",
+      "Status": "Status",
+      "Actions": "Actions"
+    },
+    "Event_Log_Filter": {
+      "Filter": "Filter",
+      "Floor": "Floor(s)",
+      "Zone": "Zone(s)",
+      "Event": "Event(s)",
+      "Status": "Status",
+      "Date_Range": "Date Range",
+      "Reset_btn": "Reset",
+      "Search_btn": "Search"
+    }
+  },
+
+  "Monitoring": {
+    "Monitoring_header": "Add a new group",
+    "Monitoring_Description": "Configure your Monitoring here..",
+    "Add_New_Group": "Add a New Group",
+    "Groupname_placeholder": "Enter group name",
+    "Add_New_Group_line1": "There are no group configured for you yet.",
+    "Add_New_Group_line2": "To create a new group, please click the button below",
+    "Add_URL_Preview": "Add URL Preview",
+    "Unable_Preview": "Unable to preview this URL.",
+    "No_Preview_Line1": "There are no url preivew configured for you yet.",
+    "No_Preview_Line2": "To create a new url preivew, please click the button below",
+    "validation": {
+      "GroupName_required": "Group Name is required",
+      "GroupName_Strong_validation": "Group name cannot exceed 50 characters",
+      "Add_Monitoring_Permission_validation": "You do not have permission for add monitoring group",
+      "View_Monitoring_Permission_validation": "you do not have permission for view the monitoring group",
+      "Name_required": "Name is required.",
+      "Name_strong_validation": "Name cannot exceed {{max}} characters",
+      "URL_Required": "URL is required.",
+      "Location_required": "Location is required.",
+      "Add_URL_Preview_Permission_validation": "you do not have permission for Add URL Preview."
+    },
+    "URL_Preiview_Drawer": {
+      "Edit_URL_Preview": "Edit URL Preview",
+      "Name": "Name",
+      "Name_Placeholder": "Enter name",
+      "URL": "URL",
+      "URL_Placeholder": "Enter url",
+      "Location": "Location",
+      "Location_placeholder": "Enter location"
+    }
+  },
+
+  "Manage_User": {
+    "Manage_User_header": "Manage Users",
+    "Manage_User_Description": "Add, update & delete your users information here..",
+    "Add_User": "Add User",
+    "Edit_User": "Edit User",
+    "Delete_User": "Delete User",
+    "List_Of_Users": "List Of Users",
+    "Search_User_Placeholder": "Search by full name, username, email",
+    "Manage_User_Grid_column": {
+      "Username": "Username",
+      "Full_Name": "Full Name",
+      "Email": "Email",
+      "Roles": "Roles",
+      "Created_By": "Created By",
+      "Created_On": "Created On",
+      "Updated_By": "Last Updated By",
+      "Updated_On": "Last Updated On",
+      "Actions": "Actions"
+    },
+    "Validation": {
+      "FirstName_Required": "First Name is required.",
+      "FistName_Valid": "Enter a valid First Name",
+      "FirstName_Strong_Validation": "First name cannot exceed {{max}} characters",
+      "LastName_Required": "Last Name is required.",
+      "LastName_Valid": "Enter a valid Last Name",
+      "LastName_Strong_Validation": "Last name cannot exceed {{max}} characters",
+      "Username_Required": "Username is required.",
+      "Username_Valid": "Enter a valid Username",
+      "Username_Strong_Validation": "Username cannot exceed {{max}} characters",
+      "Email_Required": "Email Address is required",
+      "Email_Valid": "Enter a valid Email Address",
+      "Email_Strong_Validation": "Email address cannot exceed {{max}} characters",
+      "Password_Required": "Password is required",
+      "Password_Strong_Validation": "Password must be between 8 and 16 characters long and include at least one uppercase letter, one lowercase letter, one number, and one special character (excluding *)",
+      "Password_Max_Validation": "Password cannot exceed {{max}} characters",
+      "Confirm_Password_Required": "Confirm Password is required.",
+      "Confirm_Password_Match": "Password and confirm password must match",
+      "Role_Required": "At least one role must be selected"
+    },
+    "Add_Edit_User_Drawer": {
+      "First_Name": "First Name",
+      "First_Name_Placeholder": "Enter first name",
+      "Last_Name": "Last Name",
+      "Last_Name_Placeholder": "Enter last name",
+      "Username": "Username",
+      "Username_Placeholder": "Enter username",
+      "Email": "Email Address",
+      "Email_Placeholder": "Enter email address",
+      "Password": "Password",
+      "Password_Placeholder": "Enter password",
+      "Confirm_Password": "Confirm Password",
+      "Confirm_Password_Placeholder": "Enter confirm password",
+      "Roles": "Roles",
+      "Roles_Placeholder": "Select role(s)"
+    }
+  },
+
+  "Role_Permission": {
+    "Search_Role": "Search by role name",
+    "No_Roles_Found": "No Roles Found",
+    "Permission_No_Data_Message": "No data available to display Permission. Please add a new Role by clicking the <strong>Add</strong> button.",
+    "Save_changes": "Save the changes",
+    "No_zones_available": "No zones available",
+    "No_Floor_Zone_Available": "No data available. Please create a Floor Plan and Zones to configure permissions",
+    "No_Widgets_available": "No Widgets available",
+    "Permissions": "Permissions",
+    "Is_Allowed": "Is Allowed",
+    "Screens": "Screens",
+    "Floor_Zones": "Floor & Zones",
+    "Widgets": "Widgets",
+    "Validation": {
+      "Role_Required": "Role Name is required"
+    }
+  },
+
+  "Multisite_Setup": {
+    "Multisite_Setup": "Multisite Setup",
+    "Multisite_Setup_Description": "Configure your associated child and sub-child sites here..",
+    "Add_Child_Site": "Add Child Site",
+    "Edit_Child_Site": "Edit Child Site",
+    "List_Child_Sub_Child": "List Of Child & Sub-Child Sites",
+    "Search": "Search by site name, hosting address, username",
+    "Add_Sub_Child_Site": "Add Sub Child Site",
+    "Edit_Sub_Child_Site": "Edit Sub Child Site",
+    "Delete_Child_Site_Confirmation": "You're about to delete a child site, which will also remove all its sub-child sites.<br />Are you sure you want to proceed?",
+    "Delete_Sub_Child_Site_Confirmation": "Are you sure you want to delete this Site?",
+    "No_data_found": "No data found",
+
+    "Multisite_Setup_Grid_column": {
+      "Site_Name": "Site Name",
+      "hosting_Address": "hosting Address",
+      "UserName": "User Name",
+      "Created_By": "Created By",
+      "Created_On": "Created On",
+      "Last_Updated_By": "Last Updated By",
+      "Last_Updated_On": "Last Updated On",
+      "Actions": "Actions"
+    },
+
+    "Validation": {
+      "Site_Required": "Site Name is required.",
+      "Hosting_Address_Required": "Hosting Address is required.",
+      "Hosting_Address_Strong_validation": "Enter a valid Hosting Address",
+      "Username_Required": "User Name is required.",
+      "Username_Strong_Validation": "Enter a valid user name",
+      "Password_Required": "Password is required",
+      "Child_Site_Required": "Child Site Name is required.",
+      "Sub_Site_Name_Required": "Sub Site Name is required."
+    },
+
+    "Add_Child_Drawer": {
+      "Site_Name": "Site Name",
+      "Site_Name_Placeholder": "Enter site name",
+      "Hosting_Address": "Hosting Address",
+      "Hosting_Address_Placeholder": "Enter hosting address",
+      "Username": "Username",
+      "Username_Placeholder": "Enter username",
+      "Password": "Password",
+      "Password_Placeholder": "Enter password",
+      "Child_Site_Name": "Child Site Name",
+      "Sub_Site_Name": "Sub Site Name",
+      "Sub_Site_Name_Placeholder": "Enter sub site name"
+    }
+  },
+
+  "General_Settings": {
+    "General": "General",
+    "General_Settings_Description": "Configure your general settings here...",
+
+    "SMTP_Setup": {
+      "SMTP_Setup": "SMTP Setup",
+      "Host": "Host",
+      "Host_Placeholder": "Enter host",
+      "Port": "Port",
+      "Post_Placeholder": "Enter port",
+      "From_Email": "From Email Address",
+      "From_Email_Placeholder": "Enter from email address",
+      "Enable_SSL": "Enable SSL",
+
+      "Validation": {
+        "Host_Required": "Host is required",
+        "Host_Max_Validation": "Host cannot exceed {{max}} characters",
+        "Host_Strong_Validation": "Enter a valid host (e.g., smtp.example.com)",
+        "Port_Required": "Port is required",
+        "Port_Strong_Validation": "Port must be between 1 and 65535",
+        "Email_Strong_Validation": "From Email Address cannot exceed {{max}} characters"
+      }
+    },
+
+    "Report_Scheduler": {
+      "Report_Scheduler_Title": "Report Scheduler",
+      "Emails": "Emails",
+      "Emails_Placeholder": "Enter recipient email addresses (comma-separated)",
+      "Floors": "Floors",
+      "Floors_Placeholder": "Select floors",
+      "Zones": "Zones",
+      "Zones_Placeholder": "Select zones",
+      "Select_Widget": "Select Widget(s)",
+      "Select_Date": "Select Date",
+      "Select_Time": "Select Time",
+      "Report_Format": "Choose the format in which you want to receive the report",
+      "Send_On": "Send On",
+      "Daily": "Daily",
+      "Weekly": "Weekly",
+      "Monthly": "Monthly",
+      "Schedule_btn": "Schedule",
+
+      "Validation": {
+        "Email_Required": "Email is required",
+        "Multiple_Email_Validation": "Multiple emails must be comma-separated, not space-separated.",
+        "Invalid_Emails": "Invalid email(s): {{invalidList}}",
+        "Floors_Required": "Please select floors",
+        "Zones_Required": "Please select zones",
+        "Widget_Required": "Please select widget(s)",
+        "Widget_Limit": "You can not select more than 10 widgets",
+        "Date_Requiered": "Please select start date",
+        "Date_Strong_Validation": "Start date must be today or later",
+        "Time_Required": "Start time is required",
+        "Format_Required": "Please select a format",
+        "Interval_Required": "Please select an interval",
+        "Floor_Limit": "You can not select more than 10 floors"
+      }
+    },
+
+    "FTP_Setting": {
+      "FTP_Setup": "FTP Setup",
+
+      "Validation": {
+        "Host_Strong_Validation": "Enter a valid hostname (e.g., ftp.example.com) or IPv4 address (e.g., 192.168.1.1)"
+      }
+    },
+
+    "Retention_Period_Setting": {
+      "Retention_Period": "Retention Period",
+      "Enabled": "Enabled",
+      "Period": "Retention period in month",
+      "Period_Plceholder": "Enter period",
+      "Validation": {
+        "Period_Required": "Period is required",
+        "Period_Strong_Validation": "Period must be between 1 and 99"
+      }
+    },
+
+    "Operational_Time": {
+      "Operational_Time_Title": "Operational Time",
+      "Start_Time_Required": "Start time is required",
+      "End_Time_Required": "End time is required"
+    },
+
+    "Google_Map_Key": {
+      "Title": "Google Map Key",
+      "key_required": "Google Map Key is required",
+      "Key_Placeholder": "Enter google map key"
+    },
+
+    "Upload_Logo": {
+      "Upload_logo_title": " Upload Your Logo",
+      "Browse_Upload_Text": "Browse and choose the files you want to <br />Upload from your computer",
+      "Validation": {
+        "Upload_logo_first": "Please upload a file first!",
+        "Valid_File_size": "File size cannot exceed 1 MB.",
+        "Allowed_File_Validation": "Only jpg, jpeg, png files are allowed."
+      },
+      "Upload_Note": {
+        "Line1_Part1": "Please upload your company",
+        "Line1_Highlight1": "logo in PNG or JPG",
+        "Line1_Part2": "format with a recommended resolution of",
+        "Line1_Highlight2": "174 x 46 pixels",
+        "Line2_Part1": "Maximum file size allowed:",
+        "Line2_Highlight": "1 MB",
+        "Line3": "For best results, use a high-quality image with a white background."
+      }
+    },
+
+    "Upload_SSL": {
+      "Upload_SSL_Title": "Upload SSL Certificate",
+      "Password": "Password",
+      "Upload_File_first": "Please upload a file first!",
+      "Allowed_File_Validation": "Only .crt, .pem, .pfx, .cer files are allowed."
+    },
+
+    "Backup_Database_Setting": {
+      "Scheduled_Database_Backup": "Scheduled Database Backup",
+      "BackupPath_Placeholder": "Enter backup database path",
+      "BackupPath_Required": "Scheduled Database Backup is required"
+    },
+
+    "ANPR_Setting": {
+      "ANPR_Configuration": "ANPR Configuration",
+      "Image_Path": "Image Path",
+      "Image_Path_Placeholder": "Enter ANPR image path"
+    },
+    "Reset_Vehicle": {
+      "Reset_Vehicle_Parking_Count": "Reset Vehicle Parking Count",
+      "Reset": "Reset",
+      "count" : "Enter count",
+      "RequiredCount" : "Count is required."
+    }
+  },
+
+  "License_Setting": {
+    "License_Title": "License",
+    "License_Description": "Configure your license settings here...",
+    "Add_License": "Add License",
+    "No_License_Content": "There are no license configured for you yet.<br />To upload your license, please click the button below",
+    "Current_License_Detail": {
+      "Product_Name": "Product Name",
+      "License_Version": "License Version",
+      "Type": "Type",
+      "Camera_Utilized": "Camera Utilized",
+      "User_Utilized": "User Utilized",
+      "Start_Date": "Start Date",
+      "End_Date": "End Date",
+      "Title": "Current License Detail"
+    },
+    "License_History": {
+      "Title": "License History",
+      "Search_Placeholder": "Search by MAC Address,type,start date...",
+      "macAddress": "MAC Address",
+      "licenseType": "Type",
+      "numberOfUsers": "No. Of Users",
+      "noOfChannel": "No. Of Channels",
+      "startDate": "Start Date",
+      "expiryDate": "End Date",
+      "status": "Status",
+      "createdBy": "Created By",
+      "createdOn": "Created On"
+    },
+    "Upload_License_Drawer": {
+      "PEM_Title": "Upload your publickey.pem file",
+      "LIC_Title": "Upload your license.lic file",
+      "Upload_btn": "Upload",
+      "Logout_Content": "Both license files were uploaded successfully. Please log out and sign in again to apply the changes.",
+      "Confirm_btn": "Logout",
+      "File_Selection_validation": "Please upload both PEM and LICENSE files.",
+      "PEM_Validation": "Please upload a valid PEM file (.pem).",
+      "LIC_Validation": "Please upload a valid LICENSE file (.lic).",
+      "Upload_Fail": "Failed to upload files. Please try again."
+    }
+  },
+
+  "BackUp_Restore": {
+    "Backup_Restore_Header": "Backup & Restore",
+    "Backup_Restore_Description": "Download your data & restore it..",
+    "Backup": "Backup",
+    "Backup_description_1": " The button below will create a full system backup on your local machine. You can use this backup in the future in case of system failure or whenever needed.",
+    "Backup_description_2": "Please click the button below to take a full backup now.",
+    "Take_Full_Backup": "Take Full Backup",
+    "Restore": "Restore",
+    "File_Name": "File Name",
+    "Uploading": "Uploading..."
+  },
+
+  "My_Report": {
+    "No_Report": "No report selected. Please choose a report from the list to view detailed information.",
+    "Add_Report": "Add Report",
+    "Delete_Dialog_Content": "Are you sure you want to Delete this Report?",
+    "No_Report_found": "No Report Found",
+    "Untitled_Report": "Untitled Report",
+    "Last_Edited": "Last edited",
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "Export_pdf_btn": "Export as PDF",
+    "Filter_Applied": "Filter Applied",
+    "Created_By": "Created By",
+    "Created_On": "Created On",
+    "No_Filter_Data": "No data found for the selected filters. Please adjust your filters and try again.",
+    "Contact_Admin_Error": "An unexpected error occurred while processing your request. Please try again or contact your administrator if the issue persists.",
+    "Report_Type": "Report Type",
+    "Site_Report_Header": "Site Performance Comparison Report",
+    "Zone_Report_Header": "Zone Performance Comparison Report",
+    "Report_Name": "Report Name",
+    "Sites": "Sites",
+    "Site": "Site",
+    "Zone": "Zone",
+    "Floors": "Floors",
+    "Zones": "Zones",
+    "Date_Time": "Date & Time",
+    "Performance_Comparison_Table": "Performance Comparison Table",
+    "People_Count": "People Count",
+    "People_Occupancy": "People Occupancy",
+    "Vehicle_Count": "Vehicle Count",
+    "Vehicle_Occupancy": "Vehicle Occupancy",
+    "No_Insights_Data": "No data available to generate insights.",
+    "No_Valid_Insights": "No valid data available to generate insights.",
+    "HighestVehicleOccupancy": "{{zone}} has the highest vehicle occupancy rate ({{occupancy}}%).",
+    "HighestVehicleCount": "{{zone}} has the highest number of vehicles counted ({{count, number}}).",
+    "VehicleOccupancyComparison": "Vehicle occupancy levels suggest {{busier}} are busier than {{lessBusy}}.",
+    "HighestPeopleOccupancy": "{{zone}} has the highest people occupancy rate ({{rate}}%).",
+    "HighestPeopleCount": "{{zone}} has the highest number of people counted ({{count, number}}).",
+    "PeopleOccupancyComparison": "People occupancy levels suggest {{busier}} are busier than {{lessBusy}}.",
+    "HighestPeopleAndVehicleOccupancy": "{{zone}} has the highest people and vehicle occupancy rates ({{rate}}%).",
+    "HighestPeopleAndVehicleOccupancyRate": "{{zone}} has the highest people occupancy rate ({{peopleRate}}%) and vehicle occupancy rate ({{vehicleRate}}%).",
+    "No_Insights_Available": "No valid data insights available based on the selection.",
+    "Summary_Insights": "Summary Insights",
+    "Visualizations": "Visualizations",
+    "People_Vehicle_Count": "People & Vehicle Count {{base}}",
+    "People_Count_Type": "People Count {{base}}",
+    "Vehicle_Count_Type": "People Count {{base}}",
+    "By_Site": "By Site",
+    "By_Zone": "By Zone",
+    "Occupancy_Rate_Comparison": "Occupancy Rate Comparison",
+    "Traffic_Composition_Title": {
+      "People": "Traffic Composition (People)",
+      "vehicle": "Traffic Composition (Vehicles)",
+      "Both": "Traffic Composition (People Vs Vehicles)",
+      "fallback": "Traffic Composition"
+    },
+    "Key_Performance_Metric": " Key Performance Metric",
+    "Total_People_Count": "Total People Count",
+    "Average_People_Occupancy_Rate": "Average People Occupancy Rate",
+    "Total_Vehicle_Count": "Total Vehicle Count",
+    "Average_Vehicle_Occupancy_Rate": "Average Vehicle Occupancy Rate"
+  },
+
+  "Audit_Log": {
+    "Audit_Log_Header": "Audit Logs",
+    "Audit_Log_Descripltion": "Detailed log of user activity for auditing...",
+    "Search_Placeholder": "Search Document Key",
+    "Audit_Log_Grid_Column": {
+      "Document_Id": "Document Id",
+      "User": "User",
+      "Type": "Type",
+      "Date": "Date",
+      "Details": "Details"
+    }
+  },
+
+  "Maintanace_Plan": {
+    "Maintenance_Plan_Header": "Maintenance Plan",
+    "Maintenance_Plan_Description": "Create maintenance plan and map devices..",
+    "Add_Plan": " Add Plan",
+    "Edit_Plan": "Edit Plan",
+    "List_Of_Plans": "List Of Plans",
+    "Search_Placeholder": "Search by plan name and device...",
+    "Search_Devices": "Search device...",
+    "Device_Dialog_header": "Devices",
+    "Serial_No": "Serial No",
+    "More_Count": "+{{count}} more",
+    "Maintanace_Plan_Grid": {
+      "Plan_Name": "Plan Name",
+      "Duration": "Duration",
+      "Device": "Device",
+      "Start_Date": "Start Date",
+      "End_Date": "End Date",
+      "Actions": "Actions",
+      "Edit_Plan_Tooltip": "Edit Plan",
+      "Delete_Plan_Tooltip": "Delete Plan",
+      "Floor": "Floor",
+      "Select_Floor": "Select Floor",
+      "Zone": "Zone",
+      "Select_Zone": "Select Zone"
+    },
+    "Maintanance_Plan_Drawer": {
+      "Plan_Name_Required": "Plan Name is required.",
+      "Plan_Name_Max_Length_validation": "Plan Name cannot exceed {{max}} characters",
+      "Plan_Name_Placeholder": "Enter plan name",
+      "Duration_In_Month": "Duration (In Month)",
+      "Duration_Max_Length_validation": "Duration cannot exceed {{max}} digits",
+      "Duration_Required": "Duration is required.",
+      "Duration_Strong_Validation": "Only digits are allowed",
+      "Duration_Placeholder": "Enter duration",
+      "Device_Required": "Device is required.",
+      "Device_Placeholder": "Select Device",
+      "EndDate_Requiered": "Please select end date",
+      "EndDate_Strong_Validation": "End date must be today or later",
+      "EndDate_Less_Than_StartDate": "End date should not be less than Start date"
+    }
+  },
+
+  "Maintenance_Schedule": {
+    "Maintenance_Schedule_Header": "Maintenance Schedule",
+    "Maintenance_Schedule_Description": "Create maintenance plan and map devices..",
+    "Schedule_Maintenance": "Schedule Maintenance",
+    "Select_Floor": "Select Floor(s)",
+    "Select_Zone": "Select Zone(s)",
+    "Select_PH_Floor": "Select floor(s)",
+    "Select_PH_Zone": "Select zone(s)",
+    "Select_due": "Select due",
+    "Select_PH_status": "Select status",
+    "Select_status": "Select status",
+    "Column_Grid": {
+      "Device_Name": "Device Name",
+      "Model": "Model",
+      "Location": "Location",
+      "Serial_Number": "Serial Number",
+      "Device_Type": "Device Type",
+      "Ip_Address": "Ip Address",
+      "Maintenance_Due_Date": "Maintenance Due Date",
+      "Plan_Name": "Plan Name",
+      "status": "Status",
+      "Actions": "Actions",
+      "Setting_Tooltip": "Setting"
+    },
+    "Add_Schedule_Drawer": {
+      "Add_Schedule": "Add Schedule",
+      "Device": "Device",
+      "Device_Required": "Device is required.",
+      "Device_Placeholder": "Select Device",
+      "Due_Date": "Due Date",
+      "Due_date_Required": "Please select due date",
+      "Due_date_Strong_Validation": "Due date must be today or later",
+      "Notes": "Notes",
+      "Notes_Required": "Notes is required.",
+      "Notes_Placeholder": "Enter notes"
+    },
+    "Setting_Dialog": {
+      "scheduledMaintenance": "Scheduled Maintenance ({{id}})",
+      "Maintenance_Status": "Maintenance Status",
+      "Maintenance_status_required": "Maintenance status is required.",
+      "Start_Date": "Start Date",
+      "Before": "Before",
+      "Matched": "Matched",
+      "Compare": "Compare",
+      "brightness": "Brightness",
+      "contrast": "Contrast",
+      "edgeOverlap": "Edge Overlap",
+      "featureDisplacement": "Feature Displacement",
+      "homographyShift": "Homography Shift",
+      "horizonTilt": "Horizon Tilt",
+      "structuralSimilarity": "Structural Similarity",
+      "After": "After",
+      "Start_Date_Required": "Start date is required.",
+      "Start_Date_Strong_Validation": "Start date cannot be in the future.",
+      "Grid_Column": {
+        "Status": "Status",
+        "notes": "Notes",
+        "Status_Datetime": "Status Datetime"
+      }
+    },
+    "Tooltip": {
+      "brightness_tooltip": "Measures the overall light intensity of the image",
+      "contrast_tooltip": "Indicates the difference between the darkest and brightest areas in the image",
+      "edgeOverlap_tooltip": "Evaluates how well edges align between compared images",
+      "featureDisplacement_tooltip": "Measures the shift of key features between images",
+      "homographyShift_tooltip": "Indicates geometric transformation differences caused by camera perspective changes",
+      "horizonTilt_tooltip": "Measures the degree of image rotation from a level horizon",
+      "structuralSimilarity_tooltip": "Assesses visual similarity based on structure, luminance, and contrast"
+    }
+  },
+  "RMA": {
+    "RMA_Header": "RMA",
+    "RMA_Edit_Header": "Edit RMA",
+    "RMA_Header_Desc": "Create maintenance plan and map devices..",
+    "RMA_Add_Button": "Add RMA",
+    "RMA_Filter_StartDate": "RMA Date",
+    "RMA_Filter_EndDate": "End Date",
+    "RMA_Filter_Status": "Select Status",
+    "RMA_Filter_PH_Status": "Select status",
+    "RMA_Grid_DeviceName": "Device Name",
+    "RMA_Grid_IPAddress": "IP Address",
+    "RMA_Grid_Model": "Model",
+    "RMA_Grid_Location": "Location",
+    "RMA_Grid_SerialNumber": "Serial Number",
+    "RMA_Grid_DeviceType": "Device Type",
+    "RMA_Grid_InProgressNotes": "In-Progress Notes",
+    "RMA_Grid_RMAStatus": "RMA Status",
+    "RMA_Grid_StartDate": "Start Date",
+    "RMA_Grid_EndDate": "End Date",
+    "RMA_Grid_Actions": "Actions",
+    "RMA_Grid_CompletedNotes": "Completed Notes",
+    "RMA_Grid_Tooltip_EditPlan": "Edit Plan",
+    "RMA_Grid_Tooltip_DeletePlan": "Delete Plan",
+    "RMA_Form_Device": "Device",
+    "RMA_Form_Maintenancestatus": "Maintenance status",
+    "RMA_Form_InProgressNotes": "In Progress Notes",
+    "RMA_Form_CompletedNotes": "Completed Notes",
+    "RMA_Form_PH_SelectDevice": "Select Device",
+    "RMA_Form_PH_Device": "Select maintenance status",
+    "RMA_Form_PH_EnterInProgressnotes": "Enter In Progress notes",
+    "RMA_Form_PH_CompletedNotes": "Enter completed Notes",
+    "RMA_Form_Validation_Deviceisrequired": "Device is required",
+    "RMA_Form_Validation_StartDateTsRequired": "Start Date is required",
+    "RMA_Form_Validation_EndDateMustBeGreaterThanStartDate": "End Date must be greater than Start Date",
+    "RMA_Form_Validation_InProgressNotesIsRequired": "In Progress notes is required",
+    "RMA_Form_Validation_CompletedNotesIsRequired": "Completed notes is required",
+    "RMA_Select_Floor": "Select Floor(s)",
+    "RMA_Select_Zone": "Select Zone(s)"
+  },
+
+  "MUI_Grid_Filter_Paginition": {
+    "columnMenuSortAsc": "Sort by ASC",
+    "columnMenuSortDesc": "Sort by DESC",
+    "columnMenuHideColumn": "Hide column",
+    "columnMenuManageColumns": "Manage columns",
+    "footerPaginationRowsPerPage": "Rows per page:",
+    "footerRowSelected": "{{count}} row selected",
+    "footerRowSelectedPlural": "{{count}} rows selected",
+    "footerTotalVisibleRows": "of {{total}}"
+  },
+  "Common_Edit_Delte_Menu": {
+    "Edit": "Edit",
+    "Delete": "Delete"
+  },
+  "Common_DELETE_Confirmation_Dialog": {
+    "Title": "Delete Confirmation!",
+    "Content": "Are you sure you want to continue?",
+    "Cancel": "Cancel",
+    "Delete": "Delete",
+    "Delete_Device_Content": {
+      "Line1_Part1": "Once you confirm, all mappings between the selected device(s) and their associated",
+      "Line1_Highlight": "floors, zones and other will be automatically removed",
+      "Line1_Part2": ". You may no longer be able to view data from these",
+      "Line1_Highlight2": "deleted device(s)",
+      "Line1_Part3": "moving forward."
+    }
+  },
+  "Add_btn": "Add",
+  "Save_btn": "Save",
+  "Update": "Update",
+  "No_data_found": " No data found",
+  "Advance_Export_Dialog": {
+    "Advance_Report": "Advance Report",
+    "Widgets": "Widgets",
+    "Select_widgets": "Select widgets...",
+    "Export_CSV": "Export CSV",
+    "Export_PDF": "Export PDF",
+    "selectAtLeastOneWidget": "Please select at least one widget to export.",
+    "categories": {
+      "staff": "Staff",
+      "security": "Security",
+      "exhibitors": "Exhibitors",
+      "repeatedCustomers": "Repeated Customers"
+    },
+    "Category_Placeholder": "Select Category",
+    "Category_Required": "Category is required",
+    "Value_required" : "Value is required",
+    "Value_Placeholder": "Enter value",
+    "Minimum_Value": "Minimum value is 1",
+    "Maximum_Value": "Maximum value is 9999",
+    "units": {
+      "percentage": "% (Percentage)",
+      "number": "# (Number)"
+    },
+    "operations": {
+      "add": "+ (Add)",
+      "subtract": "− (Subtract)"
+    },
+    "table": {
+      "Category": "Category",
+      "Value": "Value",
+      "Unit": "Unit",
+      "Operation": "Operation",
+      "Action": "Action"
+    }
+  },
+
+  "ANPR_Screen": {
+    "Owner": {
+      "Vehicle_Owners_title": "Vehicle Owners",
+      "Vehicle_Owners_description": "Add vehicle owners details...",
+      "Owner_Bulk_Upload": "Owner Bulk Upload",
+      "Owner_Sample_file": "Owner Sample file",
+      "Vehicle_Bulk_Upload": "Vehicle Bulk Upload",
+      "Vehicle_Sample_File": "Vehicle Sample File",
+      "Add_Owner": "Add Owner",
+      "List_Of_Owners": "List Of Owners",
+      "Search_Placeholder": "Search by owner name, registration type, building, building unit, contact number, email, allowed gates...",
+      "Owner_Name": "Owner Name",
+      "Registration_Type": "Registration Type",
+      "Allowed_Vehicle": "Allowed Vehicle",
+      "Building": "Building",
+      "Building_Unit": "Building Unit",
+      "Contact_Number": "Contact Number",
+      "Email": "Email",
+      "Allowed_Gates": "Allowed Gates",
+      "Alarm_For_24H_Stay": "Alarm For 24H Stay",
+      "Alarm_For_Over_Stay": "Alarm For Over Stay",
+      "Allowed_Time": "Allowed Time",
+      "Actions": "Actions",
+      "Edit_Owner": "Edit Owner",
+      "Delete_Owner": "Delete Owner",
+      "Add_Vehicle": "Add Vehicle",
+      "View_Audit_logs": "View Audit Logs",
+      "Update_Owner": "Update Owner",
+      "Vehicle_for": "Vehicle for {{name}}",
+      "Upload_Owner": "Upload Owner",
+      "Upload_Vehicle": "Upload Vehicle",
+      "Registration_type_placeholder": "Select registration type",
+      "Registration_type_required": "Registration type is required.",
+      "Owner_name_placeholder": "Enter owner name",
+      "Owner_name_required": "Owner name is required.",
+      "Building_placeholder": "Enter building",
+      "Building_required": "Building is required.",
+      "Building_name_validation": "Enter a valid building name",
+      "Building_unit_placeholder": "Enter building unit",
+      "Building_unit_required": "Building unit is required.",
+      "Building_unit_validation": "Enter a valid building unit",
+      "Email_placeholder": "Enter email",
+      "Email_required": "Email is required.",
+      "Email_validation": "Enter a valid email address",
+      "Contact_number_placeholder": "Enter contact number",
+      "Contact_number_required": "Contact number is required.",
+      "Contact_number_validation": "Enter a valid contact number",
+      "Vehicle_count_placeholder": "Enter allowed vehicle count",
+      "Vehicle_count_required": "Allowed vehicle count is required.",
+      "Vehicle_count_validation": "Enter a number between 1 and 9999.",
+      "Allowed_From_Time": "Allowed From Time",
+      "Allowed_To_Time": "Allowed To Time",
+      "Gates": "Gates",
+      "Select_Gates": "Select Gates",
+      "Enable_Alarm_For_Overstay": "Enable Alarm For Overstay",
+      "Enable_Alarm_For_24H_Stay": "Enable Alarm For 24H Stay",
+      "Upload_your_owner_file":"Upload your owner file (.xlsx) or (.xls)",
+      "Upload_your_vehicle_file":"Upload your vehicle file (.xlsx) or (.xls)",
+      "Owner_Validation" : "Owner name must contain only letters and spaces, and be between 3 and 50 characters long.",
+      "Search_Gates" : "Search Gates",
+      "ValidTo":"Valid To",
+      "ValidTo_Requiered": "Please select valid to date",
+      "ValidToDate_Strong_Validation": "Valid to date must be today or later"
+    },
+    "Vehicle": {
+      "Country": "Country",
+      "Country_placeholder": "Select country",
+      "Country_required": "Country is required.",
+      "State": "State",
+      "State_placeholder": "Enter state",
+      "State_required": "State is required.",
+      "Plate_Code": "Plate Code",
+      "Plate_code_placeholder": "Enter plate code",
+      "Plate_code_required": "Plate code is required.",
+      "Plate_Category": "Plate Category",
+      "Plate_category_placeholder": "Select plate category",
+      "Plate_category_required": "Plate category is required.",
+      "Make": "Make",
+      "Make_placeholder": "Enter make",
+      "Make_required": "Make is required.",
+      "Model": "Model",
+      "Model_placeholder": "Enter model",
+      "Model_required": "Model is required.",
+      "Color": "Color",
+      "Color_placeholder": "Enter color",
+      "Color_required": "Color is required.",
+      "Visitor_Valid_From": "Visitor Valid From",
+      "Visitor_Valid_To": "Visitor Valid To",
+      "Visitor_Valid_To_Validation":"Valid To must be greater than Valid From",
+      "Clear": "Clear",
+      "Actions": "Actions",
+      "Edit_Vehicle": "Edit Vehicle",
+      "Delete_Vehicle": "Delete Vehicle",
+      "View_Audit_logs": "View Audit Logs",
+      "State_Validation" : "State name must contain only letters, spaces, hyphens, apostrophes and must be between 3-50 characters long.",
+      "plateCode_Validation" : "Plate Code must be 3–10 characters long and contain only letters and numbers.",
+      "color_Validation" : "Color must be 1–20 characters long and contain only letters and spaces.",
+      "Make_Validation" : "Make must contain only letters and spaces, and be between 3 and 50 characters long.",
+      "Model_Validation" : "Model must be 1–20 characters long and contain only letters and numbers."
+    }
+  },
+  "LPR_Screen": {
+    "LPR_Main": "LPR",
+    "LPR_header": "License Plate Recognition",
+    "Description": "License plate recognition details...",
+    "List_LPR_Label": "List Of LPR",
+    "Search_LPR_Placeholder": "Search by owner name, registration type, email, state, plate...",
+    "CSV" : "CSV",
+    "PDF" : "PDF",
+    "Grid_column": {
+      "OwnerName": "Owner Name",
+      "RegistrationType": "Registration Type",
+      "Building": "Building",
+      "BuildingUnit": "Building Unit",
+      "ContactNumber": "Contact Number",
+      "Email": "Email",
+      "EntryGate": "Entry Gate",
+      "EntryTime": "Entry Time",
+      "ExitGate": "Exit Gate",
+      "ExitTime": "Exit Time",
+      "Country": "Country",
+      "State": "State",
+      "Plate": "Plate",
+      "Make": "Make",
+      "Model": "Model",
+      "Color": "Color",
+      "Message": "Message",
+      "CreatedOn": "Created On",
+      "Plate_Image" : "Plate Image"
+    },
+    "Filters": {
+      "Device": "Select device(s)",
+      "Country_Label": "Country",
+      "Country_PH": "Select country",
+      "EntryTime_Label": "Entry Time",
+      "ExitTime_Label": "Exit Time",
+      "ExitTime_Validation": "Exit Time must be greater than or equal to Entry Time",
+      "EntryTime_Required": "Please select an entry time before exporting PDF.",
+      "ExitTime_Required": "Please select an exit time before exporting PDF.",
+      "DateRange_Max30Days": "The selected date range exceeds 30 days. Please select a range within 30 days to export PDF."
+    }
+  },
+
+  "ServerManagement": {
+    "ServerManagement_Title": "Vision Insight Server Management",
+    "ServerManagement_SubTitle": "Add vision insight server details...",
+    "Add_Server": "Add Server",
+    "Edit_Server": "Edit Server",
+    "Delete_Server": "Delete Server",
+    "List_Of_Servers": "List Of Servers",
+    "IsActive": "Is Active",
+    "Actions": "Actions",
+    "View_Audit_logs": "View Audit Logs",
+    "Search_Server_Placeholder": "Search by server name, database connection string, hosting address...",
+    "Server_Name": "Server Name",
+    "Server_Name_required": "Server name is required.",
+    "Server_Name_length_validation": "Server name cannot exceed {{max}} characters.",
+    "Server_Name_placeholder": "Enter server name",
+    "Database_Connection_String": "Database Connection String",
+    "Database_Connection_String_required": "Database connection string is required.",
+    "Database_Connection_String_placeholder": "Enter database connection string",
+    "Hosting_Address": "Hosting Address",
+    "Hosting_Address_required": "Hosting address is required.",
+    "Hosting_Address_placeholder": "Enter hosting address",
+    "Hosting_Address_validation": "Enter a valid hosting address.",
+    "Username": "Username",
+    "Username_required": "Username is required.",
+    "Username_length_validation": "Username cannot exceed {{max}} characters.",
+    "Username_placeholder": "Enter username",
+    "Password": "Password",
+    "Password_required": "Password is required.",
+    "Password_placeholder": "Enter password",
+    "IsAvailable": "Is Available",
+    "Yes" : "Yes",
+    "No" : "No",  
+    "Status_Confirmation_Title": "Confirmation",
+    "Activate_Confirmation": "Are you sure you want to <1>activate</1> this server? Once activated, Vision Insight will start fetching data from this server.",
+    "Deactivate_Confirmation": "Are you sure you want to <1>deactivate</1> this server? Once deactivated, Vision Insight will stop fetching data from this server."
+  },
+
+  "ExposeAPIUser": {
+    "Expose_API_Users": "Expose API Users",
+    "Username": "Username",
+    "Username_Placeholder": "Enter username",
+    "Username_Required": "User Name is required",
+    "Username_Valid": "Enter a valid Username",
+    "Username_Strong_Validation": "Username cannot exceed {{max}} characters",
+    "Password": "Password",
+    "Password_Placeholder": "Enter password",
+    "Password_Required": "Password is required",
+    "Password_Strong_Validation": "Password must be between 8 and 16 characters long and include at least one uppercase letter, one lowercase letter, one number, and one special character (excluding *)",
+    "Password_Max_Validation": "Password cannot exceed {{max}} characters",
+    "Role": "Role",
+    "Roles_Placeholder": "Select role",
+    "Role_Required": "At least one role must be selected",
+    "IsActive": "Is Active",
+    "Actions": "Actions",
+    "Yes": "Yes",
+    "No": "No",
+    "API_Authentication": "API Authentication",
+    "Authorization": "Authorization"
+  },
+
+  "Manage_SSM":{
+    "Manage_Server" : "Manage Server",
+    "description" : "Add, update & delete your server information here..",
+    "Add_Server" : "Add SSM Server",
+    "List_Of_Server": "List of Servers",
+    "Search_Placeholder" : "Search by IP Address, Port, ParentSite, ChildSite and Username...",
+    "Edit_Server" : "Edit Server",
+    "Select_Site" : "Select Site",
+    "Site_required" : "Site is required",
+    "Grid_Column" : {
+      "IP_Address" : "IP Address",
+      "Port" : "Port",
+      "Parent_Site" : "Parent Site",
+      "Child_Site" : "Child Site"
+    }
+  },
+
+  "SSM_Dashboard" : {
+    "List_Of_SSM" : "List Of SSM",
+    "Total_Camera" : "Total Camera",
+    "Total_SSM" : "Total SSM",
+    "Failure_Camera_Count" : "Offline Camera Count",
+    "Failure_SSM_Count" : "Offline SSM Count",
+    "List_Of_Site" : "List Of Site",
+    "Failure_Camera" : "Offline Camera",
+    "Failure_SSM" : "Offline SSM",
+    "Cameras" : "Cameras",
+    "Online_Offline" : "Online/Offline",
+    "CPU" : "CPU",
+    "RAM" : "RAM",
+    "Total_Storage" : "Total Storage",
+    "Used" : "Used",
+    "health_report" : "Health Report"
+  },
+  "SSM_Device_screen" : {
+    "Back_to_Dashboard" : "Back to Dashboard",
+    "Devices": "{{serverName}} — Devices",
+    "Seach_placeholder" : "Search by ip address, name, location, camera status, recording status...",
+    "Recording_Status" : "Recording Status",
+    "Camera_Status" : "Camera Status"
+  },
+  "SSM_Chart_Dialog" : {
+    "Availability_Chart" : "Availability Chart",
+    "Server_On" : "Server On",
+    "Server_Off" : "Server Off",
+    "Camera_Online_offline" : "Camera Online / Offline",
+    "Camera_Working" : "Camera Working",
+    "Online" : "Online",
+    "Offline" : "Offline",
+    "Camera_On" : "Camera On",
+    "Camera_Off" : "Camera Off",
+    "System_Manager" : "System Manager",
+    "Media_Server" : "Media Server",
+    "Camera_Availability_Chart" : "Camera Availability Chart"
+  },
+  "iDRAC_CPU": {
+    "Processor_CPU": "PROCESSOR (CPU)",
+    "Count": "Count",
+    "Total_Cores": "Total Cores",
+    "Total_Threads": "Total Threads",
+    "Avg_Speed": "Avg Speed",
+    "Health": "Health",
+    "Chart": "Chart",
+    "Details_List": "Details List",
+    "System_Utilization": "System utilization",
+    "No_Data_Found": "No data found",
+    "Grid": {
+      "CPU": "CPU",
+      "Model": "Model",
+      "Cores": "Cores",
+      "Threads": "Threads",
+      "Max_Speed": "Max Speed",
+      "Current_Speed": "Current Speed",
+      "Health": "Health"
+    }
+  },
+  "iDRAC_Cooling": {
+    "Cooling": "COOLING",
+    "Total_Fans": "Total Fans",
+    "Health": "Health",
+    "Chart": "Chart",
+    "Details_List": "Details List",
+    "Temp": "Temp",
+    "No_Data_Found": "No data found",
+    "Grid": {
+      "Fan_Name": "Fan Name",
+      "Fan_Speed": "Fan Speed",
+      "Health": "Health"
+    }
+  },
+  "iDRAC_PowerSupply": {
+    "Power_Supply": "POWER SUPPLY",
+    "PSU_Count": "PSU Count",
+    "Total_Capacity": "Total Capacity",
+    "Current_Usage": "Current Usage",
+    "Redundancy": "Redundancy",
+    "Health": "Health",
+    "Details_List": "Details List",
+    "No_Data_Found": "No data found",
+    "Grid": {
+      "PSU": "PSU",
+      "Capacity": "Capacity",
+      "Output": "Output",
+      "Input_Voltage": "Input Voltage",
+      "Current": "Current",
+      "Health": "Health"
+    }
+  },
+  "iDRAC_Network": {
+    "Embedded_Card": "Embedded Card",
+    "Integrated_Card": "Integrated Card",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
+    "Firmware_Package_Version": "Firmware Package Version",
+    "Health": "Health",
+    "Chart": "Chart",
+    "Details_List": "Details List",
+    "Speed": "Speed",
+    "Link": "Link",
+    "Product_Name": "Product Name",
+    "Protocol": "Protocol",
+    "Vendor_Name": "Vendor Name",
+    "Active_Link_Technology": "Active Link Technology",
+    "Associated_Network_Address_MAC": "Associated Network Address (MAC)",
+    "Link_Status": "Link Status",
+    "Current_Link_Speed": "Current Link Speed",
+    "Physical_Port_Number": "Physical Port Number",
+    "Status_Health": "Status Health"
+  },
+   "IDRAC_Memory":{
+    "MEMORY_Details" : " MEMORY (RAM) Details",
+    "Total" : "Total",
+    "Used_Slots" : "Used Slots",
+    "Free_Slots" : "Free Slots",
+    "Speed" : "Speed",
+    "Health" : "Health",
+    "Chart" : "Chart",
+    "Details_List" : "Details List",
+    "Memory_Used" : "Memory Used",
+    "Grid" : {
+      "RAM" : "RAM",
+      "Size" : "Size",
+      "Type" : "Type",
+      "Speed" : "Speed",
+      "Manufacturer" : "Manufacturer",
+      "Health" : "Health"
+    }
+  },
+  "IDRAC_Server_Details": {
+    "System_Information": "System Information",
+    "Launch_Remote_Console": "Launch Remote Console",
+    "Event_Logs": "Event Logs",
+    "System_Logs": "System Logs",
+    "Tabs": {
+      "Memory": "MEMORY (RAM)",
+      "Processor": "PROCESSOR (CPU)",
+      "Storage": "STORAGE",
+      "Cooling": "COOLING",
+      "Power_Supply": "POWER SUPPLY",
+      "Network_Devices": "NETWORK DEVICES"
+    },
+    "Power_Action": {
+      "Force_Restart": "Force Restart",
+      "Force_Shutdown": "Force Shutdown",
+      "Force_Start": "Force Start"
+    }
+  },
+  "iDRAC_SystemInformation": {
+    "System_Information": "System Information",
+    "Power_State": "Power State",
+    "Model": "Model",
+    "Host_Name": "Host Name",
+    "Operating_System": "Operating System",
+    "Operating_System_Version": "Operating System Version",
+    "Service_Tag": "Service Tag",
+    "BIOS_Version": "BIOS Version",
+    "iDRAC_Firmware_Version": "iDRAC Firmware Version",
+    "IP_Address": "IP Address",
+    "iDRAC_MAC_Address": "iDRAC MAC Address",
+    "License": "License"
+  },
+  "IDRAC_Event_Logs": {
+  "Title": "Event Logs",
+  "Grid": {
+    "Description": "Description",
+    "Event_Time": "Event Time",
+    "Severity": "Severity"
+  }
+},
+"IDRAC_System_Logs": {
+  "Title": "System Logs",
+  "Grid": {
+    "Description": "Description",
+    "System_Time": "System Time",
+    "Severity": "Severity"
+  }
+},
+"IDRAC_Storage": {
+  "Title": "STORAGE",
+  "Used_Slots": "Used Slots",
+  "Total_Capacity": "Total Capacity",
+  "Health": "Health",
+  "Details_List": "Details List",
+  "Grid": {
+    "Disk_Name": "Disk Name",
+    "Size": "Size",
+    "Type": "Type",
+    "Protocol": "Protocol",
+    "RPM": "RPM",
+    "Health": "Health"
+  }
+},
+"IDRAC_Server": {
+  "Grid": {
+    "IP_Address": "IP Address",
+    "Port": "Port",
+    "Server_Name": "Server Name",
+    "Parent_Site": "Parent Site",
+    "Child_Site": "Child Site",
+    "CPU_Load": "CPU Load",
+    "Temperature": "Temperature",
+    "Memory_Usage": "Memory Usage",
+    "List_Of_Alarm": "List of Alarm",
+    "Add_Alarm": "Add Alarm"
+  },
+  "Alarm_Grid": {
+    "Alarm_Name": "Alarm Name",
+    "IDRAC_Event": "iDRAC Event",
+    "Time_Limit": "Time Limit",
+    "Delete_Alarm": "Delete Alarm"
+  },
+  "Add_Alarm_Form": {
+    "Name": "Name",
+    "Enter_Name": "Enter Name",
+    "Name_Required": "Name is required.",
+
+    "IDRAC_Event": "iDRAC Event",
+    "Select_IDRAC_Event": "Select iDRAC Event",
+    "IDRAC_Event_Required": "iDRAC Event is required.",
+
+    "Time_Limit": "Time Limit",
+    "Select_Time_Limit": "Select Time Limit",
+    "Time_Limit_Required": "Time Limit is required."
+  }
+  
+}
+
+}

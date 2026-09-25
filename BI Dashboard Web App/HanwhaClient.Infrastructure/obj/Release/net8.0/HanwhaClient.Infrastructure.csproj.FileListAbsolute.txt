@@ -1,0 +1,15 @@
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\bin\Release\net8.0\HanwhaClient.Infrastructure.deps.json
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\bin\Release\net8.0\HanwhaClient.Infrastructure.dll
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\bin\Release\net8.0\HanwhaClient.Infrastructure.pdb
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\bin\Release\net8.0\HanwhaClient.Model.dll
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\bin\Release\net8.0\HanwhaClient.Model.pdb
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\obj\Release\net8.0\HanwhaClient.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\obj\Release\net8.0\HanwhaClient.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\obj\Release\net8.0\HanwhaClient.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\obj\Release\net8.0\HanwhaClient.Infrastructure.AssemblyInfo.cs
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\obj\Release\net8.0\HanwhaClient.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\obj\Release\net8.0\HanwhaCl.19696EF1.Up2Date
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\obj\Release\net8.0\HanwhaClient.Infrastructure.dll
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\obj\Release\net8.0\refint\HanwhaClient.Infrastructure.dll
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\obj\Release\net8.0\HanwhaClient.Infrastructure.pdb
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Infrastructure\obj\Release\net8.0\ref\HanwhaClient.Infrastructure.dll

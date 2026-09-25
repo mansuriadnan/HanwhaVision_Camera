@@ -1,0 +1,1352 @@
+{
+  "_comment_header": "头部相关标签",
+  "Dashboards": "仪表板",
+  "Welcome_content": "欢迎使用 BI 仪表板",
+  "Profile": "个人资料",
+  "Preferences": "偏好设置",
+  "Change_Password": "修改密码",
+  "Logout": "退出登录",
+  "Change_Password_Restriction": "密码修改受限。",
+  "Change_Password_Restriction_Content": "请联系管理员更新您的密码。",
+  "Okay": "确定",
+
+  "_comment_Notification_Drawer": "通知抽屉相关标签",
+  "Notification": "通知",
+  "Read_All": "全部已读",
+  "No_Notification": "当前暂无通知。",
+  "Load_more": "正在加载更多...",
+
+  "_comment_Welcome_Page": "欢迎页相关标签",
+  "welcome_to": "欢迎来到",
+  "BI_DASHBOARD": "BI 仪表板",
+
+  "Login": {
+    "Login_Header": "登录",
+    "Login_Line1": "最大化安全性、效率和洞察力",
+    "Login_Line2": "实时仪表板分析助力洞察",
+    "Login_Line3": "安全与商业智能",
+    "Login_Form": "请输入您的账户信息",
+    "Form_UserName": "用户名 / 邮箱",
+    "Login_Email_Placeholder": "请输入用户名或邮箱地址",
+    "Login_Email_Require": "用户名或邮箱为必填项",
+    "Login_Email_validation": "请输入有效的用户名或邮箱。",
+    "Login_Password": "密码",
+    "Login_Pass_Placeholder": "请输入密码",
+    "Login_Pass_Require": "密码为必填项。",
+    "Forgot_Password": "忘记密码",
+    "Forgot_Password_lable1": "忘记密码功能受限",
+    "Forgot_Password_lable2": "请联系管理员重置密码。",
+    "Okay": "确定",
+    "Logout_Confirmation": "退出确认",
+    "Logout_Confirmation1": "您确定要退出登录吗？",
+    "Confirm": "确认"
+  },
+  "Reset_Password_Screen": {
+    "Reset_Password": "重置密码",
+    "New_Password": "新密码",
+    "New_Password_Placeholder": "输入新密码",
+    "New_Password_Required": "新密码为必填项。"
+  },
+
+  "Preferences_Menu": {
+    "Theme_Colors": "主题颜色",
+    "Theme": "主题",
+    "Time_Zone": "时区",
+    "Sync_with_OS": "与系统同步",
+    "Manual_setup": "手动设置",
+    "Daylight_Savings": "夏令时",
+    "Time_zone_placeholder": "选择时区",
+    "Time_zone_require": "请选择时区",
+    "Time_Format": "时间格式",
+    "12_Hrs": "12 小时制",
+    "24_Hrs": "24 小时制",
+    "Language": "语言",
+    "Language_required": "语言为必填项",
+    "Apply": "应用"
+  },
+
+  "sidebar": {
+    "UserManagement": "用户管理",
+    "User": "用户",
+    "Roles": "角色",
+    "Permissions": "权限",
+    "Configurations": "配置",
+    "ManageDevice": "管理设备",
+    "CameraMaster": "摄像头管理",
+    "ZoneMaster": "区域管理",
+    "DeviceMaster": "设备主数据",
+    "FloorPlansAndZones": "楼层平面图与区域",
+    "Dashboards": "仪表板",
+    "Add_Dashboard_btn": "新增仪表板",
+    "Retail": "零售",
+    "Traffic": "客流",
+    "Events": "事件",
+    "Monitoring": "监控",
+    "Add_Monitoring_btn": "新增监控",
+    "Reports": "报表",
+    "Settings": "设置",
+    "ManageUsers": "用户管理",
+    "MultisiteSetup": "多站点设置",
+    "RolesAndPermissions": "角色与权限",
+    "SettingsGeneral": "常规设置",
+    "SettingsLicense": "许可证",
+    "EventLogs": "事件日志",
+    "MyReports": "我的报表",
+    "WelcomePage": "欢迎回来！",
+    "WelcomePagesubtitle": "欢迎使用 BI 仪表板",
+    "Backup_Restore": "备份与恢复",
+    "ANPR": "车牌识别",
+    "Audit": "审计",
+    "VehicleOwners": "车主",
+    "Version": "版本",
+    "Maintenance": "维护",
+    "Maintenance_Plan": "维护计划",
+    "Maintenance_Schedule": "维护日程",
+    "RMA": "返修管理",
+    "LPR_Title": "LPR",
+    "Server_Management": "服务器管理",
+    "SSM_Monitoring": "SSM 监控",
+    "SSM_Dashboards": "仪表板",
+    "Manage_Server": "管理服务器"
+  },
+
+  "Dashboard": {
+    "New_Dashboard_header": "新建仪表板",
+    "New_Dashboard_Description": "在此添加、更新或删除仪表板信息。",
+    "Add_Widget": "添加组件",
+    "Add_Widget_line1": "当前暂无可显示的组件，",
+    "Add_Widget_line2": "如需创建新组件，请点击下方按钮。",
+    "Add_Widget_btn_text": "添加组件",
+    "Dashboard_Placeholder": "请输入仪表板名称",
+    "Dashboard_Strong_Validation": "仪表板名称不能超过 {{max}} 个字符",
+    "Monitoring_Placeholder": "请输入监控名称",
+    "Monitoring_Strong_Validation": "监控名称不能超过 {{max}} 个字符"
+  },
+  
+  "Manage_Device": {
+    "Manage_Device_header": "设备管理",
+    "Manage_Device_Description": "添加智能摄像头、AI 盒子等新设备。",
+    "Upload_Bulk_Device_btn": "批量上传",
+    "Add_Devices_btn": "新增设备",
+    "List_Of_Devices": "设备列表",
+    "Device_Search_Placeholder_text": "可按设备名称、型号、序列号、IP 地址、区域或 MAC 地址搜索...",
+    "Reload_btn": "刷新",
+    "Remove_btn": "移除",
+    "List_view": "列表",
+    "Grid_view": "网格",
+    "Edit_camera": "编辑设备",
+    "Add_Device": "新增设备",
+    "Export_btn": "导出",
+    "Sample_File": "示例文件",
+    "Open_Gate": "打开闸门",
+
+    "Manage_Device_Grid_column": {
+      "Device_name": "设备名称",
+      "Model": "型号",
+      "IP_Address": "IP 地址",
+      "Location": "位置",
+      "Zones": "区域",
+      "Serial_number": "序列号",
+      "macAddress": "MAC 地址",
+      "DeviceType": "设备类型",
+      "Actions": "操作",
+      "Maintenance_Mode": "维护模式"
+    },
+
+    "Add_Edit_Device_Drawer": {
+      "Select_Device_Type": "选择设备类型",
+      "Device_Name": "设备名称",
+      "Device_Name_placeholder": "请输入设备名称",
+      "IP_Address": "IP 地址",
+      "IP_Address_placeholder": "请输入 IP 地址",
+      "Username": "用户名",
+      "Username_placeholder": "请输入用户名",
+      "Password": "密码",
+      "Password_placeholder": "请输入密码",
+      "Port": "端口",
+      "Port_placeholder": "请输入端口号",
+      "Use_HTTPS": "使用 HTTPS",
+      "Location": "位置",
+      "Location_placeholder": "请输入位置",
+      "Total_Channels": "通道总数",
+      "AssetsTag": "资产标签",
+      "AssetsTag_placeholder": "输入资产标签",
+      "ManufacturingDate": "制造日期",
+      "Camera_Direction": "摄像头方向",
+      "Entry": "入口",
+      "Exit": "出口"
+    },
+
+    "Upload_Bulk_Device_Drawer": {
+      "Upload_Device": "上传设备",
+      "Upload_your_device_file": "上传您的设备文件（.xlsx 或 .xls）",
+      "Selected_File": "已选择文件：{{fileName}}",
+      "Browse_and_choose_files_line1": "浏览并选择您想要的文件",
+      "Browse_and_choose_files_line2": "从您的计算机上传",
+      "Upload": "上传"
+    },
+
+    "validation": {
+      "Device_Type_required": "设备类型为必填项",
+      "Device_Name_required": "设备名称为必填项。",
+      "IP_Address_required": "IP 地址为必填项。",
+      "IP_Address_strong_validation": "请输入有效的 IP 地址",
+      "Username_required": "用户名为必填项。",
+      "Username_strong_validation": "请输入有效的用户名",
+      "Password_required": "密码为必填项",
+      "Port_required": "端口为必填项",
+      "Port_strong_validation": "请输入有效的端口号",
+      "Location_required": "位置为必填项",
+      "Camera_direction_required": "摄像头方向为必填项"
+    }
+  },
+
+  "Floor_Plan_zones": {
+    "Floor_Plan_zones_header": "楼层平面图与区域",
+    "Floor_Plan_zones_Description": "在此配置楼层平面图，定义对应的区域，并管理指定区域内的摄像头配置。",
+    "Search_floor_placeholder": "搜索楼层平面图..",
+    "Floor_plan_name_placeholder": "请输入楼层平面图名称",
+    "Device_Search_placeholder": "按名称 / IP / 型号搜索设备",
+
+    "validation": {
+      "Floor_name_is_required": "楼层名称为必填项",
+      "Floor_name_strong_validation": "楼层平面图名称只能包含字母和数字，不允许使用特殊字符。",
+      "Floor_name_MAX_validation": "楼层名称不能超过 50 个字符",
+      "Floor_name_MIN_validation": "楼层名称至少需要 3 个字符。",
+      "Zone_name_required": "区域名称为必填项",
+      "Zone_name_strong_validation": "区域名称只能包含字母和数字，不允许使用特殊字符。",
+      "Zone_name_MAX_validation": "区域名称最多为 20 个字符",
+      "Zone_name_MIN_validation": "区域名称至少需要 3 个字符。",
+      "People_occupancy_validation": "人员默认容量必须小于人员最大容量",
+      "Vehicle_occupancy_validation": "车辆默认容量必须小于车辆最大容量"
+    },
+
+    "Re_Draw_Zone_btn": "重新绘制区域",
+    "Draw_Zone_btn": "绘制区域",
+    "Replace_Floor": "替换楼层",
+    "Save_Changes": "保存更改",
+    "Upload_Your_Floor_Plan": "上传楼层平面图",
+    "DropImageHere": "将图片拖放到此处，或",
+    "Browse": "浏览",
+    "SupportedFormats": "支持格式：JPG、JPEG、PNG、SVG、PDF",
+    "Delete_Camera": "删除摄像头",
+    "Focal": "焦点",
+    "Sphere": "球体",
+    "Color_fill": "颜色填充",
+    "Add_Edit_Zone_Drawer": {
+      "Add_Zone": "新增区域",
+      "Edit_Zone": "编辑区域",
+      "Name": "名称",
+      "Name_Placeholder": "请输入区域名称",
+      "People_Occupancy": "人员容量",
+      "MAX_Occupancy_Placeholder": "请输入最大容量",
+      "Default_Occupancy_Placeholder": "请输入默认容量",
+      "Vehicle_Occupancy": "车辆容量",
+      "Is_Parking_Zone": "是否为停车区域"
+    },
+
+    "No_Data": {
+      "No_data_available": "暂无数据",
+      "No_data_description1": "暂无可加载的楼层平面图数据，相关区域或",
+      "No_data_description2": "指定区域中已配置的摄像头。"
+    }
+  },
+
+  "Event_log": {
+    "Event_log_header": "事件日志",
+    "Event_log_Description": "在此查看和追踪所有事件。",
+    "List_Of_Events": "事件列表",
+
+    "Event_log_Grid_column": {
+      "Date_Time": "日期与时间",
+      "Event_Name": "事件名称",
+      "Description": "描述",
+      "Floor_name": "楼层名称",
+      "Zone_name": "区域名称",
+      "Video_link": "视频链接",
+      "Status": "状态",
+      "Actions": "操作"
+    },
+
+    "Event_Log_Filter": {
+      "Filter": "筛选",
+      "Floor": "楼层",
+      "Zone": "区域",
+      "Event": "事件",
+      "Status": "状态",
+      "Date_Range": "日期范围",
+      "Reset_btn": "重置",
+      "Search_btn": "搜索"
+    }
+  },
+
+  "Monitoring": {
+    "Monitoring_header": "新增监控组",
+    "Monitoring_Description": "在此配置您的监控设置。",
+    "Add_New_Group": "新增监控组",
+    "Groupname_placeholder": "请输入监控组名称",
+    "Add_New_Group_line1": "您当前尚未配置任何监控组。",
+    "Add_New_Group_line2": "如需创建新的监控组，请点击下方按钮",
+    "Add_URL_Preview": "新增 URL 预览",
+    "Unable_Preview": "无法预览该 URL。",
+    "No_Preview_Line1": "您当前尚未配置任何 URL 预览。",
+    "No_Preview_Line2": "如需创建新的 URL 预览，请点击下方按钮",
+    "validation": {
+      "GroupName_required": "监控组名称为必填项",
+      "GroupName_Strong_validation": "监控组名称不能超过 50 个字符",
+      "Add_Monitoring_Permission_validation": "您没有新增监控组的权限",
+      "View_Monitoring_Permission_validation": "您没有查看监控组的权限",
+      "Name_required": "名称为必填项。",
+      "Name_strong_validation": "名称不能超过 {{max}} 个字符",
+      "URL_Required": "URL 为必填项。",
+      "Location_required": "位置为必填项。",
+      "Add_URL_Preview_Permission_validation": "您没有新增 URL 预览的权限。"
+    },
+    "URL_Preiview_Drawer": {
+      "Edit_URL_Preview": "编辑 URL 预览",
+      "Name": "名称",
+      "Name_Placeholder": "请输入名称",
+      "URL": "URL",
+      "URL_Placeholder": "请输入 URL",
+      "Location": "位置",
+      "Location_placeholder": "请输入位置"
+    }
+  },
+
+  "Manage_User": {
+    "Manage_User_header": "用户管理",
+    "Manage_User_Description": "在此添加、更新或删除用户信息。",
+    "Add_User": "新增用户",
+    "Edit_User": "编辑用户",
+    "Delete_User": "删除用户",
+    "List_Of_Users": "用户列表",
+    "Search_User_Placeholder": "按姓名、用户名或邮箱搜索",
+    "Manage_User_Grid_column": {
+      "Username": "用户名",
+      "Full_Name": "姓名",
+      "Email": "邮箱",
+      "Roles": "角色",
+      "Created_By": "创建人",
+      "Created_On": "创建时间",
+      "Updated_By": "最后更新人",
+      "Updated_On": "最后更新时间",
+      "Actions": "操作"
+    },
+    "Validation": {
+      "FirstName_Required": "名字为必填项。",
+      "FistName_Valid": "请输入有效的名字",
+      "FirstName_Strong_Validation": "名字不能超过 {{max}} 个字符",
+      "LastName_Required": "姓氏为必填项。",
+      "LastName_Valid": "请输入有效的姓氏",
+      "LastName_Strong_Validation": "姓氏不能超过 {{max}} 个字符",
+      "Username_Required": "用户名为必填项。",
+      "Username_Valid": "请输入有效的用户名",
+      "Username_Strong_Validation": "用户名不能超过 {{max}} 个字符",
+      "Email_Required": "邮箱地址为必填项",
+      "Email_Valid": "请输入有效的邮箱地址",
+      "Email_Strong_Validation": "邮箱地址不能超过 {{max}} 个字符",
+      "Password_Required": "密码为必填项",
+      "Password_Strong_Validation": "密码长度必须在 8 到 16 个字符之间，并且至少包含一个大写字母、一个小写字母、一个数字和一个特殊字符（不包括 *）",
+      "Password_Max_Validation": "密码不能超过 {{max}} 个字符",
+      "Confirm_Password_Required": "确认密码为必填项",
+      "Confirm_Password_Match": "密码与确认密码必须一致",
+      "Role_Required": "至少需要选择一个角色"
+    },
+    "Add_Edit_User_Drawer": {
+      "First_Name": "名字",
+      "First_Name_Placeholder": "请输入名字",
+      "Last_Name": "姓氏",
+      "Last_Name_Placeholder": "请输入姓氏",
+      "Username": "用户名",
+      "Username_Placeholder": "请输入用户名",
+      "Email": "邮箱地址",
+      "Email_Placeholder": "请输入邮箱地址",
+      "Password": "密码",
+      "Password_Placeholder": "请输入密码",
+      "Confirm_Password": "确认密码",
+      "Confirm_Password_Placeholder": "请输入确认密码",
+      "Roles": "角色",
+      "Roles_Placeholder": "请选择角色"
+    }
+  },
+
+  "Role_Permission": {
+    "Search_Role": "按角色名称搜索",
+    "No_Roles_Found": "未找到角色",
+    "Permission_No_Data_Message": "暂无可显示的权限数据。请点击 <strong>新增</strong> 按钮创建新角色。",
+    "Save_changes": "保存更改",
+    "No_zones_available": "暂无可用区域",
+    "No_Floor_Zone_Available": "暂无数据。请先创建楼层平面图和区域以配置权限",
+    "No_Widgets_available": "暂无可用组件",
+    "Permissions": "权限",
+    "Is_Allowed": "是否允许",
+    "Screens": "页面",
+    "Floor_Zones": "楼层与区域",
+    "Widgets": "组件",
+    "Validation": {
+      "Role_Required": "角色名称为必填项"
+    }
+  },
+
+  "Multisite_Setup": {
+    "Multisite_Setup": "多站点设置",
+    "Multisite_Setup_Description": "在此配置关联的子站点和子子站点。",
+    "Add_Child_Site": "新增子站点",
+    "Edit_Child_Site": "编辑子站点",
+    "List_Child_Sub_Child": "子站点与子子站点列表",
+    "Search": "按站点名称、主机地址或用户名搜索",
+    "Add_Sub_Child_Site": "新增子子站点",
+    "Edit_Sub_Child_Site": "编辑子子站点",
+    "Delete_Child_Site_Confirmation": "您即将删除一个子站点，此操作将同时删除其所有子子站点。<br />确定要继续吗？",
+    "Delete_Sub_Child_Site_Confirmation": "确定要删除此站点吗？",
+    "No_data_found": "未找到数据",
+
+    "Multisite_Setup_Grid_column": {
+      "Site_Name": "站点名称",
+      "hosting_Address": "主机地址",
+      "UserName": "用户名",
+      "Created_By": "创建人",
+      "Created_On": "创建时间",
+      "Last_Updated_By": "最后更新人",
+      "Last_Updated_On": "最后更新时间",
+      "Actions": "操作"
+    },
+
+    "Validation": {
+      "Site_Required": "站点名称为必填项。",
+      "Hosting_Address_Required": "主机地址为必填项。",
+      "Hosting_Address_Strong_validation": "请输入有效的主机地址",
+      "Username_Required": "用户名为必填项。",
+      "Username_Strong_Validation": "请输入有效的用户名",
+      "Password_Required": "密码为必填项",
+      "Child_Site_Required": "子站点名称为必填项。",
+      "Sub_Site_Name_Required": "子子站点名称为必填项。"
+    },
+
+    "Add_Child_Drawer": {
+      "Site_Name": "站点名称",
+      "Site_Name_Placeholder": "请输入站点名称",
+      "Hosting_Address": "主机地址",
+      "Hosting_Address_Placeholder": "请输入主机地址",
+      "Username": "用户名",
+      "Username_Placeholder": "请输入用户名",
+      "Password": "密码",
+      "Password_Placeholder": "请输入密码",
+      "Child_Site_Name": "子站点名称",
+      "Sub_Site_Name": "子子站点名称",
+      "Sub_Site_Name_Placeholder": "请输入子子站点名称"
+    }
+  },
+  
+  "General_Settings": {
+    "General": "常规",
+    "General_Settings_Description": "在此配置您的常规设置...",
+
+    "SMTP_Setup": {
+      "SMTP_Setup": "SMTP 设置",
+      "Host": "主机",
+      "Host_Placeholder": "请输入主机",
+      "Port": "端口",
+      "Post_Placeholder": "请输入端口",
+      "From_Email": "发件人邮箱地址",
+      "From_Email_Placeholder": "请输入发件人邮箱地址",
+      "Enable_SSL": "启用 SSL",
+
+      "Validation": {
+        "Host_Required": "主机为必填项",
+        "Host_Max_Validation": "主机不能超过 {{max}} 个字符",
+        "Host_Strong_Validation": "请输入有效的主机（例如：smtp.example.com）",
+        "Port_Required": "端口为必填项",
+        "Port_Strong_Validation": "端口必须在 1 到 65535 之间",
+        "Email_Strong_Validation": "发件人邮箱地址不能超过 {{max}} 个字符"
+      }
+    },
+
+    "Report_Scheduler": {
+      "Report_Scheduler_Title": "报表调度",
+      "Emails": "邮箱",
+      "Emails_Placeholder": "请输入收件人邮箱地址（以逗号分隔）",
+      "Floors": "楼层",
+      "Floors_Placeholder": "选择楼层",
+      "Zones": "区域",
+      "Zones_Placeholder": "选择区域",
+      "Select_Widget": "选择组件",
+      "Select_Date": "选择日期",
+      "Select_Time": "选择时间",
+      "Report_Format": "选择接收报表的格式",
+      "Send_On": "发送周期",
+      "Daily": "每日",
+      "Weekly": "每周",
+      "Monthly": "每月",
+      "Schedule_btn": "计划",
+
+      "Validation": {
+        "Email_Required": "邮箱为必填项",
+        "Multiple_Email_Validation": "多个邮箱必须使用逗号分隔，不能使用空格。",
+        "Invalid_Emails": "无效的邮箱：{{invalidList}}",
+        "Floors_Required": "请选择楼层",
+        "Zones_Required": "请选择区域",
+        "Widget_Required": "请选择组件",
+        "Widget_Limit": "最多只能选择 10 个组件",
+        "Date_Requiered": "请选择开始日期",
+        "Date_Strong_Validation": "开始日期必须是今天或之后",
+        "Time_Required": "开始时间为必填项",
+        "Format_Required": "请选择格式",
+        "Interval_Required": "请选择周期",
+        "Floor_Limit": "您不能选择超过10层"
+      }
+    },
+
+    "FTP_Setting": {
+      "FTP_Setup": "FTP 设置",
+      "Validation": {
+        "Host_Strong_Validation": "请输入有效的主机名（例如：ftp.example.com）或 IPv4 地址（例如：192.168.1.1）"
+      }
+    },
+
+    "Retention_Period_Setting": {
+      "Retention_Period": "保留期限",
+      "Enabled": "启用",
+      "Period": "保留期限（月）",
+      "Period_Plceholder": "请输入期限",
+      "Validation": {
+        "Period_Required": "期限为必填项",
+        "Period_Strong_Validation": "期限必须在 1 到 99 之间"
+      }
+    },
+
+    "Operational_Time": {
+      "Operational_Time_Title": "运行时间",
+      "Start_Time_Required": "开始时间为必填项",
+      "End_Time_Required": "结束时间为必填项"
+    },
+
+    "Google_Map_Key": {
+      "Title": "Google 地图密钥",
+      "key_required": "Google 地图密钥为必填项",
+      "Key_Placeholder": "请输入 Google 地图密钥"
+    },
+
+    "Upload_Logo": {
+      "Upload_logo_title": "上传您的标志",
+      "Browse_Upload_Text": "浏览并选择您要<br />从电脑上传的文件",
+      "Validation": {
+        "Upload_logo_first": "请先上传文件！",
+        "Valid_File_size": "文件大小不能超过 1 MB。",
+        "Allowed_File_Validation": "仅允许 jpg、jpeg、png 文件。"
+      },
+      "Upload_Note": {
+        "Line1_Part1": "请上传您的公司",
+        "Line1_Highlight1": "PNG 或 JPG 格式标志",
+        "Line1_Part2": "，推荐分辨率为",
+        "Line1_Highlight2": "174 x 46 像素",
+        "Line2_Part1": "允许的最大文件大小：",
+        "Line2_Highlight": "1 MB",
+        "Line3": "为获得最佳效果，请使用白色背景的高质量图片。"
+      }
+    },
+
+    "Upload_SSL": {
+      "Upload_SSL_Title": "上传 SSL 证书",
+      "Password": "密码",
+      "Upload_File_first": "请先上传文件！",
+      "Allowed_File_Validation": "仅允许 .crt、.pem、.pfx、.cer 文件。"
+    },
+    "Backup_Database_Setting": {
+      "Scheduled_Database_Backup": "计划的数据库备份",
+      "BackupPath_Placeholder": "输入数据库备份路径",
+      "BackupPath_Required": "必须设置计划的数据库备份"
+    },
+    "ANPR_Setting": {
+      "ANPR_Configuration": "ANPR 配置",
+      "Image_Path": "图像路径",
+      "Image_Path_Placeholder": "输入 ANPR 图像路径"
+    },
+    "Reset_Vehicle": {
+      "Reset_Vehicle_Parking_Count": "重置车辆停车计数",
+      "Reset": "重置",
+      "count": "输入数量",
+      "RequiredCount": "数量为必填项。"
+    }
+  },
+
+  "License_Setting": {
+    "License_Title": "许可证",
+    "License_Description": "在此配置您的许可证设置...",
+    "Add_License": "添加许可证",
+    "No_License_Content": "目前尚未为您配置任何许可证。<br />请点击下方按钮上传许可证",
+    "Current_License_Detail": {
+      "Product_Name": "产品名称",
+      "License_Version": "许可证版本",
+      "Type": "类型",
+      "Camera_Utilized": "已使用摄像头",
+      "User_Utilized": "已使用用户",
+      "Start_Date": "开始日期",
+      "End_Date": "结束日期",
+      "Title": "当前许可证详情"
+    },
+    "License_History": {
+      "Title": "许可证历史",
+      "Search_Placeholder": "按 MAC 地址、类型、开始日期搜索...",
+      "macAddress": "MAC 地址",
+      "licenseType": "类型",
+      "numberOfUsers": "用户数量",
+      "noOfChannel": "通道数量",
+      "startDate": "开始日期",
+      "expiryDate": "结束日期",
+      "status": "状态",
+      "createdBy": "创建者",
+      "createdOn": "创建时间"
+    },
+    "Upload_License_Drawer": {
+      "PEM_Title": "上传您的 publickey.pem 文件",
+      "LIC_Title": "上传您的 license.lic 文件",
+      "Upload_btn": "上传",
+      "Logout_Content": "两个许可证文件已成功上传。请退出并重新登录以应用更改。",
+      "Confirm_btn": "退出登录",
+      "File_Selection_validation": "请同时上传 PEM 和 LICENSE 文件。",
+      "PEM_Validation": "请上传有效的 PEM 文件（.pem）。",
+      "LIC_Validation": "请上传有效的 LICENSE 文件（.lic）。",
+      "Upload_Fail": "文件上传失败，请重试。"
+    }
+  },
+
+  "BackUp_Restore": {
+    "Backup_Restore_Header": "备份与恢复",
+    "Backup_Restore_Description": "下载您的数据并进行恢复..",
+    "Backup": "备份",
+    "Backup_description_1": "下方按钮将在您的本地计算机上创建完整系统备份。您可以在系统故障或需要时使用该备份。",
+    "Backup_description_2": "请点击下方按钮立即进行完整备份。",
+    "Take_Full_Backup": "执行完整备份",
+    "Restore": "恢复",
+    "File_Name": "文件名",
+    "Uploading": "上传中..."
+  },
+
+  "My_Report": {
+    "No_Report": "未选择报表。请从列表中选择报表以查看详细信息。",
+    "Add_Report": "添加报表",
+    "Delete_Dialog_Content": "确定要删除此报表吗？",
+    "No_Report_found": "未找到报表",
+    "Untitled_Report": "未命名报表",
+    "Last_Edited": "最后编辑",
+    "Delete": "删除",
+    "Edit": "编辑",
+    "Export_pdf_btn": "导出为 PDF",
+    "Filter_Applied": "已应用筛选条件",
+    "Created_By": "创建者",
+    "Created_On": "创建时间",
+    "No_Filter_Data": "所选筛选条件下未找到数据。请调整筛选条件后重试。",
+    "Contact_Admin_Error": "处理您的请求时发生意外错误。请重试或联系管理员。",
+    "Report_Type": "报表类型",
+    "Site_Report_Header": "站点性能对比报表",
+    "Zone_Report_Header": "区域性能对比报表",
+    "Report_Name": "报表名称",
+    "Sites": "站点",
+    "Site": "站点",
+    "Zone": "区域",
+    "Floors": "楼层",
+    "Zones": "区域",
+    "Date_Time": "日期与时间",
+    "Performance_Comparison_Table": "性能对比表",
+    "People_Count": "人数统计",
+    "People_Occupancy": "人员占用率",
+    "Vehicle_Count": "车辆数量",
+    "Vehicle_Occupancy": "车辆占用率",
+    "No_Insights_Data": "没有可用于生成洞察的数据。",
+    "No_Valid_Insights": "没有可用于生成洞察的有效数据。",
+    "HighestVehicleOccupancy": "{{zone}} 的车辆占用率最高（{{occupancy}}%）。",
+    "HighestVehicleCount": "{{zone}} 的车辆数量最多（{{count, number}}）。",
+    "VehicleOccupancyComparison": "车辆占用水平表明 {{busier}} 比 {{lessBusy}} 更繁忙。",
+    "HighestPeopleOccupancy": "{{zone}} 的人员占用率最高（{{rate}}%）。",
+    "HighestPeopleCount": "{{zone}} 的人数最多（{{count, number}}）。",
+    "PeopleOccupancyComparison": "人员占用水平表明 {{busier}} 比 {{lessBusy}} 更繁忙。",
+    "HighestPeopleAndVehicleOccupancy": "{{zone}} 的人员和车辆占用率最高（{{rate}}%）。",
+    "HighestPeopleAndVehicleOccupancyRate": "{{zone}} 的人员占用率最高（{{peopleRate}}%），车辆占用率最高（{{vehicleRate}}%）。",
+    "No_Insights_Available": "基于当前选择没有可用的数据洞察。",
+    "Summary_Insights": "总结洞察",
+    "Visualizations": "可视化",
+    "People_Vehicle_Count": "人员与车辆统计 {{base}}",
+    "People_Count_Type": "人员统计 {{base}}",
+    "Vehicle_Count_Type": "人员统计 {{base}}",
+    "By_Site": "按站点",
+    "By_Zone": "按区域",
+    "Occupancy_Rate_Comparison": "占用率对比",
+    "Traffic_Composition_Title": {
+      "People": "流量构成（人员）",
+      "vehicle": "流量构成（车辆）",
+      "Both": "流量构成（人员 vs 车辆）",
+      "fallback": "流量构成"
+    },
+    "Key_Performance_Metric": "关键绩效指标",
+    "Total_People_Count": "总人数",
+    "Average_People_Occupancy_Rate": "平均人员占用率",
+    "Total_Vehicle_Count": "车辆总数",
+    "Average_Vehicle_Occupancy_Rate": "平均车辆占用率"
+  },
+
+  "Audit_Log": {
+    "Audit_Log_Header": "审计日志",
+    "Audit_Log_Descripltion": "用于审计的用户活动详细日志...",
+    "Search_Placeholder": "搜索文档键",
+    "Audit_Log_Grid_Column": {
+      "Document_Id": "文档 ID",
+      "User": "用户",
+      "Type": "类型",
+      "Date": "日期",
+      "Details": "详情"
+    }
+  },
+
+  "Maintanace_Plan": {
+    "Maintenance_Plan_Header": "维护计划",
+    "Maintenance_Plan_Description": "创建维护计划并映射设备..",
+    "Add_Plan": "添加计划",
+    "Edit_Plan": "编辑计划",
+    "List_Of_Plans": "计划列表",
+    "Search_Placeholder": "按计划名称和设备搜索...",
+    "Search_Devices": "搜索设备...",
+    "Device_Dialog_header": "设备",
+    "Serial_No": "序列号",
+    "More_Count": "+{{count}} 更多",
+    "Maintanace_Plan_Grid": {
+      "Plan_Name": "计划名称",
+      "Duration": "持续时间",
+      "Device": "设备",
+      "Start_Date": "开始日期",
+      "End_Date": "结束日期",
+      "Actions": "操作",
+      "Edit_Plan_Tooltip": "编辑计划",
+      "Delete_Plan_Tooltip": "删除计划",
+      "Floor": "楼层",
+      "Select_Floor": "选择楼层",
+      "Zone": "区域",
+      "Select_Zone": "选择区域"
+    },
+    "Maintanance_Plan_Drawer": {
+      "Plan_Name_Required": "计划名称为必填项。",
+      "Plan_Name_Max_Length_validation": "计划名称不能超过 {{max}} 个字符",
+      "Plan_Name_Placeholder": "输入计划名称",
+      "Duration_In_Month": "持续时间（按月）",
+      "Duration_Max_Length_validation": "持续时间不能超过 {{max}} 位数字",
+      "Duration_Required": "持续时间为必填项。",
+      "Duration_Strong_Validation": "只允许输入数字",
+      "Duration_Placeholder": "输入持续时间",
+      "Device_Required": "设备为必填项。",
+      "Device_Placeholder": "选择设备",
+      "EndDate_Requiered": "请选择结束日期",
+      "EndDate_Strong_Validation": "结束日期必须是今天或之后",
+      "EndDate_Less_Than_StartDate": "结束日期不能早于开始日期"
+    }
+  },
+
+  
+  "Maintenance_Schedule": {
+    "Maintenance_Schedule_Header": "维护计划",
+    "Maintenance_Schedule_Description": "创建维护计划并映射设备。",
+    "Schedule_Maintenance": "安排维护",
+    "Select_Floor": "选择楼层",
+    "Select_Zone": "选择区域",
+    "Select_PH_Floor": "选择楼层",
+    "Select_PH_Zone": "选择区域",
+    "Select_due": "选择到期日期",
+    "Select_PH_status": "选择状态",
+    "Select_status": "选择状态",
+    "Column_Grid": {
+      "Device_Name": "设备名称",
+      "Model": "型号",
+      "Location": "位置",
+      "Serial_Number": "序列号",
+      "Device_Type": "设备类型",
+      "Ip_Address": "IP 地址",
+      "Maintenance_Due_Date": "维护到期日期",
+      "Plan_Name": "计划名称",
+      "status": "状态",
+      "Actions": "操作",
+      "Setting_Tooltip": "设置"
+    },
+    "Add_Schedule_Drawer": {
+      "Add_Schedule": "添加计划",
+      "Device": "设备",
+      "Device_Required": "设备为必填项。",
+      "Device_Placeholder": "选择设备",
+      "Due_Date": "到期日期",
+      "Due_date_Required": "请选择到期日期",
+      "Due_date_Strong_Validation": "到期日期必须是今天或之后",
+      "Notes": "备注",
+      "Notes_Required": "备注为必填项。",
+      "Notes_Placeholder": "请输入备注"
+    },
+    "Setting_Dialog": {
+      "scheduledMaintenance": "已安排维护（{{id}}）",
+      "Maintenance_Status": "维护状态",
+      "Maintenance_status_required": "维护状态为必填项。",
+      "Start_Date": "开始日期",
+      "Before": "之前",
+      "Matched": "匹配",
+      "Compare": "对比",
+      "brightness": "亮度",
+      "contrast": "对比度",
+      "edgeOverlap": "边缘重叠",
+      "featureDisplacement": "特征位移",
+      "homographyShift": "单应性偏移",
+      "horizonTilt": "地平线倾斜",
+      "structuralSimilarity": "结构相似性",
+      "After": "之后",
+      "Start_Date_Required": "开始日期为必填项。",
+      "Start_Date_Strong_Validation": "开始日期不能是未来日期。",
+      "Grid_Column": {
+        "Status": "状态",
+        "notes": "备注",
+        "Status_Datetime": "状态时间"
+      }
+    },
+    "Tooltip": {
+      "brightness_tooltip": "测量图像的整体亮度强度",
+      "contrast_tooltip": "表示图像中最暗与最亮区域之间的差异",
+      "edgeOverlap_tooltip": "评估对比图像之间边缘对齐的程度",
+      "featureDisplacement_tooltip": "测量图像之间关键特征的位移",
+      "homographyShift_tooltip": "表示由于相机视角变化导致的几何变换差异",
+      "horizonTilt_tooltip": "测量图像相对于水平线的旋转角度",
+      "structuralSimilarity_tooltip": "基于结构、亮度和对比度评估视觉相似性"
+    }
+  },
+  "RMA": {
+    "RMA_Header": "RMA",
+    "RMA_Edit_Header": "编辑 RMA",
+    "RMA_Header_Desc": "创建维护计划并映射设备。",
+    "RMA_Add_Button": "添加 RMA",
+    "RMA_Filter_StartDate": "RMA 日期",
+    "RMA_Filter_EndDate": "结束日期",
+    "RMA_Filter_Status": "选择状态",
+    "RMA_Filter_PH_Status": "选择状态",
+    "RMA_Grid_DeviceName": "设备名称",
+    "RMA_Grid_IPAddress": "IP 地址",
+    "RMA_Grid_Model": "型号",
+    "RMA_Grid_Location": "位置",
+    "RMA_Grid_SerialNumber": "序列号",
+    "RMA_Grid_DeviceType": "设备类型",
+    "RMA_Grid_InProgressNotes": "进行中备注",
+    "RMA_Grid_RMAStatus": "RMA 状态",
+    "RMA_Grid_StartDate": "开始日期",
+    "RMA_Grid_EndDate": "结束日期",
+    "RMA_Grid_Actions": "操作",
+    "RMA_Grid_CompletedNotes": "完成备注",
+    "RMA_Grid_Tooltip_EditPlan": "编辑计划",
+    "RMA_Grid_Tooltip_DeletePlan": "删除计划",
+    "RMA_Form_Device": "设备",
+    "RMA_Form_Maintenancestatus": "维护状态",
+    "RMA_Form_InProgressNotes": "进行中备注",
+    "RMA_Form_CompletedNotes": "完成备注",
+    "RMA_Form_PH_SelectDevice": "选择设备",
+    "RMA_Form_PH_Device": "选择维护状态",
+    "RMA_Form_PH_EnterInProgressnotes": "输入进行中备注",
+    "RMA_Form_PH_CompletedNotes": "输入完成备注",
+    "RMA_Form_Validation_Deviceisrequired": "设备为必填项",
+    "RMA_Form_Validation_StartDateTsRequired": "开始日期为必填项",
+    "RMA_Form_Validation_EndDateMustBeGreaterThanStartDate": "结束日期必须晚于开始日期",
+    "RMA_Form_Validation_InProgressNotesIsRequired": "进行中备注为必填项",
+    "RMA_Form_Validation_CompletedNotesIsRequired": "完成备注为必填项",
+    "RMA_Select_Floor": "选择楼层",
+    "RMA_Select_Zone": "选择区域"
+  },
+
+  "MUI_Grid_Filter_Paginition": {
+    "columnMenuSortAsc": "按升序排序",
+    "columnMenuSortDesc": "按降序排序",
+    "columnMenuHideColumn": "隐藏列",
+    "columnMenuManageColumns": "管理列",
+    "footerPaginationRowsPerPage": "每页行数：",
+    "footerRowSelected": "已选择 {{count}} 行",
+    "footerRowSelectedPlural": "已选择 {{count}} 行",
+    "footerTotalVisibleRows": "共 {{total}} 行"
+  },
+
+  "Common_Edit_Delte_Menu": {
+    "Edit": "编辑",
+    "Delete": "删除"
+  },
+
+  "Common_DELETE_Confirmation_Dialog": {
+    "Title": "删除确认！",
+    "Content": "确定要继续吗？",
+    "Cancel": "取消",
+    "Delete": "删除",
+    "Delete_Device_Content": {
+      "Line1_Part1": "确认后，所选设备与其关联的",
+      "Line1_Highlight": "楼层、区域及其他内容将被自动移除",
+      "Line1_Part2": "之间的所有映射将被自动移除。您将无法继续查看这些",
+      "Line1_Highlight2": "已删除设备",
+      "Line1_Part3": "的数据。"
+    }
+  },
+
+  "Add_btn": "添加",
+  "Save_btn": "保存",
+  "Update": "更新",
+  "No_data_found": "未找到数据",
+  "Advance_Export_Dialog": {
+    "Advance_Report": "高级报表",
+    "Widgets": "小组件",
+    "Select_widgets": "选择小组件...",
+    "Export_CSV": "导出 CSV",
+    "Export_PDF": "导出 PDF",
+    "selectAtLeastOneWidget": "请至少选择一个小组件进行导出。",
+    "categories": {
+      "staff": "员工",
+      "security": "安保",
+      "exhibitors": "参展商",
+      "repeatedCustomers": "回头客"
+    },
+    "Category_Placeholder": "选择类别",
+    "Category_Required": "类别为必填项",
+    "Value_required": "值是必填项",
+    "Value_Placeholder": "输入数值",
+    "Minimum_Value": "最小值为 1",
+    "Maximum_Value": "最大值为 9999",
+    "units": {
+      "percentage": "%（百分比）",
+      "number": "#（数字）"
+    },
+    "operations": {
+      "add": "+（加）",
+      "subtract": "−（减）"
+    },
+    "table": {
+      "Category": "类别",
+      "Value": "数值",
+      "Unit": "单位",
+      "Operation": "操作",
+      "Action": "操作"
+    }
+  },
+
+  "ANPR_Screen": {
+    "Owner": {
+      "Vehicle_Owners_title": "车辆所有者",
+      "Vehicle_Owners_description": "添加车辆所有者详细信息...",
+      "Owner_Bulk_Upload": "批量上传车主",
+      "Owner_Sample_file": "车主示例文件",
+      "Vehicle_Bulk_Upload": "批量上传车辆",
+      "Vehicle_Sample_File": "车辆示例文件",
+      "Add_Owner": "添加车主",
+      "List_Of_Owners": "车主列表",
+      "Search_Placeholder": "按车主姓名、注册类型、楼栋、单元、联系电话、邮箱、允许的闸门搜索...",
+      "Owner_Name": "车主姓名",
+      "Registration_Type": "注册类型",
+      "Allowed_Vehicle": "允许车辆数量",
+      "Building": "楼栋",
+      "Building_Unit": "单元",
+      "Contact_Number": "联系电话",
+      "Email": "电子邮箱",
+      "Allowed_Gates": "允许的闸门",
+      "Alarm_For_24H_Stay": "24小时停留警报",
+      "Alarm_For_Over_Stay": "超时停留警报",
+      "Allowed_Time": "允许时间",
+      "Actions": "操作",
+      "Edit_Owner": "编辑车主",
+      "Delete_Owner": "删除车主",
+      "Add_Vehicle": "添加车辆",
+      "View_Audit_logs": "查看审计日志",
+      "Update_Owner": "更新车主",
+      "Vehicle_for": "{{name}} 的车辆",
+      "Upload_Owner": "上传车主",
+      "Upload_Vehicle": "上传车辆",
+      "Registration_type_placeholder": "选择注册类型",
+      "Registration_type_required": "注册类型为必填项。",
+      "Owner_name_placeholder": "输入车主姓名",
+      "Owner_name_required": "车主姓名为必填项。",
+      "Building_placeholder": "输入楼栋",
+      "Building_required": "楼栋为必填项。",
+      "Building_name_validation": "请输入有效的楼栋名称",
+      "Building_unit_placeholder": "输入单元",
+      "Building_unit_required": "单元为必填项。",
+      "Building_unit_validation": "请输入有效的单元",
+      "Email_placeholder": "输入邮箱",
+      "Email_required": "邮箱为必填项。",
+      "Email_validation": "请输入有效的邮箱地址",
+      "Contact_number_placeholder": "输入联系电话",
+      "Contact_number_required": "联系电话为必填项。",
+      "Contact_number_validation": "请输入有效的联系电话",
+      "Vehicle_count_placeholder": "输入允许的车辆数量",
+      "Vehicle_count_required": "允许的车辆数量为必填项。",
+      "Vehicle_count_validation": "请输入1到9999之间的数字。",
+      "Allowed_From_Time": "允许开始时间",
+      "Allowed_To_Time": "允许结束时间",
+      "Gates": "闸门",
+      "Select_Gates": "选择闸门",
+      "Enable_Alarm_For_Overstay": "启用超时停留警报",
+      "Enable_Alarm_For_24H_Stay": "启用24小时停留警报",
+      "Upload_your_owner_file": "上传您的车主文件（.xlsx）或（.xls）",
+      "Upload_your_vehicle_file": "上传您的车辆文件（.xlsx）或（.xls）",
+      "Owner_Validation": "车主姓名只能包含字母和空格，长度必须在3到50个字符之间。",
+      "Search_Gates": "搜索门禁",
+      "ValidTo": "有效至",
+      "ValidTo_Requiered": "请选择有效截止日期",
+      "ValidToDate_Strong_Validation": "有效截止日期必须是今天或之后",
+      "ManufacturingDate_Strong_Validation": "生产日期不能是未来日期。"
+    },
+    "Vehicle": {
+      "Country": "国家",
+      "Country_placeholder": "选择国家",
+      "Country_required": "国家为必填项。",
+      "State": "州/省",
+      "State_placeholder": "输入州/省",
+      "State_required": "州/省为必填项。",
+      "Plate_Code": "车牌代码",
+      "Plate_code_placeholder": "输入车牌代码",
+      "Plate_code_required": "车牌代码为必填项。",
+      "Plate_Category": "车牌类别",
+      "Plate_category_placeholder": "选择车牌类别",
+      "Plate_category_required": "车牌类别为必填项。",
+      "Make": "品牌",
+      "Make_placeholder": "输入品牌",
+      "Make_required": "品牌为必填项。",
+      "Model": "型号",
+      "Model_placeholder": "输入型号",
+      "Model_required": "型号为必填项。",
+      "Color": "颜色",
+      "Color_placeholder": "输入颜色",
+      "Color_required": "颜色为必填项。",
+      "Visitor_Valid_From": "访客有效期开始",
+      "Visitor_Valid_To": "访客有效期结束",
+      "Visitor_Valid_To_Validation": "结束时间必须大于开始时间",
+      "Clear": "清除",
+      "Actions": "操作",
+      "Edit_Vehicle": "编辑车辆",
+      "Delete_Vehicle": "删除车辆",
+      "View_Audit_logs": "查看审计日志",
+      "State_Validation": "州名称只能包含字母、空格、连字符和撇号，长度必须在3到50个字符之间。",
+      "plateCode_Validation": "车牌代码必须为3到10个字符，只能包含字母和数字。",
+      "color_Validation": "颜色必须为1到20个字符，只能包含字母和空格。",
+      "Make_Validation": "品牌名称只能包含字母和空格，长度必须在3到50个字符之间。",
+      "Model_Validation": "型号必须为1到20个字符，只能包含字母和数字。"
+    }
+  },
+  "LPR_Screen": {
+    "LPR_Main": "车牌识别",
+    "LPR_header": "车牌识别",
+    "Description": "车牌识别详细信息...",
+    "List_LPR_Label": "车牌识别列表",
+    "Search_LPR_Placeholder": "按车主姓名、注册类型、电子邮件、州/省、车牌搜索...",
+    "Grid_column": {
+      "OwnerName": "车主姓名",
+      "RegistrationType": "注册类型",
+      "Building": "建筑",
+      "BuildingUnit": "建筑单元",
+      "ContactNumber": "联系电话",
+      "Email": "电子邮件",
+      "EntryGate": "入口闸",
+      "EntryTime": "进入时间",
+      "ExitGate": "出口闸",
+      "ExitTime": "离开时间",
+      "Country": "国家",
+      "State": "州",
+      "Plate": "车牌",
+      "Make": "品牌",
+      "Model": "型号",
+      "Color": "颜色",
+      "Message": "信息",
+      "CreatedOn": "创建时间",
+      "Plate_Image": "车牌图片"
+    },
+    "Filters": {
+      "Device": "选择设备",
+      "Country_Label": "国家",
+      "Country_PH": "选择国家",
+      "EntryTime_Label": "进入时间",
+      "ExitTime_Label": "离开时间",
+      "ExitTime_Validation":"离开时间必须大于或等于进入时间",
+      "EntryTime_Required": "请在导出 PDF 之前选择进入时间。",
+      "ExitTime_Required": "请在导出 PDF 之前选择离开时间。",
+      "DateRange_Max30Days": "所选日期范围超过 30 天。请选择 30 天以内的日期范围以导出 PDF。"
+    }
+  },
+  
+  "ServerManagement": {
+    "ServerManagement_Title": "Vision Insight 服务器管理",
+    "ServerManagement_SubTitle": "添加 Vision Insight 服务器详细信息...",
+    "Add_Server": "添加服务器",
+    "Edit_Server": "编辑服务器",
+    "Delete_Server": "删除服务器",
+    "List_Of_Servers": "服务器列表",
+    "IsActive": "是否启用",
+    "Actions": "操作",
+    "View_Audit_logs": "查看审计日志",
+    "Search_Server_Placeholder": "按服务器名称、数据库连接字符串、托管地址搜索...",
+    "Server_Name": "服务器名称",
+    "Server_Name_required": "服务器名称为必填项。",
+    "Server_Name_length_validation": "服务器名称不能超过 {{max}} 个字符。",
+    "Server_Name_placeholder": "输入服务器名称",
+    "Database_Connection_String": "数据库连接字符串",
+    "Database_Connection_String_required": "数据库连接字符串为必填项。",
+    "Database_Connection_String_placeholder": "输入数据库连接字符串",
+    "Hosting_Address": "托管地址",
+    "Hosting_Address_required": "托管地址为必填项。",
+    "Hosting_Address_placeholder": "输入托管地址",
+    "Hosting_Address_validation": "请输入有效的托管地址。",
+    "Username": "用户名",
+    "Username_required": "用户名为必填项。",
+    "Username_length_validation": "用户名不能超过 {{max}} 个字符。",
+    "Username_placeholder": "输入用户名",
+    "Password": "密码",
+    "Password_required": "密码为必填项。",
+    "Password_placeholder": "输入密码",
+    "IsAvailable": "是否可用",
+    "Yes": "是",
+    "No": "否",
+    "Status_Confirmation_Title": "确认",
+    "Activate_Confirmation": "您确定要<1>激活</1>此服务器吗？激活后，Vision Insight 将开始从该服务器获取数据。",
+    "Deactivate_Confirmation": "您确定要<1>停用</1>此服务器吗？停用后，Vision Insight 将停止从该服务器获取数据。"
+  },
+
+  "ExposeAPIUser": {
+    "Expose_API_Users": "公开 API 用户",
+    "Username": "用户名",
+    "Username_Placeholder": "输入用户名",
+    "Username_Required": "用户名是必填项",
+    "Username_Valid": "请输入有效的用户名",
+    "Username_Strong_Validation": "用户名不能超过 {{max}} 个字符",
+    "Password": "密码",
+    "Password_Placeholder": "输入密码",
+    "Password_Required": "密码是必填项",
+    "Password_Strong_Validation": "密码必须为 8 到 16 个字符，并包含大写字母、小写字母、数字和特殊字符（不包括 *）",
+    "Password_Max_Validation": "密码不能超过 {{max}} 个字符",
+    "Role": "角色",
+    "Roles_Placeholder": "选择角色",
+    "Role_Required": "必须至少选择一个角色",
+    "IsActive": "是否启用",
+    "Actions": "操作",
+    "Yes": "是",
+    "No": "否",
+    "API_Authentication": "API 身份验证",
+    "Authorization": "授权"
+  },
+  "Manage_SSM": {
+      "Manage_Server": "管理服务器",
+      "description": "在此处添加、更新和删除服务器信息..",
+      "Add_Server": "添加 SSM 服务器",
+      "List_Of_Server": "服务器列表",
+      "Search_Placeholder": "按IP地址、端口、父站点、子站点和用户名搜索...",
+      "Edit_Server": "编辑服务器",
+      "Select_Site": "选择站点",
+      "Site_required": "站点为必填项",
+      "Grid_Column": {
+        "IP_Address": "IP地址",
+        "Port": "端口",
+        "Parent_Site": "父站点",
+        "Child_Site": "子站点"
+      }
+    },
+    "SSM_Dashboard": {
+      "List_Of_SSM": "SSM列表",
+      "Total_Camera": "摄像头总数",
+      "Total_SSM": "SSM总数",
+      "Failure_Camera_Count": "离线摄像机数量",
+      "Failure_SSM_Count": "离线 SSM 数量",
+      "List_Of_Site": "站点列表",
+      "Failure_Camera": "离线摄像机",
+      "Failure_SSM": "SSM 离线",
+      "Cameras": "摄像头",
+      "Online_Offline": "在线/离线",
+      "CPU": "CPU",
+      "RAM": "内存",
+      "Total_Storage": "总存储",
+      "Used": "已使用",
+      "health_report": "健康报告"
+    },
+    "SSM_Device_screen": {
+      "Back_to_Dashboard": "返回仪表板",
+      "Devices": "{{serverName}} — 设备",
+      "Seach_placeholder": "按IP地址、名称、位置、摄像头状态、录制状态搜索...",
+      "Recording_Status": "录制状态",
+      "Camera_Status": "摄像头状态"
+    },
+    "SSM_Chart_Dialog": {
+      "Availability_Chart": "可用性图表",
+      "Server_On": "服务器开启",
+      "Server_Off": "服务器关闭",
+      "Camera_Online_offline": "摄像头在线 / 离线",
+      "Camera_Working": "摄像头正常",
+      "Online": "在线",
+      "Offline": "离线",
+      "Camera_On": "摄像头开启",
+      "Camera_Off": "摄像头关闭",
+      "System_Manager": "系统管理器",
+      "Media_Server": "媒体服务器",
+      "Camera_Availability_Chart": "摄像机可用性图表"
+    },
+  "iDRAC_CPU": {
+    "Processor_CPU": "处理器（CPU）",
+    "Count": "数量",
+    "Total_Cores": "总核心数",
+    "Total_Threads": "总线程数",
+    "Avg_Speed": "平均速度",
+    "Health": "健康状态",
+    "Chart": "图表",
+    "Details_List": "详情列表",
+    "System_Utilization": "系统利用率",
+    "No_Data_Found": "未找到数据",
+    "Grid": {
+      "CPU": "CPU",
+      "Model": "型号",
+      "Cores": "核心数",
+      "Threads": "线程数",
+      "Max_Speed": "最大速度",
+      "Current_Speed": "当前速度",
+      "Health": "健康状态"
+    }
+  },
+  "iDRAC_Cooling": {
+    "Cooling": "散热",
+    "Total_Fans": "风扇总数",
+    "Health": "健康状态",
+    "Chart": "图表",
+    "Details_List": "详情列表",
+    "Temp": "温度",
+    "No_Data_Found": "未找到数据",
+    "Grid": {
+      "Fan_Name": "风扇名称",
+      "Fan_Speed": "风扇速度",
+      "Health": "健康状态"
+    }
+  },
+  "iDRAC_PowerSupply": {
+    "Power_Supply": "电源",
+    "PSU_Count": "电源数量",
+    "Total_Capacity": "总容量",
+    "Current_Usage": "当前使用量",
+    "Redundancy": "冗余",
+    "Health": "健康状态",
+    "Details_List": "详情列表",
+    "No_Data_Found": "未找到数据",
+    "Grid": {
+      "PSU": "电源",
+      "Capacity": "容量",
+      "Output": "输出",
+      "Input_Voltage": "输入电压",
+      "Current": "电流",
+      "Health": "健康状态"
+    }
+  },
+  "iDRAC_Network": {
+    "Embedded_Card": "嵌入式网卡",
+    "Integrated_Card": "集成网卡",
+    "Manufacturer": "制造商",
+    "Model": "型号",
+    "Firmware_Package_Version": "固件包版本",
+    "Health": "健康状态",
+    "Chart": "图表",
+    "Details_List": "详情列表",
+    "Speed": "速度",
+    "Link": "链路",
+    "Product_Name": "产品名称",
+    "Protocol": "协议",
+    "Vendor_Name": "厂商名称",
+    "Active_Link_Technology": "活动链路技术",
+    "Associated_Network_Address_MAC": "关联网络地址（MAC）",
+    "Link_Status": "链路状态",
+    "Current_Link_Speed": "当前链路速度",
+    "Physical_Port_Number": "物理端口号",
+    "Status_Health": "状态健康"
+  },
+  "IDRAC_Memory": {
+    "MEMORY_Details": "内存（RAM）详情",
+    "Total": "总计",
+    "Used_Slots": "已用插槽",
+    "Free_Slots": "空闲插槽",
+    "Speed": "速度",
+    "Health": "健康状态",
+    "Chart": "图表",
+    "Details_List": "详情列表",
+    "Memory_Used": "已用内存",
+    "Grid": {
+      "RAM": "内存",
+      "Size": "大小",
+      "Type": "类型",
+      "Speed": "速度",
+      "Manufacturer": "制造商",
+      "Health": "健康状态"
+    }
+  },
+  "IDRAC_Server_Details": {
+    "System_Information": "系统信息",
+    "Launch_Remote_Console": "启动远程控制台",
+    "Event_Logs": "事件日志",
+    "System_Logs": "系统日志",
+    "Tabs": {
+      "Memory": "内存（RAM）",
+      "Processor": "处理器（CPU）",
+      "Storage": "存储",
+      "Cooling": "散热",
+      "Power_Supply": "电源",
+      "Network_Devices": "网络设备"
+    },
+    "Power_Action": {
+      "Force_Restart": "强制重启",
+      "Force_Shutdown": "强制关机",
+      "Force_Start": "强制启动"
+    }
+  },
+  "iDRAC_SystemInformation": {
+    "System_Information": "系统信息",
+    "Power_State": "电源状态",
+    "Model": "型号",
+    "Host_Name": "主机名",
+    "Operating_System": "操作系统",
+    "Operating_System_Version": "操作系统版本",
+    "Service_Tag": "服务标签",
+    "BIOS_Version": "BIOS版本",
+    "iDRAC_Firmware_Version": "iDRAC固件版本",
+    "IP_Address": "IP地址",
+    "iDRAC_MAC_Address": "iDRAC MAC地址",
+    "License": "许可证"
+  },
+  "IDRAC_Storage": {
+      "Title": "存储",
+      "Used_Slots": "已用插槽",
+      "Total_Capacity": "总容量",
+      "Health": "健康状态",
+      "Details_List": "详细列表",
+      "Grid": {
+        "Disk_Name": "磁盘名称",
+        "Size": "大小",
+        "Type": "类型",
+        "Protocol": "协议",
+        "RPM": "转速",
+        "Health": "健康状态"
+      }
+    },
+    "IDRAC_Server": {
+    "Grid": {
+      "IP_Address": "IP地址",
+      "Port": "端口",
+      "Server_Name": "服务器名称",
+      "Parent_Site": "父站点",
+      "Child_Site": "子站点",
+      "CPU_Load": "CPU负载",
+      "Temperature": "温度",
+      "Memory_Usage": "内存使用率",
+      "List_Of_Alarm": "告警列表",
+      "Add_Alarm": "添加告警"
+    },
+    "Alarm_Grid": {
+      "Alarm_Name": "告警名称",
+      "IDRAC_Event": "iDRAC事件",
+      "Time_Limit": "时间限制",
+      "Delete_Alarm": "删除告警"
+    },
+    "Add_Alarm_Form": {
+      "Name": "名称",
+      "Enter_Name": "输入名称",
+      "Name_Required": "名称为必填项。",
+      "IDRAC_Event": "iDRAC事件",
+      "Select_IDRAC_Event": "选择iDRAC事件",
+      "IDRAC_Event_Required": "iDRAC事件为必填项。",
+      "Time_Limit": "时间限制",
+      "Select_Time_Limit": "选择时间限制",
+      "Time_Limit_Required": "时间限制为必填项。"
+    }
+  }
+}
+

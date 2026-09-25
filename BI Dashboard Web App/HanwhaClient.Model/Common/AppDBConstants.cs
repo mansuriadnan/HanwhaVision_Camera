@@ -1,0 +1,74 @@
+namespace HanwhaClient.Model.Common
+{
+    public static class AppDBConstants
+    {
+        public const string AdminSettings = "adminSettings";
+        public const string EmailLogs = "emailLogs";
+        public const string EmailTemplates = "emailTemplates";
+        public const string ExceptionLog = "exceptionLog";
+        public const string LicenseRequest = "licenseRequest";
+        public const string Otp = "otp";
+        public const string Permission = "permission";
+        public const string RoleMaster = "roleMaster";
+        public const string RoleScreenMapping = "roleScreenMapping";
+        public const string ScreenMaster = "screenMaster";
+        public const string UserMaster = "userMaster";
+        public const string MigrationHistory = "migrationHistory";
+        public const string AuditLog = "auditLog";
+        public const string DeviceMaster = "deviceMaster";
+        public const string ClientSettings = "clientSettings";
+        public const string Customer = "customer";
+        public const string DashboardPreference = "dashboardPreference";
+        public const string FloorPlanMaster = "floorPlanMaster";
+        public const string ZoneMaster = "zoneMaster";
+        public const string ZoneCamera = "zoneCamera";
+        public const string PeopleCount = "peopleCount";
+        public const string ClientTimeZone = "clientTimeZones";
+        public const string WidgetMaster = "widgetMaster";
+        public const string LicenseHistory = "licenseHistory";
+        public const string VehicleCount = "vehicleCount";
+        public const string SiteMaster = "siteMaster";
+        public const string QueueManagement = "queueManagement";
+        public const string DeviceEvents = "deviceEvents";
+        public const string ShoppingCartCount = "shoppingCartCount";
+        public const string ForkliftCount = "forkliftCount";
+        public const string MultiLaneVehicleCount = "multiLaneVehicleCount";
+        public const string HeatMap = "heatMap";
+        public const string Monitoring = "monitoring";
+        public const string Report = "report";
+        public const string UserNotification = "userNotification";
+        public const string PeopleCountArchive = "peopleCountArchive";
+        public const string VehicleCountArchive = "vehicleCountArchive";
+        public const string ForkliftCountArchive = "forkliftCountArchive";
+        public const string HeatMapArchive = "heatMapArchive";
+        public const string MultiLaneVehicleCountArchive = "multiLaneVehicleCountArchive";
+        public const string QueueManagementArchive = "queueManagementArchive";
+        public const string DeviceEventsArchive = "deviceEventsArchive";
+        public const string ExceptionLogArchive = "exceptionLogArchive";
+        public const string ShoppingCartCountArchive = "shoppingCartCountArchive";
+        public const string UserNotificationArchive = "userNotificationArchive";
+        public const string VehicleOwner = "vehicleOwner";
+        public const string ANPRVehicle = "ANPRvehicle";
+        public const string Country = "country";
+        public const string MaintenancePlan = "maintenancePlan";
+        public const string MaintenanceSchedule = "maintenanceSchedule";
+        public const string RMA = "rma";
+        public const string OfflineDevices = "offlineDevices";
+        public const string VehicleParkingCount = "vehicleParkingCount";
+        public const string VehicleCurrentParkingCount = "vehicleCurrentParkingCount";
+        public const string LicensePlateRecogDetails = "licensePlateRecogDetails";
+        public const string ViMultiServerManagement = "viMultiServerManagement";
+        public const string SsmSiteMapping = "ssmSiteMapping";
+        public const string IDracmaster = "iDRACMaster";
+        public const string SsmServer = "ssmServer";
+        public const string SsmServerUtilization = "ssmServerUtilization";
+        public const string SsmDeviceDetails = "ssmDeviceDetails";
+        public const string SsmOfflinedevice = "ssmOfflinedevice";
+        public const string SsmOfflineServer = "ssmOfflineServer";
+        public const string ExposeApiUser = "exposeApiUser";
+        public const string SsmDeviceStoppedRecording = "ssmDeviceStoppedRecording";
+        public const string IdracDetails = "idracDetails";
+        public const string IdracEventLogs = "idracEventLogs";
+        public const string IdracSystemLogs = "idracSystemLogs";
+    }
+}

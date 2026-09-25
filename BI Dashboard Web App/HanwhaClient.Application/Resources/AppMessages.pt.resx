@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LicenseAuthenticated" xml:space="preserve">
+    <value>A licença foi autenticada com sucesso.</value>
+  </data>
+  <data name="RoleExists" xml:space="preserve">
+    <value>Esta função já está atribuída a outro usuário.</value>
+  </data>
+  <data name="OtpSuccessfullyValidated" xml:space="preserve">
+    <value>O código OTP foi validado com sucesso.</value>
+  </data>
+  <data name="OtpExpiredOrInvalid" xml:space="preserve">
+    <value>O código OTP expirou ou é inválido. Solicite um novo para continuar.</value>
+  </data>
+  <data name="OtpSuccessfullySentToEmail" xml:space="preserve">
+    <value>Um código OTP foi enviado para seu endereço de e-mail registrado.</value>
+  </data>
+  <data name="EmailNotRegistered" xml:space="preserve">
+    <value>O endereço de e-mail fornecido não está registrado.</value>
+  </data>
+  <data name="PasswordSuccessfullyReset" xml:space="preserve">
+    <value>Sua senha foi redefinida com sucesso.</value>
+  </data>
+  <data name="OldPasswordDoesNotMatch" xml:space="preserve">
+    <value>A senha antiga inserida não corresponde aos nossos registros.</value>
+  </data>
+  <data name="InvalidDataModel" xml:space="preserve">
+    <value>O modelo de dados fornecido é inválido.</value>
+  </data>
+  <data name="UnauthorizedAccessResource" xml:space="preserve">
+    <value>Você não está autorizado a acessar este recurso.</value>
+  </data>
+  <data name="InsufficientPermissions" xml:space="preserve">
+    <value>Você não possui as permissões necessárias para executar esta ação.</value>
+  </data>
+  <data name="PermissionServiceNotAvailable" xml:space="preserve">
+    <value>O serviço de permissões não está disponível no momento. Tente novamente mais tarde.</value>
+  </data>
+  <data name="UnauthorizedAccessAttempt" xml:space="preserve">
+    <value>Uma tentativa de acesso não autorizado foi detectada.</value>
+  </data>
+  <data name="UserLimitExceededLicense" xml:space="preserve">
+    <value>O limite de usuários foi atingido. Contate o administrador para atualizar a licença.</value>
+  </data>
+  <data name="DeviceLimitExceededLicense" xml:space="preserve">
+    <value>O limite de dispositivos foi atingido. Contate o administrador para atualizar a licença.</value>
+  </data>
+  <data name="DashboardNameAlreadyExist" xml:space="preserve">
+    <value>Um dashboard com este nome já existe.</value>
+  </data>
+  <data name="DashboardNameMandatory" xml:space="preserve">
+    <value>O nome do dashboard é obrigatório.</value>
+  </data>
+  <data name="GoogleApisave" xml:space="preserve">
+    <value>Chave API do Google salva com sucesso.</value>
+  </data>
+  <data name="FtpConfugurationSave" xml:space="preserve">
+    <value>Configuração FTP salva com sucesso.</value>
+  </data>
+  <data name="PdfGenerated" xml:space="preserve">
+    <value>Arquivo PDF gerado com sucesso.</value>
+  </data>
+  <data name="CsvGenerated" xml:space="preserve">
+    <value>Arquivo CSV gerado com sucesso.</value>
+  </data>
+  <data name="ExcelGenerated" xml:space="preserve">
+    <value>Arquivo Excel gerado com sucesso.</value>
+  </data>
+  <data name="FileUploadFailure" xml:space="preserve">
+    <value>Nenhum arquivo foi carregado.</value>
+  </data>
+  <data name="RecordNotInserted" xml:space="preserve">
+    <value>Falha ao inserir o registro.</value>
+  </data>
+  <data name="UserLoggedIn" xml:space="preserve">
+    <value>Usuário logado com sucesso.</value>
+  </data>
+  <data name="NewTokenGenerated" xml:space="preserve">
+    <value>Novo token gerado com sucesso.</value>
+  </data>
+  <data name="DeviceAlreadyExists" xml:space="preserve">
+    <value>Já existe um dispositivo com o mesmo endereço IP.</value>
+  </data>
+  <data name="RestoreDatabase" xml:space="preserve">
+    <value>Banco de dados restaurado com sucesso.</value>
+  </data>
+  <data name="InvalidLicense" xml:space="preserve">
+    <value>A licença é inválida. Carregue um arquivo de licença válido.</value>
+  </data>
+  <data name="LicenseExpired" xml:space="preserve">
+    <value>A licença expirou.</value>
+  </data>
+  <data name="CredetialWrongAddDevice" xml:space="preserve">
+    <value>Credenciais inválidas. Verifique nome de usuário e senha.</value>
+  </data>
+  <data name="InvalidGoogleKey" xml:space="preserve">
+    <value>A chave API do Google fornecida é inválida. Verifique a chave e tente novamente.</value>
+  </data>
+  <data name="DuplicateZoneName" xml:space="preserve">
+    <value>O nome da zona já existe neste andar. Escolha um nome diferente.</value>
+  </data>
+  <data name="DuplicateFloor" xml:space="preserve">
+    <value>O nome do andar já existe. Escolha um nome diferente.</value>
+  </data>
+  <data name="RecordAdded" xml:space="preserve">
+    <value>O registro foi adicionado com sucesso.</value>
+  </data>
+  <data name="RecordUpdated" xml:space="preserve">
+    <value>O registro foi atualizado com sucesso.</value>
+  </data>
+  <data name="RecordDeleted" xml:space="preserve">
+    <value>O registro foi excluído com sucesso.</value>
+  </data>
+  <data name="RecordRetrieved" xml:space="preserve">
+    <value>O registro foi recuperado com sucesso.</value>
+  </data>
+  <data name="FileUploaded" xml:space="preserve">
+    <value>O arquivo foi carregado com sucesso.</value>
+  </data>
+  <data name="RecordNotFound" xml:space="preserve">
+    <value>Nenhum registro encontrado.</value>
+  </data>
+  <data name="SomethingWentWrong" xml:space="preserve">
+    <value>Algo deu errado. Tente novamente.</value>
+  </data>
+  <data name="DeviceUnavailable" xml:space="preserve">
+    <value>Este dispositivo está atualmente indisponível ou offline. Verifique a conexão e tente novamente.</value>
+  </data>
+  <data name="SiteUnavailable" xml:space="preserve">
+    <value>Este site está atualmente indisponível ou offline. Verifique o endereço do site e tente novamente.</value>
+  </data>
+  <data name="ChildSiteUnAvailable" xml:space="preserve">
+    <value>O site filho não existe sob o site pai selecionado.</value>
+  </data>
+  <data name="ApplicationCacheClear" xml:space="preserve">
+    <value>Cache do aplicativo limpo.</value>
+  </data>
+  <data name="UserNotFound" xml:space="preserve">
+    <value>Usuário não encontrado.</value>
+  </data>
+  <data name="PasswordAlreadyReset" xml:space="preserve">
+    <value>Sua senha já foi redefinida. Faça login com sua senha atual.</value>
+  </data>
+  <data name="FailedToDeleteOwnerOrVehicle" xml:space="preserve">
+    <value>Falha ao excluir proprietário ou veículos associados.</value>
+  </data>
+  <data name="TestDefine" xml:space="preserve">
+    <value>Esta é uma definição de teste.</value>
+  </data>
+  <data name="AESFileFormat" xml:space="preserve">
+    <value>Formato de arquivo inválido. Apenas arquivos .aes são suportados.</value>
+  </data>
+  <data name="AllDeviceUploaded" xml:space="preserve">
+    <value>Todos os dispositivos carregados com sucesso.</value>
+  </data>
+  <data name="CertificateExpiresSoon" xml:space="preserve">
+    <value>O certificado expira em breve: {0}</value>
+  </data>
+  <data name="CertificateHasExpired" xml:space="preserve">
+    <value>O certificado expirou em {0}</value>
+  </data>
+  <data name="CertificateNotTrusted" xml:space="preserve">
+    <value>A validação da cadeia de certificados falhou - o certificado pode não ser confiável.</value>
+  </data>
+  <data name="CertificateNotValid" xml:space="preserve">
+    <value>O certificado não é válido até {0}</value>
+  </data>
+  <data name="ChildSiteNotFound" xml:space="preserve">
+    <value>Site filho não encontrado.</value>
+  </data>
+  <data name="DatabaseRestoreFailed" xml:space="preserve">
+    <value>Falha na restauração do banco de dados.</value>
+  </data>
+  <data name="ErrorValidatingPFXFile" xml:space="preserve">
+    <value>Erro ao validar arquivo PFX: {0}</value>
+  </data>
+  <data name="ExcelFileNotSheet" xml:space="preserve">
+    <value>O arquivo Excel não contém planilhas.</value>
+  </data>
+  <data name="ExcelMissingColumn" xml:space="preserve">
+    <value>O arquivo Excel está faltando colunas obrigatórias: {0}</value>
+  </data>
+  <data name="FileFormatInvalid" xml:space="preserve">
+    <value>Formato de arquivo inválido. Carregue um arquivo Excel válido (.xlsx ou .xls).</value>
+  </data>
+  <data name="HeaderRowNotExits" xml:space="preserve">
+    <value>Linha de cabeçalho não encontrada no arquivo Excel.</value>
+  </data>
+  <data name="IISSiteNotFound" xml:space="preserve">
+    <value>Site IIS {0} não encontrado.</value>
+  </data>
+  <data name="InsufficientPermissionsForIIS" xml:space="preserve">
+    <value>Permissões insuficientes para configurar IIS. Execute com privilégios de administrador ou configure a identidade do pool de aplicativos.</value>
+  </data>
+  <data name="InvalidPFXFileIncorrectPassword" xml:space="preserve">
+    <value>Arquivo PFX inválido ou senha incorreta.</value>
+  </data>
+  <data name="LicenseFileNotFound" xml:space="preserve">
+    <value>Arquivo de licença não encontrado.</value>
+  </data>
+  <data name="LicenseInvalidFileTypes" xml:space="preserve">
+    <value>Tipos de arquivo inválidos. O arquivo de licença deve ser .lic e o arquivo de chave pública .pem.</value>
+  </data>
+  <data name="LicenseKeyRequired" xml:space="preserve">
+    <value>Arquivo de licença e arquivo de chave são obrigatórios.</value>
+  </data>
+  <data name="LicenseKeyUploaded" xml:space="preserve">
+    <value>Licença e chave carregadas com sucesso.</value>
+  </data>
+  <data name="NoValidDeviceRows" xml:space="preserve">
+    <value>Nenhuma linha de dispositivo válida encontrada no arquivo Excel.</value>
+  </data>
+  <data name="ParentSiteNotFound" xml:space="preserve">
+    <value>Site pai não encontrado.</value>
+  </data>
+  <data name="PFXCertificateContainPrivatekey" xml:space="preserve">
+    <value>O certificado PFX deve conter uma chave privada.</value>
+  </data>
+  <data name="PFXCertificateError" xml:space="preserve">
+    <value>Erro interno do servidor ao processar o certificado PFX.</value>
+  </data>
+  <data name="PFXFileExtension" xml:space="preserve">
+    <value>O arquivo deve ter extensão .pfx.</value>
+  </data>
+  <data name="PFXFileRequired" xml:space="preserve">
+    <value>Arquivo PFX é obrigatório.</value>
+  </data>
+  <data name="PFXFileSize" xml:space="preserve">
+    <value>O tamanho do arquivo PFX não pode exceder 10MB.</value>
+  </data>
+  <data name="RestoreFailedInvalidFile" xml:space="preserve">
+    <value>Restauração falhou: arquivo inválido ou usuário não autorizado.</value>
+  </data>
+  <data name="RoleNameExits" xml:space="preserve">
+    <value>Nome da função {0} já existe.</value>
+  </data>
+  <data name="SampleFileNotFound" xml:space="preserve">
+    <value>Arquivo de exemplo não encontrado.</value>
+  </data>
+  <data name="UploadSessionForDB" xml:space="preserve">
+    <value>Sessão de upload não encontrada.</value>
+  </data>
+  <data name="FilterApplied" xml:space="preserve">
+    <value>Filtro aplicado.</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>Criado por</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>Criado em</value>
+  </data>
+  <data name="ReportType" xml:space="preserve">
+    <value>Tipo de relatório</value>
+  </data>
+  <data name="ReportName" xml:space="preserve">
+    <value>Nome do relatório</value>
+  </data>
+  <data name="Sites" xml:space="preserve">
+    <value>Sites</value>
+  </data>
+  <data name="DateTimeLabel" xml:space="preserve">
+    <value>Data/Hora</value>
+  </data>
+  <data name="KeyPerformanceMetric" xml:space="preserve">
+    <value>Métrica chave de desempenho</value>
+  </data>
+  <data name="PerformanceComparisonTable" xml:space="preserve">
+    <value>Tabela de comparação de desempenho</value>
+  </data>
+  <data name="SummaryInsights" xml:space="preserve">
+    <value>Resumo de insights</value>
+  </data>
+  <data name="OccupancyRateComparison" xml:space="preserve">
+    <value>Comparação de taxa de ocupação</value>
+  </data>
+  <data name="TrafficCompositionPeopleVsVehicles" xml:space="preserve">
+    <value>Composição de tráfego (Pessoas vs Veículos)</value>
+  </data>
+  <data name="Floors" xml:space="preserve">
+    <value>Andares</value>
+  </data>
+  <data name="Zones" xml:space="preserve">
+    <value>Zonas</value>
+  </data>
+  <data name="TotalPeopleCount" xml:space="preserve">
+    <value>Total de pessoas</value>
+  </data>
+  <data name="AveragePeopleOccupancyRate" xml:space="preserve">
+    <value>Taxa média de ocupação de pessoas</value>
+  </data>
+  <data name="TotalVehicleCount" xml:space="preserve">
+    <value>Total de veículos</value>
+  </data>
+  <data name="AverageVehicleOccupancyRate" xml:space="preserve">
+    <value>Taxa média de ocupação de veículos</value>
+  </data>
+  <data name="PeopleCount" xml:space="preserve">
+    <value>Contagem de pessoas</value>
+  </data>
+  <data name="PeopleOccupancy" xml:space="preserve">
+    <value>Ocupação de pessoas</value>
+  </data>
+  <data name="VehicleCount" xml:space="preserve">
+    <value>Contagem de veículos</value>
+  </data>
+  <data name="VehicleOccupancy" xml:space="preserve">
+    <value>Ocupação de veículos</value>
+  </data>
+  <data name="NoDataAvailableForInsights" xml:space="preserve">
+    <value>Nenhum dado disponível para gerar insights.</value>
+  </data>
+  <data name="NoValidDataAvailableForInsights" xml:space="preserve">
+    <value>Nenhum dado válido disponível para gerar insights.</value>
+  </data>
+  <data name="NoValidInsightsBasedOnSelection" xml:space="preserve">
+    <value>Nenhum insight válido disponível com base na seleção.</value>
+  </data>
+  <data name="HasHighestVehicleOccupancyRate" xml:space="preserve">
+    <value>tem a maior taxa de ocupação de veículos</value>
+  </data>
+  <data name="HasHighestVehicleCount" xml:space="preserve">
+    <value>tem a maior contagem de veículos</value>
+  </data>
+  <data name="VehicleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>Os níveis de ocupação de veículos sugerem</value>
+  </data>
+  <data name="AreBusierThan" xml:space="preserve">
+    <value>estão mais movimentados que</value>
+  </data>
+  <data name="HasHighestPeopleOccupancyRate" xml:space="preserve">
+    <value>tem a maior taxa de ocupação de pessoas</value>
+  </data>
+  <data name="HasHighestPeopleCount" xml:space="preserve">
+    <value>tem a maior contagem de pessoas</value>
+  </data>
+  <data name="PeopleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>Os níveis de ocupação de pessoas sugerem</value>
+  </data>
+  <data name="HasHighestPeopleAndVehicleOccupancyRates" xml:space="preserve">
+    <value>tem as maiores taxas de ocupação de pessoas e veículos</value>
+  </data>
+  <data name="AndVehicleOccupancyRate" xml:space="preserve">
+    <value>e taxa de ocupação de veículos</value>
+  </data>
+  <data name="PeopleAndVehicleCount" xml:space="preserve">
+    <value>Contagem de pessoas &amp; veículos</value>
+  </data>
+  <data name="BySite" xml:space="preserve">
+    <value>por site</value>
+  </data>
+  <data name="ByZone" xml:space="preserve">
+    <value>por zona</value>
+  </data>
+  <data name="PeopleCountLabel" xml:space="preserve">
+    <value>Contagem de pessoas</value>
+  </data>
+  <data name="MaintenanceDeviceExits" xml:space="preserve">
+    <value>Já existe um dispositivo de manutenção.</value>
+  </data>
+  <data name="MaintenancePlanExists" xml:space="preserve">
+    <value>Este plano de manutenção já existe.</value>
+  </data>
+  <data name="ViAdminUserPermisssion" xml:space="preserve">
+    <value>Você não tem permissão para alterar os dados deste usuário.</value>
+  </data>
+  <data name="DeviceNotRegistered" xml:space="preserve">
+    <value>Dispositivo não registrado</value>
+  </data>
+  <data name="DeviceNotRegisteredForIP" xml:space="preserve">
+    <value>Dispositivo não registrado para o IP {0}</value>
+  </data>
+  <data name="ANPRVehicleNotFound" xml:space="preserve">
+    <value>{0} {1} {2} está no portão {3}</value>
+  </data>
+  <data name="UnauthorizedVehicle" xml:space="preserve">
+    <value>Veículo não autorizado</value>
+  </data>
+  <data name="VehicleOwnerNotFound" xml:space="preserve">
+    <value>Proprietário do veículo não encontrado para {0} {1} {2}</value>
+  </data>
+  <data name="VehicleOwnerNotFoundNotification" xml:space="preserve">
+    <value>Proprietário do veículo não encontrado</value>
+  </data>
+  <data name="DeviceNotAllowed" xml:space="preserve">
+    <value>{0} {1} {2} não é permitido no portão {3}</value>
+  </data>
+  <data name="GateAccessDenied" xml:space="preserve">
+    <value>Acesso ao portão negado</value>
+  </data>
+  <data name="TimeRestriction" xml:space="preserve">
+    <value>Restrição de tempo</value>
+  </data>
+  <data name="VehicleCounLimit" xml:space="preserve">
+    <value>{0} {1} {2} não pode entrar. O número máximo de veículos permitidos ({3}) já foi atingido.</value>
+  </data>
+  <data name="VehicleLimitReached" xml:space="preserve">
+    <value>Limite de veículos atingido</value>
+  </data>
+  <data name="VehicleNotAllowedTime" xml:space="preserve">
+    <value>{0} {1} {2} não é permitido neste horário. Horário permitido: {3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestriction" xml:space="preserve">
+    <value>Restrição de horário para visitantes</value>
+  </data>
+  <data name="SystemAutoExited" xml:space="preserve">
+    <value>Saída automática do sistema: o mesmo veículo entrou novamente sem uma saída registrada.</value>
+  </data>
+  <data name="VehicleEnteredSuccessfully" xml:space="preserve">
+    <value>Veículo entrou com sucesso</value>
+  </data>
+  <data name="FailToOpenGateBarrierDesc" xml:space="preserve">
+    <value>Falha ao abrir a barreira do portão para {0}.</value>
+  </data>
+  <data name="FailToOpenGateBarrierTitle" xml:space="preserve">
+    <value>Falha ao abrir a barreira do portão</value>
+  </data>
+  <data name="PermanentTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} não tem permissão para sair neste horário. Horário permitido: {3} - {4}</value>
+  </data>
+  <data name="PermanentTimeRestrictionTitle" xml:space="preserve">
+    <value>Restrição de tempo</value>
+  </data>
+  <data name="VisitorTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} não tem permissão para sair. Período de validade do visitante: {3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestrictionTitle" xml:space="preserve">
+    <value>Restrição de horário para visitantes</value>
+  </data>
+  <data name="VehicleExitedSuccssfully" xml:space="preserve">
+    <value>Veículo saiu com sucesso</value>
+  </data>
+  <data name="VisitorValidPeriod" xml:space="preserve">
+    <value>{0} {1} {2} não tem permissão para entrar. Período de validade do visitante: {3} - {4}</value>
+  </data>
+  <data name="GateOpenSuccessManually" xml:space="preserve">
+    <value>Portão aberto com sucesso.</value>
+  </data>
+  <data name="FailToCloseGate" xml:space="preserve">
+    <value>Falha ao fechar o portão.</value>
+  </data>
+  <data name="EmailSentSuccessfully" xml:space="preserve">
+    <value>E-mail enviado com sucesso.</value>
+  </data>
+  <data name="EventAlreadyExist" xml:space="preserve">
+   <value>O evento de alarme já existe.</value>
+  </data>
+	<data name="UrlDomainValidation" xml:space="preserve">
+  <value>Para receber notificações do iDRAC, a URL da aplicação Vision Insight deve usar HTTPS e conter um endereço IP ou nome de domínio válido.</value>
+</data>
+	<data name="OwnerValidityExpired" xml:space="preserve">
+  <value>Acesso negado. O proprietário {0} já não está autorizado. A validade expirou em {1}.</value>
+</data>
+	<data name="OwnerValidityExpiredTitle" xml:space="preserve">
+  <value>Validade do proprietário expirada</value>
+</data>
+</root>

@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HanwhaClient.Model.Dto
+{
+    public class SiteDeleteReqDto
+    {
+        public string ParentSiteId { get; set; }
+        public string? ChildSiteId { get; set; }
+    }
+}

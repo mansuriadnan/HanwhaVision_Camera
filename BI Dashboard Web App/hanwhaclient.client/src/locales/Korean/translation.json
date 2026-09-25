@@ -1,0 +1,1351 @@
+{
+  "_comment_header": "헤더 관련 라벨",
+  "Dashboards": "대시보드",
+  "Welcome_content": "BI 대시보드에 오신 것을 환영합니다",
+  "Profile": "프로필",
+  "Preferences": "환경설정",
+  "Change_Password": "비밀번호 변경",
+  "Logout": "로그아웃",
+  "Change_Password_Restriction": "비밀번호 변경이 제한됩니다.",
+  "Change_Password_Restriction_Content": "비밀번호를 업데이트하려면 관리자에게 문의하세요.",
+  "Okay": "확인",
+
+  "_comment_Notification_Drawer": "알림 패널 관련 라벨",
+  "Notification": "알림",
+  "Read_All": "모두 읽음",
+  "No_Notification": "현재 표시할 알림이 없습니다.",
+  "Load_more": "더 불러오는 중...",
+
+  "_comment_Welcome_Page": "환영 페이지 관련 라벨",
+  "welcome_to": "환영합니다:",
+  "BI_DASHBOARD": "BI 대시보드",
+
+  "Login": {
+    "Login_Header": "로그인",
+    "Login_Line1": "안전, 효율 및 인사이트를 극대화하세요",
+    "Login_Line2": "인사이트를 위한 실시간 대시보드 분석",
+    "Login_Line3": "안전 및 비즈니스 인텔리전스에 대한",
+    "Login_Form": "계정 정보를 입력하세요",
+    "Form_UserName": "사용자명/이메일",
+    "Login_Email_Placeholder": "사용자명 또는 이메일 주소를 입력하세요",
+    "Login_Email_Require": "사용자명 또는 이메일은 필수입니다",
+    "Login_Email_validation": "유효한 사용자명 또는 이메일을 입력하세요.",
+    "Login_Password": "비밀번호",
+    "Login_Pass_Placeholder": "비밀번호를 입력하세요",
+    "Login_Pass_Require": "비밀번호는 필수입니다.",
+    "Forgot_Password": "비밀번호 찾기",
+    "Forgot_Password_lable1": "비밀번호 찾기는 제한됩니다",
+    "Forgot_Password_lable2": "비밀번호 재설정을 위해 관리자에게 문의해 주세요.",
+    "Okay": "확인",
+    "Logout_Confirmation": "로그아웃 확인",
+    "Logout_Confirmation1": "정말 로그아웃하시겠습니까?",
+    "Confirm": "확인"
+  },
+
+  "Reset_Password_Screen": {
+    "Reset_Password": "비밀번호 재설정",
+    "New_Password": "새 비밀번호",
+    "New_Password_Placeholder": "새 비밀번호 입력",
+    "New_Password_Required": "새 비밀번호는 필수입니다."
+  },
+
+  "Preferences_Menu": {
+    "Theme_Colors": "테마 색상",
+    "Theme": "테마",
+    "Time_Zone": "시간대",
+    "Sync_with_OS": "OS와 동기화",
+    "Manual_setup": "수동 설정",
+    "Daylight_Savings": "서머타임",
+    "Time_zone_placeholder": "시간대를 선택하세요",
+    "Time_zone_require": "시간대를 선택해 주세요",
+    "Time_Format": "시간 형식",
+    "12_Hrs": "12시간",
+    "24_Hrs": "24시간",
+    "Language": "언어",
+    "Language_required": "언어는 필수입니다",
+    "Apply": "적용"
+  },
+
+  "sidebar": {
+    "UserManagement": "사용자 관리",
+    "User": "사용자",
+    "Roles": "역할",
+    "Permissions": "권한",
+
+    "Configurations": "설정",
+    "ManageDevice": "장치 관리",
+    "CameraMaster": "카메라 마스터",
+    "ZoneMaster": "구역 마스터",
+    "DeviceMaster": "장치 마스터",
+    "FloorPlansAndZones": "도면 및 구역",
+
+    "Dashboards": "대시보드",
+    "Add_Dashboard_btn": "대시보드 추가",
+    "Retail": "리테일",
+    "Traffic": "트래픽",
+    "Events": "이벤트",
+    "Monitoring": "모니터링",
+    "Add_Monitoring_btn": "모니터링 추가",
+    "Reports": "보고서",
+    "Settings": "설정",
+    "ManageUsers": "사용자 관리",
+    "MultisiteSetup": "멀티사이트 설정",
+    "RolesAndPermissions": "역할 및 권한",
+    "SettingsGeneral": "일반",
+    "SettingsLicense": "라이선스",
+    "EventLogs": "이벤트 로그",
+    "MyReports": "내 보고서",
+    "WelcomePage": "다시 오신 것을 환영합니다!",
+    "WelcomePagesubtitle": "BI 대시보드에 오신 것을 환영합니다",
+    "Backup_Restore": "백업 및 복원",
+
+    "ANPR": "ANPR",
+    "Audit": "감사",
+    "VehicleOwners": "차량 소유자",
+    "Version": "버전",
+    "LPR_Title": "LPR",
+
+    "Maintenance": "유지보수",
+    "Maintenance_Plan": "유지보수 계획",
+    "Maintenance_Schedule": "유지보수 일정",
+    "RMA": "RMA",
+    "Server_Management": "서버 관리",
+    "SSM_Monitoring": "SSM 모니터링",
+    "SSM_Dashboards": "대시보드",
+    "Manage_Server": "서버 관리"
+  },
+
+  "Dashboard": {
+    "New_Dashboard_header": "새 대시보드",
+    "New_Dashboard_Description": "여기에서 대시보드 정보를 추가, 수정 및 삭제할 수 있습니다..",
+    "Add_Widget": "위젯 추가",
+    "Add_Widget_line1": "아직 표시할 위젯이 없습니다,",
+    "Add_Widget_line2": "새 위젯을 만들려면 버튼을 선택하세요.",
+    "Add_Widget_btn_text": "위젯 추가",
+    "Dashboard_Placeholder": "대시보드 이름을 입력하세요",
+    "Dashboard_Strong_Validation": "대시보드 이름은 {{max}}자를 초과할 수 없습니다",
+    "Monitoring_Placeholder": "모니터링 이름을 입력하세요",
+    "Monitoring_Strong_Validation": "모니터링 이름은 {{max}}자를 초과할 수 없습니다"
+  },
+
+  "Manage_Device": {
+    "Manage_Device_header": "장치 관리",
+    "Manage_Device_Description": "스마트 카메라 및 AI 박스와 같은 새 장치를 추가하세요..",
+    "Upload_Bulk_Device_btn": "대량 업로드",
+    "Add_Devices_btn": "장치 추가",
+    "List_Of_Devices": "장치 목록",
+    "Device_Search_Placeholder_text": "장치 이름, 모델, 시리얼 번호, IP 주소, 구역 또는 MAC 주소로 검색...",
+    "Reload_btn": "새로고침",
+    "Remove_btn": "제거",
+    "List_view": "목록",
+    "Grid_view": "그리드",
+    "Edit_camera": "장치 수정",
+    "Add_Device": "장치 추가",
+    "Export_btn": "내보내기",
+    "Sample_File": "샘플 파일",
+    "Open_Gate": "게이트 열기",
+
+    "Manage_Device_Grid_column": {
+      "Device_name": "장치 이름",
+      "Model": "모델",
+      "IP_Address": "IP 주소",
+      "Location": "위치",
+      "Zones": "구역",
+      "Serial_number": "시리얼 번호",
+      "macAddress": "MAC 주소",
+      "DeviceType": "장치 유형",
+      "Actions": "작업",
+      "Maintenance_Mode": "유지보수 모드"
+    },
+
+    "Add_Edit_Device_Drawer": {
+      "Select_Device_Type": "장치 유형 선택",
+      "Device_Name": "장치 이름",
+      "Device_Name_placeholder": "장치 이름을 입력하세요",
+      "IP_Address": "IP 주소",
+      "IP_Address_placeholder": "IP 주소를 입력하세요",
+      "Username": "사용자명",
+      "Username_placeholder": "사용자명을 입력하세요",
+      "Password": "비밀번호",
+      "Password_placeholder": "비밀번호를 입력하세요",
+      "Port": "포트",
+      "Port_placeholder": "포트를 입력하세요",
+      "Use_HTTPS": "HTTPS 사용",
+      "Location": "위치",
+      "Location_placeholder": "위치를 입력하세요",
+      "Total_Channels": "총 채널 수",
+      "AssetsTag": "자산 태그",
+      "AssetsTag_placeholder": "자산 태그 입력",
+      "ManufacturingDate": "제조일",
+      "Camera_Direction": "카메라 방향",
+      "Entry": "입구",
+      "Exit": "출구"
+    },
+
+    "Upload_Bulk_Device_Drawer": {
+      "Upload_Device": "장치 업로드",
+      "Upload_your_device_file": "장치 파일(.xlsx 또는 .xls)을 업로드하세요",
+      "Selected_File": "선택된 파일: {{fileName}}",
+      "Browse_and_choose_files_line1": "업로드할 파일을 찾아 선택하세요",
+      "Browse_and_choose_files_line2": "컴퓨터에서 업로드",
+      "Upload": "업로드"
+    },
+
+    "validation": {
+      "Device_Type_required": "장치 유형은 필수입니다",
+      "Device_Name_required": "장치 이름은 필수입니다.",
+      "IP_Address_required": "IP 주소는 필수입니다.",
+      "IP_Address_strong_validation": "유효한 IP 주소를 입력하세요",
+      "Username_required": "사용자명은 필수입니다.",
+      "Username_strong_validation": "유효한 사용자명을 입력하세요",
+      "Password_required": "비밀번호는 필수입니다",
+      "Port_required": "포트는 필수입니다",
+      "Port_strong_validation": "유효한 포트를 입력하세요",
+      "Location_required": "위치는 필수입니다",
+      "Camera_direction_required": "카메라 방향은 필수입니다"
+    }
+  },
+
+  "Floor_Plan_zones": {
+    "Floor_Plan_zones_header": "도면 및 구역",
+    "Floor_Plan_zones_Description": "도면을 구성하고 연결된 구역을 정의하며, 특정 구역의 카메라 구성을 관리하세요.",
+    "Search_floor_placeholder": "도면 검색..",
+    "Floor_plan_name_placeholder": "도면을 입력하세요",
+    "Device_Search_placeholder": "이름 / IP / 모델로 장치 검색",
+    "validation": {
+      "Floor_name_is_required": "층 이름은 필수입니다",
+      "Floor_name_strong_validation": "도면 이름은 문자와 숫자만 포함할 수 있습니다. 특수문자는 허용되지 않습니다.",
+      "Floor_name_MAX_validation": "층 이름은 50자를 초과할 수 없습니다",
+      "Floor_name_MIN_validation": "층 이름은 최소 3자 이상이어야 합니다.",
+      "Zone_name_required": "구역 이름은 필수입니다",
+      "Zone_name_strong_validation": "구역 이름은 문자와 숫자만 포함할 수 있습니다. 특수문자는 허용되지 않습니다.",
+      "Zone_name_MAX_validation": "구역 이름은 최대 20자까지 가능합니다",
+      "Zone_name_MIN_validation": "구역 이름은 최소 3자 이상이어야 합니다.",
+      "People_occupancy_validation": "사람 기본 점유율은 사람 최대 점유율보다 작아야 합니다",
+      "Vehicle_occupancy_validation": "차량 기본 점유율은 차량 최대 점유율보다 작아야 합니다"
+    },
+    "Re_Draw_Zone_btn": "구역 다시 그리기",
+    "Draw_Zone_btn": "구역 그리기",
+    "Replace_Floor": "도면 교체",
+    "Save_Changes": "변경 사항 저장",
+    "Upload_Your_Floor_Plan": "도면 업로드",
+    "DropImageHere": "여기에 이미지를 드롭하거나",
+    "Browse": "찾아보기",
+    "SupportedFormats": "지원: JPG, JPEG, PNG, SVG, PDF",
+    "Delete_Camera": "카메라 삭제",
+    "Focal": "초점",
+    "Sphere": "구",
+    "Color_fill": "색상 채우기",
+    "Add_Edit_Zone_Drawer": {
+      "Add_Zone": "구역 추가",
+      "Edit_Zone": "구역 수정",
+      "Name": "이름",
+      "Name_Placeholder": "구역 이름을 입력하세요",
+      "People_Occupancy": "사람 점유",
+      "MAX_Occupancy_Placeholder": "최대 점유를 입력하세요",
+      "Default_Occupancy_Placeholder": "기본 점유를 입력하세요",
+      "Vehicle_Occupancy": "차량 점유",
+      "Is_Parking_Zone": "주차 구역 여부"
+    },
+    "No_Data": {
+      "No_data_available": "사용 가능한 데이터가 없습니다",
+      "No_data_description1": "도면, 연결된 구역 또는",
+      "No_data_description2": "지정된 구역에 구성된 카메라 데이터를 불러올 수 없습니다."
+    }
+  },
+
+  "Event_log": {
+    "Event_log_header": "이벤트 로그",
+    "Event_log_Description": "여기에서 모든 이벤트를 추적하세요..",
+    "List_Of_Events": "이벤트 목록",
+    "Event_log_Grid_column": {
+      "Date_Time": "날짜 및 시간",
+      "Event_Name": "이벤트 이름",
+      "Description": "설명",
+      "Floor_name": "층 이름",
+      "Zone_name": "구역 이름",
+      "Video_link": "비디오 링크",
+      "Status": "상태",
+      "Actions": "작업"
+    },
+    "Event_Log_Filter": {
+      "Filter": "필터",
+      "Floor": "층(들)",
+      "Zone": "구역(들)",
+      "Event": "이벤트(들)",
+      "Status": "상태",
+      "Date_Range": "날짜 범위",
+      "Reset_btn": "초기화",
+      "Search_btn": "검색"
+    }
+  },
+
+  "Monitoring": {
+    "Monitoring_header": "새 그룹 추가",
+    "Monitoring_Description": "여기에서 모니터링을 구성하세요..",
+    "Add_New_Group": "새 그룹 추가",
+    "Groupname_placeholder": "그룹 이름을 입력하세요",
+    "Add_New_Group_line1": "아직 구성된 그룹이 없습니다.",
+    "Add_New_Group_line2": "새 그룹을 만들려면 아래 버튼을 클릭하세요",
+    "Add_URL_Preview": "URL 미리보기 추가",
+    "Unable_Preview": "이 URL을 미리볼 수 없습니다.",
+    "No_Preview_Line1": "아직 구성된 URL 미리보기가 없습니다.",
+    "No_Preview_Line2": "새 URL 미리보기를 만들려면 아래 버튼을 클릭하세요",
+    "validation": {
+      "GroupName_required": "그룹 이름은 필수입니다",
+      "GroupName_Strong_validation": "그룹 이름은 50자를 초과할 수 없습니다",
+      "Add_Monitoring_Permission_validation": "모니터링 그룹을 추가할 권한이 없습니다",
+      "View_Monitoring_Permission_validation": "모니터링 그룹을 볼 권한이 없습니다",
+      "Name_required": "이름은 필수입니다.",
+      "Name_strong_validation": "이름은 {{max}}자를 초과할 수 없습니다",
+      "URL_Required": "URL은 필수입니다.",
+      "Location_required": "위치는 필수입니다.",
+      "Add_URL_Preview_Permission_validation": "URL 미리보기를 추가할 권한이 없습니다."
+    },
+    "URL_Preiview_Drawer": {
+      "Edit_URL_Preview": "URL 미리보기 수정",
+      "Name": "이름",
+      "Name_Placeholder": "이름을 입력하세요",
+      "URL": "URL",
+      "URL_Placeholder": "URL을 입력하세요",
+      "Location": "위치",
+      "Location_placeholder": "위치를 입력하세요"
+    }
+  },
+
+  "Manage_User": {
+    "Manage_User_header": "사용자 관리",
+    "Manage_User_Description": "여기에서 사용자 정보를 추가, 수정 및 삭제하세요..",
+    "Add_User": "사용자 추가",
+    "Edit_User": "사용자 수정",
+    "Delete_User": "사용자 삭제",
+    "List_Of_Users": "사용자 목록",
+    "Search_User_Placeholder": "전체 이름, 사용자명, 이메일로 검색",
+    "Manage_User_Grid_column": {
+      "Username": "사용자명",
+      "Full_Name": "전체 이름",
+      "Email": "이메일",
+      "Roles": "역할",
+      "Created_By": "생성자",
+      "Created_On": "생성일",
+      "Updated_By": "마지막 수정자",
+      "Updated_On": "마지막 수정일",
+      "Actions": "작업"
+    },
+    "Validation": {
+      "FirstName_Required": "이름은 필수입니다.",
+      "FistName_Valid": "유효한 이름을 입력하세요",
+      "FirstName_Strong_Validation": "이름은 {{max}}자를 초과할 수 없습니다",
+      "LastName_Required": "성은 필수입니다.",
+      "LastName_Valid": "유효한 성을 입력하세요",
+      "LastName_Strong_Validation": "성은 {{max}}자를 초과할 수 없습니다",
+      "Username_Required": "사용자명은 필수입니다.",
+      "Username_Valid": "유효한 사용자명을 입력하세요",
+      "Username_Strong_Validation": "사용자명은 {{max}}자를 초과할 수 없습니다",
+      "Email_Required": "이메일 주소는 필수입니다",
+      "Email_Valid": "유효한 이메일 주소를 입력하세요",
+      "Email_Strong_Validation": "이메일 주소는 {{max}}자를 초과할 수 없습니다",
+      "Password_Required": "비밀번호는 필수입니다",
+      "Password_Strong_Validation": "비밀번호는 8자에서 16자 사이여야 하며 대문자, 소문자, 숫자 및 특수 문자(* 제외)를 각각 하나 이상 포함해야 합니다",
+      "Password_Max_Validation": "비밀번호는 {{max}}자를 초과할 수 없습니다",
+      "Confirm_Password_Required": "비밀번호 확인은 필수입니다",
+      "Confirm_Password_Match": "비밀번호와 비밀번호 확인이 일치해야 합니다",
+      "Role_Required": "최소 하나의 역할을 선택해야 합니다"
+    },
+    "Add_Edit_User_Drawer": {
+      "First_Name": "이름",
+      "First_Name_Placeholder": "이름을 입력하세요",
+      "Last_Name": "성",
+      "Last_Name_Placeholder": "성을 입력하세요",
+      "Username": "사용자명",
+      "Username_Placeholder": "사용자명을 입력하세요",
+      "Email": "이메일 주소",
+      "Email_Placeholder": "이메일 주소를 입력하세요",
+      "Password": "비밀번호",
+      "Password_Placeholder": "비밀번호를 입력하세요",
+      "Confirm_Password": "비밀번호 확인",
+      "Confirm_Password_Placeholder": "비밀번호 확인을 입력하세요",
+      "Roles": "역할",
+      "Roles_Placeholder": "역할(들) 선택"
+    }
+  },
+
+  "Role_Permission": {
+    "Search_Role": "역할 이름으로 검색",
+    "No_Roles_Found": "역할을 찾을 수 없음",
+    "Permission_No_Data_Message": "권한을 표시할 데이터가 없습니다. <strong>추가</strong> 버튼을 클릭하여 새 역할을 추가하세요.",
+    "Save_changes": "변경 사항 저장",
+    "No_zones_available": "사용 가능한 구역이 없습니다",
+    "No_Floor_Zone_Available": "데이터가 없습니다. 권한을 구성하려면 도면과 구역을 생성하세요",
+    "No_Widgets_available": "사용 가능한 위젯이 없습니다",
+    "Permissions": "권한",
+    "Is_Allowed": "허용됨",
+    "Screens": "화면",
+    "Floor_Zones": "층 및 구역",
+    "Widgets": "위젯",
+    "Validation": {
+      "Role_Required": "역할 이름은 필수입니다"
+    }
+  },
+
+  "Multisite_Setup": {
+    "Multisite_Setup": "멀티사이트 설정",
+    "Multisite_Setup_Description": "연결된 child 및 sub-child 사이트를 여기에서 구성하세요..",
+    "Add_Child_Site": "Child 사이트 추가",
+    "Edit_Child_Site": "Child 사이트 수정",
+    "List_Child_Sub_Child": "Child & Sub-child 사이트 목록",
+    "Search": "사이트 이름, 호스팅 주소, 사용자명으로 검색",
+    "Add_Sub_Child_Site": "Sub-child 사이트 추가",
+    "Edit_Sub_Child_Site": "Sub-child 사이트 수정",
+    "Delete_Child_Site_Confirmation": "Child 사이트를 삭제하면 해당 sub-child 사이트도 함께 제거됩니다.<br />계속 진행하시겠습니까?",
+    "Delete_Sub_Child_Site_Confirmation": "이 사이트를 삭제하시겠습니까?",
+    "No_data_found": "데이터를 찾을 수 없음",
+
+    "Multisite_Setup_Grid_column": {
+      "Site_Name": "사이트 이름",
+      "hosting_Address": "호스팅 주소",
+      "UserName": "사용자명",
+      "Created_By": "생성자",
+      "Created_On": "생성일",
+      "Last_Updated_By": "마지막 수정자",
+      "Last_Updated_On": "마지막 수정일",
+      "Actions": "작업"
+    },
+
+    "Validation": {
+      "Site_Required": "사이트 이름은 필수입니다.",
+      "Hosting_Address_Required": "호스팅 주소는 필수입니다.",
+      "Hosting_Address_Strong_validation": "유효한 호스팅 주소를 입력하세요",
+      "Username_Required": "사용자명은 필수입니다.",
+      "Username_Strong_Validation": "유효한 사용자명을 입력하세요",
+      "Password_Required": "비밀번호는 필수입니다",
+      "Child_Site_Required": "Child 사이트 이름은 필수입니다.",
+      "Sub_Site_Name_Required": "Sub 사이트 이름은 필수입니다."
+    },
+
+    "Add_Child_Drawer": {
+      "Site_Name": "사이트 이름",
+      "Site_Name_Placeholder": "사이트 이름을 입력하세요",
+      "Hosting_Address": "호스팅 주소",
+      "Hosting_Address_Placeholder": "호스팅 주소를 입력하세요",
+      "Username": "사용자명",
+      "Username_Placeholder": "사용자명을 입력하세요",
+      "Password": "비밀번호",
+      "Password_Placeholder": "비밀번호를 입력하세요",
+      "Child_Site_Name": "Child 사이트 이름",
+      "Sub_Site_Name": "Sub 사이트 이름",
+      "Sub_Site_Name_Placeholder": "Sub 사이트 이름을 입력하세요"
+    }
+  },
+
+  "General_Settings": {
+    "General": "일반",
+    "General_Settings_Description": "일반 설정을 여기에서 구성하세요...",
+
+    "SMTP_Setup": {
+      "SMTP_Setup": "SMTP 설정",
+      "Host": "호스트",
+      "Host_Placeholder": "호스트를 입력하세요",
+      "Port": "포트",
+      "Post_Placeholder": "포트를 입력하세요",
+      "From_Email": "발신자 이메일 주소",
+      "From_Email_Placeholder": "발신자 이메일 주소를 입력하세요",
+      "Enable_SSL": "SSL 사용",
+
+      "Validation": {
+        "Host_Required": "호스트는 필수입니다",
+        "Host_Max_Validation": "호스트는 {{max}}자를 초과할 수 없습니다",
+        "Host_Strong_Validation": "유효한 호스트를 입력하세요 (예: smtp.example.com)",
+        "Port_Required": "포트는 필수입니다",
+        "Port_Strong_Validation": "포트는 1에서 65535 사이여야 합니다",
+        "Email_Strong_Validation": "발신자 이메일 주소는 {{max}}자를 초과할 수 없습니다"
+      }
+    },
+
+    "Report_Scheduler": {
+      "Report_Scheduler_Title": "보고서 스케줄러",
+      "Emails": "이메일",
+      "Emails_Placeholder": "수신자 이메일 주소를 입력하세요(쉼표로 구분)",
+      "Floors": "층",
+      "Floors_Placeholder": "층 선택",
+      "Zones": "구역",
+      "Zones_Placeholder": "구역 선택",
+      "Select_Widget": "위젯 선택",
+      "Select_Date": "날짜 선택",
+      "Select_Time": "시간 선택",
+      "Report_Format": "보고서를 받을 형식을 선택하세요",
+      "Send_On": "전송 주기",
+      "Daily": "매일",
+      "Weekly": "매주",
+      "Monthly": "매월",
+      "Schedule_btn": "스케줄",
+
+      "Validation": {
+        "Email_Required": "이메일은 필수입니다",
+        "Multiple_Email_Validation": "여러 이메일은 공백이 아닌 쉼표로 구분해야 합니다.",
+        "Invalid_Emails": "유효하지 않은 이메일: {{invalidList}}",
+        "Floors_Required": "층을 선택하세요",
+        "Zones_Required": "구역을 선택하세요",
+        "Widget_Required": "위젯을 선택하세요",
+        "Widget_Limit": "위젯은 최대 10개까지 선택할 수 있습니다",
+        "Date_Requiered": "시작 날짜를 선택하세요",
+        "Date_Strong_Validation": "시작 날짜는 오늘 또는 이후여야 합니다",
+        "Time_Required": "시작 시간은 필수입니다",
+        "Format_Required": "형식을 선택하세요",
+        "Interval_Required": "간격을 선택하세요",
+        "Floor_Limit": "10층 이상 선택할 수 없습니다"
+      }
+    },
+
+    "FTP_Setting": {
+      "FTP_Setup": "FTP 설정",
+      "Validation": {
+        "Host_Strong_Validation": "유효한 호스트명(예: ftp.example.com) 또는 IPv4 주소(예: 192.168.1.1)를 입력하세요"
+      }
+    },
+
+    "Retention_Period_Setting": {
+      "Retention_Period": "보관 기간",
+      "Enabled": "활성화",
+      "Period": "보관 기간(개월)",
+      "Period_Plceholder": "기간을 입력하세요",
+      "Validation": {
+        "Period_Required": "기간은 필수입니다",
+        "Period_Strong_Validation": "기간은 1에서 99 사이여야 합니다"
+      }
+    },
+
+    "Operational_Time": {
+      "Operational_Time_Title": "운영 시간",
+      "Start_Time_Required": "시작 시간은 필수입니다",
+      "End_Time_Required": "종료 시간은 필수입니다"
+    },
+
+    "Google_Map_Key": {
+      "Title": "Google 지도 키",
+      "key_required": "Google 지도 키는 필수입니다",
+      "Key_Placeholder": "Google 지도 키를 입력하세요"
+    },
+
+    "Upload_Logo": {
+      "Upload_logo_title": "로고 업로드",
+      "Browse_Upload_Text": "업로드할 파일을 찾아 선택하세요 <br />컴퓨터에서 업로드",
+      "Validation": {
+        "Upload_logo_first": "먼저 파일을 업로드하세요!",
+        "Valid_File_size": "파일 크기는 1MB를 초과할 수 없습니다.",
+        "Allowed_File_Validation": "jpg, jpeg, png 파일만 허용됩니다."
+      },
+      "Upload_Note": {
+        "Line1_Part1": "회사",
+        "Line1_Highlight1": "로고를 PNG 또는 JPG",
+        "Line1_Part2": "형식으로 업로드하세요. 권장 해상도:",
+        "Line1_Highlight2": "174 x 46 픽셀",
+        "Line2_Part1": "허용되는 최대 파일 크기:",
+        "Line2_Highlight": "1 MB",
+        "Line3": "최상의 결과를 위해 흰색 배경의 고품질 이미지를 사용하세요."
+      }
+    },
+
+    "Upload_SSL": {
+      "Upload_SSL_Title": "SSL 인증서 업로드",
+      "Password": "비밀번호",
+      "Upload_File_first": "먼저 파일을 업로드하세요!",
+      "Allowed_File_Validation": ".crt, .pem, .pfx, .cer 파일만 허용됩니다."
+    },
+    "Backup_Database_Setting": {
+      "Scheduled_Database_Backup": "예약된 데이터베이스 백업",
+      "BackupPath_Placeholder": "데이터베이스 백업 경로 입력",
+      "BackupPath_Required": "예약된 데이터베이스 백업은 필수입니다"
+    },
+    "ANPR_Setting": {
+      "ANPR_Configuration": "ANPR 구성",
+      "Image_Path": "이미지 경로",
+      "Image_Path_Placeholder": "ANPR 이미지 경로 입력"
+    },
+    "Reset_Vehicle": {
+      "Reset_Vehicle_Parking_Count": "차량 주차 횟수 재설정",
+      "Reset": "재설정",
+      "count": "개수 입력",
+      "RequiredCount": "개수는 필수입니다."
+    }
+  },
+
+  "License_Setting": {
+    "License_Title": "라이선스",
+    "License_Description": "라이선스 설정을 여기에서 구성하세요...",
+    "Add_License": "라이선스 추가",
+    "No_License_Content": "아직 구성된 라이선스가 없습니다.<br />라이선스를 업로드하려면 아래 버튼을 클릭하세요",
+    "Current_License_Detail": {
+      "Product_Name": "제품명",
+      "License_Version": "라이선스 버전",
+      "Type": "유형",
+      "Camera_Utilized": "사용된 카메라",
+      "User_Utilized": "사용된 사용자",
+      "Start_Date": "시작 날짜",
+      "End_Date": "종료 날짜",
+      "Title": "현재 라이선스 상세"
+    },
+    "License_History": {
+      "Title": "라이선스 이력",
+      "Search_Placeholder": "MAC 주소, 유형, 시작 날짜로 검색...",
+      "macAddress": "MAC 주소",
+      "licenseType": "유형",
+      "numberOfUsers": "사용자 수",
+      "noOfChannel": "채널 수",
+      "startDate": "시작 날짜",
+      "expiryDate": "만료 날짜",
+      "status": "상태",
+      "createdBy": "생성자",
+      "createdOn": "생성일"
+    },
+    "Upload_License_Drawer": {
+      "PEM_Title": "publickey.pem 파일을 업로드하세요",
+      "LIC_Title": "license.lic 파일을 업로드하세요",
+      "Upload_btn": "업로드",
+      "Logout_Content": "두 라이선스 파일이 성공적으로 업로드되었습니다. 변경 사항을 적용하려면 로그아웃 후 다시 로그인하세요.",
+      "Confirm_btn": "로그아웃",
+      "File_Selection_validation": "PEM과 LICENSE 파일을 모두 업로드하세요.",
+      "PEM_Validation": "유효한 PEM 파일(.pem)을 업로드하세요.",
+      "LIC_Validation": "유효한 LICENSE 파일(.lic)을 업로드하세요.",
+      "Upload_Fail": "파일 업로드에 실패했습니다. 다시 시도해 주세요."
+    }
+  },
+
+  "BackUp_Restore": {
+    "Backup_Restore_Header": "백업 및 복원",
+    "Backup_Restore_Description": "데이터를 다운로드하고 복원하세요..",
+    "Backup": "백업",
+    "Backup_description_1": "아래 버튼은 로컬 컴퓨터에 전체 시스템 백업을 생성합니다. 시스템 장애 또는 필요 시 향후 사용할 수 있습니다.",
+    "Backup_description_2": "지금 전체 백업을 수행하려면 아래 버튼을 클릭하세요.",
+    "Take_Full_Backup": "전체 백업 수행",
+    "Restore": "복원",
+    "File_Name": "파일 이름",
+    "Uploading": "업로드 중..."
+  },
+
+  "My_Report": {
+    "No_Report": "선택된 보고서가 없습니다. 상세 정보를 보려면 목록에서 보고서를 선택하세요.",
+    "Add_Report": "보고서 추가",
+    "Delete_Dialog_Content": "이 보고서를 삭제하시겠습니까?",
+    "No_Report_found": "보고서를 찾을 수 없음",
+    "Untitled_Report": "제목 없는 보고서",
+    "Last_Edited": "마지막 수정",
+    "Delete": "삭제",
+    "Edit": "수정",
+    "Export_pdf_btn": "PDF로 내보내기",
+    "Filter_Applied": "필터 적용됨",
+    "Created_By": "생성자",
+    "Created_On": "생성일",
+    "No_Filter_Data": "선택된 필터에 대한 데이터가 없습니다. 필터를 조정하고 다시 시도하세요.",
+    "Contact_Admin_Error": "요청 처리 중 예기치 않은 오류가 발생했습니다. 다시 시도하거나 문제가 지속되면 관리자에게 문의하세요.",
+    "Report_Type": "보고서 유형",
+    "Site_Report_Header": "사이트 성과 비교 보고서",
+    "Zone_Report_Header": "구역 성과 비교 보고서",
+    "Report_Name": "보고서 이름",
+    "Sites": "사이트",
+    "Site": "사이트",
+    "Zone": "구역",
+    "Floors": "층",
+    "Zones": "구역",
+    "Date_Time": "날짜 및 시간",
+    "Performance_Comparison_Table": "성과 비교 표",
+    "People_Count": "사람 수",
+    "People_Occupancy": "사람 점유",
+    "Vehicle_Count": "차량 수",
+    "Vehicle_Occupancy": "차량 점유",
+    "No_Insights_Data": "인사이트를 생성할 데이터가 없습니다.",
+    "No_Valid_Insights": "인사이트를 생성할 유효한 데이터가 없습니다.",
+    "HighestVehicleOccupancy": "{{zone}}의 차량 점유율이 가장 높습니다 ({{occupancy}}%).",
+    "HighestVehicleCount": "{{zone}}의 차량 카운트가 가장 많습니다 ({{count, number}}).",
+    "VehicleOccupancyComparison": "차량 점유 수준은 {{busier}}가 {{lessBusy}}보다 더 붐빈다는 것을 시사합니다.",
+    "HighestPeopleOccupancy": "{{zone}}의 사람 점유율이 가장 높습니다 ({{rate}}%).",
+    "HighestPeopleCount": "{{zone}}의 사람 카운트가 가장 많습니다 ({{count, number}}).",
+    "PeopleOccupancyComparison": "사람 점유 수준은 {{busier}}가 {{lessBusy}}보다 더 붐빈다는 것을 시사합니다.",
+    "HighestPeopleAndVehicleOccupancy": "{{zone}}의 사람 및 차량 점유율이 가장 높습니다 ({{rate}}%).",
+    "HighestPeopleAndVehicleOccupancyRate": "{{zone}}의 사람 점유율이 가장 높고 ({{peopleRate}}%), 차량 점유율도 가장 높습니다 ({{vehicleRate}}%).",
+    "No_Insights_Available": "선택 기준에 따른 유효한 인사이트가 없습니다.",
+    "Summary_Insights": "요약 인사이트",
+    "Visualizations": "시각화",
+    "People_Vehicle_Count": "사람 및 차량 수 {{base}}",
+    "People_Count_Type": "사람 수 {{base}}",
+    "Vehicle_Count_Type": "사람 수 {{base}}",
+    "By_Site": "사이트별",
+    "By_Zone": "구역별",
+    "Occupancy_Rate_Comparison": "점유율 비교",
+    "Traffic_Composition_Title": {
+      "People": "트래픽 구성(사람)",
+      "vehicle": "트래픽 구성(차량)",
+      "Both": "트래픽 구성(사람 vs 차량)",
+      "fallback": "트래픽 구성"
+    },
+    "Key_Performance_Metric": "주요 성과 지표",
+    "Total_People_Count": "총 사람 수",
+    "Average_People_Occupancy_Rate": "평균 사람 점유율",
+    "Total_Vehicle_Count": "총 차량 수",
+    "Average_Vehicle_Occupancy_Rate": "평균 차량 점유율"
+  },
+
+  "Audit_Log": {
+    "Audit_Log_Header": "감사 로그",
+    "Audit_Log_Descripltion": "감사를 위한 사용자 활동의 상세 로그...",
+    "Search_Placeholder": "문서 키 검색",
+    "Audit_Log_Grid_Column": {
+      "Document_Id": "문서 ID",
+      "User": "사용자",
+      "Type": "유형",
+      "Date": "날짜",
+      "Details": "세부 정보"
+    }
+  },
+
+   "Maintanace_Plan": {
+    "Maintenance_Plan_Header": "유지보수 계획",
+    "Maintenance_Plan_Description": "유지보수 계획을 생성하고 장치를 매핑합니다..",
+    "Add_Plan": "계획 추가",
+    "Edit_Plan": "계획 수정",
+    "List_Of_Plans": "계획 목록",
+    "Search_Placeholder": "계획 이름 및 장치로 검색...",
+    "Search_Devices": "장치 검색...",
+    "Device_Dialog_header": "장치",
+    "Serial_No": "일련 번호",
+    "More_Count": "+{{count}}개 더",
+    "Maintanace_Plan_Grid": {
+      "Plan_Name": "계획 이름",
+      "Duration": "기간",
+      "Device": "장치",
+      "Start_Date": "시작 날짜",
+      "End_Date": "종료 날짜",
+      "Actions": "작업",
+      "Edit_Plan_Tooltip": "계획 수정",
+      "Delete_Plan_Tooltip": "계획 삭제",
+      "Floor": "층",
+      "Select_Floor": "층 선택",
+      "Zone": "구역",
+      "Select_Zone": "구역 선택"
+    },
+    "Maintanance_Plan_Drawer": {
+      "Plan_Name_Required": "계획 이름은 필수입니다.",
+      "Plan_Name_Max_Length_validation": "계획 이름은 {{max}}자를 초과할 수 없습니다",
+      "Plan_Name_Placeholder": "계획 이름 입력",
+      "Duration_In_Month": "기간 (월)",
+      "Duration_Max_Length_validation": "기간은 {{max}}자리를 초과할 수 없습니다",
+      "Duration_Required": "기간은 필수입니다.",
+      "Duration_Strong_Validation": "숫자만 허용됩니다",
+      "Duration_Placeholder": "기간 입력",
+      "Device_Required": "장치는 필수입니다.",
+      "Device_Placeholder": "장치 선택",
+      "EndDate_Requiered": "종료 날짜를 선택하세요",
+      "EndDate_Strong_Validation": "종료 날짜는 오늘 또는 이후여야 합니다",
+      "EndDate_Less_Than_StartDate": "종료 날짜는 시작 날짜보다 이전일 수 없습니다"
+    }
+  },
+
+  "Maintenance_Schedule": {
+    "Maintenance_Schedule_Header": "유지보수 일정",
+    "Maintenance_Schedule_Description": "유지보수 계획을 생성하고 장치를 매핑합니다.",
+    "Schedule_Maintenance": "유지보수 예약",
+    "Select_Floor": "층 선택",
+    "Select_Zone": "구역 선택",
+    "Select_PH_Floor": "층 선택",
+    "Select_PH_Zone": "구역 선택",
+    "Select_due": "마감일 선택",
+    "Select_PH_status": "상태 선택",
+    "Select_status": "상태 선택",
+    "Column_Grid": {
+      "Device_Name": "장치 이름",
+      "Model": "모델",
+      "Location": "위치",
+      "Serial_Number": "일련 번호",
+      "Device_Type": "장치 유형",
+      "Ip_Address": "IP 주소",
+      "Maintenance_Due_Date": "유지보수 마감일",
+      "Plan_Name": "계획 이름",
+      "status": "상태",
+      "Actions": "작업",
+      "Setting_Tooltip": "설정"
+    },
+    "Add_Schedule_Drawer": {
+      "Add_Schedule": "일정 추가",
+      "Device": "장치",
+      "Device_Required": "장치는 필수입니다.",
+      "Device_Placeholder": "장치 선택",
+      "Due_Date": "마감일",
+      "Due_date_Required": "마감일을 선택하세요",
+      "Due_date_Strong_Validation": "마감일은 오늘 또는 이후여야 합니다",
+      "Notes": "메모",
+      "Notes_Required": "메모는 필수입니다.",
+      "Notes_Placeholder": "메모 입력"
+    },
+    "Setting_Dialog": {
+      "scheduledMaintenance": "예약된 유지보수 ({{id}})",
+      "Maintenance_Status": "유지보수 상태",
+      "Maintenance_status_required": "유지보수 상태는 필수입니다.",
+      "Start_Date": "시작 날짜",
+      "Before": "이전",
+      "Matched": "일치",
+      "Compare": "비교",
+      "brightness": "밝기",
+      "contrast": "대비",
+      "edgeOverlap": "가장자리 중첩",
+      "featureDisplacement": "특징 변위",
+      "homographyShift": "호모그래피 이동",
+      "horizonTilt": "수평선 기울기",
+      "structuralSimilarity": "구조적 유사성",
+      "After": "이후",
+      "Start_Date_Required": "시작 날짜는 필수입니다.",
+      "Start_Date_Strong_Validation": "시작 날짜는 미래 날짜일 수 없습니다.",
+      "Grid_Column": {
+        "Status": "상태",
+        "notes": "메모",
+        "Status_Datetime": "상태 날짜 및 시간"
+      }
+    },
+    "Tooltip": {
+      "brightness_tooltip": "이미지의 전체 밝기 강도를 측정합니다",
+      "contrast_tooltip": "이미지에서 가장 어두운 영역과 가장 밝은 영역 간의 차이를 나타냅니다",
+      "edgeOverlap_tooltip": "비교된 이미지 간 가장자리 정렬 정도를 평가합니다",
+      "featureDisplacement_tooltip": "이미지 간 주요 특징의 이동을 측정합니다",
+      "homographyShift_tooltip": "카메라 시점 변화로 인한 기하학적 변환 차이를 나타냅니다",
+      "horizonTilt_tooltip": "수평선 대비 이미지 회전 각도를 측정합니다",
+      "structuralSimilarity_tooltip": "구조, 밝기 및 대비를 기반으로 시각적 유사성을 평가합니다"
+    }
+  },
+"RMA": {
+  "RMA_Header": "RMA",
+  "RMA_Edit_Header": "RMA 편집",
+  "RMA_Header_Desc": "유지보수 계획을 생성하고 장치를 매핑합니다.",
+  "RMA_Add_Button": "RMA 추가",
+  "RMA_Filter_StartDate": "RMA 날짜",
+  "RMA_Filter_EndDate": "종료 날짜",
+  "RMA_Filter_Status": "상태 선택",
+  "RMA_Filter_PH_Status": "상태 선택",
+  "RMA_Grid_DeviceName": "장치 이름",
+  "RMA_Grid_IPAddress": "IP 주소",
+  "RMA_Grid_Model": "모델",
+  "RMA_Grid_Location": "위치",
+  "RMA_Grid_SerialNumber": "일련 번호",
+  "RMA_Grid_DeviceType": "장치 유형",
+  "RMA_Grid_InProgressNotes": "진행 중 메모",
+  "RMA_Grid_RMAStatus": "RMA 상태",
+  "RMA_Grid_StartDate": "시작 날짜",
+  "RMA_Grid_EndDate": "종료 날짜",
+  "RMA_Grid_Actions": "작업",
+  "RMA_Grid_CompletedNotes": "완료된 메모",
+  "RMA_Grid_Tooltip_EditPlan": "계획 수정",
+  "RMA_Grid_Tooltip_DeletePlan": "계획 삭제",
+  "RMA_Form_Device": "장치",
+  "RMA_Form_Maintenancestatus": "유지보수 상태",
+  "RMA_Form_InProgressNotes": "진행 중 메모",
+  "RMA_Form_CompletedNotes": "완료된 메모",
+  "RMA_Form_PH_SelectDevice": "장치 선택",
+  "RMA_Form_PH_Device": "유지보수 상태 선택",
+  "RMA_Form_PH_EnterInProgressnotes": "진행 중 메모 입력",
+  "RMA_Form_PH_CompletedNotes": "완료된 메모 입력",
+  "RMA_Form_Validation_Deviceisrequired": "장치는 필수입니다",
+  "RMA_Form_Validation_StartDateTsRequired": "시작 날짜는 필수입니다",
+  "RMA_Form_Validation_EndDateMustBeGreaterThanStartDate": "종료 날짜는 시작 날짜 이후여야 합니다",
+  "RMA_Form_Validation_InProgressNotesIsRequired": "진행 중 메모는 필수입니다",
+  "RMA_Form_Validation_CompletedNotesIsRequired": "완료된 메모는 필수입니다",
+  "RMA_Select_Floor": "층 선택",
+  "RMA_Select_Zone": "구역 선택"
+},
+
+
+  "MUI_Grid_Filter_Paginition": {
+    "columnMenuSortAsc": "오름차순 정렬",
+    "columnMenuSortDesc": "내림차순 정렬",
+    "columnMenuHideColumn": "열 숨기기",
+    "columnMenuManageColumns": "열 관리",
+    "footerPaginationRowsPerPage": "페이지당 행 수:",
+    "footerRowSelected": "{{count}}개 행 선택됨",
+    "footerRowSelectedPlural": "{{count}}개 행 선택됨",
+    "footerTotalVisibleRows": "{{total}}개 중"
+  },
+
+  "Common_Edit_Dlte_Menu": {
+    "Edit": "수정",
+    "Delete": "삭제"
+  },
+
+  "Common_DELETE_Confirmation_Dialog": {
+    "Title": "삭제 확인!",
+    "Content": "계속 진행하시겠습니까?",
+    "Cancel": "취소",
+    "Delete": "삭제",
+    "Delete_Device_Content": {
+      "Line1_Part1": "확인하면, 선택한 장치와 연결된",
+      "Line1_Highlight": "층, 구역 및 기타 항목이 자동으로 제거됩니다",
+      "Line1_Part2": ". 이로 인해 해당",
+      "Line1_Highlight2": "삭제된 장치",
+      "Line1_Part3": "의 데이터를 앞으로 볼 수 없을 수 있습니다."
+    }
+  },
+
+  "Add_btn": "추가",
+  "Save_btn": "저장",
+  "Update": "업데이트",
+  "No_data_found": "데이터 없음",
+  "Advance_Export_Dialog": {
+    "Advance_Report": "고급 보고서",
+    "Widgets": "위젯",
+    "Select_widgets": "위젯 선택...",
+    "Export_CSV": "CSV 내보내기",
+    "Export_PDF": "PDF 내보내기",
+    "selectAtLeastOneWidget": "내보내려면 최소 하나의 위젯을 선택하세요.",
+    "categories": {
+      "staff": "직원",
+      "security": "보안",
+      "exhibitors": "전시업체",
+      "repeatedCustomers": "재방문 고객"
+    },
+    "Category_Placeholder": "카테고리 선택",
+    "Category_Required": "카테고리는 필수입니다",
+    "Value_required": "값은 필수입니다",
+    "Value_Placeholder": "값 입력",
+    "Minimum_Value": "최소 값은 1입니다",
+    "Maximum_Value": "최대 값은 9999입니다",
+    "units": {
+      "percentage": "% (백분율)",
+      "number": "# (숫자)"
+    },
+    "operations": {
+      "add": "+ (더하기)",
+      "subtract": "− (빼기)"
+    },
+    "table": {
+      "Category": "카테고리",
+      "Value": "값",
+      "Unit": "단위",
+      "Operation": "연산",
+      "Action": "동작"
+    }
+  },
+
+  "ANPR_Screen": {
+    "Owner": {
+      "Vehicle_Owners_title": "차량 소유자",
+      "Vehicle_Owners_description": "차량 소유자 세부 정보를 추가하세요...",
+      "Owner_Bulk_Upload": "소유자 대량 업로드",
+      "Owner_Sample_file": "소유자 샘플 파일",
+      "Vehicle_Bulk_Upload": "차량 대량 업로드",
+      "Vehicle_Sample_File": "차량 샘플 파일",
+      "Add_Owner": "소유자 추가",
+      "List_Of_Owners": "소유자 목록",
+      "Search_Placeholder": "소유자 이름, 등록 유형, 건물, 건물 유닛, 연락처 번호, 이메일, 허용된 게이트로 검색...",
+      "Owner_Name": "소유자 이름",
+      "Registration_Type": "등록 유형",
+      "Allowed_Vehicle": "허용된 차량",
+      "Building": "건물",
+      "Building_Unit": "건물 유닛",
+      "Contact_Number": "연락처 번호",
+      "Email": "이메일",
+      "Allowed_Gates": "허용된 게이트",
+      "Alarm_For_24H_Stay": "24시간 주차 알람",
+      "Alarm_For_Over_Stay": "초과 주차 알람",
+      "Allowed_Time": "허용 시간",
+      "Actions": "작업",
+      "Edit_Owner": "소유자 수정",
+      "Delete_Owner": "소유자 삭제",
+      "Add_Vehicle": "차량 추가",
+      "View_Audit_logs": "감사 로그 보기",
+      "Update_Owner": "소유자 업데이트",
+      "Vehicle_for": "{{name}}의 차량",
+      "Upload_Owner": "소유자 업로드",
+      "Upload_Vehicle": "차량 업로드",
+      "Registration_type_placeholder": "등록 유형 선택",
+      "Registration_type_required": "등록 유형은 필수입니다.",
+      "Owner_name_placeholder": "소유자 이름 입력",
+      "Owner_name_required": "소유자 이름은 필수입니다.",
+      "Building_placeholder": "건물 입력",
+      "Building_required": "건물은 필수입니다.",
+      "Building_name_validation": "유효한 건물 이름을 입력하세요",
+      "Building_unit_placeholder": "건물 유닛 입력",
+      "Building_unit_required": "건물 유닛은 필수입니다.",
+      "Building_unit_validation": "유효한 건물 유닛을 입력하세요",
+      "Email_placeholder": "이메일 입력",
+      "Email_required": "이메일은 필수입니다.",
+      "Email_validation": "유효한 이메일 주소를 입력하세요",
+      "Contact_number_placeholder": "연락처 번호 입력",
+      "Contact_number_required": "연락처 번호는 필수입니다.",
+      "Contact_number_validation": "유효한 연락처 번호를 입력하세요",
+      "Vehicle_count_placeholder": "허용 차량 수 입력",
+      "Vehicle_count_required": "허용 차량 수는 필수입니다.",
+      "Vehicle_count_validation": "1에서 9999 사이의 숫자를 입력하세요.",
+      "Allowed_From_Time": "허용 시작 시간",
+      "Allowed_To_Time": "허용 종료 시간",
+      "Gates": "게이트",
+      "Select_Gates": "게이트 선택",
+      "Enable_Alarm_For_Overstay": "초과 주차 알람 활성화",
+      "Enable_Alarm_For_24H_Stay": "24시간 주차 알람 활성화",
+      "Upload_your_owner_file": "소유자 파일(.xlsx) 또는 (.xls)을 업로드하세요",
+      "Upload_your_vehicle_file": "차량 파일(.xlsx) 또는 (.xls)을 업로드하세요",
+      "Owner_Validation": "소유자 이름은 문자와 공백만 포함해야 하며 3~50자 사이여야 합니다.",
+      "Search_Gates": "게이트 검색",
+      "ValidTo": "유효 기간 종료",
+      "ValidTo_Requiered": "유효 종료 날짜를 선택하세요",
+      "ValidToDate_Strong_Validation": "유효 종료 날짜는 오늘 이후여야 합니다",
+      "ManufacturingDate_Strong_Validation": "제조일은 미래 날짜일 수 없습니다."
+    },
+    "Vehicle": {
+      "Country": "국가",
+      "Country_placeholder": "국가 선택",
+      "Country_required": "국가는 필수 항목입니다.",
+      "State": "주",
+      "State_placeholder": "주 입력",
+      "State_required": "주는 필수 항목입니다.",
+      "Plate_Code": "번호판 코드",
+      "Plate_code_placeholder": "번호판 코드 입력",
+      "Plate_code_required": "번호판 코드는 필수 항목입니다.",
+      "Plate_Category": "번호판 유형",
+      "Plate_category_placeholder": "번호판 유형 선택",
+      "Plate_category_required": "번호판 유형은 필수 항목입니다.",
+      "Make": "제조사",
+      "Make_placeholder": "제조사 입력",
+      "Make_required": "제조사는 필수 항목입니다.",
+      "Model": "모델",
+      "Model_placeholder": "모델 입력",
+      "Model_required": "모델은 필수 항목입니다.",
+      "Color": "색상",
+      "Color_placeholder": "색상 입력",
+      "Color_required": "색상은 필수 항목입니다.",
+      "Visitor_Valid_From": "방문자 유효 시작",
+      "Visitor_Valid_To": "방문자 유효 종료",
+      "Visitor_Valid_To_Validation": "종료 시간은 시작 시간보다 이후여야 합니다",
+      "Clear": "초기화",
+      "Actions": "작업",
+      "Edit_Vehicle": "차량 수정",
+      "Delete_Vehicle": "차량 삭제",
+      "View_Audit_logs": "감사 로그 보기",
+      "State_Validation": "주 이름은 문자, 공백, 하이픈 및 아포스트로피만 포함해야 하며 길이는 3~50자여야 합니다.",
+      "plateCode_Validation": "번호판 코드는 3~10자이며 문자와 숫자만 포함해야 합니다.",
+      "color_Validation": "색상은 1~20자이며 문자와 공백만 포함해야 합니다.",
+      "Make_Validation": "제조사는 문자와 공백만 포함해야 하며 3~50자 사이여야 합니다.",
+      "Model_Validation": "모델은 1~20자이며 문자와 숫자만 포함해야 합니다."
+    }
+  },
+  "LPR_Screen": {
+    "LPR_Main": "번호판 인식",
+    "LPR_header": "차량 번호판 인식",
+    "Description": "번호판 인식 세부 정보...",
+    "List_LPR_Label": "번호판 인식 목록",
+    "Search_LPR_Placeholder": "소유자 이름, 등록 유형, 이메일, 주, 번호판으로 검색...",
+    "Grid_column": {
+      "OwnerName": "소유자 이름",
+      "RegistrationType": "등록 유형",
+      "Building": "건물",
+      "BuildingUnit": "건물 유닛",
+      "ContactNumber": "연락처",
+      "Email": "이메일",
+      "EntryGate": "입구 게이트",
+      "EntryTime": "입장 시간",
+      "ExitGate": "출구 게이트",
+      "ExitTime": "출차 시간",
+      "Country": "국가",
+      "State": "주",
+      "Plate": "번호판",
+      "Make": "제조사",
+      "Model": "모델",
+      "Color": "색상",
+      "Message": "메시지",
+      "CreatedOn": "생성일",
+      "Plate_Image": "번호판 이미지"
+    },
+    "Filters": {
+      "Device": "장치 선택",
+      "Country_Label": "국가",
+      "Country_PH": "국가 선택",
+      "EntryTime_Label": "입장 시간",
+      "ExitTime_Label": "출차 시간",
+      "ExitTime_Validation":"출차 시간은 입차 시간보다 크거나 같아야 합니다",
+      "EntryTime_Required": "PDF를 내보내기 전에 입장 시간을 선택하세요.",
+      "ExitTime_Required": "PDF를 내보내기 전에 퇴장 시간을 선택하세요.",
+      "DateRange_Max30Days": "선택한 날짜 범위가 30일을 초과합니다. PDF를 내보내려면 30일 이내의 범위를 선택하세요."
+    }
+  },
+
+  "ServerManagement": {
+    "ServerManagement_Title": "Vision Insight 서버 관리",
+    "ServerManagement_SubTitle": "Vision Insight 서버 세부 정보를 추가하세요...",
+    "Add_Server": "서버 추가",
+    "Edit_Server": "서버 수정",
+    "Delete_Server": "서버 삭제",
+    "List_Of_Servers": "서버 목록",
+    "IsActive": "활성",
+    "Actions": "작업",
+    "View_Audit_logs": "감사 로그 보기",
+    "Search_Server_Placeholder": "서버 이름, DB 연결 문자열, 호스팅 주소로 검색...",
+    "Server_Name": "서버 이름",
+    "Server_Name_required": "서버 이름은 필수입니다.",
+    "Server_Name_length_validation": "서버 이름은 {{max}}자를 초과할 수 없습니다.",
+    "Server_Name_placeholder": "서버 이름 입력",
+    "Database_Connection_String": "데이터베이스 연결 문자열",
+    "Database_Connection_String_required": "연결 문자열은 필수입니다.",
+    "Database_Connection_String_placeholder": "연결 문자열 입력",
+    "Hosting_Address": "호스팅 주소",
+    "Hosting_Address_required": "호스팅 주소는 필수입니다.",
+    "Hosting_Address_placeholder": "호스팅 주소 입력",
+    "Hosting_Address_validation": "유효한 호스팅 주소를 입력하세요.",
+    "Username": "사용자 이름",
+    "Username_required": "사용자 이름은 필수입니다.",
+    "Username_length_validation": "사용자 이름은 {{max}}자를 초과할 수 없습니다.",
+    "Username_placeholder": "사용자 이름 입력",
+    "Password": "비밀번호",
+    "Password_required": "비밀번호는 필수입니다.",
+    "Password_placeholder": "비밀번호 입력",
+    "IsAvailable": "사용 가능",
+    "Yes": "예",
+    "No": "아니요",
+    "Status_Confirmation_Title": "확인",
+    "Activate_Confirmation": "이 서버를 <1>활성화</1>하시겠습니까? 활성화되면 Vision Insight가 이 서버에서 데이터를 가져오기 시작합니다.",
+    "Deactivate_Confirmation": "이 서버를 <1>비활성화</1>하시겠습니까? 비활성화되면 Vision Insight가 이 서버에서 데이터 가져오기를 중지합니다."
+  },
+
+  "ExposeAPIUser": {
+    "Expose_API_Users": "API 사용자 노출",
+    "Username": "사용자 이름",
+    "Username_Placeholder": "사용자 이름 입력",
+    "Username_Required": "사용자 이름은 필수입니다",
+    "Username_Valid": "유효한 사용자 이름을 입력하세요",
+    "Username_Strong_Validation": "사용자 이름은 {{max}}자를 초과할 수 없습니다",
+    "Password": "비밀번호",
+    "Password_Placeholder": "비밀번호 입력",
+    "Password_Required": "비밀번호는 필수입니다",
+    "Password_Strong_Validation": "비밀번호는 8~16자이며 대문자, 소문자, 숫자, 특수문자(* 제외)를 포함해야 합니다",
+    "Password_Max_Validation": "비밀번호는 {{max}}자를 초과할 수 없습니다",
+    "Role": "역할",
+    "Roles_Placeholder": "역할 선택",
+    "Role_Required": "최소 하나의 역할을 선택해야 합니다",
+    "IsActive": "활성",
+    "Actions": "작업",
+    "Yes": "예",
+    "No": "아니오",
+    "API_Authentication": "API 인증",
+    "Authorization": "권한 부여"
+  },
+  "Manage_SSM": {
+      "Manage_Server": "서버 관리",
+      "description": "여기에서 서버 정보를 추가, 업데이트 및 삭제하세요..",
+      "Add_Server": "SSM 서버 추가",
+      "List_Of_Server": "서버 목록",
+      "Search_Placeholder": "IP 주소, 포트, 상위 사이트, 하위 사이트 및 사용자 이름으로 검색...",
+      "Edit_Server": "서버 편집",
+      "Select_Site": "사이트 선택",
+      "Site_required": "사이트는 필수입니다",
+      "Grid_Column": {
+        "IP_Address": "IP 주소",
+        "Port": "포트",
+        "Parent_Site": "상위 사이트",
+        "Child_Site": "하위 사이트"
+      }
+    },
+    "SSM_Dashboard": {
+      "List_Of_SSM": "SSM 목록",
+      "Total_Camera": "전체 카메라",
+      "Total_SSM": "전체 SSM",
+      "Failure_Camera_Count": "오프라인 카메라 수",
+      "Failure_SSM_Count": "오프라인 SSM 수",
+      "List_Of_Site": "사이트 목록",
+      "Failure_Camera": "오프라인 카메라",
+      "Failure_SSM": "오프라인 SSM",
+      "Cameras": "카메라",
+      "Online_Offline": "온라인/오프라인",
+      "CPU": "CPU",
+      "RAM": "RAM",
+      "Total_Storage": "전체 저장소",
+      "Used": "사용됨",
+      "health_report": "상태 보고서"
+    },
+    "SSM_Device_screen": {
+      "Back_to_Dashboard": "대시보드로 돌아가기",
+      "Devices": "{{serverName}} — 장치",
+      "Seach_placeholder": "IP 주소, 이름, 위치, 카메라 상태, 녹화 상태로 검색...",
+      "Recording_Status": "녹화 상태",
+      "Camera_Status": "카메라 상태"
+    },
+    "SSM_Chart_Dialog": {
+      "Availability_Chart": "가용성 차트",
+      "Server_On": "서버 켜짐",
+      "Server_Off": "서버 꺼짐",
+      "Camera_Online_offline": "카메라 온라인 / 오프라인",
+      "Camera_Working": "카메라 작동 중",
+      "Online": "온라인",
+      "Offline": "오프라인",
+      "Camera_On": "카메라 켜짐",
+      "Camera_Off": "카메라 꺼짐",
+      "System_Manager": "시스템 관리자",
+      "Media_Server": "미디어 서버",
+      "Camera_Availability_Chart": "카메라 가용성 차트"
+    },
+    "iDRAC_CPU": {
+    "Processor_CPU": "프로세서 (CPU)",
+    "Count": "개수",
+    "Total_Cores": "전체 코어 수",
+    "Total_Threads": "전체 스레드 수",
+    "Avg_Speed": "평균 속도",
+    "Health": "상태",
+    "Chart": "차트",
+    "Details_List": "세부 정보 목록",
+    "System_Utilization": "시스템 사용률",
+    "No_Data_Found": "데이터를 찾을 수 없음",
+    "Grid": {
+      "CPU": "CPU",
+      "Model": "모델",
+      "Cores": "코어",
+      "Threads": "스레드",
+      "Max_Speed": "최대 속도",
+      "Current_Speed": "현재 속도",
+      "Health": "상태"
+    }
+  },
+  "iDRAC_Cooling": {
+    "Cooling": "냉각",
+    "Total_Fans": "전체 팬 수",
+    "Health": "상태",
+    "Chart": "차트",
+    "Details_List": "세부 정보 목록",
+    "Temp": "온도",
+    "No_Data_Found": "데이터를 찾을 수 없음",
+    "Grid": {
+      "Fan_Name": "팬 이름",
+      "Fan_Speed": "팬 속도",
+      "Health": "상태"
+    }
+  },
+  "iDRAC_PowerSupply": {
+    "Power_Supply": "전원 공급 장치",
+    "PSU_Count": "PSU 수량",
+    "Total_Capacity": "총 용량",
+    "Current_Usage": "현재 사용량",
+    "Redundancy": "이중화",
+    "Health": "상태",
+    "Details_List": "세부 정보 목록",
+    "No_Data_Found": "데이터를 찾을 수 없음",
+    "Grid": {
+      "PSU": "PSU",
+      "Capacity": "용량",
+      "Output": "출력",
+      "Input_Voltage": "입력 전압",
+      "Current": "전류",
+      "Health": "상태"
+    }
+  },
+  "iDRAC_Network": {
+    "Embedded_Card": "내장 카드",
+    "Integrated_Card": "통합 카드",
+    "Manufacturer": "제조사",
+    "Model": "모델",
+    "Firmware_Package_Version": "펌웨어 패키지 버전",
+    "Health": "상태",
+    "Chart": "차트",
+    "Details_List": "세부 정보 목록",
+    "Speed": "속도",
+    "Link": "링크",
+    "Product_Name": "제품명",
+    "Protocol": "프로토콜",
+    "Vendor_Name": "공급업체 이름",
+    "Active_Link_Technology": "활성 링크 기술",
+    "Associated_Network_Address_MAC": "연결된 네트워크 주소 (MAC)",
+    "Link_Status": "링크 상태",
+    "Current_Link_Speed": "현재 링크 속도",
+    "Physical_Port_Number": "물리적 포트 번호",
+    "Status_Health": "상태 건강"
+  },
+  "IDRAC_Memory": {
+    "MEMORY_Details": "메모리 (RAM) 세부 정보",
+    "Total": "합계",
+    "Used_Slots": "사용된 슬롯",
+    "Free_Slots": "여유 슬롯",
+    "Speed": "속도",
+    "Health": "상태",
+    "Chart": "차트",
+    "Details_List": "세부 정보 목록",
+    "Memory_Used": "사용된 메모리",
+    "Grid": {
+      "RAM": "RAM",
+      "Size": "크기",
+      "Type": "유형",
+      "Speed": "속도",
+      "Manufacturer": "제조사",
+      "Health": "상태"
+    }
+  },
+  "IDRAC_Server_Details": {
+    "System_Information": "시스템 정보",
+    "Launch_Remote_Console": "원격 콘솔 실행",
+    "Event_Logs": "이벤트 로그",
+    "System_Logs": "시스템 로그",
+    "Tabs": {
+      "Memory": "메모리 (RAM)",
+      "Processor": "프로세서 (CPU)",
+      "Storage": "스토리지",
+      "Cooling": "냉각",
+      "Power_Supply": "전원 공급 장치",
+      "Network_Devices": "네트워크 장치"
+    },
+    "Power_Action": {
+      "Force_Restart": "강제 재시작",
+      "Force_Shutdown": "강제 종료",
+      "Force_Start": "강제 시작"
+    }
+  },
+  "iDRAC_SystemInformation": {
+    "System_Information": "시스템 정보",
+    "Power_State": "전원 상태",
+    "Model": "모델",
+    "Host_Name": "호스트 이름",
+    "Operating_System": "운영 체제",
+    "Operating_System_Version": "운영 체제 버전",
+    "Service_Tag": "서비스 태그",
+    "BIOS_Version": "BIOS 버전",
+    "iDRAC_Firmware_Version": "iDRAC 펌웨어 버전",
+    "IP_Address": "IP 주소",
+    "iDRAC_MAC_Address": "iDRAC MAC 주소",
+    "License": "라이선스"
+  },
+  "IDRAC_Storage": {
+      "Title": "스토리지",
+      "Used_Slots": "사용된 슬롯",
+      "Total_Capacity": "총 용량",
+      "Health": "상태",
+      "Details_List": "세부 목록",
+      "Grid": {
+        "Disk_Name": "디스크 이름",
+        "Size": "크기",
+        "Type": "유형",
+        "Protocol": "프로토콜",
+        "RPM": "RPM",
+        "Health": "상태"
+      }
+    },
+   "IDRAC_Server": {
+    "Grid": {
+      "IP_Address": "IP 주소",
+      "Port": "포트",
+      "Server_Name": "서버 이름",
+      "Parent_Site": "상위 사이트",
+      "Child_Site": "하위 사이트",
+      "CPU_Load": "CPU 부하",
+      "Temperature": "온도",
+      "Memory_Usage": "메모리 사용량",
+      "List_Of_Alarm": "알람 목록",
+      "Add_Alarm": "알람 추가"
+    },
+    "Alarm_Grid": {
+      "Alarm_Name": "알람 이름",
+      "IDRAC_Event": "iDRAC 이벤트",
+      "Time_Limit": "시간 제한",
+      "Delete_Alarm": "알람 삭제"
+    },
+    "Add_Alarm_Form": {
+      "Name": "이름",
+      "Enter_Name": "이름 입력",
+      "Name_Required": "이름은 필수입니다.",
+      "IDRAC_Event": "iDRAC 이벤트",
+      "Select_IDRAC_Event": "iDRAC 이벤트 선택",
+      "IDRAC_Event_Required": "iDRAC 이벤트는 필수입니다.",
+      "Time_Limit": "시간 제한",
+      "Select_Time_Limit": "시간 제한 선택",
+      "Time_Limit_Required": "시간 제한은 필수입니다."
+    }
+  }
+}

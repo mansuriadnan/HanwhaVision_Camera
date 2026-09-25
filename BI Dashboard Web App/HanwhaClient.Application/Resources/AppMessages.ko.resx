@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LicenseAuthenticated" xml:space="preserve">
+    <value>라이선스가 성공적으로 인증되었습니다.</value>
+  </data>
+  <data name="RoleExists" xml:space="preserve">
+    <value>이 역할은 이미 다른 사용자에게 할당되었습니다.</value>
+  </data>
+  <data name="OtpSuccessfullyValidated" xml:space="preserve">
+    <value>OTP 코드가 성공적으로 검증되었습니다.</value>
+  </data>
+  <data name="OtpExpiredOrInvalid" xml:space="preserve">
+    <value>OTP 코드가 만료되었거나 유효하지 않습니다. 계속하려면 새로 요청하십시오.</value>
+  </data>
+  <data name="OtpSuccessfullySentToEmail" xml:space="preserve">
+    <value>OTP 코드가 등록된 이메일 주소로 전송되었습니다.</value>
+  </data>
+  <data name="EmailNotRegistered" xml:space="preserve">
+    <value>제공된 이메일 주소가 등록되지 않았습니다.</value>
+  </data>
+  <data name="PasswordSuccessfullyReset" xml:space="preserve">
+    <value>비밀번호가 성공적으로 재설정되었습니다.</value>
+  </data>
+  <data name="OldPasswordDoesNotMatch" xml:space="preserve">
+    <value>입력한 이전 비밀번호가 기록과 일치하지 않습니다.</value>
+  </data>
+  <data name="InvalidDataModel" xml:space="preserve">
+    <value>제공된 데이터 모델이 유효하지 않습니다.</value>
+  </data>
+  <data name="UnauthorizedAccessResource" xml:space="preserve">
+    <value>이 리소스에 접근할 권한이 없습니다.</value>
+  </data>
+  <data name="InsufficientPermissions" xml:space="preserve">
+    <value>이 작업을 수행할 수 있는 권한이 부족합니다.</value>
+  </data>
+  <data name="PermissionServiceNotAvailable" xml:space="preserve">
+    <value>권한 서비스가 현재 사용 불가능합니다. 나중에 다시 시도하십시오.</value>
+  </data>
+  <data name="UnauthorizedAccessAttempt" xml:space="preserve">
+    <value>승인되지 않은 접근 시도가 감지되었습니다.</value>
+  </data>
+  <data name="UserLimitExceededLicense" xml:space="preserve">
+    <value>사용자 제한에 도달했습니다. 라이선스 업그레이드를 위해 관리자에게 문의하십시오.</value>
+  </data>
+  <data name="DeviceLimitExceededLicense" xml:space="preserve">
+    <value>장치 제한에 도달했습니다. 라이선스 업그레이드를 위해 관리자에게 문의하십시오.</value>
+  </data>
+  <data name="DashboardNameAlreadyExist" xml:space="preserve">
+    <value>이 이름의 대시보드가 이미 존재합니다.</value>
+  </data>
+  <data name="DashboardNameMandatory" xml:space="preserve">
+    <value>대시보드 이름이 필수입니다.</value>
+  </data>
+  <data name="GoogleApisave" xml:space="preserve">
+    <value>Google API 키가 성공적으로 저장되었습니다.</value>
+  </data>
+  <data name="FtpConfugurationSave" xml:space="preserve">
+    <value>FTP 구성이 성공적으로 저장되었습니다.</value>
+  </data>
+  <data name="PdfGenerated" xml:space="preserve">
+    <value>PDF 파일이 성공적으로 생성되었습니다.</value>
+  </data>
+  <data name="CsvGenerated" xml:space="preserve">
+    <value>CSV 파일이 성공적으로 생성되었습니다.</value>
+  </data>
+  <data name="ExcelGenerated" xml:space="preserve">
+    <value>Excel 파일이 성공적으로 생성되었습니다.</value>
+  </data>
+  <data name="FileUploadFailure" xml:space="preserve">
+    <value>업로드된 파일이 없습니다.</value>
+  </data>
+  <data name="RecordNotInserted" xml:space="preserve">
+    <value>레코드 삽입에 실패했습니다.</value>
+  </data>
+  <data name="UserLoggedIn" xml:space="preserve">
+    <value>사용자가 성공적으로 로그인되었습니다.</value>
+  </data>
+  <data name="NewTokenGenerated" xml:space="preserve">
+    <value>새 토큰이 성공적으로 생성되었습니다.</value>
+  </data>
+  <data name="DeviceAlreadyExists" xml:space="preserve">
+    <value>동일한 IP 주소의 장치가 이미 존재합니다.</value>
+  </data>
+  <data name="RestoreDatabase" xml:space="preserve">
+    <value>데이터베이스가 성공적으로 복원되었습니다.</value>
+  </data>
+  <data name="InvalidLicense" xml:space="preserve">
+    <value>라이선스가 유효하지 않습니다. 유효한 라이선스 파일을 업로드하십시오.</value>
+  </data>
+  <data name="LicenseExpired" xml:space="preserve">
+    <value>라이선스가 만료되었습니다.</value>
+  </data>
+  <data name="CredetialWrongAddDevice" xml:space="preserve">
+    <value>잘못된 자격 증명입니다. 사용자 이름과 비밀번호를 확인하십시오.</value>
+  </data>
+  <data name="InvalidGoogleKey" xml:space="preserve">
+    <value>제공된 Google API 키가 유효하지 않습니다. 키를 확인하고 다시 시도하십시오.</value>
+  </data>
+  <data name="DuplicateZoneName" xml:space="preserve">
+    <value>이 층에 이미 동일한 존 이름이 존재합니다. 다른 이름을 선택하십시오.</value>
+  </data>
+  <data name="DuplicateFloor" xml:space="preserve">
+    <value>층 이름이 이미 존재합니다. 다른 이름을 선택하십시오.</value>
+  </data>
+  <data name="RecordAdded" xml:space="preserve">
+    <value>레코드가 성공적으로 추가되었습니다.</value>
+  </data>
+  <data name="RecordUpdated" xml:space="preserve">
+    <value>레코드가 성공적으로 업데이트되었습니다.</value>
+  </data>
+  <data name="RecordDeleted" xml:space="preserve">
+    <value>레코드가 성공적으로 삭제되었습니다.</value>
+  </data>
+  <data name="RecordRetrieved" xml:space="preserve">
+    <value>레코드가 성공적으로 검색되었습니다.</value>
+  </data>
+  <data name="FileUploaded" xml:space="preserve">
+    <value>파일이 성공적으로 업로드되었습니다.</value>
+  </data>
+  <data name="RecordNotFound" xml:space="preserve">
+    <value>레코드를 찾을 수 없습니다.</value>
+  </data>
+  <data name="SomethingWentWrong" xml:space="preserve">
+    <value>문제가 발생했습니다. 다시 시도하십시오.</value>
+  </data>
+  <data name="DeviceUnavailable" xml:space="preserve">
+    <value>이 장치는 현재 사용 불가능하거나 오프라인입니다. 연결을 확인하고 다시 시도하십시오.</value>
+  </data>
+  <data name="SiteUnavailable" xml:space="preserve">
+    <value>이 사이트는 현재 사용 불가능하거나 오프라인입니다. 사이트 주소를 확인하고 다시 시도하십시오.</value>
+  </data>
+  <data name="ChildSiteUnAvailable" xml:space="preserve">
+    <value>선택한 부모 사이트 아래에 자식 사이트가 존재하지 않습니다.</value>
+  </data>
+  <data name="ApplicationCacheClear" xml:space="preserve">
+    <value>애플리케이션 캐시가 지워졌습니다.</value>
+  </data>
+  <data name="UserNotFound" xml:space="preserve">
+    <value>사용자를 찾을 수 없습니다.</value>
+  </data>
+  <data name="PasswordAlreadyReset" xml:space="preserve">
+    <value>비밀번호가 이미 재설정되었습니다. 현재 비밀번호로 로그인하십시오.</value>
+  </data>
+  <data name="FailedToDeleteOwnerOrVehicle" xml:space="preserve">
+    <value>소유자 또는 관련 차량 삭제에 실패했습니다.</value>
+  </data>
+  <data name="TestDefine" xml:space="preserve">
+    <value>이것은 테스트 정의입니다.</value>
+  </data>
+  <data name="AESFileFormat" xml:space="preserve">
+    <value>잘못된 파일 형식입니다. .aes 파일만 지원됩니다.</value>
+  </data>
+  <data name="AllDeviceUploaded" xml:space="preserve">
+    <value>모든 장치가 성공적으로 업로드되었습니다.</value>
+  </data>
+  <data name="CertificateExpiresSoon" xml:space="preserve">
+    <value>인증서가 곧 만료됩니다: {0}</value>
+  </data>
+  <data name="CertificateHasExpired" xml:space="preserve">
+    <value>인증서가 {0}에 만료되었습니다.</value>
+  </data>
+  <data name="CertificateNotTrusted" xml:space="preserve">
+    <value>인증서 체인 검증이 실패했습니다 - 인증서가 신뢰되지 않을 수 있습니다.</value>
+  </data>
+  <data name="CertificateNotValid" xml:space="preserve">
+    <value>인증서는 {0}까지 유효하지 않습니다.</value>
+  </data>
+  <data name="ChildSiteNotFound" xml:space="preserve">
+    <value>자식 사이트를 찾을 수 없습니다.</value>
+  </data>
+  <data name="DatabaseRestoreFailed" xml:space="preserve">
+    <value>데이터베이스 복원에 실패했습니다.</value>
+  </data>
+  <data name="ErrorValidatingPFXFile" xml:space="preserve">
+    <value>PFX 파일 검증 오류: {0}</value>
+  </data>
+  <data name="ExcelFileNotSheet" xml:space="preserve">
+    <value>Excel 파일에 시트가 없습니다.</value>
+  </data>
+  <data name="ExcelMissingColumn" xml:space="preserve">
+    <value>Excel 파일에 필요한 열이 누락되었습니다: {0}</value>
+  </data>
+  <data name="FileFormatInvalid" xml:space="preserve">
+    <value>잘못된 파일 형식입니다. 유효한 Excel 파일(.xlsx 또는 .xls)을 업로드하십시오.</value>
+  </data>
+  <data name="HeaderRowNotExits" xml:space="preserve">
+    <value>Excel 파일에서 헤더 행을 찾을 수 없습니다.</value>
+  </data>
+  <data name="IISSiteNotFound" xml:space="preserve">
+    <value>IIS 사이트 {0}를 찾을 수 없습니다.</value>
+  </data>
+  <data name="InsufficientPermissionsForIIS" xml:space="preserve">
+    <value>IIS 구성 권한이 부족합니다. 관리자 권한으로 실행하거나 애플리케이션 풀 ID를 구성하십시오.</value>
+  </data>
+  <data name="InvalidPFXFileIncorrectPassword" xml:space="preserve">
+    <value>PFX 파일이 유효하지 않거나 비밀번호가 잘못되었습니다.</value>
+  </data>
+  <data name="LicenseFileNotFound" xml:space="preserve">
+    <value>라이선스 파일을 찾을 수 없습니다.</value>
+  </data>
+  <data name="LicenseInvalidFileTypes" xml:space="preserve">
+    <value>잘못된 파일 형식입니다. 라이선스 파일은 .lic, 공개 키 파일은 .pem이어야 합니다.</value>
+  </data>
+  <data name="LicenseKeyRequired" xml:space="preserve">
+    <value>라이선스 파일과 키 파일이 모두 필요합니다.</value>
+  </data>
+  <data name="LicenseKeyUploaded" xml:space="preserve">
+    <value>라이선스와 키가 성공적으로 업로드되었습니다.</value>
+  </data>
+  <data name="NoValidDeviceRows" xml:space="preserve">
+    <value>Excel 파일에서 유효한 장치 행을 찾을 수 없습니다.</value>
+  </data>
+  <data name="ParentSiteNotFound" xml:space="preserve">
+    <value>부모 사이트를 찾을 수 없습니다.</value>
+  </data>
+  <data name="PFXCertificateContainPrivatekey" xml:space="preserve">
+    <value>PFX 인증서에 개인 키가 포함되어야 합니다.</value>
+  </data>
+  <data name="PFXCertificateError" xml:space="preserve">
+    <value>PFX 인증서 처리 중 내부 서버 오류가 발생했습니다.</value>
+  </data>
+  <data name="PFXFileExtension" xml:space="preserve">
+    <value>파일은 .pfx 확장명을 가져야 합니다.</value>
+  </data>
+  <data name="PFXFileRequired" xml:space="preserve">
+    <value>PFX 파일이 필요합니다.</value>
+  </data>
+  <data name="PFXFileSize" xml:space="preserve">
+    <value>PFX 파일 크기는 10MB를 초과할 수 없습니다.</value>
+  </data>
+  <data name="RestoreFailedInvalidFile" xml:space="preserve">
+    <value>복원 실패: 잘못된 파일 또는 권한 없는 사용자입니다.</value>
+  </data>
+  <data name="RoleNameExits" xml:space="preserve">
+    <value>역할 이름 {0}이 이미 존재합니다.</value>
+  </data>
+  <data name="SampleFileNotFound" xml:space="preserve">
+    <value>샘플 파일을 찾을 수 없습니다.</value>
+  </data>
+  <data name="UploadSessionForDB" xml:space="preserve">
+    <value>업로드 세션을 찾을 수 없습니다.</value>
+  </data>
+  <data name="FilterApplied" xml:space="preserve">
+    <value>필터가 적용되었습니다.</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>생성자</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>생성일</value>
+  </data>
+  <data name="ReportType" xml:space="preserve">
+    <value>보고서 유형</value>
+  </data>
+  <data name="ReportName" xml:space="preserve">
+    <value>보고서 이름</value>
+  </data>
+  <data name="Sites" xml:space="preserve">
+    <value>사이트</value>
+  </data>
+  <data name="DateTimeLabel" xml:space="preserve">
+    <value>날짜/시간</value>
+  </data>
+  <data name="KeyPerformanceMetric" xml:space="preserve">
+    <value>핵심 성과 지표</value>
+  </data>
+  <data name="PerformanceComparisonTable" xml:space="preserve">
+    <value>성과 비교 표</value>
+  </data>
+  <data name="SummaryInsights" xml:space="preserve">
+    <value>요약 인사이트</value>
+  </data>
+  <data name="OccupancyRateComparison" xml:space="preserve">
+    <value>점유율 비교</value>
+  </data>
+  <data name="TrafficCompositionPeopleVsVehicles" xml:space="preserve">
+    <value>교통 구성 (인원 vs 차량)</value>
+  </data>
+  <data name="Floors" xml:space="preserve">
+    <value>층</value>
+  </data>
+  <data name="Zones" xml:space="preserve">
+    <value>존</value>
+  </data>
+  <data name="TotalPeopleCount" xml:space="preserve">
+    <value>총 인원 수</value>
+  </data>
+  <data name="AveragePeopleOccupancyRate" xml:space="preserve">
+    <value>평균 인원 점유율</value>
+  </data>
+  <data name="TotalVehicleCount" xml:space="preserve">
+    <value>총 차량 수</value>
+  </data>
+  <data name="AverageVehicleOccupancyRate" xml:space="preserve">
+    <value>평균 차량 점유율</value>
+  </data>
+  <data name="PeopleCount" xml:space="preserve">
+    <value>인원 수</value>
+  </data>
+  <data name="PeopleOccupancy" xml:space="preserve">
+    <value>인원 점유</value>
+  </data>
+  <data name="VehicleCount" xml:space="preserve">
+    <value>차량 수</value>
+  </data>
+  <data name="VehicleOccupancy" xml:space="preserve">
+    <value>차량 점유</value>
+  </data>
+  <data name="NoDataAvailableForInsights" xml:space="preserve">
+    <value>인사이트 생성을 위한 데이터가 없습니다.</value>
+  </data>
+  <data name="NoValidDataAvailableForInsights" xml:space="preserve">
+    <value>인사이트 생성을 위한 유효한 데이터가 없습니다.</value>
+  </data>
+  <data name="NoValidInsightsBasedOnSelection" xml:space="preserve">
+    <value>선택에 기반한 유효한 인사이트가 없습니다.</value>
+  </data>
+  <data name="HasHighestVehicleOccupancyRate" xml:space="preserve">
+    <value>가 가장 높은 차량 점유율을 보유</value>
+  </data>
+  <data name="HasHighestVehicleCount" xml:space="preserve">
+    <value>가 가장 많은 차량 수를 기록</value>
+  </data>
+  <data name="VehicleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>차량 점유 수준은</value>
+  </data>
+  <data name="AreBusierThan" xml:space="preserve">
+    <value>보다 더 붐빔</value>
+  </data>
+  <data name="HasHighestPeopleOccupancyRate" xml:space="preserve">
+    <value>가 가장 높은 인원 점유율을 보유</value>
+  </data>
+  <data name="HasHighestPeopleCount" xml:space="preserve">
+    <value>가 가장 많은 인원 수를 기록</value>
+  </data>
+  <data name="PeopleOccupancyLevelsSuggest" xml:space="preserve">
+    <value>인원 점유 수준은</value>
+  </data>
+  <data name="HasHighestPeopleAndVehicleOccupancyRates" xml:space="preserve">
+    <value>가 인원 및 차량 점유율에서 최고를 기록</value>
+  </data>
+  <data name="AndVehicleOccupancyRate" xml:space="preserve">
+    <value>및 차량 점유율</value>
+  </data>
+  <data name="PeopleAndVehicleCount" xml:space="preserve">
+    <value>인원 &amp; 차량 수</value>
+  </data>
+  <data name="BySite" xml:space="preserve">
+    <value>사이트별</value>
+  </data>
+  <data name="ByZone" xml:space="preserve">
+    <value>존 별</value>
+  </data>
+  <data name="PeopleCountLabel" xml:space="preserve">
+    <value>인원 수</value>
+  </data>
+  <data name="MaintenanceDeviceExits" xml:space="preserve">
+    <value>유지보수 장치가 이미 존재합니다.</value>
+  </data>
+  <data name="MaintenancePlanExists" xml:space="preserve">
+    <value>이 유지보수 계획은 이미 존재합니다.</value>
+  </data>
+  <data name="ViAdminUserPermisssion" xml:space="preserve">
+    <value>이 사용자의 정보를 변경할 권한이 없습니다.</value>
+  </data>
+  <data name="DeviceNotRegistered" xml:space="preserve">
+    <value>장치가 등록되지 않았습니다</value>
+  </data>
+  <data name="DeviceNotRegisteredForIP" xml:space="preserve">
+    <value>IP {0}에 대해 장치가 등록되지 않았습니다</value>
+  </data>
+  <data name="ANPRVehicleNotFound" xml:space="preserve">
+    <value>{0} {1} {2} 차량이 게이트 {3}에 있습니다</value>
+  </data>
+  <data name="UnauthorizedVehicle" xml:space="preserve">
+    <value>승인되지 않은 차량</value>
+  </data>
+  <data name="VehicleOwnerNotFound" xml:space="preserve">
+    <value>{0} {1} {2} 차량의 소유자를 찾을 수 없습니다</value>
+  </data>
+  <data name="VehicleOwnerNotFoundNotification" xml:space="preserve">
+    <value>차량 소유자를 찾을 수 없습니다</value>
+  </data>
+  <data name="DeviceNotAllowed" xml:space="preserve">
+    <value>{0} {1} {2} 차량은 게이트 {3}에서 허용되지 않습니다</value>
+  </data>
+  <data name="GateAccessDenied" xml:space="preserve">
+    <value>게이트 접근이 거부되었습니다</value>
+  </data>
+  <data name="TimeRestriction" xml:space="preserve">
+    <value>시간 제한</value>
+  </data>
+  <data name="VehicleCounLimit" xml:space="preserve">
+    <value>{0} {1} {2} 차량은 प्रवेश할 수 없습니다. 허용된 최대 차량 수 ({3})에 이미 도달했습니다.</value>
+  </data>
+  <data name="VehicleLimitReached" xml:space="preserve">
+    <value>차량 제한에 도달했습니다</value>
+  </data>
+  <data name="VehicleNotAllowedTime" xml:space="preserve">
+    <value>{0} {1} {2} 차량은 현재 시간에 허용되지 않습니다. 허용 시간: {3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestriction" xml:space="preserve">
+    <value>방문자 시간 제한</value>
+  </data>
+  <data name="SystemAutoExited" xml:space="preserve">
+    <value>시스템 자동 출차: 동일한 차량이 출차 기록 없이 다시 입차했습니다.</value>
+  </data>
+  <data name="VehicleEnteredSuccessfully" xml:space="preserve">
+    <value>차량이 성공적으로 입차했습니다</value>
+  </data>
+  <data name="FailToOpenGateBarrierDesc" xml:space="preserve">
+    <value>{0} 차량에 대해 게이트 차단기를 열지 못했습니다.</value>
+  </data>
+  <data name="FailToOpenGateBarrierTitle" xml:space="preserve">
+    <value>게이트 차단기를 열지 못했습니다</value>
+  </data>
+  <data name="PermanentTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} 차량은 현재 시간에 출차할 수 없습니다. 허용 시간: {3} - {4}</value>
+  </data>
+  <data name="PermanentTimeRestrictionTitle" xml:space="preserve">
+    <value>시간 제한</value>
+  </data>
+  <data name="VisitorTimeRestrictionDesc" xml:space="preserve">
+    <value>{0} {1} {2} 차량은 출차할 수 없습니다. 방문자 유효 기간: {3} - {4}</value>
+  </data>
+  <data name="VisitorTimeRestrictionTitle" xml:space="preserve">
+    <value>방문자 시간 제한</value>
+  </data>
+  <data name="VehicleExitedSuccssfully" xml:space="preserve">
+    <value>차량이 성공적으로 출차했습니다</value>
+  </data>
+  <data name="VisitorValidPeriod" xml:space="preserve">
+    <value>{0} {1} {2} 차량은 입장할 수 없습니다. 방문자 유효 기간: {3} - {4}</value>
+  </data>
+  <data name="GateOpenSuccessManually" xml:space="preserve">
+    <value>게이트가 성공적으로 열렸습니다.</value>
+  </data>
+  <data name="FailToCloseGate" xml:space="preserve">
+    <value>게이트를 닫는 데 실패했습니다.</value>
+  </data>
+  <data name="EmailSentSuccessfully" xml:space="preserve">
+    <value>이메일이 성공적으로 전송되었습니다.</value>
+  </data>
+  <data name="EventAlreadyExist" xml:space="preserve">
+   <value>알람 이벤트가 이미 존재합니다.</value>
+  </data>
+	<data name="UrlDomainValidation" xml:space="preserve">
+  <value>iDRAC에서 알림을 수신하려면 Vision Insight 애플리케이션 URL은 HTTPS를 사용하고 유효한 IP 주소 또는 도메인 이름을 포함해야 합니다.</value>
+</data>
+	<data name="OwnerValidityExpired" xml:space="preserve">
+  <value>접근이 거부되었습니다. 소유자 {0}의 권한이 더 이상 유효하지 않습니다. 유효 기간이 {1}에 만료되었습니다.</value>
+</data>
+	<data name="OwnerValidityExpiredTitle" xml:space="preserve">
+  <value>소유자 유효 기간 만료</value>
+</data>
+	
+</root>

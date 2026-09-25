@@ -1,0 +1,12 @@
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\bin\Release\net8.0\HanwhaClient.Model.deps.json
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\bin\Release\net8.0\HanwhaClient.Model.dll
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\bin\Release\net8.0\HanwhaClient.Model.pdb
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\obj\Release\net8.0\HanwhaClient.Model.csproj.AssemblyReference.cache
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\obj\Release\net8.0\HanwhaClient.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\obj\Release\net8.0\HanwhaClient.Model.AssemblyInfoInputs.cache
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\obj\Release\net8.0\HanwhaClient.Model.AssemblyInfo.cs
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\obj\Release\net8.0\HanwhaClient.Model.csproj.CoreCompileInputs.cache
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\obj\Release\net8.0\HanwhaClient.Model.dll
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\obj\Release\net8.0\refint\HanwhaClient.Model.dll
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\obj\Release\net8.0\HanwhaClient.Model.pdb
+D:\Project\React_Net_Bala\IVTECH_Bala\ivtech_ivtech\2. SourceCode\trunk\BI Dashboard Web App\HanwhaClient.Model\obj\Release\net8.0\ref\HanwhaClient.Model.dll
