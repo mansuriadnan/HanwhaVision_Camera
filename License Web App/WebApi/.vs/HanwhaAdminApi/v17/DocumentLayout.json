@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi\\helper\\jwtvalidatormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|solutionrelative:hanwhaadminapi\\helper\\jwtvalidatormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi\\controllers\\rolescreenmappingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|solutionrelative:hanwhaadminapi\\controllers\\rolescreenmappingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi\\helper\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|solutionrelative:hanwhaadminapi\\helper\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|solutionrelative:hanwhaadminapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi\\controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|solutionrelative:hanwhaadminapi\\controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|solutionrelative:hanwhaadminapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935038C7-97C9-454B-A89C-0C7FF5236AEE}|HanwhaAdminApi.Application\\HanwhaAdminApi.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi.application\\services\\regionmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935038C7-97C9-454B-A89C-0C7FF5236AEE}|HanwhaAdminApi.Application\\HanwhaAdminApi.Application.csproj|solutionrelative:hanwhaadminapi.application\\services\\regionmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi\\controllers\\regionmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|solutionrelative:hanwhaadminapi\\controllers\\regionmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935038C7-97C9-454B-A89C-0C7FF5236AEE}|HanwhaAdminApi.Application\\HanwhaAdminApi.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935038C7-97C9-454B-A89C-0C7FF5236AEE}|HanwhaAdminApi.Application\\HanwhaAdminApi.Application.csproj|solutionrelative:hanwhaadminapi.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935038C7-97C9-454B-A89C-0C7FF5236AEE}|HanwhaAdminApi.Application\\HanwhaAdminApi.Application.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935038C7-97C9-454B-A89C-0C7FF5236AEE}|HanwhaAdminApi.Application\\HanwhaAdminApi.Application.csproj|solutionrelative:hanwhaadminapi.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6113862-C343-4E28-8B63-CD951FEABD7C}|HanwhaAdminApi\\HanwhaAdminApi.csproj|solutionrelative:hanwhaadminapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F22487-744C-4C32-B7EC-B33C08BB465D}|HanwhaAdminApi.Model\\HanwhaAdminApi.Model.csproj|d:\\project\\react_net_bala\\ivtech_bala\\ivtech_ivtech\\2. sourcecode\\trunk\\license web app\\webapi\\hanwhaadminapi.model\\common\\appmessageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F22487-744C-4C32-B7EC-B33C08BB465D}|HanwhaAdminApi.Model\\HanwhaAdminApi.Model.csproj|solutionrelative:hanwhaadminapi.model\\common\\appmessageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtValidatorMiddleware.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Helper\\JwtValidatorMiddleware.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi\\Helper\\JwtValidatorMiddleware.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Helper\\JwtValidatorMiddleware.cs",
+              "RelativeToolTip": "HanwhaAdminApi\\Helper\\JwtValidatorMiddleware.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:02:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "HanwhaAdminApi\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAFYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:23:40.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Helper\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi\\Helper\\GlobalExceptionHandlerMiddleware.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Helper\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "HanwhaAdminApi\\Helper\\GlobalExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:23:40.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "licenseController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\licenseController.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi\\Controllers\\licenseController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\licenseController.cs",
+              "RelativeToolTip": "HanwhaAdminApi\\Controllers\\licenseController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAiwGQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:13:03.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi.Application\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi.Application\\Services\\UsersService.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi.Application\\Services\\UsersService.cs",
+              "RelativeToolTip": "HanwhaAdminApi.Application\\Services\\UsersService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADgvzYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:23:05.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi.Application\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi.Application\\Services\\RoleService.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi.Application\\Services\\RoleService.cs",
+              "RelativeToolTip": "HanwhaAdminApi.Application\\Services\\RoleService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwE4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:50:01.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleScreenMappingController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\RoleScreenMappingController.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi\\Controllers\\RoleScreenMappingController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\RoleScreenMappingController.cs",
+              "RelativeToolTip": "HanwhaAdminApi\\Controllers\\RoleScreenMappingController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:23:05.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppMessageConstants.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi.Model\\Common\\AppMessageConstants.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi.Model\\Common\\AppMessageConstants.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi.Model\\Common\\AppMessageConstants.cs",
+              "RelativeToolTip": "HanwhaAdminApi.Model\\Common\\AppMessageConstants.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwDQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:18:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegionMasterService.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi.Application\\Services\\RegionMasterService.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi.Application\\Services\\RegionMasterService.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi.Application\\Services\\RegionMasterService.cs",
+              "RelativeToolTip": "HanwhaAdminApi.Application\\Services\\RegionMasterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:16:26.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "HanwhaAdminApi\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAAAMMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:16:55.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "HanwhaAdminApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDcAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:16:47.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegionMasterController.cs",
+              "DocumentMoniker": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\RegionMasterController.cs",
+              "RelativeDocumentMoniker": "HanwhaAdminApi\\Controllers\\RegionMasterController.cs",
+              "ToolTip": "D:\\Project\\React_Net_Bala\\IVTECH_Bala\\ivtech_ivtech\\2. SourceCode\\trunk\\License Web App\\WebApi\\HanwhaAdminApi\\Controllers\\RegionMasterController.cs",
+              "RelativeToolTip": "HanwhaAdminApi\\Controllers\\RegionMasterController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAD4vxsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:50:05.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
